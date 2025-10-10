@@ -1,0 +1,43 @@
+[project]
+name = "cs707-g5-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9,<3.14"
+dependencies = [
+    "beautifulsoup4>=4.14.2",
+    "cmake>=4.1.0",
+    "datasets>=4.2.0",
+    "ffmpeg-python>=0.2.0",
+    "hf-xet>=1.1.10",
+    "huggingface-hub>=0.35.3",
+    "litellm>=1.78.0",
+    "openai>=1.0.0",
+    "poethepoet>=0.34.0",
+    "pysrt>=1.1.2",
+    "python-dotenv>=1.1.1",
+    "rapidfuzz>=3.13.0",
+]
+
+[tool.poe.tasks]
+download-models = { script = "src.pipelines:run_download_model_pipeline", help = "Download vision language models (optional if models already downloaded)" }
+download-data = { script = "src.pipelines:run_download_data_pipeline", help = "Download and extract Friends dataset (optional if processed data provided)" }
+process-data = { script = "src.pipelines:run_process_data_pipeline", help = "Preprocess and process data, submit batch job (wait for completion before next step)" }
+resume-process-data = { script = "src.pipelines:resume_run_process_data_pipeline", help = "Resume processing after batch job completes and extract clips" }
+
+[tool.poe.tasks.checks]
+sequence = [
+  { cmd = "uvx ruff check --fix" },
+  { cmd = "uvx black ." },
+  { cmd = "uvx mypy src" }
+]
+help = "Run linting, formatting, and type checks"
+
+[dependency-groups]
+dev = [
+    "types-beautifulsoup4>=4.12.0.20250516",
+    "types-requests>=2.32.4.20250913",
+]
+
+[tool.mypy]
+ignore_missing_imports = true
