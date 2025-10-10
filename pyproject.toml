@@ -1,0 +1,42 @@
+[project]
+name = "cs707-g5-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9,<3.14"
+dependencies = [
+    "beautifulsoup4>=4.14.2",
+    "cmake>=4.1.0",
+    "datasets>=4.2.0",
+    "ffmpeg-python>=0.2.0",
+    "hf-xet>=1.1.10",
+    "huggingface-hub>=0.35.3",
+    "numpy>=1.24.0",
+    "openai>=1.0.0",
+    "poethepoet>=0.34.0",
+    "pysrt>=1.1.2",
+    "python-dotenv>=1.1.1",
+    "rapidfuzz>=3.13.0",
+    "scikit-learn>=1.3.0",
+]
+
+[tool.poe.tasks]
+start-data-pipeline = { script = "src.pipelines:start_data_pipeline", help = "Starts the data pipeline and submits a batch job" }
+resume-data-pipeline = { script = "src.pipelines:resume_data_pipeline", help = "Resume processing after batch job completes" }
+
+[tool.poe.tasks.checks]
+sequence = [
+  { cmd = "uvx ruff check --fix" },
+  { cmd = "uvx black ." },
+  { cmd = "uvx mypy src" }
+]
+help = "Run linting, formatting, and type checks"
+
+[dependency-groups]
+dev = [
+    "types-beautifulsoup4>=4.12.0.20250516",
+    "types-requests>=2.32.4.20250913",
+]
+
+[tool.mypy]
+ignore_missing_imports = true
