@@ -215,3 +215,5 @@ __marimo__/
 # Model files
 # Ignore downloaded model files in models/ directory
 /models/
+/src/tvqa_subtitles/
+/src/videos/

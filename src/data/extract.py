@@ -1,6 +1,8 @@
 import shutil
 import tarfile
 import zipfile
+import json
+import re
 from pathlib import Path
 
 
@@ -243,6 +245,56 @@ def extract_subtitles(data_dir: Path) -> Path:
         raise
 
     return friends_subtitles_dir
+
+
+def extract_subtitles_from_preprocessed(data_dir: Path, keyword: str = "friends") -> Path:
+    """
+        Extract Friends subtitles from tvqa_preprocessed_subtitles
+    """
+    print(f"\n{'='*80}")
+    print("Step: Extracting Friends Subtitle From TVQA Preprocessed")
+    print(f"{'='*80}\n")
+
+    subtitles_dir = "tvqa_subtitles"
+    tvqa_preprocessed_subs_file = data_dir / subtitles_dir / "tvqa_preprocessed_subtitles.json"
+    if not tvqa_preprocessed_subs_file.exists():
+        raise FileNotFoundError(f"Subtitle zip not found: {tvqa_preprocessed_subs_file}")
+    
+    with open(tvqa_preprocessed_subs_file, "r") as subs_file:
+        processed_subs = json.load(subs_file)
+        subs_file.close()
+
+    # Sort the subtitles by episode
+    processed_subs_friends = [sub for sub in processed_subs if keyword.lower() in sub["vid_name"].lower()]
+    processed_subs_friends = sorted(processed_subs_friends, key=lambda x: x["vid_name"])
+    print("Friends file successfully processed and sorted by clip name")
+
+    # Extract the start and end timings of the given clip
+    for sub_item in processed_subs_friends:
+        # Extract clip start and end
+        if sub_item["sub"]: 
+            clip_start = sub_item["sub"][0]["start"]
+            clip_end = sub_item["sub"][-1]["end"]
+            sub_item["clip_timings"] = {"start": clip_start, "end": clip_end}
+
+        # Extract the subjects
+        subjects = set()
+        for dialogue in sub_item["sub"]:
+            text = dialogue["text"].strip()
+            match = re.match(r'^([A-Za-z]+)\s*:', text)
+            if match:
+                subjects.add(match.group(1))
+        sub_item["subjects"] = list(subjects)
+    print("Clip timings and Subjects successfully extracted")
+
+    # Save the sorted friends subtitles to a new file
+    output_dir = data_dir / subtitles_dir / "tvqa_preprocessed_friends_subtitles.json"
+    with open(output_dir, "w") as output:
+        json.dump(processed_subs_friends, output, indent=4)
+
+    print(f"Friends preprocessed subs saved to {output_dir}")
+    return output_dir
+    
 
 
 def extract_data_pipeline() -> None:
