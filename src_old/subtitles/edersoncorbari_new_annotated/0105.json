@@ -36,15 +36,17 @@
             ],
             "location": "Central Perk",
             "subjects": [
-                "CHANDLER",
-                "MONICA",
+                "PHOEBE",
+                "JOEY",
                 "RACHEL",
                 "ROSS",
-                "PHOEBE",
-                "JOEY"
+                "CHANDLER",
+                "MONICA"
             ],
-            "clip_start": "00:00:02,871",
-            "clip_end": "00:00:51,027"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:00:02,871",
+            "srt_end": "00:00:51,027"
         },
         {
             "scene_description": "[Scene: Central Perk, all are there.]",
@@ -256,16 +258,18 @@
             ],
             "location": "Central Perk",
             "subjects": [
-                "CHANDLER",
-                "MONICA",
-                "RACHEL",
                 "PHOEBE",
-                "ROSS",
                 "JOEY",
-                "ANGELA"
+                "RACHEL",
+                "ROSS",
+                "CHANDLER",
+                "ANGELA",
+                "MONICA"
             ],
-            "clip_start": "00:01:44,471",
-            "clip_end": "00:05:53,267"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:01:44,471",
+            "srt_end": "00:05:53,267"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's apartment, Joey is there, trying to convince Monica to pose\nas his girlfriend. His plan is to hook Monica up with Angela's boyfriend Bob and then take\nAngela back for himself.]",
@@ -309,11 +313,13 @@
             ],
             "location": "Monica and Rachel's apartment",
             "subjects": [
-                "MONICA",
-                "JOEY"
+                "JOEY",
+                "MONICA"
             ],
-            "clip_start": "00:05:53,471",
-            "clip_end": "00:06:42,661"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:05:53,471",
+            "srt_end": "00:06:42,661"
         },
         {
             "scene_description": "[Scene: Ross' apartment, Chandler is over.]",
@@ -369,11 +375,13 @@
             ],
             "location": "Ross' apartment",
             "subjects": [
-                "ROSS",
-                "CHANDLER"
+                "CHANDLER",
+                "ROSS"
             ],
-            "clip_start": "00:06:51,431",
-            "clip_end": "00:07:51,420"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:06:51,431",
+            "srt_end": "00:07:51,420"
         },
         {
             "scene_description": "[Scene: A fancy restaurant, Joey and Monica are there, meeting Angela and Bob, who\nMonica thinks is Angela's brother.]",
@@ -417,12 +425,14 @@
             ],
             "location": "A fancy restaurant",
             "subjects": [
-                "MONICA",
+                "JOEY",
                 "ANGELA",
-                "JOEY"
+                "MONICA"
             ],
-            "clip_start": "00:07:56,071",
-            "clip_end": "00:08:18,022"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:07:56,071",
+            "srt_end": "00:08:18,022"
         },
         {
             "scene_description": "[Scene: Central Perk, Chandler and Phoebe are there, both ready to break up with their\nsignificant others.]",
@@ -522,12 +532,14 @@
             ],
             "location": "Central Perk",
             "subjects": [
-                "JANICE",
                 "PHOEBE",
+                "JANICE",
                 "CHANDLER"
             ],
-            "clip_start": "00:08:22,871",
-            "clip_end": "00:09:59,419"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:08:22,871",
+            "srt_end": "00:09:59,419"
         },
         {
             "scene_description": "[Scene: The Launderama, Rachel is there, waiting for Ross. An old woman takes Rachel's\nclothes off the machine and begins loading it with her things.]",
@@ -647,12 +659,14 @@
             ],
             "location": "The Launderama",
             "subjects": [
-                "WOMAN",
                 "RACHEL",
-                "ROSS"
+                "ROSS",
+                "WOMAN"
             ],
-            "clip_start": "00:10:11,791",
-            "clip_end": "00:12:58,422"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:10:11,791",
+            "srt_end": "00:12:58,422"
         },
         {
             "scene_description": "[Scene: Fancy restaurant, Monica, Joey, Angela, and Bob are seated at the table.]",
@@ -688,13 +702,15 @@
             ],
             "location": "Fancy restaurant",
             "subjects": [
-                "JOEY",
-                "MONICA",
                 "BOB",
-                "ANGELA"
+                "JOEY",
+                "ANGELA",
+                "MONICA"
             ],
-            "clip_start": "00:13:03,391",
-            "clip_end": "00:13:22,501"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:13:03,391",
+            "srt_end": "00:13:22,501"
         },
         {
             "scene_description": "[Scene: Fancy restaurant, Joey and Bob are talking.]",
@@ -730,11 +746,13 @@
             ],
             "location": "Fancy restaurant",
             "subjects": [
-                "BOB",
-                "JOEY"
+                "JOEY",
+                "BOB"
             ],
-            "clip_start": "00:13:32,591",
-            "clip_end": "00:14:09,346"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:13:32,591",
+            "srt_end": "00:14:09,346"
         },
         {
             "scene_description": "[Scene: The ladies' bathroom at the restaurant, Monica and Angela are talking.]",
@@ -766,11 +784,13 @@
             ],
             "location": "The ladies' bathroom at the restaurant",
             "subjects": [
-                "MONICA",
-                "ANGELA"
+                "ANGELA",
+                "MONICA"
             ],
-            "clip_start": "00:14:12,911",
-            "clip_end": "00:14:37,385"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:14:12,911",
+            "srt_end": "00:14:37,385"
         },
         {
             "scene_description": "[Scene: Central Perk, Phoebe is coaching Chandler on how to break up with Janice.]",
@@ -790,12 +810,14 @@
             ],
             "location": "Central Perk",
             "subjects": [
-                "JANICE",
                 "PHOEBE",
+                "JANICE",
                 "CHANDLER"
             ],
-            "clip_start": "00:14:42,431",
-            "clip_end": "00:15:26,349"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:14:42,431",
+            "srt_end": "00:15:26,349"
         },
         {
             "scene_description": "[Scene: The laundromat.]",
@@ -850,8 +872,10 @@
                 "RACHEL",
                 "ROSS"
             ],
-            "clip_start": "00:15:30,791",
-            "clip_end": "00:16:46,820"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:15:30,791",
+            "srt_end": "00:16:46,820"
         },
         {
             "scene_description": "[Scene: The fancy restaurant, Angela has her hand in Bob's shirt, and Monica is very\nuncomfortable.]",
@@ -935,11 +959,13 @@
             ],
             "location": "The fancy restaurant",
             "subjects": [
-                "MONICA",
-                "JOEY"
+                "JOEY",
+                "MONICA"
             ],
-            "clip_start": "00:16:57,871",
-            "clip_end": "00:18:29,828"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:16:57,871",
+            "srt_end": "00:18:29,828"
         },
         {
             "scene_description": "[Scene: Central Perk, Chandler is still trying to ease things over with Janice, and\nthere are about a dozen empty Espresso cups in front of him. He is extremely wired.]",
@@ -1011,12 +1037,14 @@
             ],
             "location": "Central Perk",
             "subjects": [
-                "PHOEBE",
                 "JANICE",
-                "CHANDLER"
+                "CHANDLER",
+                "PHOEBE"
             ],
-            "clip_start": "00:18:35,791",
-            "clip_end": "00:19:48,380"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:18:35,791",
+            "srt_end": "00:19:48,380"
         },
         {
             "scene_description": "[Scene: The Launderama. Rachel is sorting her now-pink clothes.]",
@@ -1084,12 +1112,14 @@
             ],
             "location": "The Launderama. Rachel is sorting her now-pink clothes.",
             "subjects": [
-                "WOMAN",
                 "RACHEL",
+                "WOMAN",
                 "ROSS"
             ],
-            "clip_start": "00:19:50,431",
-            "clip_end": "00:20:58,827"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:19:50,431",
+            "srt_end": "00:20:58,827"
         },
         {
             "scene_description": "[Scene: Central Perk, Ross, Rachel, and Phoebe are there. Ross has an icepack to his\nhead.]",
@@ -1157,15 +1187,17 @@
             ],
             "location": "Central Perk",
             "subjects": [
-                "CHANDLER",
-                "MONICA",
+                "PHOEBE",
+                "JOEY",
                 "RACHEL",
                 "ROSS",
-                "PHOEBE",
-                "JOEY"
+                "CHANDLER",
+                "MONICA"
             ],
-            "clip_start": "00:21:03,031",
-            "clip_end": "00:21:39,824"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:21:03,031",
+            "srt_end": "00:21:39,824"
         }
     ]
 }

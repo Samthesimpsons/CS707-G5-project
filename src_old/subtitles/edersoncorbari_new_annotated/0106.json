@@ -28,14 +28,16 @@
             ],
             "location": "",
             "subjects": [
-                "CHANDLER",
+                "PHOEBE",
+                "JOEY",
                 "RACHEL",
                 "ROSS",
-                "PHOEBE",
-                "JOEY"
+                "CHANDLER"
             ],
-            "clip_start": "00:00:05,505",
-            "clip_end": "00:00:53,514"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:00:05,505",
+            "srt_end": "00:00:53,514"
         },
         {
             "scene_description": "[Scene: The Theater, the play has ended and everyone is applauding.\u00a0 As soon as\nthe cast leaves, the gang all groan and sit down heavily.]",
@@ -187,16 +189,18 @@
             ],
             "location": "The Theater",
             "subjects": [
-                "AURORA",
-                "CHANDLER",
-                "MONICA",
-                "RACHEL",
                 "PHOEBE",
+                "JOEY",
+                "RACHEL",
+                "AURORA",
                 "ROSS",
-                "JOEY"
+                "CHANDLER",
+                "MONICA"
             ],
-            "clip_start": "00:02:22,909",
-            "clip_end": "00:05:06,430"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:02:22,909",
+            "srt_end": "00:05:06,430"
         },
         {
             "scene_description": "[Scene: Central Perk, everyone else is there as Chandler enters.]",
@@ -380,15 +384,17 @@
             ],
             "location": "Central Perk",
             "subjects": [
-                "AURORA",
-                "CHANDLER",
-                "MONICA",
                 "PHOEBE",
+                "JOEY",
+                "AURORA",
                 "ROSS",
-                "JOEY"
+                "CHANDLER",
+                "MONICA"
             ],
-            "clip_start": "00:07:17,003",
-            "clip_end": "00:10:47,543"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:07:17,003",
+            "srt_end": "00:10:47,543"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, Rachel is there as enter except Joey enter.]",
@@ -568,15 +574,17 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "CHANDLER",
-                "MONICA",
-                "RACHEL",
                 "PHOEBE",
+                "JOEY",
+                "RACHEL",
                 "ROSS",
-                "JOEY"
+                "CHANDLER",
+                "MONICA"
             ],
-            "clip_start": "00:10:58,658",
-            "clip_end": "00:15:19,508"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:10:58,658",
+            "srt_end": "00:15:19,508"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, the next morning, Monica is getting the door.]",
@@ -652,13 +660,15 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "MONICA",
-                "RACHEL",
                 "CHANDLER",
-                "JOEY"
+                "JOEY",
+                "RACHEL",
+                "MONICA"
             ],
-            "clip_start": "00:15:29,328",
-            "clip_end": "00:16:52,309"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:15:29,328",
+            "srt_end": "00:16:52,309"
         },
         {
             "scene_description": "[Scene: A Film Set, Joey is entering for his scene.]",
@@ -718,11 +728,13 @@
             ],
             "location": "A Film Set",
             "subjects": [
-                "JOEY",
-                "DIRECTOR"
+                "DIRECTOR",
+                "JOEY"
             ],
-            "clip_start": "00:17:03,555",
-            "clip_end": "00:18:14,850"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:17:03,555",
+            "srt_end": "00:18:14,850"
         },
         {
             "scene_description": "[Scene: Chandler and Joey's, Aurora and Chandler are in bed in Chandler's room.]",
@@ -870,11 +882,13 @@
             ],
             "location": "Chandler and Joey's",
             "subjects": [
-                "AURORA",
-                "CHANDLER"
+                "CHANDLER",
+                "AURORA"
             ],
-            "clip_start": "00:18:21,166",
-            "clip_end": "00:20:53,612"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:18:21,166",
+            "srt_end": "00:20:53,612"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, Ross is trying to comfort Chandler.\u00a0 Joey is absent.]",
@@ -986,15 +1000,17 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "CHANDLER",
-                "MONICA",
+                "PHOEBE",
+                "JOEY",
                 "RACHEL",
                 "ROSS",
-                "PHOEBE",
-                "JOEY"
+                "CHANDLER",
+                "MONICA"
             ],
-            "clip_start": "00:21:05,731",
-            "clip_end": "00:23:26,166"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:21:05,731",
+            "srt_end": "00:23:26,166"
         },
         {
             "scene_description": "[Scene: Monica's Bedroom, she's lying in bed wide awake.]",
@@ -1008,8 +1024,10 @@
             "subjects": [
                 "MONICA"
             ],
-            "clip_start": "00:23:37,949 ",
-            "clip_end": "00:24:37,741"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:23:37,949 ",
+            "srt_end": "00:24:37,741"
         }
     ]
 }

@@ -1,0 +1,1368 @@
+{
+    "episode": "0117",
+    "title": "The One With Two Parts, Part 2",
+    "scenes": [
+        {
+            "scene_description": "[Scene: An Emergency Room, Rachel and Monica enter.\u00a0 Rachel is limping and leaning\non Monica for support.]",
+            "dialogue": [
+                {
+                    "speaker": "RACHEL",
+                    "text": "Ow ow ow. Ow ow ow ow. Ow ow ow. Ow. Ow. Ow. Ow."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Hi. Uh, my friend here was taking down our Christmas lights, and and she fell off the balcony and may have broken her foot or or ankle or something."
+                },
+                {
+                    "speaker": "NURSE",
+                    "text": "My god. You still have your Christmas lights up?"
+                },
+                {
+                    "speaker": "NURSE",
+                    "text": "Fill this out and bring it back to me."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Ow ow ow. Ow ow ow. Ow ow ow."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Okay, ooh, alright. Name, address... Okay, in case of emergency, call?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "You."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Really?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Yeah."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Oh, that is so sweet. (Touched, she puts an arm around her friend and kisses her.) Oh gosh, love you. Insurance?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Oh, yeah, check it. Definitely, I want some of that."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "(No longer touched) you don't have insurance?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Why, how much is this gonna cost?"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "I have no idea, but X-rays alone could be a couple hundred dollars."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Wel-wel-well what are we gonna do?"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Well there's not much we can do."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "(Like a big baby) Um... unless, unless I use yours."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Hah, no no no no no no no no no no."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "(Tapping the clipboard) well, now, wait a second, who did I just put as my \"In case of emergency\" person?"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "(Looking around to check that no-one's listening, then lowering her voice anyway) That's insurance fraud."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Well, alright, then, forget it. (Getting up to go) Might as well just go home. Ow ow ow ow!"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "(Jumping up to make Rachel sit down) Okay, okay. I hate this."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Thank you. Thank you. I love you."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "(to the nurse) Hi, (tiny laugh) um, I'm gonna need a new set of (tiny laugh) these forms (tiny laugh)."
+                },
+                {
+                    "speaker": "NURSE",
+                    "text": "Why?"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "(Tiny laugh) I am really an idiot. (Tiny laugh) you see, I was filling out my friend's form, and instead of putting her information, (tiny laugh) I put mine."
+                },
+                {
+                    "speaker": "NURSE",
+                    "text": "You are an idiot. (She hands over a blank form)."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "(Tiny laugh) yep, that's me, (tiny laugh) I am that stupid (tiny laugh)."
+                }
+            ],
+            "location": "An Emergency Room",
+            "subjects": [
+                "NURSE",
+                "RACHEL",
+                "MONICA"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Central Perk, Chandler, has split up his newspaper so Joey can look at the\nfunnies, while Ross's inappropriate joke at Lamaze class has come back to haunt him.]",
+            "dialogue": [
+                {
+                    "speaker": "ROSS",
+                    "text": "I had a dream last night where I was playing football with my kid."
+                },
+                {
+                    "speaker": "CHANDLER AND JOEY",
+                    "text": "That's nice."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "No, no, with him. (He mimes holding the baby like a football.) I'm on this field, and they, they hike me the baby... and I, I know I've gotta do something 'cause the Tampa Bay defence is comin' right at me."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Tampa Bay's got a terrible team."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Right, but, it is just me and the baby, so I'm thinkin' they can take us. And so I uh, hah-hah, I just heave it down field."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "What are you crazy? That's a baby!"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "He should take the sack?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Anyway, suddenly I'm down field, and I realise that I'm the one who's supposed to catch him, right? Only I know there is no way I'm gonna get there in time, so I am running, and running, and that, that is when I woke up. See I, I am so not ready to be a father."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Hey, you're gonna be fine. You're one of the most caring, most responsible men in North America. You're gonna make a great dad."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Yeah, Ross. You and the baby just need better blocking."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Oh, have either one of you guys ever been to the Rainbow Room? Is it real expensive?"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Well, only if you order stuff."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "I'm takin' Ursula tonight. It's her birthday."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Wo-wo-whoa. What about Phoebe's birthday?"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "When's that?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Tonight."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Oh, man. What're the odds of that happening?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "You take your time."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "There it is! So what're you gonna do?"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "What can I do? Look, I don't want to do anything to screw it up with Ursula."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "And your friend Phoebe?"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Well, if she's my friend, hopefully she'll understand. I mean, wouldn't you guys?"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Man, if you tried something like that on my birthday, you'd be starin' at the business end of a hissy fit."
+                }
+            ],
+            "location": "Central Perk",
+            "subjects": [
+                "CHANDLER",
+                "JOEY",
+                "CHANDLER AND JOEY",
+                "ROSS"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: The Hospital, Monica and Rachel are waiting for the doctors to arrive. \u00a0\nThey enter and are played by Noah Wyle and George Clooney.]",
+            "dialogue": [
+                {
+                    "speaker": "DR. MITCHELL",
+                    "text": "..you add a pinch of saffron, it makes all the difference."
+                },
+                {
+                    "speaker": "DR. MITCHELL",
+                    "text": "Okay, errrr, Monica?"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Yes? (jumping as Rachel punches her arm) ..yes, she is."
+                },
+                {
+                    "speaker": "RACHEL (AS MONICA)",
+                    "text": "Hi, this is my friend Rachel."
+                },
+                {
+                    "speaker": "MONICA (AS RACHEL)",
+                    "text": "Hi."
+                },
+                {
+                    "speaker": "DR. MITCHELL",
+                    "text": "(Smiling) Hi, err Rachel. I'm Dr.Mitchell."
+                },
+                {
+                    "speaker": "DR. ROSEN",
+                    "text": "(Smiling even more and attempting to take over) And I'm his friend, Dr.Rosen."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Aren't you a little cute to be a doctor?"
+                },
+                {
+                    "speaker": "DR. ROSEN",
+                    "text": "Excuse me?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "I meant er, (struggling to concentrate) young, young, I meant young, young to be a doctor. Oh good, Rach."
+                },
+                {
+                    "speaker": "MONICA (AS RACHEL)",
+                    "text": "Thank you."
+                },
+                {
+                    "speaker": "RACHEL (AS MONICA)",
+                    "text": "Right."
+                }
+            ],
+            "location": "The Hospital",
+            "subjects": [
+                "DR. ROSEN",
+                "MONICA (AS RACHEL)",
+                "RACHEL",
+                "DR. MITCHELL",
+                "RACHEL (AS MONICA)",
+                "MONICA"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Monica and Rachel's, everyone but Joey is waiting for Phoebe to arrive for her\nsurprise birthday party.\u00a0 Rachel and Monica is telling Chandler about Rachel's\nincident.]",
+            "dialogue": [
+                {
+                    "speaker": "RACHEL",
+                    "text": "..so, he said it was just a sprain, and that was it."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Uh, you left out the stupid part."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Not stupid. The very cute, cute, cute doctors asked us out for tomorrow night, and I said \"yes.\""
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "I think it's totally insane, I mean, they work for the hospital. It's like returning to the scene of the crime. You know, I say we blow off the dates."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "What? Monica, they are cute, they are doctors, (spelling it out in the air for her slow friend) cute doctors, doctors who are cute!"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Alright, what have we learned so far?"
+                },
+                {
+                    "speaker": "THE WHOLE PARTY",
+                    "text": "(Jumping up) SURPRISE!!!"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "What the hell are you doing? You scared the crap outta me."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Was that the cake?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Yeah, yeah. I got a lemon schmush."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Come on, she'll be here any minute."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "I hope it's okay."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Oh..."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "(Reading) \"Happy Birthday Peehe.\""
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Well maybe we can make a, a, a 'B' out of one of those roses."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "(Still annoyed) Yeah, we'll just use our special cake tools."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Hey, what's going on?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Oh, we just..."
+                },
+                {
+                    "speaker": "PHOEBE'S FRIENDS",
+                    "text": "(Finally noticing the guest of honour) Surprise!"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "(Delighted) oh, oh, oh! This is so great! Oh my god! This was not at all scary. Hi everybody. Hi Betty! Betty, Hi! (Thrilled) You found Betty! Oh my god! (Hugging people) This is great. Everybody I love is in the same room, (still happy) Where's Joey?"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Did you see Betty?"
+                }
+            ],
+            "location": "Monica and Rachel's",
+            "subjects": [
+                "PHOEBE",
+                "RACHEL",
+                "ROSS",
+                "CHANDLER",
+                "THE WHOLE PARTY",
+                "PHOEBE'S FRIENDS",
+                "MONICA"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: A Restaurant, Ross is having lunch with his father who is examining his next\nforkful.]",
+            "dialogue": [
+                {
+                    "speaker": "MR. GELLER",
+                    "text": "I tell you one thing, I wouldn't mind having a piece of this sun-dried tomato business. Five years ago, if somebody had said to me, here's a tomato that looks like a prune, I'd say \"get out of my office!\""
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Dad, before I was born, did you freak out at all?"
+                },
+                {
+                    "speaker": "MR. GELLER",
+                    "text": "I'm not freaking out, I'm just saying, if somebody had come to me with the idea andndash;"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Dad, dad, dad, I'm talkin' about the whole uh, baby thing. Did you uh, ever get this sort of... panicky, \"Oh my god I'm gonna be a father\" kind of a thing?"
+                },
+                {
+                    "speaker": "MR. GELLER",
+                    "text": "No. Your mother really did the work. I was busy with the business. I wasn't around that much. Is that what this is about?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "No, no, Dad, I was just wondering."
+                },
+                {
+                    "speaker": "MR. GELLER",
+                    "text": "'Cause there's time to make up for that. We can do stuff together. You always wanted to go to that Colonial Williamsburg. How 'bout we do that?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Thanks, Dad, really, I ju... you know, I just, I just needed to know, um... when did you start to feel like a father?"
+                },
+                {
+                    "speaker": "MR. GELLER",
+                    "text": "Oh, well, I, I guess it musta been the day after you were born. We were in the hospital room, your mother was asleep, and they brought you in and gave you to me. You were this ugly little red thing, and all of a sudden you grabbed my finger with your whole fist. And you squeezed it, so tight. And that's when I knew."
+                },
+                {
+                    "speaker": "MR. GELLER",
+                    "text": "So you don't wanna go to Williamsburg?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "No, we can go to Williamsburg."
+                },
+                {
+                    "speaker": "MR. GELLER",
+                    "text": "Eat your fish."
+                }
+            ],
+            "location": "A Restaurant",
+            "subjects": [
+                "MR. GELLER",
+                "ROSS"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Monica and Rachel's, Monica is just getting off of the intercom and turns off\nthe TV which is still in the SAP mode.]",
+            "dialogue": [
+                {
+                    "speaker": "MONICA",
+                    "text": "Rachel, the cute doctors are here."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "(entering from her room) Okay, coming!"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Hi, come on in."
+                },
+                {
+                    "speaker": "DR. MITCHELL",
+                    "text": "Hey."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Hi, Geoffrey."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Hi."
+                },
+                {
+                    "speaker": "DR. ROSEN",
+                    "text": "Ah here, we brought wine."
+                },
+                {
+                    "speaker": "DR. MITCHELL",
+                    "text": "Look at this, it's from the cellars of Ernest and Tova Borgnine, so how could we resist?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Oh, that's great. Look at that."
+                },
+                {
+                    "speaker": "DR. ROSEN",
+                    "text": "So, Monica, how's the ankle?"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "It's uh..."
+                },
+                {
+                    "speaker": "MONICA (AS RACHEL)",
+                    "text": "..well, why don't you tell them? After all it, is your ankle."
+                },
+                {
+                    "speaker": "RACHEL (AS MONICA)",
+                    "text": "You know what, it's feeling a lot better, thank you, um... Well, listen, why don't you two sit down and, and we'll get you some glasses... okay... (They don't know what to do with their coats and Monica points to the living room) STAT!"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Okay, listen, I'm thinking, why don't we just tell them who we really are? I mean, it'll be fine, I really think it'll be fine."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "It will not be fine. We'll get in trouble."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Oh, Monica! Would you stop being such a wuss ?"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "A wuss? Excuse me for living in the real world, okay?"
+                },
+                {
+                    "speaker": "DR. MITCHELL",
+                    "text": "So?"
+                },
+                {
+                    "speaker": "DR. ROSEN",
+                    "text": "So... they sss-still seem normal."
+                },
+                {
+                    "speaker": "DR. MITCHELL",
+                    "text": "That's because they are."
+                },
+                {
+                    "speaker": "DR. ROSEN",
+                    "text": "(Nervously) okay, but you have to admit that every time we go out... Women we meet at the hospital... It turns into..."
+                },
+                {
+                    "speaker": "DR. MITCHELL",
+                    "text": "Willya relax? Look around. No pagan altars, no piles of bones in the corners, they're fine. (Baring his teeth to clean them with his finger) Go like this. (Dr. Rosen obeys.)"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "I said we are not going to do it, okay? Sometimes you can be such a, a big baby."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "(Resenting the truth) I am not a baby! You know what? I swear to god, just because you get so uptight every time we..."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Sure, every time, you're such a princess..."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "You know what?"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "What?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "You know what?"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "What!?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "You know what?"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "(getting angry) What!!?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Every day, you are becoming more and more like your mother."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Hello! Here we go!"
+                },
+                {
+                    "speaker": "DR. ROSEN",
+                    "text": "This is a great place. How long have you lived here?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "(as Monica) Thanks! I've been here about six years, and Rachel moved in a few months ago."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "(as Rachel) Yeah... (joining the others) ..see, I was supposed to get married, but, um, I left the guy at the altar."
+                },
+                {
+                    "speaker": "DR. MITCHELL",
+                    "text": "Really?"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "(as Rachel) Yeah... Yeah, I know it's pretty selfish, but haha, hey, that's me. (Indicating a dish on the table) Why don't you try the hummus?"
+                },
+                {
+                    "speaker": "DR. ROSEN",
+                    "text": "So, Monica, what do you do?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "(as Monica) Aahh, I'm a... chef at a restaurant uptown."
+                },
+                {
+                    "speaker": "DR. ROSEN",
+                    "text": "Good for you."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "(as Monica) Yeah it is, mostly because I get to boss people around, which I just love to do."
+                },
+                {
+                    "speaker": "DR. ROSEN",
+                    "text": "This hummus is great."
+                },
+                {
+                    "speaker": "DR. MITCHELL",
+                    "text": "God bless the chickpea."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "(as Rachel) (Suddenly laughing) Oh, god, I am so spoiled... That's it!"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "(as Monica) And by the way, have I mentioned that back in high school, I was a cow?"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "(as Rachel) I used to wet my bed."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "(as Monica) I use my breasts to get other people's attention."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "(as Rachel) (Revealing her anger to point at her best friend) We both do that!"
+                },
+                {
+                    "speaker": "DR. MITCHELL",
+                    "text": "(on the phone) Monica and Rachel's apartment. Err yeh, aayah, yeh, just one second... (handing it to Monica) ..ah, Rachel, it's your dad."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "(as Rachel) Hi, Dad. No, no, it's me. (Getting up to move further away from Rachel) li-listen, Dad, I can't talk right now, um, but there's something, um... there's something that I've been meaning to tell you..."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Would you excuse me for a second?"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "(as Rachel) Remember back in freshman year? (Talking fast before Rachel can catch her) Well, Billy Dreskin and I had sex on your bed."
+                }
+            ],
+            "location": "Monica and Rachel's",
+            "subjects": [
+                "DR. ROSEN",
+                "MONICA (AS RACHEL)",
+                "RACHEL",
+                "DR. MITCHELL",
+                "RACHEL (AS MONICA)",
+                "MONICA"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Monica and Rachel's, the next morning, Ross, Phoebe, Chandler and Monica sit\nround the coffee table, playing Scrabble. Rachel, still in her dressing gown, is pleading\non the phone, her free hand shaking with agitation.]",
+            "dialogue": [
+                {
+                    "speaker": "RACHEL",
+                    "text": "(on phone) Daddy... Daddy... Daddy, why whyyy would I sleep with Billy Dreskin? His father tried to put you out of business! (Rachel turns to Monica, clasping the receiver to her bosom so Dr.Green can't hear, while mouthing \"You are...\") ...dead!"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Ross, he's got the remote again."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Good. Maybe he can switch it back."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Maybe not."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Hello? (Listens) Um, yeah, uh, (snapping her fingers at Ross who takes the remote from Marcel, then turns off the TV) Okay ah, hold on a second, lemme lemme just check and see if see if she's here."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "It's the woman from the hospital admissions office. She says there's a problem with the form. Oh, god, oh god..."
+                },
+                {
+                    "speaker": "RACHEL AND MONICA",
+                    "text": "Oh god, waddawe do, waddawe do, waddawe do?"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "I don't know! Why don't you just explain? What do they want? Find out what they want!"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Okay (desperately hands the receiver over) no, you do it."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "(taking the phone) Hello, this is Monica... Yeah??? Oh... (Smiles at Rachel to reassure her) Okay, yes, we'll be right, we'll be right down.(Listens) Thank you. (Hangs up)"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "What?"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "We forgot to sign one of the admissions forms."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Ohhh... (slumping in relief) Okay, you were right. You were right! This was just not worth it."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Thank you."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Okay, let me just change."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Yes."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "(entering quietly) Hey."
+                },
+                {
+                    "speaker": "ROSS AND CHANDLER",
+                    "text": "Hey!"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Hi."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Trouble?"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Your sister stood me up the other night."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Oh, no. Don't you hate it when people aren't there for you?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Well did you try calling her ?"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "I've been trying for two days. When I called the restaurant, they said she was too busy to talk. I can't believe she's blowin' me off."
+                }
+            ],
+            "location": "Monica and Rachel's",
+            "subjects": [
+                "PHOEBE",
+                "JOEY",
+                "RACHEL",
+                "ROSS",
+                "ROSS AND CHANDLER",
+                "RACHEL AND MONICA",
+                "MONICA"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Riff's, Phoebe is entering. Ursula returns with two plates of chicken, but she\nonly has time to set one on the table, when...]",
+            "dialogue": [
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Hey."
+                },
+                {
+                    "speaker": "URSULA",
+                    "text": "Oh!"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Um you, you got a minute?"
+                },
+                {
+                    "speaker": "URSULA",
+                    "text": "Um, yeah, I'm just... (waving dismissively at the concept) ..working."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "So."
+                },
+                {
+                    "speaker": "URSULA",
+                    "text": "Uh-huh."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Um, oh, I got you a birthday present."
+                },
+                {
+                    "speaker": "URSULA",
+                    "text": "Oh, wow! You remembered! (Opening it) Oh! It's a Judy Jetson thermos!"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Right, like the kind you..."
+                },
+                {
+                    "speaker": "URSULA",
+                    "text": "Right... Oh, I got something for you, too."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "How'd you know I was coming?"
+                },
+                {
+                    "speaker": "URSULA",
+                    "text": "Um, yeah, um, twin thing."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "I can't believe you did this."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "I can't believe you... (holding up Joey's cardigan) ..did this."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "So... What's the deal with umm, you and Joey?"
+                },
+                {
+                    "speaker": "URSULA",
+                    "text": "Oh, right. He is so great. But that's over."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Does he know ?"
+                },
+                {
+                    "speaker": "URSULA",
+                    "text": "Who?"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Joey. You know, um, he's really nutsy about you."
+                },
+                {
+                    "speaker": "URSULA",
+                    "text": "He is? Why?"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "You got me."
+                },
+                {
+                    "speaker": "URSULA",
+                    "text": "Right."
+                },
+                {
+                    "speaker": "URSULA",
+                    "text": "Excuse me. Doesn't this come with a side salad?"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "So, um, are you gonna call him?"
+                },
+                {
+                    "speaker": "URSULA",
+                    "text": "What? (Indicating the departing waiter) Do you think he likes me?"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "No, Joey ."
+                },
+                {
+                    "speaker": "URSULA",
+                    "text": "Oh. No, no, he is so smart. He'll figure it out. (Offering to share her food) Do you want some chicken?"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "No. No food with a face."
+                },
+                {
+                    "speaker": "URSULA",
+                    "text": "You have not changed!"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Yeah, you too."
+                }
+            ],
+            "location": "Riff's",
+            "subjects": [
+                "PHOEBE",
+                "URSULA"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: The Emergency Room. The officious admissions nurse is again on duty. Rachel and\nMonica enter, looking worried. As they approach the desk, Rachel adopts a winning smile,\nwhile Monica struggles to smile at all.]",
+            "dialogue": [
+                {
+                    "speaker": "RACHEL",
+                    "text": "(as Monica) Hi, remember us?"
+                },
+                {
+                    "speaker": "NURSE",
+                    "text": "(Grimacing) Mmm hmmm."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "(as Rachel) Um, okay. You just called a little while ago about needing a signature on the admissions form. Well, it turns out we need a whole new one (little laugh) because uh, you see, I-I, I put the wrong name again. (Little laugh) 'cause um..."
+                },
+                {
+                    "speaker": "NURSE",
+                    "text": "You're that stupid."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "(as Rachel) I am. I'm that stupid. (Little laugh.)"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "(as Monica) Yeah, and and, I'm just gonna pay for this with a check."
+                },
+                {
+                    "speaker": "NURSE",
+                    "text": "Well, you know your insurance will cover that."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "(as Monica) Yeah, I know... (mirroring her friend) ..I'm I'm just not that bright either."
+                }
+            ],
+            "location": "The Emergency Room. The officious admissions nurse is again on duty. Rachel and\nMonica enter",
+            "subjects": [
+                "NURSE",
+                "RACHEL",
+                "MONICA"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Monica and Rachel's, Chandler is neglecting the game of Scrabble , for\nhe's busily drawing on his own childhood in an attempt to help Ross. Marcel chitters\nabout.]",
+            "dialogue": [
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Okay, worst case scenario. Say you never feel like a father."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Uh-huh."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Say your son never feels connected to you, as one. Say all of his relationships are affected by this."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Do you have a point?"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "You know, you think I would."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "What's up with the simian?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "It's just a fur ball."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Okay... (returning to the board) ..whose turn is it?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Yours, I just got 43 points for 'KIDNEY'."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "No, no, you got zero points for 'IDNEY'."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "I had a 'K'. Where's where's my 'K'?"
+                }
+            ],
+            "location": "Monica and Rachel's",
+            "subjects": [
+                "CHANDLER",
+                "ROSS"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: The Emergency Room, Monica sits with Rachel, who is filling out an honest form\nat last. Ross and Chandler hurtle in. Little Marcel, wrapped in a fluffy towel, is cradled\nin Ross's arms. They dash up to the admissions desk. Ross is frantic.]",
+            "dialogue": [
+                {
+                    "speaker": "ROSS",
+                    "text": "You've got to help me my monkey swallowed a 'K'!"
+                },
+                {
+                    "speaker": "NURSE",
+                    "text": "(angrily) You go get that animal outta here ."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "No, no you don't understand the animal hospital is way across town he's choking I don't know what else to do."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "What's goin' on?"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Marcel swallowed a Scrabble tile."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Oh."
+                },
+                {
+                    "speaker": "NURSE",
+                    "text": "Excuse me... This hospital is for people!"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Lady, he is people. He has a name, okay? He watches Jeopardy! He he touches himself when nobody's watching. Please, please have a heart!"
+                },
+                {
+                    "speaker": "DR. MITCHELL",
+                    "text": "I'll take a look at him."
+                },
+                {
+                    "speaker": "RACHEL AND MONICA",
+                    "text": "Oh, thank you."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Michael."
+                },
+                {
+                    "speaker": "DR. MITCHELL",
+                    "text": "Rachel."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "What?"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "(as Rachel) Monica."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "(as Monica) Oh."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "(as Rachel) Hi."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "(as Monica) Hi."
+                }
+            ],
+            "location": "The Emergency Room",
+            "subjects": [
+                "RACHEL",
+                "ROSS",
+                "CHANDLER",
+                "NURSE",
+                "DR. MITCHELL",
+                "RACHEL AND MONICA",
+                "MONICA"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Central Perk, Joey is playing \"She Loves Me, She Loves Me Not\" with\nthe petals of a flower, alternately looking hopeful and annoyed. Phoebe enters, but not as\nherself, for she has changed the style of her hair and make-up to match that of her twin\nsister. She hangs up her coat, revealing her new cardigan. Nervously, she smooths out the\nidentifying garment, approaching Joey who sits next to the main sofa.]",
+            "dialogue": [
+                {
+                    "speaker": "PHOEBE",
+                    "text": "(as Ursula) Hey."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Urse..."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "..ah, what're you doing here? I've been trying to call you."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "(as Ursula) Listen, um..."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "No, no, no, don't say \"listen.\" I know that \"listen.\" I've said that \"listen.\""
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "(as Ursula) I'm sorry."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "I don't get it. What happened? What about everything you said under the bridge?"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "("
+                },
+                {
+                    "speaker": "AS URSULA)",
+                    "text": "Yeah, um... (nervously clears her throat) You know you, you should just forget about what I said under the bridge, I was talkin' crazy that night, I was so drunk!"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "You don't drink."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "(as Ursula) That's right, I don't... But I was, I was drunk on you!"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Oh, Urse... (He tries to take her in his arms, but she fends him off.)"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "(as Ursula) Okay, yeah, so it's not gonna work."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Why? Is it because I'm friends with Phoebe?"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "(as Ursula) If it was, would you stop hanging out with her?"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "(Thinking carefully) no. No, I, I couldn't do that."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "(as Ursula) Um, then yes, it's 'cause of Phoebe! So, you know, it's either her or me."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Then, uh, then I'm sorry."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "(as Ursula) You know... (unconsciously putting a hand on his knee) You're gonna be really, really hard to get over."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "I know..."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "I don't know whether it's just 'cause we're breakin' up or... what, but you have never looked so beautiful."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Really?"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Pheebs?"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "(Automatically) Yeah. Oooh... (she's sprung.)"
+                }
+            ],
+            "location": "Central Perk",
+            "subjects": [
+                "PHOEBE",
+                "AS URSULA)",
+                "JOEY"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: The Hospital, Marcel lies on the operating table while recovering from the\nanaesthetic, tucked up under a sheet like an infant in a huge bed. Ross sits beside him,\nas a smiling Chandler, Monica and Rachel look on.]",
+            "dialogue": [
+                {
+                    "speaker": "ROSS",
+                    "text": "He looks so tiny."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "We just got the message."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Is he alright?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Yeah. The doctor got the 'K' out. He also found an 'M' and an 'O'."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "We think he was trying to spell out 'MONKEY.'"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Well, the doctor says he's gonna be fine, he's just sleeping now."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "(Tapping Ross on his shoulder) So, you feel like a dad yet?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "No, why?"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Hey, come on, you came through, you did what you had to do. That is very dad."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Oh, look, he's waking up!"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "(Quietly) hey, fella! How you doing?"
+                }
+            ],
+            "location": "The Hospital",
+            "subjects": [
+                "PHOEBE",
+                "JOEY",
+                "ROSS",
+                "CHANDLER",
+                "MONICA"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Monica and Rachel's, everyone except Joey is there.\u00a0 Rachel is looking out\nof the window and Ross is handing out some Chinese takeout.\u00a0 There's a small SAP in\nthe corner of the screen.]",
+            "dialogue": [
+                {
+                    "speaker": "ROSS",
+                    "text": "Aqui est\u00e1. (Here it is!)"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "\u00bfA qui\u00e9n pidio el pollo General Tso? (Who ordered General Sal's chicken?)"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "\u00a1Pudo aver sido General Tso! (It could've been General Sal!)"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "\u00a1Mira, mira, el viejo desnudo est\u00e1 haciendo el hula hoop! (Look, look, Ugly Naked Guy is doing the hula!)"
+                },
+                {
+                    "speaker": "ALL",
+                    "text": "\u00a1Ewww! (Ewww!)"
+                },
+                {
+                    "speaker": "ALL",
+                    "text": "\u00a1Hola, Joey! (Hi, Joey!)"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "\u00a1Hola, amigos! (Hey, everybody!)"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Mira, Ross, Marcel se llevo el control remoto. (Look, Ross, Marcel's got the remote.)"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "\u00a1Lo que sucedio es que no le gusta la tele! (The thing is, he doesn`t like the program!)"
+                }
+            ],
+            "location": "Monica and Rachel's",
+            "subjects": [
+                "JOEY",
+                "RACHEL",
+                "ROSS",
+                "CHANDLER",
+                "MONICA"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "",
+            "srt_end": ""
+        }
+    ]
+}

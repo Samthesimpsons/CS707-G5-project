@@ -15,7 +15,9 @@
                 "CHANDLER"
             ],
             "clip_start": "",
-            "clip_end": ""
+            "clip_end": "",
+            "srt_start": "",
+            "srt_end": ""
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, Monica is on the phone in the kitchen.]",
@@ -111,17 +113,19 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
+                "PHOEBE",
+                "JOEY",
+                "PAOLO",
+                "RACHEL",
+                "ROSS",
                 "CHANDLER",
                 "AND ROSS",
-                "MONICA",
-                "RACHEL",
-                "PHOEBE",
-                "ROSS",
-                "JOEY",
-                "PAOLO"
+                "MONICA"
             ],
             "clip_start": "",
-            "clip_end": ""
+            "clip_end": "",
+            "srt_start": "",
+            "srt_end": ""
         },
         {
             "scene_description": "[Scene: The Hallway, Chandler and Joey leaving girls' apartment, carrying lasagna.]",
@@ -149,7 +153,9 @@
                 "JOEY"
             ],
             "clip_start": "",
-            "clip_end": ""
+            "clip_end": "",
+            "srt_start": "",
+            "srt_end": ""
         },
         {
             "scene_description": "[Scene: Carol and Susan's, there's a knock on the door and Carol answers it to Ross.]",
@@ -293,13 +299,15 @@
             ],
             "location": "Carol and Susan's",
             "subjects": [
-                "CAROL",
+                "SUSAN",
                 "CAROL AND SUSAN",
-                "ROSS",
-                "SUSAN"
+                "CAROL",
+                "ROSS"
             ],
             "clip_start": "",
-            "clip_end": ""
+            "clip_end": "",
+            "srt_start": "",
+            "srt_end": ""
         },
         {
             "scene_description": "[Scene: Chandler and Joey's,\u00a0 Joey and Chandler use their knees as a table to\nsupport the lasagna.]",
@@ -391,11 +399,13 @@
             ],
             "location": "Chandler and Joey's",
             "subjects": [
-                "JOEY",
-                "CHANDLER"
+                "CHANDLER",
+                "JOEY"
             ],
             "clip_start": "",
-            "clip_end": ""
+            "clip_end": "",
+            "srt_start": "",
+            "srt_end": ""
         },
         {
             "scene_description": "[Scene: Phoebe's Massage Parlor, Phoebe's assistant is telling her about the changes to\nher schedule.]",
@@ -443,12 +453,14 @@
             ],
             "location": "Phoebe's Massage Parlor",
             "subjects": [
-                "PAOLO",
+                "PHOEBE'S ASSISTANT",
                 "PHOEBE",
-                "PHOEBE'S ASSISTANT"
+                "PAOLO"
             ],
             "clip_start": "",
-            "clip_end": ""
+            "clip_end": "",
+            "srt_start": "",
+            "srt_end": ""
         },
         {
             "scene_description": "[Scene: Central Perk, everyone but Phoebe is there.]",
@@ -552,17 +564,19 @@
             ],
             "location": "Central Perk",
             "subjects": [
+                "PHOEBE",
+                "JOEY",
                 "JOEY AND CHANDLER",
-                "CHANDLER",
-                "MONICA",
-                "CUSTOMER",
                 "RACHEL",
                 "ROSS",
-                "PHOEBE",
-                "JOEY"
+                "CUSTOMER",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "",
-            "clip_end": ""
+            "clip_end": "",
+            "srt_start": "",
+            "srt_end": ""
         },
         {
             "scene_description": "[Scene: Central Perk, continued from earlier.]",
@@ -650,17 +664,19 @@
             ],
             "location": "Central Perk",
             "subjects": [
-                "GUYS",
+                "PHOEBE",
+                "JOEY",
                 "JOEY AND CHANDLER",
-                "CHANDLER",
-                "MONICA",
                 "RACHEL",
                 "ROSS",
-                "PHOEBE",
-                "JOEY"
+                "CHANDLER",
+                "GUYS",
+                "MONICA"
             ],
             "clip_start": "",
-            "clip_end": ""
+            "clip_end": "",
+            "srt_start": "",
+            "srt_end": ""
         },
         {
             "scene_description": "[Scene: The Table Store, Joey and Chandler and looking for their new table.]",
@@ -712,7 +728,9 @@
                 "JOEY"
             ],
             "clip_start": "",
-            "clip_end": ""
+            "clip_end": "",
+            "srt_start": "",
+            "srt_end": ""
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, Rachel folding and packing clothes in suitcases as Phoebe\nenters.]",
@@ -780,11 +798,13 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "RACHEL",
-                "PHOEBE"
+                "PHOEBE",
+                "RACHEL"
             ],
             "clip_start": "",
-            "clip_end": ""
+            "clip_end": "",
+            "srt_start": "",
+            "srt_end": ""
         },
         {
             "scene_description": "[Scene: Chandler and Joey's, Ross, Chandler, Joey, and Monica admiring their new\ntable.]",
@@ -816,13 +836,15 @@
             ],
             "location": "Chandler and Joey's",
             "subjects": [
+                "CHANDLER",
                 "JOEY",
                 "MONICA",
-                "ROSS",
-                "CHANDLER"
+                "ROSS"
             ],
             "clip_start": "",
-            "clip_end": ""
+            "clip_end": "",
+            "srt_start": "",
+            "srt_end": ""
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, Rachel is recovering from the shock.]",
@@ -922,12 +944,14 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
+                "PHOEBE",
                 "RACHEL AND PHOEBE",
-                "RACHEL",
-                "PHOEBE"
+                "RACHEL"
             ],
             "clip_start": "",
-            "clip_end": ""
+            "clip_end": "",
+            "srt_start": "",
+            "srt_end": ""
         },
         {
             "scene_description": "[Scene: Chandler and Joey's, Phoebe is telling everyone how it went across the hall as\nthe foosball game continues.]",
@@ -971,14 +995,16 @@
             ],
             "location": "Chandler and Joey's",
             "subjects": [
-                "CHANDLER",
-                "MONICA",
-                "ROSS",
                 "PHOEBE",
-                "JOEY"
+                "JOEY",
+                "ROSS",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "",
-            "clip_end": ""
+            "clip_end": "",
+            "srt_start": "",
+            "srt_end": ""
         },
         {
             "scene_description": "[Scene: Monica and Rachel's Balcony, Rachel is throwing Paolo's clothes over the side.]",
@@ -1178,18 +1204,20 @@
             ],
             "location": "Monica and Rachel's Balcony",
             "subjects": [
-                "JOEY AND CHANDLER",
-                "CHANDLER",
-                "MONICA",
-                "RACHEL",
                 "PHOEBE",
-                "ROSS",
                 "JOEY",
+                "PAOLO",
                 "GIRLS",
-                "PAOLO"
+                "JOEY AND CHANDLER",
+                "RACHEL",
+                "ROSS",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "",
-            "clip_end": ""
+            "clip_end": "",
+            "srt_start": "",
+            "srt_end": ""
         },
         {
             "scene_description": "[Scene: Chandler and Joey's, Monica is busy killing Chandle and Joey at foosball.]",
@@ -1229,13 +1257,15 @@
             ],
             "location": "Chandler and Joey's",
             "subjects": [
-                "MONICA",
-                "CHANDLER",
                 "JOEY AND CHANDLER",
-                "JOEY"
+                "JOEY",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "",
-            "clip_end": ""
+            "clip_end": "",
+            "srt_start": "",
+            "srt_end": ""
         }
     ]
 }

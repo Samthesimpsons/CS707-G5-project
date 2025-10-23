@@ -50,16 +50,19 @@
                     "text": "(pause)....Are we still talking about sex?"
                 }
             ],
-            "location": "Central Perk",
+            "location": "",
             "subjects": [
-                "ROSS",
-                "MONICA",
+                "PHOEBE",
                 "JOEY",
                 "RACHEL",
-                "PHOEBE"
+                "ROSS",
+                "CHANDLER",
+                "MONICA"
             ],
-            "clip_start": "00:00:01,868",
-            "clip_end": "00:01:09,868"
+            "clip_start": "00:00:01",
+            "clip_end": "00:01:09",
+            "srt_start": "00:00:01,868",
+            "srt_end": "00:01:09,868"
         },
         {
             "scene_description": "[Scene: Museum of Prehistoric History, Ross and a co-worker\n(Marsha) are setting up an exhibit which includes some mannequins of cave people.]",
@@ -147,12 +150,14 @@
             ],
             "location": "Museum of Prehistoric History",
             "subjects": [
-                "ROSS",
+                "MARSHA",
                 "CAROL",
-                "MARSHA"
+                "ROSS"
             ],
-            "clip_start": "00:02:01,421",
-            "clip_end": "00:03:51,591"
+            "clip_start": "00:01:10",
+            "clip_end": "00:03:11",
+            "srt_start": "00:02:01,421",
+            "srt_end": "00:03:51,591"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, Chandler, Joey, Phoebe, and Monica are watching Three's\nCompany .]",
@@ -476,16 +481,20 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "ROSS",
-                "MONICA",
-                "MRS. GELLER",
+                "PHOEBE",
                 "JOEY",
-                "MR. GELLER",
+                "MRS. GELLER",
                 "RACHEL",
-                "PHOEBE"
+                "CHANDLER AND JOEY",
+                "ROSS",
+                "MR. GELLER",
+                "CHANDLER",
+                "MONICA"
             ],
-            "clip_start": "00:04:02,909",
-            "clip_end": "00:12:39,214"
+            "clip_start": "00:03:13",
+            "clip_end": "00:12:02",
+            "srt_start": "00:04:02,909",
+            "srt_end": "00:12:39,214"
         },
         {
             "scene_description": "[Scene: Central Park, everyone's there.]",
@@ -621,14 +630,17 @@
             ],
             "location": "Central Park",
             "subjects": [
-                "ROSS",
-                "MONICA",
+                "PHOEBE",
                 "JOEY",
                 "RACHEL",
-                "PHOEBE"
+                "ROSS",
+                "CHANDLER",
+                "MONICA"
             ],
-            "clip_start": "00:12:47,366",
-            "clip_end": "00:15:34,188"
+            "clip_start": "00:12:03",
+            "clip_end": "00:15:05",
+            "srt_start": "00:12:47,366",
+            "srt_end": "00:15:34,188"
         },
         {
             "scene_description": "[Scene: Carol's OB/GYN, Carol is waiting.]",
@@ -744,16 +756,18 @@
             ],
             "location": "Carol's OB/GYN",
             "subjects": [
-                "ROBBIE",
-                "ROSS",
-                "CAROL",
+                "SUSAN",
                 "RACHEL",
                 "BARRY",
-                "BERNICE",
-                "SUSAN"
+                "CAROL",
+                "ROSS",
+                "ROBBIE",
+                "BERNICE"
             ],
-            "clip_start": "00:15:51,583",
-            "clip_end": "00:17:36,482"
+            "clip_start": "00:15:06",
+            "clip_end": "00:16:19",
+            "srt_start": "00:15:51,583",
+            "srt_end": "00:17:36,482"
         },
         {
             "scene_description": "[Scene: Carol's OB/GYN, they're talking about how this is going to work.]",
@@ -809,12 +823,14 @@
             ],
             "location": "Carol's OB/GYN",
             "subjects": [
-                "ROSS",
                 "SUSAN",
-                "CAROL"
+                "CAROL",
+                "ROSS"
             ],
-            "clip_start": "00:17:54,840",
-            "clip_end": "00:18:42,614"
+            "clip_start": "00:17:07",
+            "clip_end": "00:18:11",
+            "srt_start": "00:17:54,840",
+            "srt_end": "00:18:42,614"
         },
         {
             "scene_description": "[Scene: Barry's office, Rachel is doing her makeup in the mirror on Barry's lamp as\nBarry enters.]",
@@ -918,12 +934,14 @@
             ],
             "location": "Barry's office",
             "subjects": [
-                "BARRY",
+                "ROBBIE",
                 "RACHEL",
-                "ROBBIE"
+                "BARRY"
             ],
-            "clip_start": "00:18:51,196 ",
-            "clip_end": "00:21:02,158"
+            "clip_start": "00:18:12",
+            "clip_end": "00:20:30",
+            "srt_start": "00:18:51,196 ",
+            "srt_end": "00:21:02,158"
         },
         {
             "scene_description": "[Scene: Carol's OB/GYN, they're still arguing about what to name the baby.]",
@@ -1027,13 +1045,15 @@
             ],
             "location": "Carol's OB/GYN",
             "subjects": [
-                "DR. OBERMAN",
-                "ROSS",
                 "SUSAN",
-                "CAROL"
+                "DR. OBERMAN",
+                "CAROL",
+                "ROSS"
             ],
-            "clip_start": "00:21:05,831",
-            "clip_end": "00:22:47,198"
+            "clip_start": "00:20:31",
+            "clip_end": "00:22:18",
+            "srt_start": "00:21:05,831",
+            "srt_end": "00:22:47,198"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's apartment, everyone is watching the tape of the sonogram.\n\u00a0 Rachel is on the phone.]",
@@ -1101,14 +1121,17 @@
             ],
             "location": "Monica and Rachel's apartment",
             "subjects": [
-                "ROSS",
-                "MONICA",
+                "PHOEBE",
                 "JOEY",
                 "RACHEL",
-                "PHOEBE"
+                "ROSS",
+                "CHANDLER",
+                "MONICA"
             ],
-            "clip_start": "00:22:57,609",
-            "clip_end": "00:24:18,379"
+            "clip_start": "00:22:20",
+            "clip_end": "00:23:44",
+            "srt_start": "00:22:57,609",
+            "srt_end": "00:24:18,379"
         }
     ]
 }

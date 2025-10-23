@@ -76,15 +76,17 @@
             ],
             "location": "",
             "subjects": [
-                "CHANDLER",
-                "MONICA",
+                "PHOEBE",
+                "JOEY",
                 "RACHEL",
                 "ROSS",
-                "PHOEBE",
-                "JOEY"
+                "CHANDLER",
+                "MONICA"
             ],
-            "clip_start": "00:00:05,669",
-            "clip_end": "00:01:17,818"
+            "clip_start": "00:01:00",
+            "clip_end": "00:01:22",
+            "srt_start": "00:00:05,669",
+            "srt_end": "00:01:17,818"
         },
         {
             "scene_description": "[Scene: Chandler and Joey's, Chandler is helping Joey rehearse for a part.]",
@@ -172,7 +174,20 @@
                 {
                     "speaker": "CHANDLER",
                     "text": "Nah, not so much. Alright, now we smoke. (Takes a puff.) Oh.. my.. God. (He continues to smoke.)"
-                },
+                }],
+                "location":"Chandler and Joey's",
+                "subjects": [
+                    "CHANDLER",
+                    "JOEY"
+                ],
+                "clip_start": "00:01:26",
+                "clip_end": "00:03:31",
+                "srt_start": "",
+                "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Central Perk, everyone except Phoebe and Rachel is there.]",
+            "dialogue": [
                 {
                     "speaker": "MONICA",
                     "text": "No, no, no. They say it's the same as the distance from the tip of a guy's thumb to the tip of his index finger."
@@ -346,17 +361,19 @@
                     "text": "Nope. Schhorry."
                 }
             ],
-            "location": "Chandler and Joey's",
+            "location": "Cental Perk",
             "subjects": [
-                "CHANDLER",
-                "MONICA",
+                "PHOEBE",
+                "JOEY",
                 "RACHEL",
                 "ROSS",
-                "PHOEBE",
-                "JOEY"
+                "CHANDLER",
+                "MONICA"
             ],
-            "clip_start": "00:02:13,909",
-            "clip_end": "00:06:45,222"
+            "clip_start": "00:03:32",
+            "clip_end": "00:06:53",
+            "srt_start": "",
+            "srt_end": ""
         },
         {
             "scene_description": "[Scene: Iridium, Monica and Paula are at work.]",
@@ -384,11 +401,13 @@
             ],
             "location": "Iridium",
             "subjects": [
-                "MONICA",
-                "PAULA"
+                "PAULA",
+                "MONICA"
             ],
-            "clip_start": "00:06:48,669 ",
-            "clip_end": "00:07:17,819"
+            "clip_start": "00:06:55",
+            "clip_end": "00:07:36",
+            "srt_start": "00:06:48,669 ",
+            "srt_end": "00:07:17,819"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, Chandler is smoking out on the balcony, Phoebe is absent.]",
@@ -544,17 +563,19 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "THE GUYS",
-                "CHANDLER",
-                "ALAN",
-                "MONICA",
-                "RACHEL",
                 "PHOEBE",
+                "JOEY",
+                "RACHEL",
                 "ROSS",
-                "JOEY"
+                "CHANDLER",
+                "THE GUYS",
+                "ALAN",
+                "MONICA"
             ],
-            "clip_start": "00:07:19,229",
-            "clip_end": "00:10:13,826"
+            "clip_start": "00:07:37",
+            "clip_end": "11:04:00",
+            "srt_start": "00:07:19,229",
+            "srt_end": "00:10:13,826"
         },
         {
             "scene_description": "[Scene: Central Perk, Monica is alone as Ross, Rachel, Chandler, and Joey enter\ndejectedly in softball gear.]",
@@ -622,15 +643,16 @@
             ],
             "location": "Central Perk",
             "subjects": [
-                "I HAVE ONE QUESTION",
-                "CHANDLER",
-                "MONICA",
+                "JOEY",
                 "RACHEL",
                 "ROSS",
-                "JOEY"
+                "CHANDLER",
+                "MONICA"
             ],
-            "clip_start": "00:10:34,949 ",
-            "clip_end": "00:11:26,825"
+            "clip_start": "11:046:00",
+            "clip_end": "12:15:00",
+            "srt_start": "00:10:34,949 ",
+            "srt_end": "00:11:26,825"
         },
         {
             "scene_description": "[Scene: A street, Phoebe walks up to a homeless person (Lizzie) she knows.]",
@@ -717,8 +739,10 @@
                 "LIZZIE",
                 "PHOEBE"
             ],
-            "clip_start": "00:11:32,589",
-            "clip_end": "00:12:14,942"
+            "clip_start": "12:17:00",
+            "clip_end": "13:08:00",
+            "srt_start": "00:11:32,589",
+            "srt_end": "00:12:14,942"
         },
         {
             "scene_description": "[Scene: A Street, Phoebe and Lizzie are at a hot dog vendor.]",
@@ -745,8 +769,10 @@
                 "LIZZIE",
                 "PHOEBE"
             ],
-            "clip_start": "00:13:16,589",
-            "clip_end": "00:13:24,221"
+            "clip_start": "00:14:08",
+            "clip_end": "00:14:25",
+            "srt_start": "00:13:16,589",
+            "srt_end": "00:13:24,221"
         },
         {
             "scene_description": "[Scene: Central Perk, Phoebe is telling everyone about her discovery.]",
@@ -834,15 +860,17 @@
             ],
             "location": "Central Perk",
             "subjects": [
-                "CHANDLER",
-                "MONICA",
+                "PHOEBE",
+                "JOEY",
                 "RACHEL",
                 "ROSS",
-                "PHOEBE",
-                "JOEY"
+                "CHANDLER",
+                "MONICA"
             ],
-            "clip_start": "00:13:31,709",
-            "clip_end": "00:15:12,582"
+            "clip_start": "00:14:26",
+            "clip_end": "16:24:00",
+            "srt_start": "00:13:31,709",
+            "srt_end": "00:15:12,582"
         },
         {
             "scene_description": "[Scene: Iridium, Monica and Paula are working.]",
@@ -886,11 +914,13 @@
             ],
             "location": "Iridium",
             "subjects": [
-                "MONICA",
-                "PAULA"
+                "PAULA",
+                "MONICA"
             ],
-            "clip_start": "00:15:27,429",
-            "clip_end": "00:16:13,221"
+            "clip_start": "16:25:00",
+            "clip_end": "17:17:00",
+            "srt_start": "00:15:27,429",
+            "srt_end": "00:16:13,221"
         },
         {
             "scene_description": "[Scene: Cental Perk, Joey and Ross are persecuting Chandler about his smoking.]",
@@ -930,13 +960,15 @@
             ],
             "location": "Cental Perk",
             "subjects": [
-                "RACHEL",
                 "CHANDLER",
-                "ROSS",
-                "JOEY"
+                "JOEY",
+                "RACHEL",
+                "ROSS"
             ],
-            "clip_start": "00:16:13,989",
-            "clip_end": "00:17:14,068"
+            "clip_start": "17:18:00",
+            "clip_end": "18:27:00",
+            "srt_start": "00:16:13,989",
+            "srt_end": "00:17:14,068"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, everyond except Monica and Joey is watching Lambchop.]",
@@ -1116,15 +1148,17 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "CHANDLER",
-                "MONICA",
-                "RACHEL",
                 "PHOEBE",
+                "JOEY",
+                "RACHEL",
                 "ROSS",
-                "JOEY"
+                "CHANDLER",
+                "MONICA"
             ],
-            "clip_start": "00:17:21,109",
-            "clip_end": "00:20:24,027"
+            "clip_start": "18:28:00",
+            "clip_end": "21:50:00",
+            "srt_start": "00:17:21,109",
+            "srt_end": "00:20:24,027"
         },
         {
             "scene_description": "[Scene: A Restaurant, Monica is breaking the news to Alan.]",
@@ -1155,8 +1189,10 @@
                 "ALAN",
                 "MONICA"
             ],
-            "clip_start": "00:20:30,429",
-            "clip_end": "00:20:44,418"
+            "clip_start": "21:51:00",
+            "clip_end": "22:12:00",
+            "srt_start": "00:20:30,429",
+            "srt_end": "00:20:44,418"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, everyone is mopping around and eating ice cream.]",
@@ -1220,14 +1256,16 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "CHANDLER",
-                "MONICA",
+                "PHOEBE",
                 "RACHEL",
                 "ROSS",
-                "PHOEBE"
+                "CHANDLER",
+                "MONICA"
             ],
-            "clip_start": "00:20:51,109",
-            "clip_end": "00:21:49,622"
+            "clip_start": "22:13:00",
+            "clip_end": "23:16:00",
+            "srt_start": "00:20:51,109",
+            "srt_end": "00:21:49,622"
         }
     ]
 }

@@ -16,11 +16,13 @@
             ],
             "location": "Central Perk",
             "subjects": [
-                "RACHEL",
-                "PHOEBE"
+                "PHOEBE",
+                "RACHEL"
             ],
-            "clip_start": "00:00:02,245",
-            "clip_end": "00:00:29,404"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:00:02,245",
+            "srt_end": "00:00:29,404"
         },
         {
             "scene_description": "[Scene: The ATM vestibule of a bank, Chandler is inside. The lights go out, and he\nrealizes he is trapped inside.]",
@@ -34,8 +36,10 @@
             "subjects": [
                 "CHANDLER"
             ],
-            "clip_start": "00:00:41,605",
-            "clip_end": "00:00:43,960"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:00:41,605",
+            "srt_end": "00:00:43,960"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, Monica is on the phone with her mother. Phoebe, Rachel,\nand Ross are there.]",
@@ -67,12 +71,14 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "MONICA",
+                "PHOEBE",
                 "RACHEL",
-                "PHOEBE"
+                "MONICA"
             ],
-            "clip_start": "00:01:38,485",
-            "clip_end": "00:02:10,957"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:01:38,485",
+            "srt_end": "00:02:10,957"
         },
         {
             "scene_description": "[Scene: ATM vestibule, Jill Goodacre is on the cellular phone. Chandler's thoughts are\nin italics.]",
@@ -108,11 +114,13 @@
             ],
             "location": "ATM vestibule",
             "subjects": [
-                "JILL",
-                "CHANDLER"
+                "CHANDLER",
+                "JILL"
             ],
-            "clip_start": "00:02:12,605",
-            "clip_end": "00:03:00,924"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:02:12,605",
+            "srt_end": "00:03:00,924"
         },
         {
             "scene_description": "[Scene: Monica's apartment, Joey enters with a menorah, the candles lit.]",
@@ -140,13 +148,15 @@
             ],
             "location": "Monica's apartment",
             "subjects": [
-                "RACHEL",
                 "PHOEBE",
-                "ROSS",
-                "JOEY"
+                "JOEY",
+                "RACHEL",
+                "ROSS"
             ],
-            "clip_start": "00:03:09,685",
-            "clip_end": "00:03:44,202"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:03:09,685",
+            "srt_end": "00:03:44,202"
         },
         {
             "scene_description": "[Scene: ATM vestibule.]",
@@ -174,11 +184,13 @@
             ],
             "location": "ATM vestibule.",
             "subjects": [
-                "JILL",
-                "CHANDLER"
+                "CHANDLER",
+                "JILL"
             ],
-            "clip_start": "00:03:45,765",
-            "clip_end": "00:04:19,197"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:03:45,765",
+            "srt_end": "00:04:19,197"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, The phone rings; it's Chandler.]",
@@ -234,12 +246,14 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
+                "CHANDLER",
                 "JOEY",
-                "MONICA",
-                "CHANDLER"
+                "MONICA"
             ],
-            "clip_start": "00:04:23,605",
-            "clip_end": "00:05:18,004"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:04:23,605",
+            "srt_end": "00:05:18,004"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, time has passed. The five are sitting around the coffee\ntable talking.]",
@@ -467,14 +481,16 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "MONICA",
-                "RACHEL",
                 "PHOEBE",
+                "JOEY",
+                "RACHEL",
                 "ROSS",
-                "JOEY"
+                "MONICA"
             ],
-            "clip_start": "00:05:21,485",
-            "clip_end": "00:09:42,399"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:05:21,485",
+            "srt_end": "00:09:42,399"
         },
         {
             "scene_description": "[Scene: ATM vestibule.]",
@@ -502,11 +518,14 @@
             ],
             "location": "ATM vestibule.",
             "subjects": [
+                "CHANDLER",
                 "JILL",
-                "CHANDLER"
+                "MENTAL NOTE"
             ],
-            "clip_start": "00:09:47,085",
-            "clip_end": "00:10:05,998"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:09:47,085",
+            "srt_end": "00:10:05,998"
         },
         {
             "scene_description": "[Scene: Monica's apartment, Phoebe is singing.]",
@@ -638,13 +657,15 @@
             ],
             "location": "Monica's apartment",
             "subjects": [
-                "ROSS",
-                "MONICA",
                 "PHOEBE",
-                "JOEY"
+                "JOEY",
+                "MONICA",
+                "ROSS"
             ],
-            "clip_start": "00:10:08,245",
-            "clip_end": "00:11:49,076"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:10:08,245",
+            "srt_end": "00:11:49,076"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's Balcony, Ross and Rachel are talking.]",
@@ -692,8 +713,10 @@
                 "RACHEL",
                 "ROSS"
             ],
-            "clip_start": "00:11:54,485",
-            "clip_end": "00:12:45,561"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:11:54,485",
+            "srt_end": "00:12:45,561"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, Phoebe is holding the cat, Monica is treating the\nscratches on Ross' back. Joey is holding the menorah over the wound.]",
@@ -725,14 +748,16 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "MONICA",
+                "PHOEBE",
+                "JOEY",
                 "RACHEL",
                 "ROSS",
-                "PHOEBE",
-                "JOEY"
+                "MONICA"
             ],
-            "clip_start": "00:12:47,285",
-            "clip_end": "00:13:06,884"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:12:47,285",
+            "srt_end": "00:13:06,884"
         },
         {
             "scene_description": "[Scene: ATM vestibule.]",
@@ -746,8 +771,10 @@
             "subjects": [
                 "CHANDLER"
             ],
-            "clip_start": "00:13:11,085",
-            "clip_end": "00:13:30,558"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:13:11,085",
+            "srt_end": "00:13:30,558"
         },
         {
             "scene_description": "[Scene: The hallway of Monica's building. Phoebe and Rachel are trying to find the\ncat's owner.]",
@@ -799,12 +826,14 @@
             ],
             "location": "The hallway of Monica's building. Phoebe and Rachel are trying to find the\ncat's owner.",
             "subjects": [
-                "RACHEL",
+                "MR. HECKLES",
                 "PHOEBE",
-                "MR. HECKLES"
+                "RACHEL"
             ],
             "clip_start": "",
-            "clip_end": ""
+            "clip_end": "",
+            "srt_start": "",
+            "srt_end": ""
         },
         {
             "scene_description": "[Scene: Rachel has gone off on her own to look for the cat's owner.]",
@@ -828,7 +857,9 @@
                 "PAOLO"
             ],
             "clip_start": "",
-            "clip_end": ""
+            "clip_end": "",
+            "srt_start": "",
+            "srt_end": ""
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, Ross, Monica, and Joey are playing Monopoly .]",
@@ -924,14 +955,16 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "MONICA",
-                "RACHEL",
                 "PHOEBE",
+                "PAOLO",
+                "RACHEL",
                 "ROSS",
-                "PAOLO"
+                "MONICA"
             ],
-            "clip_start": "00:14:38,445",
-            "clip_end": "00:15:56,639"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:14:38,445",
+            "srt_end": "00:15:56,639"
         },
         {
             "scene_description": "[Scene: ATM vestibule.]",
@@ -967,11 +1000,13 @@
             ],
             "location": "ATM vestibule.",
             "subjects": [
-                "JILL",
-                "CHANDLER"
+                "CHANDLER",
+                "JILL"
             ],
-            "clip_start": "00:16:00,245",
-            "clip_end": "00:17:06,435"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:16:00,245",
+            "srt_end": "00:17:06,435"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, Rachel and Paolo are at the window. Ross and Joey are\nwatching disgustedly.]",
@@ -1091,14 +1126,16 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "MONICA",
-                "RACHEL",
                 "PHOEBE",
+                "PAOLO",
+                "RACHEL",
                 "ROSS",
-                "PAOLO"
+                "MONICA"
             ],
-            "clip_start": "00:17:28,285",
-            "clip_end": "00:19:30,999"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:17:28,285",
+            "srt_end": "00:19:30,999"
         },
         {
             "scene_description": "[Scene: ATM vestibule, Chandler and Jill are sitting below the counter with two pens\ndangling from their chains in front of them. Jill is showing Chandler how to swing the pen\naround his head.]",
@@ -1122,11 +1159,13 @@
             ],
             "location": "ATM vestibule",
             "subjects": [
-                "JILL",
-                "CHANDLER"
+                "CHANDLER",
+                "JILL"
             ],
-            "clip_start": "00:19:36,085",
-            "clip_end": "00:19:49,597"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:19:36,085",
+            "srt_end": "00:19:49,597"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, the gang is all sitting around the table.]",
@@ -1166,12 +1205,14 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "ROSS",
                 "PHOEBE",
-                "JOEY"
+                "JOEY",
+                "ROSS"
             ],
-            "clip_start": "00:19:54,845",
-            "clip_end": "00:20:41,999"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:19:54,845",
+            "srt_end": "00:20:41,999"
         },
         {
             "scene_description": "[Scene: ATM vestibule, the power has come back on.]",
@@ -1195,11 +1236,13 @@
             ],
             "location": "ATM vestibule",
             "subjects": [
-                "JILL",
-                "CHANDLER"
+                "CHANDLER",
+                "JILL"
             ],
-            "clip_start": "00:20:50,765",
-            "clip_end": "00:21:29,595"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:20:50,765",
+            "srt_end": "00:21:29,595"
         }
     ]
 }

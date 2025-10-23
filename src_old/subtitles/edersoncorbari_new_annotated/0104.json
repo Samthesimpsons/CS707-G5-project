@@ -56,15 +56,17 @@
             ],
             "location": "",
             "subjects": [
-                "CHANDLER",
-                "MONICA",
+                "PHOEBE",
+                "JOEY",
                 "RACHEL",
                 "ROSS",
-                "PHOEBE",
-                "JOEY"
+                "CHANDLER",
+                "MONICA"
             ],
-            "clip_start": "00:00:02,535",
-            "clip_end": "00:01:00,089"
+            "clip_start": "",
+            "clip_end": "",
+            "srt_start": "00:00:02,535",
+            "srt_end": "00:01:00,089"
         },
         {
             "scene_description": "[Scene: Central Perk, Ross and Monica are watching Phoebe\nsleep.]",
@@ -304,20 +306,22 @@
             ],
             "location": "Central Perk",
             "subjects": [
-                "GUYS",
-                "CHANDLER",
-                "CHECK IT OUT",
-                "MONICA",
-                "RACHEL",
-                "ROSS",
                 "PHOEBE",
                 "JOEY",
-                "KIKI",
                 "LESLIE",
-                "JOANNE"
+                "RACHEL",
+                "KIKI",
+                "ROSS",
+                "CHANDLER",
+                "JOANNE",
+                "GUYS",
+                "CHECK IT OUT",
+                "MONICA"
             ],
-            "clip_start": "00:01:52,245",
-            "clip_end": "00:06:51,603"
+            "clip_start": "00:00:00",
+            "clip_end": "06:09:00",
+            "srt_start": "00:01:52,245",
+            "srt_end": "00:06:51,603"
         },
         {
             "scene_description": "[Scene: A Street, Chandler and Joey are kicking a can to\neach other.]",
@@ -377,12 +381,14 @@
             ],
             "location": "A Street",
             "subjects": [
+                "CHANDLER",
                 "JOEY",
-                "ROSS",
-                "CHANDLER"
+                "ROSS"
             ],
-            "clip_start": "00:06:56,783",
-            "clip_end": "00:08:02,940"
+            "clip_start": "06:11:00",
+            "clip_end": "07:19:00",
+            "srt_start": "00:06:56,783",
+            "srt_end": "00:08:02,940"
         },
         {
             "scene_description": "[Scene: Central Perk, Rachel, Lesile, Kiki, and Joanne are\ntalking.]",
@@ -434,13 +440,15 @@
             ],
             "location": "Central Perk",
             "subjects": [
-                "KIKI",
                 "LESLIE",
+                "JOANNE",
                 "RACHEL",
-                "JOANNE"
+                "KIKI"
             ],
-            "clip_start": "00:08:03,850",
-            "clip_end": "00:09:05,971"
+            "clip_start": "07:20:00",
+            "clip_end": "08:23:00",
+            "srt_start": "00:08:03,850",
+            "srt_end": "00:09:05,971"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, Phoebe and Monica are in\npajamas and Monica is making something in the blender as Rachel enters.]",
@@ -504,12 +512,14 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "MONICA",
+                "PHOEBE",
                 "RACHEL",
-                "PHOEBE"
+                "MONICA"
             ],
-            "clip_start": "00:09:16,022",
-            "clip_end": "00:10:47,372"
+            "clip_start": "08:24:00",
+            "clip_end": "10:05:00",
+            "srt_start": "00:09:16,022",
+            "srt_end": "00:10:47,372"
         },
         {
             "scene_description": "[Scene: Madison Square Garden , the guys are trying\nto find their seats.]",
@@ -533,12 +543,14 @@
             ],
             "location": "Madison Square Garden",
             "subjects": [
+                "CHANDLER",
                 "JOEY",
-                "ROSS",
-                "CHANDLER"
+                "ROSS"
             ],
-            "clip_start": "00:10:55,521",
-            "clip_end": "00:11:21,977"
+            "clip_start": "10:07:00",
+            "clip_end": "10:38:00",
+            "srt_start": "00:10:55,521",
+            "srt_end": "00:11:21,977"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, they're all hanging out in the\nliving room.]",
@@ -618,12 +630,14 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "MONICA",
+                "PHOEBE",
                 "RACHEL",
-                "PHOEBE"
+                "MONICA"
             ],
-            "clip_start": "00:11:22,181",
-            "clip_end": "00:12:56,203"
+            "clip_start": "10:39:00",
+            "clip_end": "12:15:00",
+            "srt_start": "00:11:22,181",
+            "srt_end": "00:12:56,203"
         },
         {
             "scene_description": "[Scene: Madison Square Garden , the guys are\nwatching the game.]",
@@ -655,11 +669,13 @@
             ],
             "location": "Madison Square Garden",
             "subjects": [
-                "ROSS",
-                "CHANDLER"
+                "CHANDLER",
+                "ROSS"
             ],
-            "clip_start": "00:12:59,612",
-            "clip_end": "00:13:25,296"
+            "clip_start": "12:17:00",
+            "clip_end": "12:48:00",
+            "srt_start": "00:12:59,612",
+            "srt_end": "00:13:25,296"
         },
         {
             "scene_description": "[Scene: An Emergency Room, Chandler and Joey are leading\nRoss in.]",
@@ -703,13 +719,15 @@
             ],
             "location": "An Emergency Room",
             "subjects": [
-                "RECEPTIONIST",
                 "JOEY",
-                "ROSS",
-                "CHANDLER"
+                "CHANDLER",
+                "RECEPTIONIST",
+                "ROSS"
             ],
-            "clip_start": "00:13:36,215",
-            "clip_end": " 00:14:20,016"
+            "clip_start": "12:52:00",
+            "clip_end": "13:40:00",
+            "srt_start": "00:13:36,215",
+            "srt_end": " 00:14:20,016"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, the slumber party continues.]",
@@ -850,12 +868,14 @@
             "location": "Monica and Rachel's",
             "subjects": [
                 "PIZZA GUY",
-                "MONICA",
+                "PHOEBE",
                 "RACHEL",
-                "PHOEBE"
+                "MONICA"
             ],
-            "clip_start": "00:14:31,971",
-            "clip_end": "00:16:42,095"
+            "clip_start": "13:41:00",
+            "clip_end": "16:06:00",
+            "srt_start": "00:14:31,971",
+            "srt_end": "00:16:42,095"
         },
         {
             "scene_description": "[Scene: The Emergency Room, Joey is miming hockey pucks\nkitting foreheads.\u00a0 Chandler realises it's getting tense and goes to the receptionist\nagain.]",
@@ -869,8 +889,10 @@
             "subjects": [
                 "CHANDLER"
             ],
-            "clip_start": "00:16:57,082 ",
-            "clip_end": "00:17:24,067"
+            "clip_start": "16:07:00",
+            "clip_end": "17:16:00",
+            "srt_start": "00:16:57,082 ",
+            "srt_end": "00:17:24,067"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, the girls are all out on the\nbalcony.]",
@@ -914,13 +936,15 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "MONICA",
-                "RACHEL",
                 "PHOEBE",
-                "MONICA AND PHOEBE"
+                "RACHEL",
+                "MONICA AND PHOEBE",
+                "MONICA"
             ],
-            "clip_start": "00:17:58,010",
-            "clip_end": "00:18:26,094"
+            "clip_start": "17:18:00",
+            "clip_end": "18:14:00",
+            "srt_start": "00:17:58,010",
+            "srt_end": "00:18:26,094"
         },
         {
             "scene_description": "[Scene: The Emergency Room, Ross is still going on about\nhis first night with Carol.]",
@@ -980,12 +1004,14 @@
             ],
             "location": "The Emergency Room",
             "subjects": [
+                "CHANDLER",
                 "JOEY",
-                "ROSS",
-                "CHANDLER"
+                "ROSS"
             ],
-            "clip_start": "00:19:46,318",
-            "clip_end": "00:21:07,220"
+            "clip_start": "18:15:00",
+            "clip_end": "20:31:00",
+            "srt_start": "00:19:46,318",
+            "srt_end": "00:21:07,220"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, the girls are still out on the\nbalcony.]",
@@ -1073,12 +1099,14 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "MONICA",
+                "PHOEBE",
                 "RACHEL",
-                "PHOEBE"
+                "MONICA"
             ],
-            "clip_start": "00:21:08,867",
-            "clip_end": "00:22:26,803"
+            "clip_start": "20:33:00",
+            "clip_end": "21:53:00",
+            "srt_start": "00:21:08,867",
+            "srt_end": "00:22:26,803"
         },
         {
             "scene_description": "[Scene: The Emergency Room, Ross is absent.]",
@@ -1166,15 +1194,17 @@
             ],
             "location": "The Emergency Room",
             "subjects": [
-                "BOTH",
-                "RECEPTIONIST",
-                "CHANDLER",
-                "ROSS",
                 "JOEY",
-                "KID"
+                "RECEPTIONIST",
+                "ROSS",
+                "KID",
+                "CHANDLER",
+                "BOTH"
             ],
-            "clip_start": "00:22:29,614",
-            "clip_end": "00:23:53,694"
+            "clip_start": "21:55:00",
+            "clip_end": "23:21:00",
+            "srt_start": "00:22:29,614",
+            "srt_end": "00:23:53,694"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, Joey and the girls are playing\ntwister.]",
@@ -1238,14 +1268,16 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "CHANDLER",
-                "MONICA",
                 "RACHEL",
                 "ROSS",
-                "PHEEBS"
+                "CHANDLER",
+                "PHEEBS",
+                "MONICA"
             ],
-            "clip_start": "00:23:59,104",
-            "clip_end": "00:25:21,780"
+            "clip_start": "23:23:00",
+            "clip_end": "24:47:00",
+            "srt_start": "00:23:59,104",
+            "srt_end": "00:25:21,780"
         }
     ]
 }
