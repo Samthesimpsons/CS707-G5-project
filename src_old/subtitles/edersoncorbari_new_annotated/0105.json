@@ -43,8 +43,8 @@
                 "CHANDLER",
                 "MONICA"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:00:00",
+            "clip_end": "00:00:51",
             "srt_start": "00:00:02,871",
             "srt_end": "00:00:51,027"
         },
@@ -266,8 +266,8 @@
                 "ANGELA",
                 "MONICA"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:00:55",
+            "clip_end": "00:05:25",
             "srt_start": "00:01:44,471",
             "srt_end": "00:05:53,267"
         },
@@ -316,8 +316,8 @@
                 "JOEY",
                 "MONICA"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:05:27",
+            "clip_end": "00:06:34",
             "srt_start": "00:05:53,471",
             "srt_end": "00:06:42,661"
         },
@@ -378,8 +378,8 @@
                 "CHANDLER",
                 "ROSS"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:06:35",
+            "clip_end": "00:08:00",
             "srt_start": "00:06:51,431",
             "srt_end": "00:07:51,420"
         },
@@ -429,8 +429,8 @@
                 "ANGELA",
                 "MONICA"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:08:01",
+            "clip_end": "00:08:28",
             "srt_start": "00:07:56,071",
             "srt_end": "00:08:18,022"
         },
@@ -536,8 +536,8 @@
                 "JANICE",
                 "CHANDLER"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:08:29",
+            "clip_end": "10:32:00",
             "srt_start": "00:08:22,871",
             "srt_end": "00:09:59,419"
         },
@@ -663,8 +663,8 @@
                 "ROSS",
                 "WOMAN"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "10:34:00",
+            "clip_end": "13:40:00",
             "srt_start": "00:10:11,791",
             "srt_end": "00:12:58,422"
         },
@@ -707,8 +707,8 @@
                 "ANGELA",
                 "MONICA"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "13:41:00",
+            "clip_end": "14:08:00",
             "srt_start": "00:13:03,391",
             "srt_end": "00:13:22,501"
         },
@@ -749,8 +749,8 @@
                 "JOEY",
                 "BOB"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "14:09:00",
+            "clip_end": "14:54:00",
             "srt_start": "00:13:32,591",
             "srt_end": "00:14:09,346"
         },
@@ -787,8 +787,8 @@
                 "ANGELA",
                 "MONICA"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "14:55:00",
+            "clip_end": "15:24:00",
             "srt_start": "00:14:12,911",
             "srt_end": "00:14:37,385"
         },
@@ -814,8 +814,8 @@
                 "JANICE",
                 "CHANDLER"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "15:25:00",
+            "clip_end": "16:29:00",
             "srt_start": "00:14:42,431",
             "srt_end": "00:15:26,349"
         },
@@ -872,8 +872,8 @@
                 "RACHEL",
                 "ROSS"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "16:30:00",
+            "clip_end": "17:55:00",
             "srt_start": "00:15:30,791",
             "srt_end": "00:16:46,820"
         },
@@ -962,8 +962,8 @@
                 "JOEY",
                 "MONICA"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "17:56:00",
+            "clip_end": "19:39:00",
             "srt_start": "00:16:57,871",
             "srt_end": "00:18:29,828"
         },
@@ -1041,8 +1041,8 @@
                 "CHANDLER",
                 "PHOEBE"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "19:41:00",
+            "clip_end": "21:02:00",
             "srt_start": "00:18:35,791",
             "srt_end": "00:19:48,380"
         },
@@ -1110,14 +1110,14 @@
                     "text": "No."
                 }
             ],
-            "location": "The Launderama. Rachel is sorting her now-pink clothes.",
+            "location": "The Launderama",
             "subjects": [
                 "RACHEL",
                 "WOMAN",
                 "ROSS"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "21:04:00",
+            "clip_end": "22:17:00",
             "srt_start": "00:19:50,431",
             "srt_end": "00:20:58,827"
         },
@@ -1194,8 +1194,8 @@
                 "CHANDLER",
                 "MONICA"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "22:22:00",
+            "clip_end": "22:59:00",
             "srt_start": "00:21:03,031",
             "srt_end": "00:21:39,824"
         }

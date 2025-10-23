@@ -26,7 +26,7 @@
                     "text": "Vell, Eva, ve've done some excellent vork here, and I vould have to say, your pwoblem is qviiite clear. (He goes into a song and dance number.)"
                 }
             ],
-            "location": "",
+            "location": "The Theater",
             "subjects": [
                 "PHOEBE",
                 "JOEY",
@@ -34,8 +34,8 @@
                 "ROSS",
                 "CHANDLER"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:00:00",
+            "clip_end": "00:01:06",
             "srt_start": "00:00:05,505",
             "srt_end": "00:00:53,514"
         },
@@ -197,8 +197,8 @@
                 "CHANDLER",
                 "MONICA"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:01:07",
+            "clip_end": "04:25:00",
             "srt_start": "00:02:22,909",
             "srt_end": "00:05:06,430"
         },
@@ -391,8 +391,8 @@
                 "CHANDLER",
                 "MONICA"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "05:53:00",
+            "clip_end": "09:56:00",
             "srt_start": "00:07:17,003",
             "srt_end": "00:10:47,543"
         },
@@ -581,8 +581,8 @@
                 "CHANDLER",
                 "MONICA"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "09:58:00",
+            "clip_end": "14:32:00",
             "srt_start": "00:10:58,658",
             "srt_end": "00:15:19,508"
         },
@@ -665,8 +665,8 @@
                 "RACHEL",
                 "MONICA"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "14:35:00",
+            "clip_end": "16:03:00",
             "srt_start": "00:15:29,328",
             "srt_end": "00:16:52,309"
         },
@@ -731,8 +731,8 @@
                 "DIRECTOR",
                 "JOEY"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "16:04:00",
+            "clip_end": "17:27:00",
             "srt_start": "00:17:03,555",
             "srt_end": "00:18:14,850"
         },
@@ -885,8 +885,8 @@
                 "CHANDLER",
                 "AURORA"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "17:29:00",
+            "clip_end": "20:12:00",
             "srt_start": "00:18:21,166",
             "srt_end": "00:20:53,612"
         },
@@ -1007,8 +1007,8 @@
                 "CHANDLER",
                 "MONICA"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "20:15:00",
+            "clip_end": "22:42:00",
             "srt_start": "00:21:05,731",
             "srt_end": "00:23:26,166"
         },
@@ -1024,8 +1024,8 @@
             "subjects": [
                 "MONICA"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "22:45:00",
+            "clip_end": "23:50:00",
             "srt_start": "00:23:37,949 ",
             "srt_end": "00:24:37,741"
         }

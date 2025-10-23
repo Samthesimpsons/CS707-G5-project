@@ -42,14 +42,13 @@
                     "text": "Well yeah! ...Oh God. I- just- I thought- Good, Shelley. I'm just gonna go flush myself down the toilet now...(backs out of the room) Okay, goodbye..."
                 }
             ],
-            "location": "",
+            "location": "Chandler's Office",
             "subjects": [
                 "SHELLEY",
-                "CHANDLER",
-                "SHELLY"
+                "CHANDLER"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:00:02",
+            "clip_end": "00:00:48",
             "srt_start": "00:00:06,639",
             "srt_end": "00:00:47,839"
         },
@@ -162,8 +161,8 @@
                 "CHANDLER",
                 "MONICA"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:00:49",
+            "clip_end": "00:03:23",
             "srt_start": "00:01:37,464",
             "srt_end": "00:04:06,311"
         },
@@ -308,8 +307,8 @@
                 "NURSE",
                 "MONICA"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:03:24",
+            "clip_end": "00:06:19",
             "srt_start": "00:04:22,528",
             "srt_end": "00:06:59,910"
         },
@@ -398,8 +397,8 @@
                 "CHANDLER",
                 "MONICA"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:06:23",
+            "clip_end": "00:08:13",
             "srt_start": "00:07:09,729",
             "srt_end": "00:08:54,099"
         },
@@ -432,8 +431,8 @@
                 "MRS. GELLER",
                 "ROSS"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:09:00",
+            "clip_end": "00:09:38",
             "srt_start": "00:09:41,948",
             "srt_end": "00:10:17,743"
         },
@@ -490,8 +489,8 @@
                 "MR. GELLER",
                 "MONICA"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:09:44",
+            "clip_end": "00:10:37",
             "srt_start": "00:10:26,692",
             "srt_end": "00:11:15,566"
         },
@@ -564,8 +563,8 @@
                 "CHANDLER",
                 "SHELLEY"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:10:41",
+            "clip_end": "00:12:00",
             "srt_start": "00:11:27,453",
             "srt_end": "00:12:39,981"
         },
@@ -651,8 +650,8 @@
                 "AUNT LILLIAN",
                 "ROSS"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:12:01",
+            "clip_end": "00:13:45",
             "srt_start": "00:12:41,327",
             "srt_end": "00:14:11,975"
         },
@@ -717,8 +716,8 @@
                 "CHANDLER",
                 "MONICA"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:13:49",
+            "clip_end": "00:14:31",
             "srt_start": "00:14:39,545",
             "srt_end": "00:15:05,597"
         },
@@ -792,8 +791,8 @@
                 "CHANDLER",
                 "MONICA"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:14:33",
+            "clip_end": "00:15:59",
             "srt_start": "00:15:17,349",
             "srt_end": "00:16:35,115"
         },
@@ -1009,8 +1008,8 @@
                 "ANDREA",
                 "MONICA"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:16:00",
+            "clip_end": "00:20:53",
             "srt_start": "00:16:43,302",
             "srt_end": "00:21:27,013"
         },
@@ -1074,8 +1073,8 @@
                 "CHANDLER",
                 "MONICA"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:20:59",
+            "clip_end": "00:22:11",
             "srt_start": "00:21:40,565",
             "srt_end": "00:22:41,389"
         },
@@ -1148,8 +1147,8 @@
                 "LOWELL",
                 "CHANDLER"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:22:15",
+            "clip_end": "00:23:27",
             "srt_start": "00:22:51,903",
             "srt_end": "00:23:59,265"
         }

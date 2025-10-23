@@ -66,8 +66,8 @@
                 "CHANDLER",
                 "MONICA"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:00:05",
+            "clip_end": "00:01:16",
             "srt_start": "",
             "srt_end": ""
         },
@@ -231,8 +231,8 @@
                 "DAVID",
                 "MONICA"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:01:18",
+            "clip_end": "00:05:23",
             "srt_start": "",
             "srt_end": ""
         },
@@ -357,8 +357,8 @@
                 "CHANDLER",
                 "MONICA"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:05:25",
+            "clip_end": "00:08:07",
             "srt_start": "",
             "srt_end": ""
         },
@@ -435,8 +435,8 @@
                 "PHOEBE",
                 "DAVID"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:08:12",
+            "clip_end": "00:09:59",
             "srt_start": "",
             "srt_end": ""
         },
@@ -610,8 +610,8 @@
                 "CHANDLER",
                 "MONICA"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:10:05",
+            "clip_end": "00:12:26",
             "srt_start": "",
             "srt_end": ""
         },
@@ -721,8 +721,8 @@
                 "PHOEBE",
                 "DAVID"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:12:29",
+            "clip_end": "00:13:50",
             "srt_start": "",
             "srt_end": ""
         },
@@ -1037,8 +1037,8 @@
                 "FUN BOBBY",
                 "SANDY"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:13:52",
+            "clip_end": "00:22:19",
             "srt_start": "",
             "srt_end": ""
         },
@@ -1059,8 +1059,8 @@
                 "RACHEL",
                 "ROSS"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:22:25",
+            "clip_end": "00:24:27",
             "srt_start": "",
             "srt_end": ""
         }

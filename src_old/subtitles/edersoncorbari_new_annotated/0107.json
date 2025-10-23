@@ -19,8 +19,8 @@
                 "PHOEBE",
                 "RACHEL"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:00:02",
+            "clip_end": "00:00:30",
             "srt_start": "00:00:02,245",
             "srt_end": "00:00:29,404"
         },
@@ -36,8 +36,8 @@
             "subjects": [
                 "CHANDLER"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:00:32",
+            "clip_end": "00:00:42",
             "srt_start": "00:00:41,605",
             "srt_end": "00:00:43,960"
         },
@@ -75,8 +75,8 @@
                 "RACHEL",
                 "MONICA"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:49:00",
+            "clip_end": "00:01:23",
             "srt_start": "00:01:38,485",
             "srt_end": "00:02:10,957"
         },
@@ -117,8 +117,8 @@
                 "CHANDLER",
                 "JILL"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:01:25",
+            "clip_end": "00:02:20",
             "srt_start": "00:02:12,605",
             "srt_end": "00:03:00,924"
         },
@@ -153,8 +153,8 @@
                 "RACHEL",
                 "ROSS"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:02:22",
+            "clip_end": "00:03:00",
             "srt_start": "00:03:09,685",
             "srt_end": "00:03:44,202"
         },
@@ -187,8 +187,8 @@
                 "CHANDLER",
                 "JILL"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:03:03",
+            "clip_end": "00:04:18",
             "srt_start": "00:03:45,765",
             "srt_end": "00:04:19,197"
         },
@@ -250,8 +250,8 @@
                 "JOEY",
                 "MONICA"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:04:19",
+            "clip_end": "00:05:20",
             "srt_start": "00:04:23,605",
             "srt_end": "00:05:18,004"
         },
@@ -487,8 +487,8 @@
                 "ROSS",
                 "MONICA"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:05:22",
+            "clip_end": "00:10:40",
             "srt_start": "00:05:21,485",
             "srt_end": "00:09:42,399"
         },
@@ -519,11 +519,10 @@
             "location": "ATM vestibule.",
             "subjects": [
                 "CHANDLER",
-                "JILL",
-                "MENTAL NOTE"
+                "JILL"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:10:41",
+            "clip_end": "00:11:03",
             "srt_start": "00:09:47,085",
             "srt_end": "00:10:05,998"
         },
@@ -662,8 +661,8 @@
                 "MONICA",
                 "ROSS"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:11:08",
+            "clip_end": "00:13:23",
             "srt_start": "00:10:08,245",
             "srt_end": "00:11:49,076"
         },
@@ -709,12 +708,12 @@
             ],
             "location": "Monica and Rachel's Balcony",
             "subjects": [
-                "AND PHOEBE",
+                "PHOEBE",
                 "RACHEL",
                 "ROSS"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:13:25",
+            "clip_end": "00:14:35",
             "srt_start": "00:11:54,485",
             "srt_end": "00:12:45,561"
         },
@@ -754,8 +753,8 @@
                 "ROSS",
                 "MONICA"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:14:40",
+            "clip_end": "00:15:03",
             "srt_start": "00:12:47,285",
             "srt_end": "00:13:06,884"
         },
@@ -771,8 +770,8 @@
             "subjects": [
                 "CHANDLER"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:15:05",
+            "clip_end": "00:15:28",
             "srt_start": "00:13:11,085",
             "srt_end": "00:13:30,558"
         },
@@ -830,8 +829,8 @@
                 "PHOEBE",
                 "RACHEL"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:15:30",
+            "clip_end": "00:16:13",
             "srt_start": "",
             "srt_end": ""
         },
@@ -856,8 +855,8 @@
                 "RACHEL",
                 "PAOLO"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:16:15",
+            "clip_end": "00:16:35",
             "srt_start": "",
             "srt_end": ""
         },
@@ -961,8 +960,8 @@
                 "ROSS",
                 "MONICA"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:16:38",
+            "clip_end": "00:18:19",
             "srt_start": "00:14:38,445",
             "srt_end": "00:15:56,639"
         },
@@ -1003,8 +1002,8 @@
                 "CHANDLER",
                 "JILL"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:18:20",
+            "clip_end": "00:19:32",
             "srt_start": "00:16:00,245",
             "srt_end": "00:17:06,435"
         },
@@ -1132,8 +1131,8 @@
                 "ROSS",
                 "MONICA"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:19:33",
+            "clip_end": "00:22:11",
             "srt_start": "00:17:28,285",
             "srt_end": "00:19:30,999"
         },
@@ -1162,8 +1161,8 @@
                 "CHANDLER",
                 "JILL"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:22:12",
+            "clip_end": "00:22:31",
             "srt_start": "00:19:36,085",
             "srt_end": "00:19:49,597"
         },
@@ -1209,8 +1208,8 @@
                 "JOEY",
                 "ROSS"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:22:32",
+            "clip_end": "00:23:26",
             "srt_start": "00:19:54,845",
             "srt_end": "00:20:41,999"
         },
@@ -1239,8 +1238,8 @@
                 "CHANDLER",
                 "JILL"
             ],
-            "clip_start": "",
-            "clip_end": "",
+            "clip_start": "00:23:31",
+            "clip_end": "00:24:12",
             "srt_start": "00:20:50,765",
             "srt_end": "00:21:29,595"
         }
