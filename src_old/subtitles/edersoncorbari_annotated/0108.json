@@ -1,0 +1,1156 @@
+{
+    "episode": "0108",
+    "title": "The One Where Nana Dies Twice",
+    "scenes": [
+        {
+            "scene_description": "Episode dialogue",
+            "dialogue": [
+                {
+                    "speaker": "SHELLY",
+                    "text": "Hey gorgeous, how's it going?"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Dehydrated Japanese noodles under fluorescent lights... does it get better than this?"
+                },
+                {
+                    "speaker": "SHELLEY",
+                    "text": "Question. You're not dating anybody, are you, because I met somebody who would be perfect for you."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Ah, y'see, perfect might be a problem. Had you said 'co-dependent', or 'self-destructive'..."
+                },
+                {
+                    "speaker": "SHELLEY",
+                    "text": "Do you want a date Saturday?"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Yes please."
+                },
+                {
+                    "speaker": "SHELLEY",
+                    "text": "Okay. He's cute, he's funny, he's-"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "He's a he?"
+                },
+                {
+                    "speaker": "SHELLEY",
+                    "text": "Well yeah! ...Oh God. I- just- I thought- Good, Shelley. I'm just gonna go flush myself down the toilet now...(backs out of the room) Okay, goodbye..."
+                }
+            ],
+            "location": "Chandler's Office",
+            "subjects": [
+                "SHELLEY",
+                "CHANDLER"
+            ],
+            "clip_start": "00:00:02",
+            "clip_end": "00:00:48",
+            "srt_start": "00:00:06,639",
+            "srt_end": "00:00:47,839"
+        },
+        {
+            "scene_description": "[Scene: Monica and Rachel's, everyone is there.)",
+            "dialogue": [
+                {
+                    "speaker": "CHANDLER",
+                    "text": "...Couldn't enjoy a cup of noodles after that. I mean, is that ridiculous? Can you believe she actually thought that?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Um... yeah. Well, I mean, when I first met you, y'know, I thought maybe, possibly, you might be..."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "You did?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Yeah, but then you spent Phoebe's entire birthday party talking to my breasts, so then I figured maybe not."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Huh. Did, uh... any of the rest of you guys think that when you first met me?"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "I did."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Yeah, I think so, yeah."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Not me."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Nono, me neither. Although, uh, y'know, back in college, Susan Sallidor did."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "You're kidding! Did you tell her I wasn't?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "No. No, it's just 'cause, uh, I kinda wanted to go out with her too, so I told her, actually, you were seeing Bernie Spellman... who also liked her, so..."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Well, this is fascinating. So, uh, what is it about me?"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "I dunno, 'cause you're smart, you're funny..."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Ross is smart and funny, d'you ever think that about him?"
+                },
+                {
+                    "speaker": "ALL",
+                    "text": "Yeah! Right!"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "WHAT IS IT?!"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Okay, I-I d'know, you-you just- you have a quality."
+                },
+                {
+                    "speaker": "ALL",
+                    "text": "Yes. Absolutely. A quality."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Oh, oh, a quality, good, because I was worried you guys were gonna be vague about this."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Hello? Hello? Oh! Rachel, it's Paolo calling from Rome."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Oh my God! Calling from Rome! (Takes phone) Bon giorno, caro mio."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "(to Joey) So he's calling from Rome. I could do that. Just gotta go to Rome."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Monica, your dad just beeped in, but can you make it quick? Talking to Rome. (Showing off to Phoebe and Chandler) I'm talking to Rome."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Hey dad, what's up? (Listens) Oh God. Ross, it's Nana."
+                }
+            ],
+            "location": "Monica and Rachel's",
+            "subjects": [
+                "PHOEBE",
+                "JOEY",
+                "RACHEL",
+                "ROSS",
+                "CHANDLER",
+                "MONICA"
+            ],
+            "clip_start": "00:00:49",
+            "clip_end": "00:03:23",
+            "srt_start": "00:01:37,464",
+            "srt_end": "00:04:06,311"
+        },
+        {
+            "scene_description": "[Scene: The Hospital, Mr. and Mrs. Geller are there, along with Aunt Lillian. Ross and\nMonica enter and everyone says hi and kisses.)",
+            "dialogue": [
+                {
+                    "speaker": "ROSS",
+                    "text": "So, uh, how's she doing?"
+                },
+                {
+                    "speaker": "AUNT LILLIAN",
+                    "text": "The doctor says it's a matter of hours."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "How-how are you, Mom?"
+                },
+                {
+                    "speaker": "MRS. GELLER",
+                    "text": "Me? I'm fine, fine. I'm glad you're here. ...What's with your hair?"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "What?"
+                },
+                {
+                    "speaker": "MRS. GELLER",
+                    "text": "What's different?"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Nothing."
+                },
+                {
+                    "speaker": "MRS. GELLER",
+                    "text": "Oh, maybe that's it."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "She is unbelievable, our mother is..."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Okay, relax, relax. We are gonna be here for a while, it looks like, and we still have boyfriends and your career to cover."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Oh God!"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "The fuzzy little mints at the bottom of her purse."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Oh! ...Yeah, they were gross. Oh, you know what I loved? Her Sweet 'n' Los. How she was always stealing them from- from restaurants."
+                },
+                {
+                    "speaker": "MR. GELLER",
+                    "text": "Not just restaurants, from our house."
+                },
+                {
+                    "speaker": "NURSE",
+                    "text": "Mrs. Geller?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "She looks so small."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "I know."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Well, at least she's with Pop-Pop and Aunt Phyllis now."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "G'bye, Nana. (She kisses her on the forehead.)"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Bye, Nana."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Ross!"
+                },
+                {
+                    "speaker": "MRS. GELLER",
+                    "text": "What is going on?!"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Y'know how-how the nurse said that-that Nana had passed? Well, she's not, quite.."
+                },
+                {
+                    "speaker": "MRS. GELLER",
+                    "text": "What?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "She's not- past, she's present, she's back."
+                },
+                {
+                    "speaker": "AUNT LILLIAN",
+                    "text": "(reentering) What's going on?"
+                },
+                {
+                    "speaker": "MR. GELLER",
+                    "text": "She may have died."
+                },
+                {
+                    "speaker": "AUNT LILLIAN",
+                    "text": "She may have died?"
+                },
+                {
+                    "speaker": "MR. GELLER",
+                    "text": "We're looking into it."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "I, uh, I'll go see. (He goes in)"
+                },
+                {
+                    "speaker": "NURSE",
+                    "text": "This almost never happens!"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Now she's passed."
+                }
+            ],
+            "location": "The Hospital",
+            "subjects": [
+                "MRS. GELLER",
+                "AUNT LILLIAN",
+                "ROSS",
+                "MR. GELLER",
+                "NURSE",
+                "MONICA"
+            ],
+            "clip_start": "00:03:24",
+            "clip_end": "00:06:19",
+            "srt_start": "00:04:22,528",
+            "srt_end": "00:06:59,910"
+        },
+        {
+            "scene_description": "[Scene: Central Perk, Chandler, Phoebe, Joey, and Rachel are there.]",
+            "dialogue": [
+                {
+                    "speaker": "CHANDLER",
+                    "text": "I just have to know, okay. Is it my hair?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "(exasperated) Yes, Chandler, that's exactly what it is. It's your hair."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Yeah, you have homosexual hair."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "So, um, did she..."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Twice."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Twice?"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Oh, that sucks!"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "You guys okay?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "I dunno, it's weird. I mean, I know she's gone, but I just don't feel, uh..."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Maybe that's 'cause she's not really gone."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Nono, she's gone."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "We checked. A lot."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Hm, I mean maybe no-one ever really goes. Ever since my mom died, every now and then, I get the feeling that she's like right here, y'know? (She circles her hand around her right shoulder. Chandler, sitting on her right, draws back nervously) Oh! And Debbie, my best friend from junior high- got struck by lightning on a miniature golf course- I always get this really strong Debbie vibe whenever I use one of those little yellow pencils, y'know? ...I miss her."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Aw. Hey, Pheebs, want this? (Gives her a pencil)"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Thanks!"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Sure. I just sharpened her this morning."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Now, see, I don't believe any of that. I think once you're dead, you're dead! You're gone! You're worm food! (realises his tactlessness) ...So Chandler looks gay, huh?"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Y'know, I dunno who this is, but it's not Debbie. (Hands back the pencil)"
+                }
+            ],
+            "location": "Central Perk",
+            "subjects": [
+                "PHOEBE",
+                "JOEY",
+                "RACHEL",
+                "ROSS",
+                "CHANDLER",
+                "MONICA"
+            ],
+            "clip_start": "00:06:23",
+            "clip_end": "00:08:13",
+            "srt_start": "00:07:09,729",
+            "srt_end": "00:08:54,099"
+        },
+        {
+            "scene_description": "[Scene: Nana's house, Ross, Mrs. Geller and Aunt Lillian are going through clothes.]",
+            "dialogue": [
+                {
+                    "speaker": "ROSS",
+                    "text": "I thought it was gonna be a closed casket."
+                },
+                {
+                    "speaker": "MRS. GELLER",
+                    "text": "Well, that doesn't mean she can't look nice!"
+                },
+                {
+                    "speaker": "MRS. GELLER",
+                    "text": "Sweetie, you think you can get in there?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "(sarcastic) I don't see why not."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Here's my retainer!"
+                }
+            ],
+            "location": "Nana's house",
+            "subjects": [
+                "MRS. GELLER",
+                "ROSS"
+            ],
+            "clip_start": "00:09:00",
+            "clip_end": "00:09:38",
+            "srt_start": "00:09:41,948",
+            "srt_end": "00:10:17,743"
+        },
+        {
+            "scene_description": "[Scene: Monica and Rachel's, Monica is talking to her father.]",
+            "dialogue": [
+                {
+                    "speaker": "MR. GELLER",
+                    "text": "I was just thinking. When my time comes-"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Dad!"
+                },
+                {
+                    "speaker": "MR. GELLER",
+                    "text": "Listen to me! When my time comes, I wanna be buried at sea."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "You what?"
+                },
+                {
+                    "speaker": "MR. GELLER",
+                    "text": "I wanna be buried at sea, it looks like fun."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Define fun."
+                },
+                {
+                    "speaker": "MR. GELLER",
+                    "text": "C'mon, you'll make a day of it! You'll rent a boat, pack a lunch..."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "...And then we throw your body in the water... Gee, that does sound fun."
+                },
+                {
+                    "speaker": "MR. GELLER",
+                    "text": "Everyone thinks they know me. Everyone says 'Jack Geller, so predictable'. Maybe after I'm gone, they'll say 'Buried at sea! Huh!'."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "That's probably what they'll say."
+                },
+                {
+                    "speaker": "MR. GELLER",
+                    "text": "I'd like that."
+                }
+            ],
+            "location": "Monica and Rachel's",
+            "subjects": [
+                "MR. GELLER",
+                "MONICA"
+            ],
+            "clip_start": "00:09:44",
+            "clip_end": "00:10:37",
+            "srt_start": "00:10:26,692",
+            "srt_end": "00:11:15,566"
+        },
+        {
+            "scene_description": "[Scene: Chandler's Office, Shelley is drinking coffee; Chandler enters.]",
+            "dialogue": [
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Hey, gorgeous."
+                },
+                {
+                    "speaker": "SHELLEY",
+                    "text": "(sheepish) Hey. Look, I'm sorry about yesterday, I, um-"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "No, nono, don't- don't worry about it. Believe me, apparently other people have made the same mistake."
+                },
+                {
+                    "speaker": "SHELLEY",
+                    "text": "Oh! Okay! Phew!"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "So, uh... what do you think it is about me?"
+                },
+                {
+                    "speaker": "SHELLEY",
+                    "text": "I dunno, uh... you just have a-a..."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "...Quality, right, great."
+                },
+                {
+                    "speaker": "SHELLEY",
+                    "text": "Y'know, it's a shame, because you and Lowell would've made a great couple."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Lowell? Financial Services' Lowell, that's who you saw me with?"
+                },
+                {
+                    "speaker": "SHELLEY",
+                    "text": "What? He's cute!"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Well, yeah... 's'no Brian in Payroll."
+                },
+                {
+                    "speaker": "SHELLEY",
+                    "text": "Is Brian...?"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "No! Uh, I d'know! The point is, if you were gonna set me up with someone, I'd like to think you'd set me up with someone like him."
+                },
+                {
+                    "speaker": "SHELLEY",
+                    "text": "Well, I think Brian's a little out of your league."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Excuse me? You don't think I could get a Brian? Because I could get a Brian. Believe you me. ...I'm really not."
+                }
+            ],
+            "location": "Chandler's Office",
+            "subjects": [
+                "CHANDLER",
+                "SHELLEY"
+            ],
+            "clip_start": "00:10:41",
+            "clip_end": "00:12:00",
+            "srt_start": "00:11:27,453",
+            "srt_end": "00:12:39,981"
+        },
+        {
+            "scene_description": "[Scene: Nana's Bedroom, Ross is holding a dress out from inside the closet.]",
+            "dialogue": [
+                {
+                    "speaker": "ROSS",
+                    "text": "(holding a dress out from inside the closet) This one?"
+                },
+                {
+                    "speaker": "AUNT LILLIAN",
+                    "text": "No."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "I have shown you everything we have. Unless you want your mother to spend eternity in a lemon yellow pant-suit, go with the burgundy."
+                },
+                {
+                    "speaker": "AUNT LILLIAN",
+                    "text": "You know, whatever we pick, she would've told us it's the wrong one."
+                },
+                {
+                    "speaker": "MRS. GELLER",
+                    "text": "You're right. We'll go with the burgundy."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Oh! A fine choice. I'm coming out. (Starts to climb over the furniture)"
+                },
+                {
+                    "speaker": "AUNT LILLIAN",
+                    "text": "Wait! We need shoes!"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Okay. Um, how about these? (Holds out a pair)"
+                },
+                {
+                    "speaker": "MRS. GELLER",
+                    "text": "That's really a day shoe."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "And where she's going everyone else'll be dressier?"
+                },
+                {
+                    "speaker": "AUNT LILLIAN",
+                    "text": "Could we see something in a slimmer heel?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "(forages around) Okay, I have nothing in an evening shoe in the burgundy. I can show you something in a silver that may work."
+                },
+                {
+                    "speaker": "AUNT LILLIAN",
+                    "text": "No, it really should be burgundy."
+                },
+                {
+                    "speaker": "MRS. GELLER",
+                    "text": "Mm. Unless we go with a different dress?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "No! Nonono, wait a sec. I may have something in the back."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Oh my God.."
+                },
+                {
+                    "speaker": "MRS. GELLER",
+                    "text": "Is everything all right, dear?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Yeah, just... just Nana stuff."
+                }
+            ],
+            "location": "Nana's Bedroom",
+            "subjects": [
+                "MRS. GELLER",
+                "AUNT LILLIAN",
+                "ROSS"
+            ],
+            "clip_start": "00:12:01",
+            "clip_end": "00:13:45",
+            "srt_start": "00:12:41,327",
+            "srt_end": "00:14:11,975"
+        },
+        {
+            "scene_description": "[Scene: Monica and Rachel's, Monica and Rachel are preparing to leave for the funeral.]",
+            "dialogue": [
+                {
+                    "speaker": "ROSS",
+                    "text": "(entering) How we doing, you guys ready?"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Mom already called this morning to remind me not to wear my hair up. Did you know my ears are not my best feature?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Some days it's all I can think about."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "(entering) Hi, sorry I'm late, I couldn't find my bearings."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Oh, you-you mean your earrings?"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "What'd I say?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "(sticking her foot out) Hm-m."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Are these the shoes?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Yes. Paolo sent them from Italy."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "What, we-uh- we don't have shoes here, or...?"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "(entering with Chandler) Morning. We ready to go?"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Well, don't we look nice all dressed up?...It's stuff like that, isn't it?"
+                }
+            ],
+            "location": "Monica and Rachel's",
+            "subjects": [
+                "PHOEBE",
+                "JOEY",
+                "RACHEL",
+                "ROSS",
+                "CHANDLER",
+                "MONICA"
+            ],
+            "clip_start": "00:13:49",
+            "clip_end": "00:14:31",
+            "srt_start": "00:14:39,545",
+            "srt_end": "00:15:05,597"
+        },
+        {
+            "scene_description": "[Scene: The cemetary, after the funeral.]",
+            "dialogue": [
+                {
+                    "speaker": "MONICA",
+                    "text": "It was a really beautiful service."
+                },
+                {
+                    "speaker": "MRS. GELLER",
+                    "text": "It really was. Oh, c'mere, sweetheart. (Hugs her) Y'know, I think it might be time for you to start using night cream."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "What?"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Nothing, just your overcoat sounds remarkably like Brent Mussberger."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Check it out, Giants-Cowboys. (He has a pocket TV)"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "You're watching a football game at a funeral?"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "No, it's the pre-game. I'm gonna watch it at the reception."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "You are a frightening, frightening man."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Oh no! My new Paolo shoes!"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Oh, I hope they're not ruined."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "God, what a great day. ...What? Weather-wise!"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "I know, uh, the air, the-the trees... even though Nana's gone there's, there's something almost, uh- I dunno, almost life-aff- (Not looking where he is going he falls into an open grave)"
+                },
+                {
+                    "speaker": "ALL",
+                    "text": "God! Ross!"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "I'm fine. Just-just... having my worst fear realised..."
+                }
+            ],
+            "location": "The cemetary",
+            "subjects": [
+                "PHOEBE",
+                "MRS. GELLER",
+                "JOEY",
+                "RACHEL",
+                "ROSS",
+                "CHANDLER",
+                "MONICA"
+            ],
+            "clip_start": "00:14:33",
+            "clip_end": "00:15:59",
+            "srt_start": "00:15:17,349",
+            "srt_end": "00:16:35,115"
+        },
+        {
+            "scene_description": "[Scene: The Wake, at the Gellers' house. Ross is lying on his back, with Phoebe\nsquatting over him, checking to see if he's injured.]",
+            "dialogue": [
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Okay, don't worry, I'm just checking to see if the muscle's in spasm...huh."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "What, what is it?"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "You missed a belt loop."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Oh! No-n-"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Okay, it's in spasm."
+                },
+                {
+                    "speaker": "MRS. GELLER",
+                    "text": "Here, sweetie, here. I took these when I had my golfing accident. (Hands Ross a bottle of pills. Then turns to Monica and pats her hair over her ears)"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Oh, no-"
+                },
+                {
+                    "speaker": "ANDREA",
+                    "text": "Sorry- Hi, I'm Dorothy's daughter."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Hi, I'm Chandler, and I have no idea who Dorothy is."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Hey, look who's up! How do you feel?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "I feel great. I feel- great, I fleel great."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Wow, those pills really worked, huh?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Not the first two, but the second two- woooo! ...I love you guys. You guys are the greatest. I love my sister (Kisses Monica), I love Pheebs... (Hugs her)"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Ooh! That's so nice..."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "...Chandler!"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Hey."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "(hugs him) And listen, man, if you wanna be gay, be gay. Doesn't matter to me."
+                },
+                {
+                    "speaker": "ANDREA",
+                    "text": "(turns to a friend) You were right. (They walk off and leave Chandler.)"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Rachel. Rachel Rachel. (Sits down beside her) I love you the most."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "(humouring him) Oh, well you know who I love the most?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "No."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "You!"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Oh.. you don't get it! (Passes out and slumps across her)"
+                },
+                {
+                    "speaker": "MR. GELLER",
+                    "text": "Whaddya got there?"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "(hides the TV, but he still has an earphone) Just a, uh... hearing disability."
+                },
+                {
+                    "speaker": "MR. GELLER",
+                    "text": "What's the score?"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Seventeen-fourteen Giants... three minutes to go in the third."
+                },
+                {
+                    "speaker": "MR. GELLER",
+                    "text": "Beautiful! (Turns to watch with him)"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "(still trapped under Ross) Pheebs, could you maybe hand me a cracker?"
+                },
+                {
+                    "speaker": "MRS. GELLER",
+                    "text": "(to Monica) Your grandmother would have hated this."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Well, sure, what with it being her funeral and all."
+                },
+                {
+                    "speaker": "MRS. GELLER",
+                    "text": "No, I'd be hearing about 'Why didn't I get the honey-glazed ham?', I didn't spend enough on flowers, and if I spent more she'd be saying 'Why are you wasting your money? I don't need flowers, I'm dead'."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "That sounds like Nana."
+                },
+                {
+                    "speaker": "MRS. GELLER",
+                    "text": "Do you know what it's like to grow up with someone who is critical of every single thing you say?"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "...I can imagine."
+                },
+                {
+                    "speaker": "MRS. GELLER",
+                    "text": "I'm telling you, it's a wonder your mother turned out to be the positive, life-affirming person that she is."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "That is a wonder. So tell me something, Mom. If you had to do it all over again, I mean, if she was here right now, would you tell her?"
+                },
+                {
+                    "speaker": "MRS. GELLER",
+                    "text": "Tell her what?"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "How she drove you crazy, picking on every little detail, like your hair... for example."
+                },
+                {
+                    "speaker": "MRS. GELLER",
+                    "text": "I'm not sure I know what you're getting at."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Do you think things would have been better if you'd just told her the truth?"
+                },
+                {
+                    "speaker": "MRS. GELLER",
+                    "text": "...No. I think some things are better left unsaid. I think it's nicer when people just get along."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Huh."
+                },
+                {
+                    "speaker": "MRS. GELLER",
+                    "text": "More wine, dear?"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Oh, I think so."
+                },
+                {
+                    "speaker": "MRS. GELLER",
+                    "text": "(reaches out to fiddle with Monica's hair again, and realises) Those earrings look really lovely on you."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Thank you. They're yours."
+                },
+                {
+                    "speaker": "MRS. GELLER",
+                    "text": "Actually they were Nana's."
+                },
+                {
+                    "speaker": "MR. GELLER",
+                    "text": "Now I'm depressed! ...(To everyone) Even more than I was."
+                }
+            ],
+            "location": "The Wake",
+            "subjects": [
+                "PHOEBE",
+                "MRS. GELLER",
+                "JOEY",
+                "RACHEL",
+                "ROSS",
+                "MR. GELLER",
+                "CHANDLER",
+                "ANDREA",
+                "MONICA"
+            ],
+            "clip_start": "00:16:00",
+            "clip_end": "00:20:53",
+            "srt_start": "00:16:43,302",
+            "srt_end": "00:21:27,013"
+        },
+        {
+            "scene_description": "[Scene: Central Perk, the gang are looking at old photos.]",
+            "dialogue": [
+                {
+                    "speaker": "RACHEL",
+                    "text": "Hey, who's this little naked guy?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "That little naked guy would be me."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Aww, look at the little thing."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Yes, yes, fine, that is my penis. Can we be grown-ups now?"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Who are those people?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Got me."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Oh, that's Nana, right there in the middle. (Reads the back) 'Me and the gang at Java Joe's'."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Wow, Monica, you look just like your grandmother. How old was she there?"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Let's see, 1939... yeah, 24, 25?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Looks like a fun gang. (They all look at each other and smile)"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Ooh, look-look-look-look-look! I got Monica naked!"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "(looking) Nono, that would be me again. I'm, uh, just trying something."
+                }
+            ],
+            "location": "Central Perk",
+            "subjects": [
+                "JOEY",
+                "RACHEL",
+                "ROSS",
+                "CHANDLER",
+                "MONICA"
+            ],
+            "clip_start": "00:20:59",
+            "clip_end": "00:22:11",
+            "srt_start": "00:21:40,565",
+            "srt_end": "00:22:41,389"
+        },
+        {
+            "scene_description": "[Scene: Chandler's Office, Chandler is on a coffee break as Lowell enters.]",
+            "dialogue": [
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Hey, Lowell."
+                },
+                {
+                    "speaker": "LOWELL",
+                    "text": "Hey, Chandler."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "So how's it going there in Financial Services?"
+                },
+                {
+                    "speaker": "LOWELL",
+                    "text": "It's like Mardi Gras without the paper mache heads. How 'bout you?"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Good, good. Listen, heh, I dunno what Shelley told you about me, but, uh... I'm not."
+                },
+                {
+                    "speaker": "LOWELL",
+                    "text": "I know. That's what I told her."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Really."
+                },
+                {
+                    "speaker": "LOWELL",
+                    "text": "Yeah."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "So- you can tell?"
+                },
+                {
+                    "speaker": "LOWELL",
+                    "text": "Pretty much, most of the time. We have a kind of... radar."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "So you don't think I have a, a quality?"
+                },
+                {
+                    "speaker": "LOWELL",
+                    "text": "Speaking for my people, I'd have to say no. By the way, your friend Brian from Payroll, he is."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "He is ?"
+                },
+                {
+                    "speaker": "LOWELL",
+                    "text": "Yup, and waaay out of your league. (Exits)"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Out of my league. I could get a Brian. (Brian enters behind him) If I wanted to get a Brian, I could get a Brian. (Sees him) Hey, Brian."
+                }
+            ],
+            "location": "Chandler's Office",
+            "subjects": [
+                "LOWELL",
+                "CHANDLER"
+            ],
+            "clip_start": "00:22:15",
+            "clip_end": "00:23:27",
+            "srt_start": "00:22:51,903",
+            "srt_end": "00:23:59,265"
+        }
+    ]
+}
