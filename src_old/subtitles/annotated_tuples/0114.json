@@ -76,16 +76,16 @@
             ],
             "location": "Central Perk",
             "subjects": [
-                "ROSS",
-                "JOEY",
+                "CHANDLER",
                 "WOMAN",
-                "CHANDLER"
+                "ROSS",
+                "JOEY"
             ],
             "clip_start": "00:02:00",
             "clip_end": "00:01:05",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0114_scene_0_Central Perk",
+            "context_label": "0114_scene_000_Central Perk",
             "event_description": "[Scene: Central Perk, Ross is eyeing a beautiful woman at the counter, and Joey and\nChandler are egging him on to go talk to her. No pun intended. I mean it.]"
         },
         {
@@ -150,18 +150,18 @@
             ],
             "location": "Central Perk",
             "subjects": [
-                "RACHEL",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "PHOEBE",
-                "CHANDLER"
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:01:07",
             "clip_end": "00:02:24",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0114_scene_1_Central Perk",
+            "context_label": "0114_scene_001_Central Perk",
             "event_description": "[Scene: Central Perk, Monica, Rachel, Phoebe, Joey, Chandler are there. Ross is still\ntalking to the beautiful woman.]"
         },
         {
@@ -202,16 +202,16 @@
             ],
             "location": "A Restaurant",
             "subjects": [
-                "JANICE",
-                "JOEY",
                 "CHANDLER",
-                "LORRAINE"
+                "JANICE",
+                "LORRAINE",
+                "JOEY"
             ],
             "clip_start": "00:02:28",
             "clip_end": "00:03:33",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0114_scene_2_A Restaurant",
+            "context_label": "0114_scene_002_A Restaurant",
             "event_description": "[Scene: A Restaurant, Joey and Chandler are there, waiting for their dates to show up.]"
         },
         {
@@ -240,14 +240,14 @@
             ],
             "location": "The bathroom at the restaurant",
             "subjects": [
-                "JOEY",
-                "CHANDLER"
+                "CHANDLER",
+                "JOEY"
             ],
             "clip_start": "00:03:35",
             "clip_end": "00:04:14",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0114_scene_3_The bathroom at the restaurant",
+            "context_label": "0114_scene_003_The bathroom at the restaurant",
             "event_description": "[Scene: The bathroom at the restaurant, Chandler and Joey are talking.]"
         },
         {
@@ -324,15 +324,15 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "MONICA",
+                "RACHEL",
                 "PHOEBE",
-                "RACHEL"
+                "MONICA"
             ],
             "clip_start": "00:04:15",
             "clip_end": "00:05:49",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0114_scene_4_Monica and Rachel's",
+            "context_label": "0114_scene_004_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, the girls are all there, discussing their bad luck with\nmen.]"
         },
         {
@@ -449,16 +449,16 @@
             ],
             "location": "The Restaurant",
             "subjects": [
+                "CHANDLER",
                 "JANICE",
                 "LORRAINE",
-                "JOEY",
-                "CHANDLER"
+                "JOEY"
             ],
             "clip_start": "00:05:51",
             "clip_end": "00:08:48",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0114_scene_5_The Restaurant",
+            "context_label": "0114_scene_005_The Restaurant",
             "event_description": "[Scene: The Restaurant, Joey, Lorraine, Chandler, and Janice are at the table. Joey and\nLorraine are seated very close, Chandler and Janice have backed their chairs away from one\nanother.]"
         },
         {
@@ -477,7 +477,7 @@
             "clip_end": "00:09:14",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0114_scene_6_Chandler's bedroom",
+            "context_label": "0114_scene_006_Chandler's bedroom",
             "event_description": "[Scene: Chandler's bedroom, Chandler wakes up, and finds someone else's hand on his\nchest. He rolls over and is shocked to see Janice there.]"
         },
         {
@@ -554,17 +554,17 @@
             ],
             "location": "The Hallway",
             "subjects": [
-                "JANICE",
-                "RACHEL",
                 "JOEY",
+                "RACHEL",
+                "CHANDLER",
                 "MONICA",
-                "CHANDLER"
+                "JANICE"
             ],
             "clip_start": "00:09:17",
             "clip_end": "00:10:45",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0114_scene_7_The Hallway",
+            "context_label": "0114_scene_007_The Hallway",
             "event_description": "[Scene: The Hallway, Chandler is trying to get Janice out of his apartment.]"
         },
         {
@@ -605,14 +605,14 @@
             ],
             "location": "A Chinese Restaurant",
             "subjects": [
-                "ROSS",
-                "KRISTIN"
+                "KRISTIN",
+                "ROSS"
             ],
             "clip_start": "00:10:47",
             "clip_end": "00:12:14",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0114_scene_8_A Chinese Restaurant",
+            "context_label": "0114_scene_008_A Chinese Restaurant",
             "event_description": "[Scene: A Chinese Restaurant, Ross is there with his date.]"
         },
         {
@@ -685,7 +685,7 @@
             "clip_end": "00:13:40",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0114_scene_9_Monica and Rachel's",
+            "context_label": "0114_scene_009_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, the girls are holding their boyfriend bonfire.]"
         },
         {
@@ -722,15 +722,15 @@
             ],
             "location": "Central Perk",
             "subjects": [
+                "CHANDLER",
                 "JANICE",
-                "JOEY",
-                "CHANDLER"
+                "JOEY"
             ],
             "clip_start": "00:13:42",
             "clip_end": "00:14:18",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0114_scene_10_Central Perk",
+            "context_label": "0114_scene_010_Central Perk",
             "event_description": "[Scene: Central Perk, Chandler and Joey are there. Chandler is preparing to dump Janice\nagain.]"
         },
         {
@@ -776,15 +776,15 @@
             "location": "The Chinese Restaurant.",
             "subjects": [
                 "CAROL",
-                "ROSS",
                 "KRISTIN",
+                "ROSS",
                 "SUSAN"
             ],
             "clip_start": "00:14:19",
             "clip_end": "00:16:25",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0114_scene_11_The Chinese Restaurant.",
+            "context_label": "0114_scene_011_The Chinese Restaurant.",
             "event_description": "[Scene: The Chinese Restaurant.]"
         },
         {
@@ -805,14 +805,14 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "MONICA",
-                "RACHEL"
+                "RACHEL",
+                "MONICA"
             ],
             "clip_start": "00:16:26",
             "clip_end": "00:17:36",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0114_scene_12_Monica and Rachel's",
+            "context_label": "0114_scene_012_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, firemen are there to handle the bonfire that got out of\ncontrol.]"
         },
         {
@@ -877,14 +877,14 @@
             ],
             "location": "Central Perk.",
             "subjects": [
-                "JANICE",
-                "CHANDLER"
+                "CHANDLER",
+                "JANICE"
             ],
             "clip_start": "00:17:37",
             "clip_end": "00:19:50",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0114_scene_13_Central Perk.",
+            "context_label": "0114_scene_013_Central Perk.",
             "event_description": "[Scene: Central Perk.]"
         },
         {
@@ -956,7 +956,7 @@
             "clip_end": "00:22:55",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0114_scene_14_The Chinese Restaurant",
+            "context_label": "0114_scene_014_The Chinese Restaurant",
             "event_description": "[Scene: The Chinese Restaurant, Ross and Carol are talking. Kristin is not there.]"
         },
         {
@@ -985,15 +985,15 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "MONICA",
+                "RACHEL",
                 "PHOEBE",
-                "RACHEL"
+                "MONICA"
             ],
             "clip_start": "00:23:00",
             "clip_end": "00:24:13",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0114_scene_15_Monica and Rachel's",
+            "context_label": "0114_scene_015_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, The girls are talking with the firemen.]"
         }
     ]

@@ -40,18 +40,18 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "RACHEL",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "PHOEBE",
-                "CHANDLER"
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:00:02",
             "clip_end": "00:00:46",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0120_scene_0_Monica and Rachel's",
+            "context_label": "0120_scene_000_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, everyone is there.]"
         },
         {
@@ -204,18 +204,18 @@
             ],
             "location": "Central Perk",
             "subjects": [
-                "RACHEL",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "PHOEBE",
-                "CHANDLER"
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:00:51",
             "clip_end": "00:03:56",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0120_scene_1_Central Perk",
+            "context_label": "0120_scene_001_Central Perk",
             "event_description": "[Scene: Central Perk, everyone but Rachel is there.]"
         },
         {
@@ -244,14 +244,14 @@
             ],
             "location": "Barry's Office",
             "subjects": [
-                "BARRY",
-                "RACHEL"
+                "RACHEL",
+                "BARRY"
             ],
             "clip_start": "00:03:59",
             "clip_end": "00:04:19",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0120_scene_2_Barry's Office",
+            "context_label": "0120_scene_002_Barry's Office",
             "event_description": "[Scene: Barry's Office, the post-coital Barry and Rachel are recovering on the chair.]"
         },
         {
@@ -316,17 +316,17 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "PHOEBE",
-                "CHANDLER"
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:04:23",
             "clip_end": "00:05:57",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0120_scene_3_Monica and Rachel's",
+            "context_label": "0120_scene_003_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, everyone is there except Rachel.]"
         },
         {
@@ -403,16 +403,16 @@
             ],
             "location": "Barry's Office",
             "subjects": [
-                "BARRY",
-                "BOBBY",
+                "RACHEL",
                 "BERNICE",
-                "RACHEL"
+                "BARRY",
+                "BOBBY"
             ],
             "clip_start": "00:05:59",
             "clip_end": "00:07:17",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0120_scene_4_Barry's Office",
+            "context_label": "0120_scene_004_Barry's Office",
             "event_description": "[Scene: Barry's Office, Rachel and Barry are getting dressed.]"
         },
         {
@@ -557,18 +557,18 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "RACHEL",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "PHOEBE",
-                "CHANDLER"
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:07:22",
             "clip_end": "00:11:02",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0120_scene_5_Monica and Rachel's",
+            "context_label": "0120_scene_005_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, Chandler enters clutching his phone.]"
         },
         {
@@ -670,15 +670,15 @@
             "location": "Monica and Rachel's",
             "subjects": [
                 "RACHEL",
-                "JOEY",
                 "CHANDLER",
-                "MONICA"
+                "MONICA",
+                "JOEY"
             ],
             "clip_start": "00:11:05",
             "clip_end": "00:13:10",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0120_scene_6_Monica and Rachel's",
+            "context_label": "0120_scene_006_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, the next morning.\u00a0 Chandler is sitting and staring at\nhis phone.\u00a0 Monica enters and creeps up next to Chandler.]"
         },
         {
@@ -811,15 +811,15 @@
             ],
             "location": "Central Perk",
             "subjects": [
-                "JOEY",
                 "RACHEL",
-                "MINDY"
+                "MINDY",
+                "JOEY"
             ],
             "clip_start": "00:13:11",
             "clip_end": "00:16:06",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0120_scene_7_Central Perk",
+            "context_label": "0120_scene_007_Central Perk",
             "event_description": "[Scene: Central Perk, Rachel is serving coffee as Mindy enters.]"
         },
         {
@@ -920,18 +920,18 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "FOUR LETTERS",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
+                "CHANDLER",
                 "MONICA",
-                "PHOEBE",
-                "CHANDLER"
+                "FOUR LETTERS"
             ],
             "clip_start": "00:16:08",
             "clip_end": "00:18:17",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0120_scene_8_Monica and Rachel's",
+            "context_label": "0120_scene_008_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, Phoebe and Ross are doing a crossword, Monica is cooking,\nand Chandler is still staring at his phone.]"
         },
         {
@@ -1044,16 +1044,16 @@
             ],
             "location": "Barry's Office",
             "subjects": [
-                "BARRY",
-                "BERNICE",
                 "RACHEL",
-                "MINDY"
+                "MINDY",
+                "BERNICE",
+                "BARRY"
             ],
             "clip_start": "00:18:19",
             "clip_end": "00:20:51",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0120_scene_9_Barry's Office",
+            "context_label": "0120_scene_009_Barry's Office",
             "event_description": "[Scene: Barry's Office, Barry is preparing his tools alone as Rachel enters.]"
         },
         {
@@ -1087,14 +1087,14 @@
             "location": "Monica and Rachel's",
             "subjects": [
                 "RACHEL",
-                "JOEY",
-                "MONICA"
+                "MONICA",
+                "JOEY"
             ],
             "clip_start": "00:20:56",
             "clip_end": "00:21:25",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0120_scene_10_Monica and Rachel's",
+            "context_label": "0120_scene_010_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, Monica and Rachel are there.]"
         },
         {
@@ -1187,20 +1187,20 @@
             ],
             "location": "Central Perk",
             "subjects": [
-                "RACHEL",
+                "DANIELLE",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "DANIELLE",
-                "MONICA",
-                "PHOEBE",
+                "RACHEL",
                 "CHANDLER",
-                "I JUST WANNA CLARIFY THIS"
+                "I JUST WANNA CLARIFY THIS",
+                "MONICA"
             ],
             "clip_start": "00:21:28",
             "clip_end": "00:22:35",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0120_scene_11_Central Perk",
+            "context_label": "0120_scene_011_Central Perk",
             "event_description": "[Scene: Central Perk, everyone is there.]"
         }
     ]

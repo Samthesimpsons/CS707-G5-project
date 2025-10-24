@@ -90,20 +90,20 @@
                     "text": "I'm sorry, it was a one-time-thing. I was very drunk and i was somebody else's subconscious."
                 }
             ],
-            "location": "",
+            "location": "Central Perk",
             "subjects": [
-                "RACHEL",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "PHOEBE",
-                "CHANDLER"
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:00:02",
             "clip_end": "00:01:10",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0122_scene_0_",
+            "context_label": "0122_scene_000_Central Perk",
             "event_description": "Scene: Central Perk. Everyone is there."
         },
         {
@@ -256,18 +256,18 @@
             ],
             "location": "Central Perk",
             "subjects": [
-                "RACHEL",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "PHOEBE",
-                "CHANDLER"
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:01:13",
             "clip_end": "00:03:36",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0122_scene_1_Central Perk",
+            "context_label": "0122_scene_001_Central Perk",
             "event_description": "[Scene: Central Perk, continued from earlier, Chandler is sitting on the table.]"
         },
         {
@@ -352,14 +352,14 @@
             ],
             "location": "Chandler's office",
             "subjects": [
-                "PHOEBE",
-                "CHANDLER"
+                "CHANDLER",
+                "PHOEBE"
             ],
             "clip_start": "00:03:41",
             "clip_end": "00:04:53",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0122_scene_2_Chandler's office",
+            "context_label": "0122_scene_002_Chandler's office",
             "event_description": "[Scene: Chandler's office, he and Phoebe are there when the phone starts ringing.]"
         },
         {
@@ -407,7 +407,7 @@
             "clip_end": "00:05:48",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0122_scene_3_Monica and Rachel's",
+            "context_label": "0122_scene_003_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, Monica and Rachel are there. Monica is just finishing\ncleaning the windows.]"
         },
         {
@@ -536,17 +536,17 @@
             ],
             "location": "Central Perk. Joey and Ross are there.",
             "subjects": [
-                "ROSS",
                 "AND ROSS",
-                "JOEY",
                 "PHOEBE",
+                "ROSS",
+                "JOEY",
                 "CHANDLER"
             ],
             "clip_start": "00:05:49",
             "clip_end": "00:08:31",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0122_scene_4_Central Perk. Joey and Ross are there.",
+            "context_label": "0122_scene_004_Central Perk. Joey and Ross are there.",
             "event_description": "[Scene: Central Perk. Joey and Ross are there.]"
         },
         {
@@ -694,7 +694,7 @@
             "clip_end": "00:10:36",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0122_scene_5_Monica and Rachel's",
+            "context_label": "0122_scene_005_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, Monica and Young Ethan are sitting in the couch.]"
         },
         {
@@ -758,7 +758,7 @@
             "clip_end": "00:13:38",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0122_scene_6_Monica's Bedroom",
+            "context_label": "0122_scene_006_Monica's Bedroom",
             "event_description": "[Scene: Monica's Bedroom, continued from earlier.]"
         },
         {
@@ -951,20 +951,20 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "RACHEL",
+                "AND ROSS",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "AND ROSS",
+                "RACHEL",
+                "CHANDLER",
                 "MONICA",
-                "AND PHOEBE",
-                "PHOEBE",
-                "CHANDLER"
+                "AND PHOEBE"
             ],
             "clip_start": "00:13:41",
             "clip_end": "00:17:27",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0122_scene_7_Monica and Rachel's",
+            "context_label": "0122_scene_007_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, everyone exept Monica is there.]"
         },
         {
@@ -1021,14 +1021,14 @@
             ],
             "location": "Chandler's office",
             "subjects": [
-                "PHOEBE",
-                "CHANDLER"
+                "CHANDLER",
+                "PHOEBE"
             ],
             "clip_start": "00:17:27",
             "clip_end": "00:18:30",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0122_scene_8_Chandler's office",
+            "context_label": "0122_scene_008_Chandler's office",
             "event_description": "[Scene: Chandler's office, he and Phoebe are taking a break from work.]"
         },
         {
@@ -1122,16 +1122,16 @@
             "location": "Central Perk. Everyone exept Phoebe and Chandler is there. Ross's beeper goes\noff and everyone exept him react.",
             "subjects": [
                 "YOUNG ETHAN",
-                "RACHEL",
                 "ROSS",
                 "JOEY",
+                "RACHEL",
                 "MONICA"
             ],
             "clip_start": "00:18:32",
             "clip_end": "00:20:24",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0122_scene_9_Central Perk. Everyone exept Phoebe and Chandler is there. Ross's beeper goes\noff and everyone exept him react.",
+            "context_label": "0122_scene_009_Central Perk. Everyone exept Phoebe and Chandler is there. Ross's beeper goes\noff and everyone exept him react.",
             "event_description": "[Scene: Central Perk. Everyone exept Phoebe and Chandler is there. Ross's beeper goes\noff and everyone exept him react.]"
         },
         {
@@ -1174,19 +1174,19 @@
                     "text": "Petrie, right, right. Okay, some people gonna be working this weekend."
                 }
             ],
-            "location": "A hall on the floor where Chandler works. Chandler and Phoebe enters",
+            "location": "Chandler's Office Hallway",
             "subjects": [
-                "GERSTON",
-                "SANTOS",
                 "PETRIE",
+                "GERSTON",
                 "PHOEBE",
-                "CHANDLER"
+                "CHANDLER",
+                "SANTOS"
             ],
             "clip_start": "00:20:28",
             "clip_end": "00:21:05",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0122_scene_10_A hall on the floor where Chandler works. Chandler and Phoebe enters",
+            "context_label": "0122_scene_010_Chandler's Office Hallway",
             "event_description": "[Scene: A hall on the floor where Chandler works. Chandler and Phoebe enters, and\noverhears some employees's conversation. One of them is doing Chandler.]"
         },
         {
@@ -1243,14 +1243,14 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "ROSS",
-                "RACHEL"
+                "RACHEL",
+                "ROSS"
             ],
             "clip_start": "00:21:09",
             "clip_end": "00:22:30",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0122_scene_11_Monica and Rachel's",
+            "context_label": "0122_scene_011_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, Ross is watching TV, but turns it off, and Rachel is\nsleeping on the couch. Ross puts a blanket over her.]"
         },
         {
@@ -1331,17 +1331,17 @@
             ],
             "location": "The Hallway",
             "subjects": [
-                "RACHEL",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "CHANDLER"
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:22:33",
             "clip_end": "00:23:20",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0122_scene_12_The Hallway",
+            "context_label": "0122_scene_012_The Hallway",
             "event_description": "[Scene: The Hallway, Ross is eagerly waiting for the others to get ready, to go to the\nhospital.]"
         }
     ]

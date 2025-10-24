@@ -3,61 +3,6 @@
     "title": "The One With All The Poker",
     "scenes": [
         {
-            "scene_description": "Scene: Monica and Rachel's, The whole gang is helping Rachel mail out resumes while whistling the theme from The Bridge on the River Kwai.",
-            "dialogue": [
-                {
-                    "speaker": "ROSS",
-                    "text": "Uh, Rach, we're running low on resumes over here."
-                },
-                {
-                    "speaker": "MONICA",
-                    "text": "Do you really want a job with Popular Mechanics ?"
-                },
-                {
-                    "speaker": "CHANDLER",
-                    "text": "Well, if you're gonna work for mechanics, those are the ones to work for."
-                },
-                {
-                    "speaker": "RACHEL",
-                    "text": "Hey, look, you guys, I'm going for anything here, OK? I cannot be a waitress anymore, I mean it. I'm sick of the lousy tips, I'm sick of being called 'Excuse me...'"
-                },
-                {
-                    "speaker": "ROSS",
-                    "text": "Rach, did you proofread these?"
-                },
-                {
-                    "speaker": "RACHEL",
-                    "text": "Uh... yeah, why?"
-                },
-                {
-                    "speaker": "ROSS",
-                    "text": "Uh, nothing, I'm sure they'll be impressed with your excellent compuper skills."
-                },
-                {
-                    "speaker": "RACHEL",
-                    "text": "(upset) Oh my Goood! Oh, do you think it's on all of them?"
-                },
-                {
-                    "speaker": "JOEY",
-                    "text": "Oh no, I'm sure the Xerox machine caught a few."
-                }
-            ],
-            "location": "",
-            "subjects": [
-                "RACHEL",
-                "ROSS",
-                "JOEY",
-                "MONICA",
-                "CHANDLER"
-            ],
-            "clip_start": "00:00:02",
-            "clip_end": "00:01:20",
-            "srt_start": "",
-            "srt_end": "",
-            "context_label": "0118_scene_0_",
-            "event_description": "Scene: Monica and Rachel's, The whole gang is helping Rachel mail out resumes while whistling the theme from The Bridge on the River Kwai."
-        },
-        {
             "scene_description": "[Scene: Central Perk, Ross and Chandler are sitting at a table. Rachel is working.\nMonica and Phoebe enter.]",
             "dialogue": [
                 {
@@ -291,18 +236,18 @@
             ],
             "location": "Central Perk",
             "subjects": [
-                "RACHEL",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "PHOEBE",
-                "CHANDLER"
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:01:26",
             "clip_end": "00:04:14",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0118_scene_1_Central Perk",
+            "context_label": "0118_scene_001_Central Perk",
             "event_description": "[Scene: Central Perk, Ross and Chandler are sitting at a table. Rachel is working.\nMonica and Phoebe enter.]"
         },
         {
@@ -487,18 +432,18 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "RACHEL",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "PHOEBE",
-                "CHANDLER"
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:04:16",
             "clip_end": "00:08:03",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0118_scene_2_Monica and Rachel's",
+            "context_label": "0118_scene_002_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, the guys are teaching the girls how to play poker.]"
         },
         {
@@ -547,15 +492,15 @@
             ],
             "location": "Ross' apartment. Chandler and Joey are there. Ross enters with a pizza.",
             "subjects": [
+                "CHANDLER",
                 "ROSS",
-                "JOEY",
-                "CHANDLER"
+                "JOEY"
             ],
             "clip_start": "00:08:08",
             "clip_end": "00:09:09",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0118_scene_3_Ross' apartment. Chandler and Joey are there. Ross enters with a pizza.",
+            "context_label": "0118_scene_003_Ross' apartment",
             "event_description": "[Scene: Ross' apartment. Chandler and Joey are there. Ross enters with a pizza.]"
         },
         {
@@ -688,16 +633,16 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "AUNT IRIS",
-                "MONICA",
+                "RACHEL",
                 "PHOEBE",
-                "RACHEL"
+                "MONICA",
+                "AUNT IRIS"
             ],
             "clip_start": "00:09:15",
             "clip_end": "00:11:29",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0118_scene_4_Monica and Rachel's",
+            "context_label": "0118_scene_004_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, Rachel, Monica, and Phoebe are there.]"
         },
         {
@@ -782,18 +727,18 @@
             ],
             "location": "Ross's apartment",
             "subjects": [
-                "RACHEL",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "PHOEBE",
-                "CHANDLER"
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:11:34",
             "clip_end": "00:13:14",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0118_scene_5_Ross's apartment",
+            "context_label": "0118_scene_005_Ross's apartment",
             "event_description": "[Scene: Ross's apartment, everyone but Rachel is seated around his table. The Lion\nSleep Tonight plays in the background.]"
         },
         {
@@ -842,18 +787,18 @@
             ],
             "location": "Ross's Apartment",
             "subjects": [
-                "RACHEL",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "PHOEBE",
-                "CHANDLER"
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:13:19",
             "clip_end": "00:14:41",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0118_scene_6_Ross's Apartment",
+            "context_label": "0118_scene_006_Ross's Apartment",
             "event_description": "[Scene: Ross's Apartment, continued from earlier.]"
         },
         {
@@ -1282,18 +1227,18 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "RACHEL",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "PHOEBE",
-                "CHANDLER"
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:14:42",
             "clip_end": "00:23:44",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0118_scene_7_Monica and Rachel's",
+            "context_label": "0118_scene_007_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, everyone is there ready for another poker game.]"
         },
         {
@@ -1350,18 +1295,18 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "RACHEL",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "PHOEBE",
-                "CHANDLER"
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:23:51",
             "clip_end": "00:24:28",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0118_scene_8_Monica and Rachel's",
+            "context_label": "0118_scene_008_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, all six are playing Pictionary at Monica's\napartment. Monica is drawing a picture, and the three guys are guessing. She draws what\nlooks like an airplane.]"
         }
     ]

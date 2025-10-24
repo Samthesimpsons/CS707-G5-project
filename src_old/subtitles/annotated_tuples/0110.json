@@ -60,17 +60,17 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "RACHEL",
-                "ROSS",
-                "MONICA",
                 "PHOEBE",
-                "CHANDLER"
+                "ROSS",
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:00:05",
             "clip_end": "00:01:16",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0110_scene_0_Monica and Rachel's",
+            "context_label": "0110_scene_000_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, Ross is entering.]"
         },
         {
@@ -223,20 +223,20 @@
             ],
             "location": "Central Perk",
             "subjects": [
-                "DAVID",
-                "RACHEL",
+                "MAX",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "PHOEBE",
+                "RACHEL",
+                "DAVID",
                 "CHANDLER",
-                "MAX"
+                "MONICA"
             ],
             "clip_start": "00:01:18",
             "clip_end": "00:05:23",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0110_scene_1_Central Perk",
+            "context_label": "0110_scene_001_Central Perk",
             "event_description": "[Scene: Central Perk, Phoebe is getting ready to sing. Joey is not there.]"
         },
         {
@@ -353,18 +353,18 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "RACHEL",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "PHOEBE",
-                "CHANDLER"
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:05:25",
             "clip_end": "00:08:07",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0110_scene_2_Monica and Rachel's",
+            "context_label": "0110_scene_002_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, everyone except Joey is decorating for Christmas.]"
         },
         {
@@ -437,14 +437,14 @@
             ],
             "location": "Max and David's lab",
             "subjects": [
-                "PHOEBE",
-                "DAVID"
+                "DAVID",
+                "PHOEBE"
             ],
             "clip_start": "00:08:12",
             "clip_end": "00:09:59",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0110_scene_3_Max and David's lab",
+            "context_label": "0110_scene_003_Max and David's lab",
             "event_description": "[Scene: Max and David's lab, David is explaining something to Phoebe with the aid of a\nwhiteboard.]"
         },
         {
@@ -609,19 +609,19 @@
             ],
             "location": "Central Perk",
             "subjects": [
-                "RACHEL",
+                "MAX",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "PHOEBE",
+                "RACHEL",
                 "CHANDLER",
-                "MAX"
+                "MONICA"
             ],
             "clip_start": "00:10:05",
             "clip_end": "00:12:26",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0110_scene_4_Central Perk",
+            "context_label": "0110_scene_004_Central Perk",
             "event_description": "[Scene: Central Perk, everyone is there.]"
         },
         {
@@ -726,15 +726,15 @@
             ],
             "location": "Max and David's lab",
             "subjects": [
-                "PHOEBE",
                 "DAVID",
+                "PHOEBE",
                 "MAX"
             ],
             "clip_start": "00:12:29",
             "clip_end": "00:13:50",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0110_scene_5_Max and David's lab",
+            "context_label": "0110_scene_005_Max and David's lab",
             "event_description": "[Scene: Max and David's lab, they are working. Phoebe knocks on the door]"
         },
         {
@@ -1035,24 +1035,24 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "JANICE",
-                "DAVID",
-                "RACHEL",
-                "SANDY",
+                "MAX",
                 "DICK CLARK",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "FUN BOBBY",
-                "PHOEBE",
+                "SANDY",
+                "RACHEL",
+                "DAVID",
                 "CHANDLER",
-                "MAX"
+                "MONICA",
+                "JANICE",
+                "FUN BOBBY"
             ],
             "clip_start": "00:13:52",
             "clip_end": "00:22:19",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0110_scene_6_Monica and Rachel's",
+            "context_label": "0110_scene_006_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, the party has started.]"
         },
         {
@@ -1069,14 +1069,14 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "ROSS",
-                "RACHEL"
+                "RACHEL",
+                "ROSS"
             ],
             "clip_start": "00:22:25",
             "clip_end": "00:24:27",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0110_scene_7_Monica and Rachel's",
+            "context_label": "0110_scene_007_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, time lapse.]"
         }
     ]

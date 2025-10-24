@@ -120,15 +120,15 @@
             ],
             "location": "An Emergency Room",
             "subjects": [
-                "MONICA",
+                "RACHEL",
                 "NURSE",
-                "RACHEL"
+                "MONICA"
             ],
             "clip_start": "00:22:52",
             "clip_end": "00:24:50",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0117_scene_0_An Emergency Room",
+            "context_label": "0117_scene_000_An Emergency Room",
             "event_description": "[Scene: An Emergency Room, Rachel and Monica enter.\u00a0 Rachel is limping and leaning\non Monica for support.]"
         },
         {
@@ -229,15 +229,15 @@
             ],
             "location": "Central Perk",
             "subjects": [
+                "CHANDLER",
                 "ROSS",
-                "JOEY",
-                "CHANDLER"
+                "JOEY"
             ],
             "clip_start": "00:24:51",
             "clip_end": "00:27:05",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0117_scene_1_Central Perk",
+            "context_label": "0117_scene_001_Central Perk",
             "event_description": "[Scene: Central Perk, Chandler, has split up his newspaper so Joey can look at the\nfunnies, while Ross's inappropriate joke at Lamaze class has come back to haunt him.]"
         },
         {
@@ -294,16 +294,16 @@
             ],
             "location": "The Hospital",
             "subjects": [
-                "RACHEL",
                 "DR. MITCHELL",
                 "DR. ROSEN",
+                "RACHEL",
                 "MONICA"
             ],
             "clip_start": "00:27:06",
             "clip_end": "00:27:51",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0117_scene_2_The Hospital",
+            "context_label": "0117_scene_002_The Hospital",
             "event_description": "[Scene: The Hospital, Monica and Rachel are waiting for the doctors to arrive. \u00a0\nThey enter and are played by Noah Wyle and George Clooney.]"
         },
         {
@@ -396,19 +396,19 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "RACHEL",
                 "THE WHOLE PARTY",
-                "ROSS",
-                "MONICA",
                 "PHOEBE'S FRIENDS",
                 "PHOEBE",
-                "CHANDLER"
+                "ROSS",
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:27:55",
             "clip_end": "00:29:55",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0117_scene_3_Monica and Rachel's",
+            "context_label": "0117_scene_003_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, everyone but Joey is waiting for Phoebe to arrive for her\nsurprise birthday party.\u00a0 Rachel and Monica is telling Chandler about Rachel's\nincident.]"
         },
         {
@@ -472,7 +472,7 @@
             "clip_end": "00:32:03",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0117_scene_4_A Restaurant",
+            "context_label": "0117_scene_004_A Restaurant",
             "event_description": "[Scene: A Restaurant, Ross is having lunch with his father who is examining his next\nforkful.]"
         },
         {
@@ -694,15 +694,15 @@
             "location": "Monica and Rachel's",
             "subjects": [
                 "RACHEL",
-                "DR. MITCHELL",
                 "DR. ROSEN",
-                "MONICA"
+                "MONICA",
+                "DR. MITCHELL"
             ],
             "clip_start": "00:32:06",
             "clip_end": "00:36:13",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0117_scene_5_Monica and Rachel's",
+            "context_label": "0117_scene_005_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, Monica is just getting off of the intercom and turns off\nthe TV which is still in the SAP mode.]"
         },
         {
@@ -807,17 +807,17 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "RACHEL",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "PHOEBE"
+                "RACHEL",
+                "MONICA"
             ],
             "clip_start": "00:36:18",
             "clip_end": "00:38:46",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0117_scene_6_Monica and Rachel's",
+            "context_label": "0117_scene_006_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, the next morning, Ross, Phoebe, Chandler and Monica sit\nround the coffee table, playing Scrabble. Rachel, still in her dressing gown, is pleading\non the phone, her free hand shaking with agitation.]"
         },
         {
@@ -946,14 +946,14 @@
             ],
             "location": "Riff's",
             "subjects": [
-                "URSULA",
-                "PHOEBE"
+                "PHOEBE",
+                "URSULA"
             ],
             "clip_start": "00:38:53",
             "clip_end": "00:41:09",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0117_scene_7_Riff's",
+            "context_label": "0117_scene_007_Riff's",
             "event_description": "[Scene: Riff's, Phoebe is entering. Ursula returns with two plates of chicken, but she\nonly has time to set one on the table, when...]"
         },
         {
@@ -992,17 +992,17 @@
                     "text": "(as Monica) Yeah, I know... (mirroring her friend) ..I'm I'm just not that bright either."
                 }
             ],
-            "location": "The Emergency Room. The officious admissions nurse is again on duty. Rachel and\nMonica enter",
+            "location": "The Emergency Room",
             "subjects": [
-                "MONICA",
+                "RACHEL",
                 "NURSE",
-                "RACHEL"
+                "MONICA"
             ],
             "clip_start": "00:41:10",
             "clip_end": "00:42:08",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0117_scene_8_The Emergency Room. The officious admissions nurse is again on duty. Rachel and\nMonica enter",
+            "context_label": "0117_scene_008_The Emergency Room",
             "event_description": "[Scene: The Emergency Room. The officious admissions nurse is again on duty. Rachel and\nMonica enter, looking worried. As they approach the desk, Rachel adopts a winning smile,\nwhile Monica struggles to smile at all.]"
         },
         {
@@ -1055,14 +1055,14 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "ROSS",
-                "CHANDLER"
+                "CHANDLER",
+                "ROSS"
             ],
             "clip_start": "00:42:09",
             "clip_end": "00:42:52",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0117_scene_9_Monica and Rachel's",
+            "context_label": "0117_scene_009_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, Chandler is neglecting the game of Scrabble , for\nhe's busily drawing on his own childhood in an attempt to help Ross. Marcel chitters\nabout.]"
         },
         {
@@ -1139,18 +1139,18 @@
             ],
             "location": "The Emergency Room",
             "subjects": [
-                "DR. MITCHELL",
-                "RACHEL",
                 "NURSE",
+                "DR. MITCHELL",
                 "ROSS",
-                "MONICA",
-                "CHANDLER"
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:42:52",
             "clip_end": "00:43:32",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0117_scene_10_The Emergency Room",
+            "context_label": "0117_scene_010_The Emergency Room",
             "event_description": "[Scene: The Emergency Room, Monica sits with Rachel, who is filling out an honest form\nat last. Ross and Chandler hurtle in. Little Marcel, wrapped in a fluffy towel, is cradled\nin Ross's arms. They dash up to the admissions desk. Ross is frantic.]"
         },
         {
@@ -1255,14 +1255,14 @@
             ],
             "location": "Central Perk",
             "subjects": [
-                "JOEY",
-                "PHOEBE"
+                "PHOEBE",
+                "JOEY"
             ],
             "clip_start": "00:43:36",
             "clip_end": "00:45:55",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0117_scene_11_Central Perk",
+            "context_label": "0117_scene_011_Central Perk",
             "event_description": "[Scene: Central Perk, Joey is playing \"She Loves Me, She Loves Me Not\" with\nthe petals of a flower, alternately looking hopeful and annoyed. Phoebe enters, but not as\nherself, for she has changed the style of her hair and make-up to match that of her twin\nsister. She hangs up her coat, revealing her new cardigan. Nervously, she smooths out the\nidentifying garment, approaching Joey who sits next to the main sofa.]"
         },
         {
@@ -1315,17 +1315,17 @@
             ],
             "location": "The Hospital",
             "subjects": [
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "PHOEBE",
-                "CHANDLER"
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:45:58",
             "clip_end": "0:46:39",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0117_scene_12_The Hospital",
+            "context_label": "0117_scene_012_The Hospital",
             "event_description": "[Scene: The Hospital, Marcel lies on the operating table while recovering from the\nanaesthetic, tucked up under a sheet like an infant in a huge bed. Ross sits beside him,\nas a smiling Chandler, Monica and Rachel look on.]"
         }
     ]

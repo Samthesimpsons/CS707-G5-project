@@ -3,60 +3,6 @@
     "title": "The One With the Stoned Guy",
     "scenes": [
         {
-            "scene_description": "[Scene: Central Perk, Rachel is serving Joey, Ross, and Monica their drinks.]",
-            "dialogue": [
-                {
-                    "speaker": "RACHEL",
-                    "text": "(to Joey) Coffee. (Hands it to him.)"
-                },
-                {
-                    "speaker": "JOEY",
-                    "text": "Thank you."
-                },
-                {
-                    "speaker": "RACHEL",
-                    "text": "(to Ross) Cappuccino. (Hands it to him.)"
-                },
-                {
-                    "speaker": "ROSS",
-                    "text": "Grazie."
-                },
-                {
-                    "speaker": "RACHEL",
-                    "text": "And a nice hot cider for Monica. (Hands it to her.)"
-                },
-                {
-                    "speaker": "MONICA",
-                    "text": "Aww, thank you. (Notices something.) Uh Rach?"
-                },
-                {
-                    "speaker": "RACHEL",
-                    "text": "Yeah?"
-                },
-                {
-                    "speaker": "MONICA",
-                    "text": "Why does my cinamon stick have an eraser?"
-                },
-                {
-                    "speaker": "RACHEL",
-                    "text": "Oh! That's why. (Rachel checks behind her ear, and finds a cinamon stick.) I'm sorry!"
-                }
-            ],
-            "location": "Central Perk",
-            "subjects": [
-                "ROSS",
-                "JOEY",
-                "MONICA",
-                "RACHEL"
-            ],
-            "clip_start": "",
-            "clip_end": "",
-            "srt_start": "",
-            "srt_end": "",
-            "context_label": "",
-            "event_description": "[Scene: Central Perk, Rachel is serving Joey, Ross, and Monica their drinks.]"
-        },
-        {
             "scene_description": "[Scene: Chandler's job, Chandler is typing data into his computer, he keeps typing even\nwhile taking a drink of coffee with one hand. One of his co-workers walks by.]",
             "dialogue": [
                 {
@@ -78,15 +24,15 @@
             ],
             "location": "Chandler's job",
             "subjects": [
-                "WOMAN",
+                "MRS. TEDLOCK",
                 "CHANDLER",
-                "MRS. TEDLOCK"
+                "WOMAN"
             ],
             "clip_start": "00:00:03",
             "clip_end": "00:00:42",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0115_scene_0_Chandler's job",
+            "context_label": "0115_scene_000_Chandler's job",
             "event_description": "[Scene: Chandler's job, Chandler is typing data into his computer, he keeps typing even\nwhile taking a drink of coffee with one hand. One of his co-workers walks by.]"
         },
         {
@@ -219,18 +165,18 @@
             ],
             "location": "Central Perk",
             "subjects": [
-                "RACHEL",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "PHOEBE",
-                "CHANDLER"
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:00:45",
             "clip_end": "00:02:58",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0115_scene_1_Central Perk",
+            "context_label": "0115_scene_001_Central Perk",
             "event_description": "[Scene: Central Perk, everyone is there but Chandler. Phoebe runs in, excitedly.]"
         },
         {
@@ -371,18 +317,18 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "RACHEL",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "PHOEBE",
-                "CHANDLER"
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:02:59",
             "clip_end": "00:05:55",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0115_scene_2_Monica and Rachel's",
+            "context_label": "0115_scene_002_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, Chandler walks in, wearing a suit.]"
         },
         {
@@ -403,14 +349,14 @@
             ],
             "location": "Ross's apartment",
             "subjects": [
-                "ROSS",
-                "CELIA"
+                "CELIA",
+                "ROSS"
             ],
             "clip_start": "00:06:20",
             "clip_end": "00:05:56",
             "srt_start": "00:06:14",
             "srt_end": "",
-            "context_label": "0115_scene_3_Ross's apartment",
+            "context_label": "0115_scene_003_Ross's apartment",
             "event_description": "[Scene: Ross's apartment, Marcel is hanging from Celia's hair, and she is screaming,\ntrying to get him off.]"
         },
         {
@@ -519,17 +465,17 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "RACHEL",
-                "JOEY",
-                "MONICA",
                 "PHOEBE",
-                "CHANDLER"
+                "JOEY",
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:06:20",
             "clip_end": "00:09:00",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0115_scene_4_Monica and Rachel's",
+            "context_label": "0115_scene_004_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, everyone is there but Ross and Chandler. Monica is making\nfood, and having everyone try it.]"
         },
         {
@@ -578,14 +524,14 @@
             ],
             "location": "Ross' apartment",
             "subjects": [
-                "ROSS",
-                "CELIA"
+                "CELIA",
+                "ROSS"
             ],
             "clip_start": "00:09:07",
             "clip_end": "00:09:56",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0115_scene_5_Ross' apartment",
+            "context_label": "0115_scene_005_Ross' apartment",
             "event_description": "[Scene: Ross' apartment, Girl, You'll Be A Woman Soon (the original, not that\ncruddy Urge Overkill version) is playing. Ross and Celia are kissing passionately.]"
         },
         {
@@ -746,15 +692,15 @@
             ],
             "location": "Chandler and Joey's",
             "subjects": [
+                "CHANDLER",
                 "ROSS",
-                "JOEY",
-                "CHANDLER"
+                "JOEY"
             ],
             "clip_start": "00:10:05",
             "clip_end": "00:14:22",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0115_scene_6_Chandler and Joey's",
+            "context_label": "0115_scene_006_Chandler and Joey's",
             "event_description": "[Scene: Chandler and Joey's, Joey and Ross are there, discussing what happened last\nnight.]"
         },
         {
@@ -805,16 +751,16 @@
                     "text": "Last time I do that, I promise."
                 }
             ],
-            "location": "Chandler's new window office",
+            "location": "Chandler's Office",
             "subjects": [
-                "PHOEBE",
-                "CHANDLER"
+                "CHANDLER",
+                "PHOEBE"
             ],
             "clip_start": "00:14:28",
             "clip_end": "00:15:33",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0115_scene_7_Chandler's new window office",
+            "context_label": "0115_scene_007_Chandler's Office",
             "event_description": "[Scene: Chandler's new window office, he is showing Phoebe around.]"
         },
         {
@@ -870,7 +816,7 @@
             "clip_end": "00:16:25",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0115_scene_8_Monica and Rachel's",
+            "context_label": "0115_scene_008_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, Monica is on the phone. Rachel walks in and overhears the\nconversation.]"
         },
         {
@@ -1051,16 +997,16 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "MONICA",
-                "PHOEBE",
                 "RACHEL",
+                "PHOEBE",
+                "MONICA",
                 "STEVE"
             ],
             "clip_start": "00:16:30",
             "clip_end": "00:20:35",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0115_scene_9_Monica and Rachel's",
+            "context_label": "0115_scene_009_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, later. Rachel is waitressing, Monica is cooking. Phoebe\nwalks in with Steve ( Crystal Duck winner Jon Lovitz).]"
         },
         {
@@ -1137,17 +1083,17 @@
             ],
             "location": "Central Perk",
             "subjects": [
-                "RACHEL",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "PHOEBE"
+                "RACHEL",
+                "MONICA"
             ],
             "clip_start": "00:20:41",
             "clip_end": "00:22:12",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0115_scene_10_Central Perk",
+            "context_label": "0115_scene_010_Central Perk",
             "event_description": "[Scene: Central Perk, all are there except Chandler.]"
         },
         {
@@ -1166,7 +1112,7 @@
             "clip_end": "00:22:36",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0115_scene_11_Chandler's office",
+            "context_label": "0115_scene_011_Chandler's office",
             "event_description": "[Scene: Chandler's office, he's on the phone, agitated.]"
         },
         {
@@ -1218,7 +1164,7 @@
             "clip_end": "00:23:06",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0115_scene_12_Phoebe's massage parlour",
+            "context_label": "0115_scene_012_Phoebe's massage parlour",
             "event_description": "[Scene: Phoebe's massage parlour, she has Steve on the table, and is giving him an\nextra-painful massage.]"
         }
     ]

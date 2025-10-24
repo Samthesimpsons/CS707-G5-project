@@ -28,14 +28,14 @@
             ],
             "location": "Central Perk",
             "subjects": [
-                "TERRY",
-                "RACHEL"
+                "RACHEL",
+                "TERRY"
             ],
             "clip_start": "00:00:07",
             "clip_end": "00:01:04",
             "srt_start": "00:00:08,332",
             "srt_end": "00:00:57,288",
-            "context_label": "0109_scene_0_Central Perk",
+            "context_label": "0109_scene_000_Central Perk",
             "event_description": "[Scene: Central Perk, Rachel is confronting her boss, Terry.]"
         },
         {
@@ -216,19 +216,19 @@
             ],
             "location": "Central Perk",
             "subjects": [
-                "RACHEL",
                 "GUY",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "PHOEBE",
-                "CHANDLER"
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:01:09",
             "clip_end": "00:03:57",
             "srt_start": "00:01:51,932 ",
             "srt_end": "00:04:29,484",
-            "context_label": "0109_scene_1_Central Perk",
+            "context_label": "0109_scene_001_Central Perk",
             "event_description": "[Scene: Central Perk, Rachel is approaching a customer.]"
         },
         {
@@ -325,7 +325,7 @@
             "clip_end": "00:05:57",
             "srt_start": "00:04:39,252",
             "srt_end": "00:06:15,089",
-            "context_label": "0109_scene_2_Carol and Susan's apartment",
+            "context_label": "0109_scene_002_Carol and Susan's apartment",
             "event_description": "[Scene: Carol and Susan's apartment, Susan is there. Ross enters.]"
         },
         {
@@ -422,18 +422,18 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "RACHEL",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "PHOEBE",
-                "CHANDLER"
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:06:01",
             "clip_end": "00:08:25",
             "srt_start": "00:06:25,492",
             "srt_end": "00:08:15,884",
-            "context_label": "0109_scene_3_Monica and Rachel's",
+            "context_label": "0109_scene_003_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, everyone is there but Rachel.]"
         },
         {
@@ -514,15 +514,15 @@
             ],
             "location": "The subway",
             "subjects": [
+                "IN THE SUBWAY. THE POSTER SAYS",
                 "JOEY",
-                "GIRL",
-                "IN THE SUBWAY. THE POSTER SAYS"
+                "GIRL"
             ],
             "clip_start": "00:08:27",
             "clip_end": "00:10:16",
             "srt_start": "00:08:34,172",
             "srt_end": "00:09:36,488",
-            "context_label": "0109_scene_4_The subway",
+            "context_label": "0109_scene_004_The subway",
             "event_description": "[Scene: The subway, Joey spots a gorgeous woman waiting. He goes up to her.]"
         },
         {
@@ -543,15 +543,15 @@
             ],
             "location": "Central Perk",
             "subjects": [
-                "JOEY",
+                "RACHEL",
                 "PHOEBE",
-                "RACHEL"
+                "JOEY"
             ],
             "clip_start": "00:10:17",
             "clip_end": "00:10:41",
             "srt_start": "00:10:17,092",
             "srt_end": "00:10:24,722",
-            "context_label": "0109_scene_5_Central Perk",
+            "context_label": "0109_scene_005_Central Perk",
             "event_description": "[Scene: Central Perk, Joey enters, amongst snickers from the gang.]"
         },
         {
@@ -568,14 +568,14 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "JOEY",
-                "CHANDLER"
+                "CHANDLER",
+                "JOEY"
             ],
             "clip_start": "00:10:53",
             "clip_end": "00:11:09",
             "srt_start": "00:10:43,692",
             "srt_end": "00:10:51,527",
-            "context_label": "0109_scene_6_Monica and Rachel's",
+            "context_label": "0109_scene_006_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, Joey enters, upset.]"
         },
         {
@@ -716,18 +716,18 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "RACHEL",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "PHOEBE",
-                "CHANDLER"
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:11:15",
             "clip_end": "00:14:01",
             "srt_start": "00:11:03,372",
             "srt_end": "00:13:37,687",
-            "context_label": "0109_scene_7_Monica and Rachel's",
+            "context_label": "0109_scene_007_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, Monica is cooking Thanksgiving dinner. Chandler is\nstanding in the doorway, not wanting to participate in the festivities.]"
         },
         {
@@ -767,7 +767,7 @@
             "clip_end": "00:14:56",
             "srt_start": "00:13:44,172",
             "srt_end": "00:14:32,283",
-            "context_label": "0109_scene_8_Carol and Susan's",
+            "context_label": "0109_scene_008_Carol and Susan's",
             "event_description": "[Scene: Carol and Susan's, Ross is preparing to talk to her belly.]"
         },
         {
@@ -840,17 +840,17 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "RACHEL",
-                "JOEY",
-                "MONICA",
                 "PHOEBE",
-                "CHANDLER"
+                "JOEY",
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:14:59",
             "clip_end": "00:15:53",
             "srt_start": "00:14:35,292",
             "srt_end": "00:15:25,886",
-            "context_label": "0109_scene_9_Monica and Rachel's",
+            "context_label": "0109_scene_009_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, the group is coming back from the roof.]"
         },
         {
@@ -915,7 +915,7 @@
             "clip_end": "00:17:04",
             "srt_start": "00:15:28,892",
             "srt_end": "00:16:34,291",
-            "context_label": "0109_scene_10_Carol and Susan's",
+            "context_label": "0109_scene_010_Carol and Susan's",
             "event_description": "[Scene: Carol and Susan's, Carol is reading, Ross is talking to her stomach.]"
         },
         {
@@ -1120,18 +1120,18 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "RACHEL",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "PHOEBE",
-                "CHANDLER"
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:17:07",
             "clip_end": "00:22:33",
             "srt_start": "00:16:38,172",
             "srt_end": "00:21:12,288",
-            "context_label": "0109_scene_11_Monica and Rachel's",
+            "context_label": "0109_scene_011_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, Joey has a tray full of keys, and is trying each one in the lock.]"
         }
     ]

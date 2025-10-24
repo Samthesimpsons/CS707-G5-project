@@ -92,20 +92,20 @@
             ],
             "location": "The hospital",
             "subjects": [
-                "CAROL",
                 "SUSAN",
-                "RACHEL",
+                "PHOEBE",
+                "CAROL",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "PHOEBE",
-                "CHANDLER"
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:00:06",
             "clip_end": "00:01:18",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0123_scene_0_The hospital",
+            "context_label": "0123_scene_000_The hospital",
             "event_description": "[Scene: The hospital, Ross, Rachel, Chandler, Joey, and Monica are in the waiting room,\nwaiting for Carol and Susan to arrive.]"
         },
         {
@@ -198,17 +198,17 @@
             ],
             "location": "Carol's Hospital Room",
             "subjects": [
-                "CAROL",
                 "SUSAN",
-                "RACHEL",
+                "CAROL",
                 "ROSS",
+                "RACHEL",
                 "DR. FRANZBLAU"
             ],
             "clip_start": "00:01:20",
             "clip_end": "00:02:36",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0123_scene_1_Carol's Hospital Room",
+            "context_label": "0123_scene_001_Carol's Hospital Room",
             "event_description": "[Scene: Carol's Hospital Room, Carol is on the bed, Ross and Susan are at her side.]"
         },
         {
@@ -297,16 +297,16 @@
             ],
             "location": "The Waiting Room",
             "subjects": [
-                "LYDIA",
-                "JOEY",
                 "CHANDLER",
-                "MONICA"
+                "MONICA",
+                "JOEY",
+                "LYDIA"
             ],
             "clip_start": "00:02:38",
             "clip_end": "00:03:47",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0123_scene_2_The Waiting Room",
+            "context_label": "0123_scene_002_The Waiting Room",
             "event_description": "[Scene: The Waiting Room, Chandler is falling asleep on Monica's shoulder.]"
         },
         {
@@ -419,17 +419,17 @@
             ],
             "location": "The Waiting Room",
             "subjects": [
-                "RACHEL",
-                "ROSS",
-                "MONICA",
                 "PHOEBE",
-                "CHANDLER"
+                "ROSS",
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:03:53",
             "clip_end": "00:05:35",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0123_scene_3_The Waiting Room",
+            "context_label": "0123_scene_003_The Waiting Room",
             "event_description": "[Scene: The Waiting Room, Phoebe is playing a song. Chandler, Monica, and Ross are\nthere as well.]"
         },
         {
@@ -500,7 +500,7 @@
                     "text": "Isn't!"
                 }
             ],
-            "location": "Joey and Lydia in the hospital room. Lydia is on the phone with her mother.",
+            "location": "Lydia's Hospital Room",
             "subjects": [
                 "JOEY",
                 "LYDIA"
@@ -509,7 +509,7 @@
             "clip_end": "00:07:05",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0123_scene_4_Joey and Lydia in the hospital room. Lydia is on the phone with her mother.",
+            "context_label": "0123_scene_004_Lydia's Hospital Room",
             "event_description": "[Scene: Joey and Lydia in the hospital room. Lydia is on the phone with her mother.]"
         },
         {
@@ -654,7 +654,7 @@
             "clip_end": "00:08:11",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0123_scene_5_Carol's Hospital Room",
+            "context_label": "0123_scene_005_Carol's Hospital Room",
             "event_description": "[Scene: Carol's Hospital Room, Ross and Susan are coaching Carol.]"
         },
         {
@@ -687,15 +687,15 @@
             ],
             "location": "Lydia's Hospital Room",
             "subjects": [
-                "JOEY",
                 "NURSE",
+                "JOEY",
                 "LYDIA"
             ],
             "clip_start": "00:08:12",
             "clip_end": "00:08:42",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0123_scene_6_Lydia's Hospital Room",
+            "context_label": "0123_scene_006_Lydia's Hospital Room",
             "event_description": "[Scene: Lydia's Hospital Room, Joey is helping Lydia go through labor, a nurse is now\npresent in her room as well.]"
         },
         {
@@ -752,15 +752,15 @@
             ],
             "location": "The Hall",
             "subjects": [
+                "PHOEBE",
                 "ROSS",
-                "SUSAN",
-                "PHOEBE"
+                "SUSAN"
             ],
             "clip_start": "00:08:43",
             "clip_end": "00:09:35",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0123_scene_7_The Hall",
+            "context_label": "0123_scene_007_The Hall",
             "event_description": "[Scene: The Hall, Ross and Susan are arguing.]"
         },
         {
@@ -797,15 +797,15 @@
             ],
             "location": "Carol's room",
             "subjects": [
+                "RACHEL",
                 "CAROL",
-                "DR. FRANZBLAU",
-                "RACHEL"
+                "DR. FRANZBLAU"
             ],
             "clip_start": "00:09:38",
             "clip_end": "00:09:57",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0123_scene_8_Carol's room",
+            "context_label": "0123_scene_008_Carol's room",
             "event_description": "[Scene: Carol's room, Rachel and Dr. Franzblau are there with her.]"
         },
         {
@@ -828,7 +828,7 @@
             "clip_end": "00:10:37",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0123_scene_9_The Broom Closet",
+            "context_label": "0123_scene_009_The Broom Closet",
             "event_description": "[Scene: The Broom Closet, Ross and Susan are trying to get out.]"
         },
         {
@@ -847,7 +847,7 @@
             "clip_end": "00:10:55",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0123_scene_10_Lydia's Room",
+            "context_label": "0123_scene_010_Lydia's Room",
             "event_description": "[Scene: Lydia's Room, Joey is helping her deliver.]"
         },
         {
@@ -873,14 +873,14 @@
             "location": "The Broom Closet",
             "subjects": [
                 "ROSS",
-                "SUSAN",
-                "PHOEBE"
+                "PHOEBE",
+                "SUSAN"
             ],
             "clip_start": "00:10:57",
             "clip_end": "00:11:19",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0123_scene_11_The Broom Closet",
+            "context_label": "0123_scene_011_The Broom Closet",
             "event_description": "[Scene: The Broom Closet, Ross has picked up a vacuum and is holding it at the door.]"
         },
         {
@@ -905,15 +905,15 @@
             ],
             "location": "The Waiting Room",
             "subjects": [
-                "JOEY",
                 "CHANDLER",
-                "MONICA"
+                "MONICA",
+                "JOEY"
             ],
             "clip_start": "00:11:20",
             "clip_end": "00:12:02",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0123_scene_12_The Waiting Room",
+            "context_label": "0123_scene_012_The Waiting Room",
             "event_description": "[Scene: The Waiting Room, Monica is on the phone with her mother, Chandler is standing\nbehind her.]"
         },
         {
@@ -970,14 +970,14 @@
             ],
             "location": "The Waiting Room",
             "subjects": [
-                "DR. FRANZBLAU",
-                "RACHEL"
+                "RACHEL",
+                "DR. FRANZBLAU"
             ],
             "clip_start": "00:12:05",
             "clip_end": "00:13:14",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0123_scene_13_The Waiting Room",
+            "context_label": "0123_scene_013_The Waiting Room",
             "event_description": "[Scene: The Waiting Room, Rachel and Dr. Franzblau have gone to get coffee.]"
         },
         {
@@ -1021,7 +1021,7 @@
             "clip_end": "00:14:17",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0123_scene_14_The Hall Outside Lydia's Room",
+            "context_label": "0123_scene_014_The Hall Outside Lydia's Room",
             "event_description": "[Scene: The Hall Outside Lydia's Room, Joey is walking up to Lydia's room with\nballoons, but before he enters he sees that the baby's father has arrived. He listens at\nthe door.]"
         },
         {
@@ -1062,15 +1062,15 @@
             ],
             "location": "The Broom Closet",
             "subjects": [
+                "PHOEBE",
                 "ROSS",
-                "SUSAN",
-                "PHOEBE"
+                "SUSAN"
             ],
             "clip_start": "00:14:18",
             "clip_end": "00:15:45",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0123_scene_15_The Broom Closet",
+            "context_label": "0123_scene_015_The Broom Closet",
             "event_description": "[Scene: The Broom Closet, Ross is trying to open the door with a credit card, with no\nsuccess.]"
         },
         {
@@ -1123,19 +1123,19 @@
             ],
             "location": "Carol's Room",
             "subjects": [
-                "CAROL",
-                "RACHEL",
                 "NURSE",
+                "CAROL",
                 "JOEY",
+                "RACHEL",
+                "CHANDLER",
                 "MONICA",
-                "DR. FRANZBLAU",
-                "CHANDLER"
+                "DR. FRANZBLAU"
             ],
             "clip_start": "00:15:46",
             "clip_end": "00:16:23",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0123_scene_16_Carol's Room",
+            "context_label": "0123_scene_016_Carol's Room",
             "event_description": "[Scene: Carol's Room, she is ready to give birth. Everyone is there except for Phoebe,\nRoss, and Susan, who are in the broom closet.]"
         },
         {
@@ -1172,16 +1172,16 @@
             ],
             "location": "The Broom Closet",
             "subjects": [
-                "ROSS",
-                "SUSAN",
+                "JANITOR",
                 "PHOEBE",
-                "JANITOR"
+                "ROSS",
+                "SUSAN"
             ],
             "clip_start": "00:16:24",
             "clip_end": "00:17:14",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0123_scene_17_The Broom Closet",
+            "context_label": "0123_scene_017_The Broom Closet",
             "event_description": "[Scene: The Broom Closet, Ross has used a broom to open the air vent in the ceiling.\nPhoebe is wearing a janitor's uniform, ready to go up in the vent.]"
         },
         {
@@ -1278,19 +1278,19 @@
             ],
             "location": "Carol's Room",
             "subjects": [
-                "CAROL",
-                "SUSAN",
                 "NURSE",
-                "ROSS",
-                "DR. FRANZBLAU",
+                "SUSAN",
+                "CAROL",
                 "PHOEBE",
-                "CHANDLER"
+                "ROSS",
+                "CHANDLER",
+                "DR. FRANZBLAU"
             ],
             "clip_start": "00:17:15",
             "clip_end": "00:18:55",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0123_scene_18_Carol's Room",
+            "context_label": "0123_scene_018_Carol's Room",
             "event_description": "[Scene: Carol's Room, Ross and Susan rush in.]"
         },
         {
@@ -1367,19 +1367,19 @@
             ],
             "location": "The Delivery Room",
             "subjects": [
-                "CAROL",
                 "SUSAN",
-                "RACHEL",
-                "ROSS",
-                "MONICA",
+                "CAROL",
                 "PHOEBE",
-                "CHANDLER"
+                "ROSS",
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:18:57",
             "clip_end": "00:20:39",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0123_scene_19_The Delivery Room",
+            "context_label": "0123_scene_019_The Delivery Room",
             "event_description": "[Scene: The Delivery Room, Carol is holding the infant.]"
         },
         {
@@ -1436,18 +1436,18 @@
             ],
             "location": "The Hospital",
             "subjects": [
-                "RACHEL",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "PHOEBE",
-                "CHANDLER"
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:20:40",
             "clip_end": "00:20:47",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0123_scene_20_The Hospital",
+            "context_label": "0123_scene_020_The Hospital",
             "event_description": "[Scene: The Hospital, the camera is placed as though it were Ben's eyes.]"
         }
     ]

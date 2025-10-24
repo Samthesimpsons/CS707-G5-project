@@ -74,7 +74,7 @@
                     "text": "I can't believe you did that!"
                 }
             ],
-            "location": "A Street: Monica and Phoebe are walking to a newsstand.",
+            "location": "A Street",
             "subjects": [
                 "GUY",
                 "PHOEBE",
@@ -84,7 +84,7 @@
             "clip_end": "00:00:39",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0111_scene_0_A Street: Monica and Phoebe are walking to a newsstand.",
+            "context_label": "0111_scene_000_A Street",
             "event_description": "[Scene: A Street: Monica and Phoebe are walking to a newsstand.]"
         },
         {
@@ -140,7 +140,7 @@
             "clip_end": "00:01:57",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0111_scene_1_Hospital",
+            "context_label": "0111_scene_001_Hospital",
             "event_description": "[Scene: Hospital, the guy is in a coma and Mon and Pheebs are visiting.]"
         },
         {
@@ -301,22 +301,22 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "RACHEL",
-                "JAY LENO",
+                "PAOLO",
+                "EUPHORIA UNBOUND'",
+                "PHOEBE",
+                "MRS. BING",
                 "ROSS",
                 "JOEY",
-                "MRS. BING",
+                "RACHEL",
+                "CHANDLER",
                 "MONICA",
-                "EUPHORIA UNBOUND'",
-                "PAOLO",
-                "PHOEBE",
-                "CHANDLER"
+                "JAY LENO"
             ],
             "clip_start": "00:02:00",
             "clip_end": "00:05:19",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0111_scene_2_Monica and Rachel's",
+            "context_label": "0111_scene_002_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, Monica and Phoebe are telling everyone about their coma\nguy.]"
         },
         {
@@ -352,7 +352,7 @@
             "clip_end": "00:05:54",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0111_scene_3_The Hospital",
+            "context_label": "0111_scene_003_The Hospital",
             "event_description": "[Scene: The Hospital, it's a montage of Monica and Phoebe's visit to the hospital with My\nGuy playing in the background.\u00a0 It starts with Monica reading a newspaper to\nhim.]"
         },
         {
@@ -521,19 +521,19 @@
             ],
             "location": "A Mexican Restaurant",
             "subjects": [
-                "RACHEL",
-                "ROSS",
                 "MRS. BING",
-                "JOEY",
-                "MONICA",
                 "PHOEBE",
-                "CHANDLER"
+                "ROSS",
+                "JOEY",
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:05:56",
             "clip_end": "00:09:47",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0111_scene_4_A Mexican Restaurant",
+            "context_label": "0111_scene_004_A Mexican Restaurant",
             "event_description": "[Scene: A Mexican Restaurant, Monica, Phoebe, Joey, Chandler and his mom are there.]"
         },
         {
@@ -694,18 +694,18 @@
             ],
             "location": "Chandler and Joey's",
             "subjects": [
-                "RACHEL",
+                "PAOLO",
                 "ROSS",
                 "JOEY",
-                "PAOLO",
-                "MONICA",
-                "CHANDLER"
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:09:49",
             "clip_end": "00:12:25",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0111_scene_5_Chandler and Joey's",
+            "context_label": "0111_scene_005_Chandler and Joey's",
             "event_description": "[Scene: Chandler and Joey's, the next morning. Joey is getting the door in his dressing\ngown\u2014it's Ross.]"
         },
         {
@@ -753,7 +753,7 @@
             "clip_end": "00:13:23",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0111_scene_6_Hospital. Phoebe is there stroking Coma Guy's hair",
+            "context_label": "0111_scene_006_Hospital. Phoebe is there stroking Coma Guy's hair",
             "event_description": "[Scene: Hospital. Phoebe is there stroking Coma Guy's hair, when Monica enters with a\nbunch of balloons.]"
         },
         {
@@ -862,15 +862,15 @@
             ],
             "location": "Chandler and Joey's",
             "subjects": [
+                "CHANDLER",
                 "ROSS",
-                "JOEY",
-                "CHANDLER"
+                "JOEY"
             ],
             "clip_start": "00:13:24",
             "clip_end": "00:14:43",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0111_scene_7_Chandler and Joey's",
+            "context_label": "0111_scene_007_Chandler and Joey's",
             "event_description": "[Scene: Chandler and Joey's, Ross is talking to Chandler. Joey is making a snack at the\nbar.]"
         },
         {
@@ -1015,18 +1015,18 @@
             ],
             "location": "Central Perk",
             "subjects": [
-                "RACHEL",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "PHOEBE",
-                "CHANDLER"
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:14:48",
             "clip_end": "00:17:53",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0111_scene_8_Central Perk",
+            "context_label": "0111_scene_008_Central Perk",
             "event_description": "[Scene: Central Perk, everyone is there except for Chandler.\u00a0 Rachel is writing\nsomething and Monica walks up.]"
         },
         {
@@ -1147,15 +1147,15 @@
             ],
             "location": "The Hospital",
             "subjects": [
-                "PHOEBE",
                 "COMA GUY",
+                "PHOEBE",
                 "MONICA"
             ],
             "clip_start": "00:17:54",
             "clip_end": "00:19:34",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0111_scene_9_The Hospital",
+            "context_label": "0111_scene_009_The Hospital",
             "event_description": "[Scene: The Hospital, Monica bursts in, closely followed by Phoebe. There is no\nsign of Coma Guy.\u00a0 His bed is empty.]"
         },
         {
@@ -1300,16 +1300,16 @@
             ],
             "location": "Chandler and Joey's Chandler is talking with his mom.",
             "subjects": [
-                "ROSS",
+                "CHANDLER",
                 "MRS. BING",
-                "JOEY",
-                "CHANDLER"
+                "ROSS",
+                "JOEY"
             ],
             "clip_start": "00:19:40",
             "clip_end": "00:22:39",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0111_scene_10_Chandler and Joey's Chandler is talking with his mom.",
+            "context_label": "0111_scene_010_Chandler and Joey's Chandler is talking with his mom.",
             "event_description": "[Scene: Chandler and Joey's Chandler is talking with his mom.]"
         },
         {
@@ -1346,16 +1346,16 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "ROSS",
+                "RACHEL",
                 "MONICA",
-                "JOEY",
-                "RACHEL"
+                "ROSS",
+                "JOEY"
             ],
             "clip_start": "00:22:42",
             "clip_end": "00:23:27",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0111_scene_11_Monica and Rachel's",
+            "context_label": "0111_scene_011_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, Rachel is handing out copies of her book to the gang.]"
         }
     ]

@@ -26,19 +26,19 @@
                     "text": "Vell, Eva, ve've done some excellent vork here, and I vould have to say, your pwoblem is qviiite clear. (He goes into a song and dance number.)"
                 }
             ],
-            "location": "",
+            "location": "A Theater",
             "subjects": [
-                "RACHEL",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "PHOEBE",
+                "RACHEL",
                 "CHANDLER"
             ],
             "clip_start": "00:00:00",
             "clip_end": "00:01:06",
             "srt_start": "00:00:05,505",
             "srt_end": "00:00:53,514",
-            "context_label": "0106_scene_0_",
+            "context_label": "0106_scene_000_A Theater",
             "event_description": "Scene: A Theater, the gang is in the audience wating for a play of Joey's to start."
         },
         {
@@ -191,19 +191,19 @@
             ],
             "location": "The Theater",
             "subjects": [
-                "RACHEL",
-                "ROSS",
                 "AURORA",
-                "JOEY",
-                "MONICA",
                 "PHOEBE",
-                "CHANDLER"
+                "ROSS",
+                "JOEY",
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:01:07",
             "clip_end": "04:25:00",
             "srt_start": "00:02:22,909",
             "srt_end": "00:05:06,430",
-            "context_label": "0106_scene_1_The Theater",
+            "context_label": "0106_scene_001_The Theater",
             "event_description": "[Scene: The Theater, the play has ended and everyone is applauding.\u00a0 As soon as\nthe cast leaves, the gang all groan and sit down heavily.]"
         },
         {
@@ -388,18 +388,18 @@
             ],
             "location": "Central Perk",
             "subjects": [
+                "AURORA",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "AURORA",
-                "MONICA",
-                "PHOEBE",
-                "CHANDLER"
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "05:53:00",
             "clip_end": "09:56:00",
             "srt_start": "00:07:17,003",
             "srt_end": "00:10:47,543",
-            "context_label": "0106_scene_2_Central Perk",
+            "context_label": "0106_scene_002_Central Perk",
             "event_description": "[Scene: Central Perk, everyone else is there as Chandler enters.]"
         },
         {
@@ -580,18 +580,18 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "RACHEL",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "PHOEBE",
-                "CHANDLER"
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "09:58:00",
             "clip_end": "14:32:00",
             "srt_start": "00:10:58,658",
             "srt_end": "00:15:19,508",
-            "context_label": "0106_scene_3_Monica and Rachel's",
+            "context_label": "0106_scene_003_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, Rachel is there as enter except Joey enter.]"
         },
         {
@@ -669,15 +669,15 @@
             "location": "Monica and Rachel's",
             "subjects": [
                 "RACHEL",
-                "JOEY",
                 "CHANDLER",
-                "MONICA"
+                "MONICA",
+                "JOEY"
             ],
             "clip_start": "14:35:00",
             "clip_end": "16:03:00",
             "srt_start": "00:15:29,328",
             "srt_end": "00:16:52,309",
-            "context_label": "0106_scene_4_Monica and Rachel's",
+            "context_label": "0106_scene_004_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, the next morning, Monica is getting the door.]"
         },
         {
@@ -745,7 +745,7 @@
             "clip_end": "17:27:00",
             "srt_start": "00:17:03,555",
             "srt_end": "00:18:14,850",
-            "context_label": "0106_scene_5_A Film Set",
+            "context_label": "0106_scene_005_A Film Set",
             "event_description": "[Scene: A Film Set, Joey is entering for his scene.]"
         },
         {
@@ -894,14 +894,14 @@
             ],
             "location": "Chandler and Joey's",
             "subjects": [
-                "AURORA",
-                "CHANDLER"
+                "CHANDLER",
+                "AURORA"
             ],
             "clip_start": "17:29:00",
             "clip_end": "20:12:00",
             "srt_start": "00:18:21,166",
             "srt_end": "00:20:53,612",
-            "context_label": "0106_scene_6_Chandler and Joey's",
+            "context_label": "0106_scene_006_Chandler and Joey's",
             "event_description": "[Scene: Chandler and Joey's, Aurora and Chandler are in bed in Chandler's room.]"
         },
         {
@@ -1014,18 +1014,18 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "RACHEL",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "PHOEBE",
-                "CHANDLER"
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "20:15:00",
             "clip_end": "22:42:00",
             "srt_start": "00:21:05,731",
             "srt_end": "00:23:26,166",
-            "context_label": "0106_scene_7_Monica and Rachel's",
+            "context_label": "0106_scene_007_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, Ross is trying to comfort Chandler.\u00a0 Joey is absent.]"
         },
         {
@@ -1044,7 +1044,7 @@
             "clip_end": "23:50:00",
             "srt_start": "00:23:37,949 ",
             "srt_end": "00:24:37,741",
-            "context_label": "0106_scene_8_Monica's Bedroom",
+            "context_label": "0106_scene_008_Monica's Bedroom",
             "event_description": "[Scene: Monica's Bedroom, she's lying in bed wide awake.]"
         }
     ]

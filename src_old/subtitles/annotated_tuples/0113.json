@@ -44,14 +44,14 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "CHANDLER",
-                "RACHEL"
+                "RACHEL",
+                "CHANDLER"
             ],
             "clip_start": "00:00:02",
             "clip_end": "00:00:38",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0113_scene_0_Monica and Rachel's",
+            "context_label": "0113_scene_000_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, Chandler walks in and starts raiding the\nfridge. Then Rachel comes out of the shower with a towel wrapped round her waist, drying\nherself with another towel. Chandler and Rachel startle each other and she drops the towel\nfor a second and snatches the rug off the couch.]"
         },
         {
@@ -232,20 +232,20 @@
             ],
             "location": "Central Perk",
             "subjects": [
-                "RACHEL",
+                "ROGER",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "ROGER",
                 "MR. TRIBBIANI",
-                "PHOEBE",
-                "CHANDLER"
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:00:41",
             "clip_end": "00:04:01",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0113_scene_1_Central Perk",
+            "context_label": "0113_scene_001_Central Perk",
             "event_description": "[Scene: Central Perk, Phoebe is there with her boyfriend Roger, talking to Rachel and\nMonica.]"
         },
         {
@@ -306,14 +306,14 @@
             ],
             "location": "Chandler and Joey's",
             "subjects": [
-                "JOEY",
-                "MR. TRIBBIANI"
+                "MR. TRIBBIANI",
+                "JOEY"
             ],
             "clip_start": "00:04:03",
             "clip_end": "00:05:41",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0113_scene_2_Chandler and Joey's",
+            "context_label": "0113_scene_002_Chandler and Joey's",
             "event_description": "[Scene: Chandler and Joey's, Mr. Tribbiani is on the phone.]"
         },
         {
@@ -470,19 +470,19 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "RACHEL",
-                "ROSS",
-                "JOEY",
-                "MONICA",
                 "ROGER",
                 "PHOEBE",
-                "CHANDLER"
+                "ROSS",
+                "JOEY",
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:05:46",
             "clip_end": "00:09:41",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0113_scene_3_Monica and Rachel's",
+            "context_label": "0113_scene_003_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, Joey is lamenting to everyone about hid dad's affair.]"
         },
         {
@@ -519,15 +519,15 @@
             ],
             "location": "The Hallway",
             "subjects": [
+                "CHANDLER",
                 "RONNI",
-                "JOEY",
-                "CHANDLER"
+                "JOEY"
             ],
             "clip_start": "00:09:45",
             "clip_end": "00:10:29",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0113_scene_4_The Hallway",
+            "context_label": "0113_scene_004_The Hallway",
             "event_description": "[Scene: The Hallway, Chandler and Joey are just leaving Monica and Rachel's.]"
         },
         {
@@ -668,16 +668,16 @@
             ],
             "location": "Chandler and Joey's",
             "subjects": [
-                "RONNI",
-                "JOEY",
+                "MR. TRIBBIANI",
                 "CHANDLER",
-                "MR. TRIBBIANI"
+                "RONNI",
+                "JOEY"
             ],
             "clip_start": "00:10:34",
             "clip_end": "00:12:37",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0113_scene_5_Chandler and Joey's",
+            "context_label": "0113_scene_005_Chandler and Joey's",
             "event_description": "[Scene: Chandler and Joey's, Ronni is talking to Chandler. Joey's dad is not around.]"
         },
         {
@@ -738,14 +738,14 @@
             ],
             "location": "Chandler and Joey's",
             "subjects": [
-                "JOEY",
-                "CHANDLER"
+                "CHANDLER",
+                "JOEY"
             ],
             "clip_start": "00:12:38",
             "clip_end": "00:12:59",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0113_scene_6_Chandler and Joey's",
+            "context_label": "0113_scene_006_Chandler and Joey's",
             "event_description": "[Scene: Chandler and Joey's, night. Chandler and Joey are sharing the sofabed in the\nliving room. Joey is restless.]"
         },
         {
@@ -838,18 +838,18 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "RONNI",
-                "RACHEL",
-                "JOEY",
-                "MONICA",
                 "MR. TRIBBIANI",
-                "CHANDLER"
+                "RONNI",
+                "JOEY",
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:13:02",
             "clip_end": "00:14:29",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0113_scene_7_Monica and Rachel's",
+            "context_label": "0113_scene_007_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, morning. Someone knocks on the door and Monica gets it.]"
         },
         {
@@ -914,17 +914,17 @@
             ],
             "location": "Central Perk",
             "subjects": [
-                "RACHEL",
-                "ROSS",
-                "MONICA",
                 "PHOEBE",
-                "CHANDLER"
+                "ROSS",
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:14:33",
             "clip_end": "00:15:14",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0113_scene_8_Central Perk",
+            "context_label": "0113_scene_008_Central Perk",
             "event_description": "[Scene: Central Perk, everyone is there as Phoebe enters.]"
         },
         {
@@ -1008,7 +1008,7 @@
             "clip_end": "00:15:54",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0113_scene_9_Chandler and Joey's apartment",
+            "context_label": "0113_scene_009_Chandler and Joey's apartment",
             "event_description": "[Scene: Chandler and Joey's apartment, Joey is trying to turn the sofabed back into a\nsofa. Someone knocks on the door and it rears up at him.]"
         },
         {
@@ -1067,7 +1067,7 @@
                     "text": "Actually it's, it's quite, y'know, typical behaviour when you have this kind of dysfunctional group dynamic. Y'know, this kind of co-dependant, emotionally stunted, sitting in your stupid coffee house with your stupid big cups which, I'm sorry, might as well have nipples on them, and you're like all 'Oh, define me! Define me! Love me, I need love!'."
                 }
             ],
-            "location": "Central Perk. Phoebe is there with Roger.",
+            "location": "Central Perk",
             "subjects": [
                 "PHOEBE",
                 "ROGER"
@@ -1076,7 +1076,7 @@
             "clip_end": "00:20:56",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0113_scene_10_Central Perk. Phoebe is there with Roger.",
+            "context_label": "0113_scene_010_Central Perk",
             "event_description": "[Scene: Central Perk. Phoebe is there with Roger.]"
         },
         {
@@ -1153,18 +1153,18 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "RACHEL",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "PHOEBE",
-                "CHANDLER"
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:20:58",
             "clip_end": "00:22:25",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0113_scene_11_Monica and Rachel's",
+            "context_label": "0113_scene_011_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, Joey is letting everyone in on the new developments.]"
         },
         {
@@ -1195,18 +1195,18 @@
                     "text": "Oh! ...Hello, dear. (She whips the curtain shut in horror)"
                 }
             ],
-            "location": "Monica and Rachel's. Phoebe is reading the paper and Joey enters.",
+            "location": "Monica and Rachel's",
             "subjects": [
-                "JOEY",
                 "PHOEBE",
                 "MONICA",
-                "MR. TRIBBIANI"
+                "MR. TRIBBIANI",
+                "JOEY"
             ],
             "clip_start": "00:22:29",
             "clip_end": "00:23:06",
             "srt_start": "",
             "srt_end": "",
-            "context_label": "0113_scene_12_Monica and Rachel's. Phoebe is reading the paper and Joey enters.",
+            "context_label": "0113_scene_012_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's. Phoebe is reading the paper and Joey enters.]"
         }
     ]
