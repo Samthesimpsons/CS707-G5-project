@@ -3,7 +3,7 @@
     "title": "The One With The Sonogram at the End",
     "scenes": [
         {
-            "scene_description": "Scene Central Perk, everyone's there.",
+            "scene_description": "Scene: Central Perk, everyone's there.",
             "dialogue": [
                 {
                     "speaker": "MONICA",
@@ -50,21 +50,21 @@
                     "text": "(pause)....Are we still talking about sex?"
                 }
             ],
-            "location": "",
+            "location": "Central Perk",
             "subjects": [
-                "RACHEL",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "PHOEBE",
-                "CHANDLER"
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:00:01",
             "clip_end": "00:01:09",
             "srt_start": "00:00:01,868",
             "srt_end": "00:01:09,868",
-            "context_label": "0102_scene_0_",
-            "event_description": "Scene Central Perk, everyone's there."
+            "context_label": "0102_scene_000_Central Perk",
+            "event_description": "Scene: Central Perk, everyone's there."
         },
         {
             "scene_description": "[Scene: Museum of Prehistoric History, Ross and a co-worker\n(Marsha) are setting up an exhibit which includes some mannequins of cave people.]",
@@ -152,15 +152,15 @@
             ],
             "location": "Museum of Prehistoric History",
             "subjects": [
+                "MARSHA",
                 "CAROL",
-                "ROSS",
-                "MARSHA"
+                "ROSS"
             ],
             "clip_start": "00:01:10",
             "clip_end": "00:03:11",
             "srt_start": "00:02:01,421",
             "srt_end": "00:03:51,591",
-            "context_label": "0102_scene_1_Museum of Prehistoric History",
+            "context_label": "0102_scene_001_Museum of Prehistoric History",
             "event_description": "[Scene: Museum of Prehistoric History, Ross and a co-worker\n(Marsha) are setting up an exhibit which includes some mannequins of cave people.]"
         },
         {
@@ -485,20 +485,20 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "RACHEL",
+                "MR. GELLER",
+                "MRS. GELLER",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "MRS. GELLER",
-                "MR. GELLER",
-                "PHOEBE",
-                "CHANDLER"
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:03:13",
             "clip_end": "00:12:02",
             "srt_start": "00:04:02,909",
             "srt_end": "00:12:39,214",
-            "context_label": "0102_scene_2_Monica and Rachel's",
+            "context_label": "0102_scene_002_Monica and Rachel's",
             "event_description": "[Scene: Monica and Rachel's, Chandler, Joey, Phoebe, and Monica are watching Three's\nCompany .]"
         },
         {
@@ -635,18 +635,18 @@
             ],
             "location": "Central Park",
             "subjects": [
-                "RACHEL",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "PHOEBE",
-                "CHANDLER"
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:12:03",
             "clip_end": "00:15:05",
             "srt_start": "00:12:47,366",
             "srt_end": "00:15:34,188",
-            "context_label": "0102_scene_3_Central Park",
+            "context_label": "0102_scene_003_Central Park",
             "event_description": "[Scene: Central Park, everyone's there.]"
         },
         {
@@ -763,19 +763,19 @@
             ],
             "location": "Carol's OB/GYN",
             "subjects": [
-                "CAROL",
-                "SUSAN",
-                "RACHEL",
                 "BERNICE",
                 "ROBBIE",
+                "SUSAN",
+                "BARRY",
+                "CAROL",
                 "ROSS",
-                "BARRY"
+                "RACHEL"
             ],
             "clip_start": "00:15:06",
             "clip_end": "00:16:19",
             "srt_start": "00:15:51,583",
             "srt_end": "00:17:36,482",
-            "context_label": "0102_scene_4_Carol's OB/GYN",
+            "context_label": "0102_scene_004_Carol's OB/GYN",
             "event_description": "[Scene: Carol's OB/GYN, Carol is waiting.]"
         },
         {
@@ -840,7 +840,7 @@
             "clip_end": "00:18:11",
             "srt_start": "00:17:54,840",
             "srt_end": "00:18:42,614",
-            "context_label": "0102_scene_5_Carol's OB/GYN",
+            "context_label": "0102_scene_005_Carol's OB/GYN",
             "event_description": "[Scene: Carol's OB/GYN, they're talking about how this is going to work.]"
         },
         {
@@ -945,15 +945,15 @@
             ],
             "location": "Barry's office",
             "subjects": [
-                "BARRY",
+                "RACHEL",
                 "ROBBIE",
-                "RACHEL"
+                "BARRY"
             ],
             "clip_start": "00:18:12",
             "clip_end": "00:20:30",
             "srt_start": "00:18:51,196 ",
             "srt_end": "00:21:02,158",
-            "context_label": "0102_scene_6_Barry's office",
+            "context_label": "0102_scene_006_Barry's office",
             "event_description": "[Scene: Barry's office, Rachel is doing her makeup in the mirror on Barry's lamp as\nBarry enters.]"
         },
         {
@@ -1058,16 +1058,16 @@
             ],
             "location": "Carol's OB/GYN",
             "subjects": [
-                "CAROL",
                 "ROSS",
-                "SUSAN",
-                "DR. OBERMAN"
+                "CAROL",
+                "DR. OBERMAN",
+                "SUSAN"
             ],
             "clip_start": "00:20:31",
             "clip_end": "00:22:18",
             "srt_start": "00:21:05,831",
             "srt_end": "00:22:47,198",
-            "context_label": "0102_scene_7_Carol's OB/GYN",
+            "context_label": "0102_scene_007_Carol's OB/GYN",
             "event_description": "[Scene: Carol's OB/GYN, they're still arguing about what to name the baby.]"
         },
         {
@@ -1136,18 +1136,18 @@
             ],
             "location": "Monica and Rachel's apartment",
             "subjects": [
-                "RACHEL",
+                "PHOEBE",
                 "ROSS",
                 "JOEY",
-                "MONICA",
-                "PHOEBE",
-                "CHANDLER"
+                "RACHEL",
+                "CHANDLER",
+                "MONICA"
             ],
             "clip_start": "00:22:20",
             "clip_end": "00:23:44",
             "srt_start": "00:22:57,609",
             "srt_end": "00:24:18,379",
-            "context_label": "0102_scene_8_Monica and Rachel's apartment",
+            "context_label": "0102_scene_008_Monica and Rachel's apartment",
             "event_description": "[Scene: Monica and Rachel's apartment, everyone is watching the tape of the sonogram.\n\u00a0 Rachel is on the phone.]"
         }
     ]
