@@ -58,7 +58,9 @@
             "clip_start": "00:00:03",
             "clip_end": "00:00:59",
             "srt_start": "",
-            "srt_end": ""
+            "srt_end": "",
+            "context_label": "0119_scene_000_Central Perk",
+            "event_description": "[Scene: Central Perk, Monica enters with some mail.]"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, Rachel and Ross are eating Chinese.]",
@@ -183,16 +185,18 @@
             "location": "Monica and Rachel's",
             "subjects": [
                 "PHOEBE",
+                "ROSS",
                 "JOEY",
                 "RACHEL",
-                "ROSS",
                 "CHANDLER",
                 "MONICA"
             ],
             "clip_start": "00:01:03",
             "clip_end": "00:03:49",
             "srt_start": "",
-            "srt_end": ""
+            "srt_end": "",
+            "context_label": "0119_scene_001_Monica and Rachel's",
+            "event_description": "[Scene: Monica and Rachel's, Rachel and Ross are eating Chinese.]"
         },
         {
             "scene_description": "[Scene: Joe-G's Pizza, the guys are there.]",
@@ -245,13 +249,15 @@
             "location": "Joe-G's Pizza",
             "subjects": [
                 "CHANDLER",
-                "JOEY",
-                "ROSS"
+                "ROSS",
+                "JOEY"
             ],
             "clip_start": "00:03:52",
             "clip_end": "00:04:56",
             "srt_start": "",
-            "srt_end": ""
+            "srt_end": "",
+            "context_label": "0119_scene_002_Joe-G's Pizza",
+            "event_description": "[Scene: Joe-G's Pizza, the guys are there.]"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, Rachel is taking care of Marcel and they are watching a\nsoap opera.]",
@@ -447,18 +453,20 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
+                "MR. HECKLES",
                 "PHOEBE",
+                "ROSS",
                 "JOEY",
                 "RACHEL",
-                "ROSS",
                 "CHANDLER",
-                "MR. HECKLES",
                 "MONICA"
             ],
             "clip_start": "00:04:58",
             "clip_end": "00:09:37",
             "srt_start": "",
-            "srt_end": ""
+            "srt_end": "",
+            "context_label": "0119_scene_003_Monica and Rachel's",
+            "event_description": "[Scene: Monica and Rachel's, Rachel is taking care of Marcel and they are watching a\nsoap opera.]"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, continued from earlier.]",
@@ -942,19 +950,22 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
+                "LUISA",
+                "MR. HECKLES",
                 "PHOEBE",
+                "ROSS",
                 "JOEY",
                 "RACHEL",
-                "ROSS",
                 "CHANDLER",
-                "MR. HECKLES",
-                "LUISA",
-                "MONICA"
+                "MONICA",
+                "INTERCOM"
             ],
             "clip_start": "00:09:42",
             "clip_end": "00:19:35",
             "srt_start": "",
-            "srt_end": ""
+            "srt_end": "",
+            "context_label": "0119_scene_004_Monica and Rachel's",
+            "event_description": "[Scene: Monica and Rachel's, continued from earlier.]"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's. Rachel and Ross are there. Ross is trying to get the dress\noff Marcel.]",
@@ -1011,13 +1022,15 @@
             "location": "Monica and Rachel's",
             "subjects": [
                 "RACHEL",
-                "BARRY",
-                "ROSS"
+                "ROSS",
+                "BARRY"
             ],
             "clip_start": "00:19:41",
             "clip_end": "00:21:29",
             "srt_start": "",
-            "srt_end": ""
+            "srt_end": "",
+            "context_label": "0119_scene_005_Monica and Rachel's",
+            "event_description": "[Scene: Monica and Rachel's. Rachel and Ross are there. Ross is trying to get the dress\noff Marcel.]"
         },
         {
             "scene_description": "[Scene: Central Perk, Monica, Joey, Phoebe, and Chandler are looking through Monica's\nhigh school yearbook]",
@@ -1061,15 +1074,17 @@
             ],
             "location": "Central Perk",
             "subjects": [
-                "PHOEBE",
                 "CHANDLER",
-                "JOEY",
-                "MONICA"
+                "PHOEBE",
+                "MONICA",
+                "JOEY"
             ],
             "clip_start": "00:21:34",
             "clip_end": "00:22:21",
             "srt_start": "",
-            "srt_end": ""
+            "srt_end": "",
+            "context_label": "0119_scene_006_Central Perk",
+            "event_description": "[Scene: Central Perk, Monica, Joey, Phoebe, and Chandler are looking through Monica's\nhigh school yearbook]"
         }
     ]
 }

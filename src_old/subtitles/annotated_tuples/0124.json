@@ -89,16 +89,18 @@
             "location": "Central Perk",
             "subjects": [
                 "PHOEBE",
+                "ROSS",
                 "JOEY",
                 "RACHEL",
-                "ROSS",
                 "CHANDLER",
                 "MONICA"
             ],
             "clip_start": "00:00:02",
             "clip_end": "00:02:43",
             "srt_start": "",
-            "srt_end": ""
+            "srt_end": "",
+            "context_label": "0124_scene_000_Central Perk",
+            "event_description": "[Scene: Central Perk, the whole gang is there, Ross is showing pictures of his new baby\nboy, Ben, to the group.]"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, Monica and Phoebe are preparing for a barbecue for\nRachel's birthday.]",
@@ -492,16 +494,18 @@
             "subjects": [
                 "MELANIE",
                 "PHOEBE",
+                "ROSS",
                 "JOEY",
                 "RACHEL",
-                "ROSS",
                 "CHANDLER",
                 "MONICA"
             ],
             "clip_start": "",
             "clip_end": "",
             "srt_start": "",
-            "srt_end": ""
+            "srt_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Monica and Rachel's, Monica and Phoebe are preparing for a barbecue for\nRachel's birthday.]"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, continued from earlier.]",
@@ -618,7 +622,9 @@
             "clip_start": "",
             "clip_end": "",
             "srt_start": "",
-            "srt_end": ""
+            "srt_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Monica and Rachel's, continued from earlier.]"
         },
         {
             "scene_description": "[Scene: Airport, Ross has headphones on, and is listening to a 'How To Speak Chinese'\ntape. Occasionally, he makes an outburst in Chinese in accordance with the tape. He is\ngetting on the jetway. The flight attendant is there.]",
@@ -702,14 +708,17 @@
             ],
             "location": "Airport",
             "subjects": [
-                "FLIGHT ATTENDANT",
                 "RACHEL",
+                "FLIGHT ATTENDANT",
+                "MAN",
                 "ROSS"
             ],
             "clip_start": "00:12:26",
             "clip_end": "00:13:32",
             "srt_start": "",
-            "srt_end": ""
+            "srt_end": "",
+            "context_label": "0124_scene_001_Airport",
+            "event_description": "[Scene: Airport, Ross has headphones on, and is listening to a 'How To Speak Chinese'\ntape. Occasionally, he makes an outburst in Chinese in accordance with the tape. He is\ngetting on the jetway. The flight attendant is there.]"
         },
         {
             "scene_description": "[Scene: Joey's Bedroom, he and Melanie are in bed together.]",
@@ -757,13 +766,15 @@
             ],
             "location": "Joey's Bedroom",
             "subjects": [
-                "MELANIE",
-                "JOEY"
+                "JOEY",
+                "MELANIE"
             ],
             "clip_start": "00:13:40",
             "clip_end": "00:15:06",
             "srt_start": "",
-            "srt_end": ""
+            "srt_end": "",
+            "context_label": "0124_scene_002_Joey's Bedroom",
+            "event_description": "[Scene: Joey's Bedroom, he and Melanie are in bed together.]"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, Monica, Phoebe, and Rachel are there. Monica is holding\nthe wrapping paper from one of Rachel's gifts.]",
@@ -855,14 +866,16 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "PHOEBE",
                 "RACHEL",
+                "PHOEBE",
                 "MONICA"
             ],
             "clip_start": "00:15:11",
             "clip_end": "00:17:24",
             "srt_start": "",
-            "srt_end": ""
+            "srt_end": "",
+            "context_label": "0124_scene_003_Monica and Rachel's",
+            "event_description": "[Scene: Monica and Rachel's, Monica, Phoebe, and Rachel are there. Monica is holding\nthe wrapping paper from one of Rachel's gifts.]"
         },
         {
             "scene_description": "[Scene: Chandler and Joey's, Chandler is eating breakfast, Joey quietly opens his\nbedroom door.]",
@@ -924,7 +937,9 @@
             "clip_start": "00:17:29",
             "clip_end": "00:18:45",
             "srt_start": "",
-            "srt_end": ""
+            "srt_end": "",
+            "context_label": "0124_scene_004_Chandler and Joey's",
+            "event_description": "[Scene: Chandler and Joey's, Chandler is eating breakfast, Joey quietly opens his\nbedroom door.]"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, one week later. Monica is seated, Rachel comes out of her\nbedroom.]",
@@ -993,12 +1008,15 @@
             "location": "Monica and Rachel's",
             "subjects": [
                 "RACHEL",
-                "MONICA"
+                "MONICA",
+                "INTERCOM"
             ],
             "clip_start": "00:18:48",
             "clip_end": "00:19:57",
             "srt_start": "",
-            "srt_end": ""
+            "srt_end": "",
+            "context_label": "0124_scene_005_Monica and Rachel's",
+            "event_description": "[Scene: Monica and Rachel's, one week later. Monica is seated, Rachel comes out of her\nbedroom.]"
         },
         {
             "scene_description": "[Scene: Chandler and Joey's, Chandler is seated, and the apartment is filled with\nbaskets of fruit. Joey enters, check in hand.]",
@@ -1032,7 +1050,9 @@
             "clip_start": "00:19:59",
             "clip_end": "00:20:34",
             "srt_start": "",
-            "srt_end": ""
+            "srt_end": "",
+            "context_label": "0124_scene_006_Chandler and Joey's",
+            "event_description": "[Scene: Chandler and Joey's, Chandler is seated, and the apartment is filled with\nbaskets of fruit. Joey enters, check in hand.]"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's Balcony, Rachel is having drinks with her date, Carl.]",
@@ -1152,14 +1172,16 @@
             ],
             "location": "Monica and Rachel's Balcony",
             "subjects": [
-                "CARL",
                 "RACHEL",
-                "ROSS"
+                "ROSS",
+                "CARL"
             ],
             "clip_start": "00:20:36",
             "clip_end": "00:23:54",
             "srt_start": "",
-            "srt_end": ""
+            "srt_end": "",
+            "context_label": "0124_scene_007_Monica and Rachel's Balcony",
+            "event_description": "[Scene: Monica and Rachel's Balcony, Rachel is having drinks with her date, Carl.]"
         },
         {
             "scene_description": "[Scene: Airport. Madonna's Take A Bow plays in the background as Rachel waits at\nthe gate with flowers.]",
@@ -1209,17 +1231,19 @@
                     "text": "Come on, they're gonna love you."
                 }
             ],
-            "location": "Airport. Madonna's Take A Bow plays in the background as Rachel waits at\nthe gate with flowers.",
+            "location": "Airport",
             "subjects": [
-                "MAN",
                 "RACHEL",
-                "ROSS",
-                "JULIE"
+                "JULIE",
+                "MAN",
+                "ROSS"
             ],
             "clip_start": "00:24:01",
             "clip_end": "00:24:41",
             "srt_start": "",
-            "srt_end": ""
+            "srt_end": "",
+            "context_label": "0124_scene_008_Airport",
+            "event_description": "[Scene: Airport. Madonna's Take A Bow plays in the background as Rachel waits at\nthe gate with flowers.]"
         }
     ]
 }

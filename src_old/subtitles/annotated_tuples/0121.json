@@ -77,16 +77,18 @@
             "location": "Monica and Rachel's",
             "subjects": [
                 "PHOEBE",
+                "ROSS",
                 "JOEY",
                 "RACHEL",
-                "ROSS",
                 "CHANDLER",
                 "MONICA"
             ],
             "clip_start": "00:00:47",
             "clip_end": "00:02:08",
             "srt_start": "",
-            "srt_end": ""
+            "srt_end": "",
+            "context_label": "0121_scene_000_Monica and Rachel's",
+            "event_description": "[Scene: Monica and Rachel's, everyone is looking at papers.]"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, late at night Monica is still examining her bill as Rachel\nemerges from her room.]",
@@ -148,7 +150,9 @@
             "clip_start": "00:02:11",
             "clip_end": "00:03:09",
             "srt_start": "",
-            "srt_end": ""
+            "srt_end": "",
+            "context_label": "0121_scene_001_Monica and Rachel's",
+            "event_description": "[Scene: Monica and Rachel's, late at night Monica is still examining her bill as Rachel\nemerges from her room.]"
         },
         {
             "scene_description": "[Scene: Central Perk, Joey and Chandler are discussing stage names.]",
@@ -206,7 +210,9 @@
             "clip_start": "00:03:16",
             "clip_end": "00:04:29",
             "srt_start": "",
-            "srt_end": ""
+            "srt_end": "",
+            "context_label": "0121_scene_002_Central Perk",
+            "event_description": "[Scene: Central Perk, Joey and Chandler are discussing stage names.]"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, Monica is there as Phoebe and Rachel enter.]",
@@ -250,14 +256,16 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "PHOEBE",
                 "RACHEL",
+                "PHOEBE",
                 "MONICA"
             ],
             "clip_start": "00:04:35",
             "clip_end": "00:05:34",
             "srt_start": "",
-            "srt_end": ""
+            "srt_end": "",
+            "context_label": "0121_scene_003_Monica and Rachel's",
+            "event_description": "[Scene: Monica and Rachel's, Monica is there as Phoebe and Rachel enter.]"
         },
         {
             "scene_description": "[Scene: A Tap Class, the girls are standing at the door.]",
@@ -389,16 +397,19 @@
             ],
             "location": "A Tap Class",
             "subjects": [
+                "WOMAN",
                 "PHOEBE",
                 "RACHEL",
-                "TEACHER",
+                "FAKE MONICA",
                 "MONICA",
-                "FAKE MONICA"
+                "TEACHER"
             ],
             "clip_start": "00:05:36",
             "clip_end": "00:08:16",
             "srt_start": "",
-            "srt_end": ""
+            "srt_end": "",
+            "context_label": "0121_scene_004_A Tap Class",
+            "event_description": "[Scene: A Tap Class, the girls are standing at the door.]"
         },
         {
             "scene_description": "[Scene: Central Perk, Ross is entering.]",
@@ -447,13 +458,15 @@
             "location": "Central Perk",
             "subjects": [
                 "CHANDLER",
-                "JOEY",
-                "ROSS"
+                "ROSS",
+                "JOEY"
             ],
             "clip_start": "00:08:18",
             "clip_end": "00:09:02",
             "srt_start": "",
-            "srt_end": ""
+            "srt_end": "",
+            "context_label": "0121_scene_005_Central Perk",
+            "event_description": "[Scene: Central Perk, Ross is entering.]"
         },
         {
             "scene_description": "[Scene: Central Perk, scene continued from earlier.\u00a0 They guys are sitting there\nlike the Three Monkeys.]",
@@ -538,16 +551,18 @@
             "location": "Central Perk",
             "subjects": [
                 "PHOEBE",
+                "ROSS",
                 "JOEY",
                 "RACHEL",
-                "ROSS",
                 "CHANDLER",
                 "MONICA"
             ],
             "clip_start": "00:09:08",
             "clip_end": "00:11:12",
             "srt_start": "",
-            "srt_end": ""
+            "srt_end": "",
+            "context_label": "0121_scene_006_Central Perk",
+            "event_description": "[Scene: Central Perk, scene continued from earlier.\u00a0 They guys are sitting there\nlike the Three Monkeys.]"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, Monica, Rachel and Fake Monica are there.]",
@@ -628,13 +643,15 @@
             "location": "Monica and Rachel's",
             "subjects": [
                 "RACHEL",
-                "MONICA",
-                "FAKE MONICA"
+                "FAKE MONICA",
+                "MONICA"
             ],
             "clip_start": "00:11:14",
             "clip_end": "00:13:17",
             "srt_start": "",
-            "srt_end": ""
+            "srt_end": "",
+            "context_label": "0121_scene_007_Monica and Rachel's",
+            "event_description": "[Scene: Monica and Rachel's, Monica, Rachel and Fake Monica are there.]"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, tiem lapse.\u00a0 Everyone but Joey and Monica are there.]",
@@ -683,15 +700,17 @@
             "location": "Monica and Rachel's",
             "subjects": [
                 "PHOEBE",
+                "ROSS",
                 "JOEY",
                 "RACHEL",
-                "ROSS",
                 "CHANDLER"
             ],
             "clip_start": "00:13:20",
             "clip_end": "00:14:47",
             "srt_start": "",
-            "srt_end": ""
+            "srt_end": "",
+            "context_label": "0121_scene_008_Monica and Rachel's",
+            "event_description": "[Scene: Monica and Rachel's, tiem lapse.\u00a0 Everyone but Joey and Monica are there.]"
         },
         {
             "scene_description": "[Scene: Central Perk, Ross is talking to Dr. Baldhara, a zookeeper.]",
@@ -767,15 +786,17 @@
             ],
             "location": "Central Perk",
             "subjects": [
-                "DR. BALDHARA",
-                "JOEY",
+                "CHANDLER",
                 "ROSS",
-                "CHANDLER"
+                "JOEY",
+                "DR. BALDHARA"
             ],
             "clip_start": "00:14:50",
             "clip_end": "00:16:16",
             "srt_start": "",
-            "srt_end": ""
+            "srt_end": "",
+            "context_label": "0121_scene_009_Central Perk",
+            "event_description": "[Scene: Central Perk, Ross is talking to Dr. Baldhara, a zookeeper.]"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, Rachel is dusting. She comes to the table, lifts all the\nmagazines and wipes under them, then just puts them down again. Monica bursts in,\nobviously drunk.]",
@@ -853,7 +874,9 @@
             "clip_start": "00:16:18",
             "clip_end": "00:18:26",
             "srt_start": "",
-            "srt_end": ""
+            "srt_end": "",
+            "context_label": "0121_scene_010_Monica and Rachel's",
+            "event_description": "[Scene: Monica and Rachel's, Rachel is dusting. She comes to the table, lifts all the\nmagazines and wipes under them, then just puts them down again. Monica bursts in,\nobviously drunk.]"
         },
         {
             "scene_description": "[Scene: New York City Department of Correction, Monica is visiting Fake Monica.]",
@@ -939,7 +962,9 @@
             "clip_start": "00:18:33",
             "clip_end": "00:20:06",
             "srt_start": "",
-            "srt_end": ""
+            "srt_end": "",
+            "context_label": "0121_scene_011_New York City Department of Correction",
+            "event_description": "[Scene: New York City Department of Correction, Monica is visiting Fake Monica.]"
         },
         {
             "scene_description": "[Scene: Tap Class, Monica is standing by the door.]",
@@ -969,7 +994,9 @@
             "clip_start": "00:20:12",
             "clip_end": "00:20:41",
             "srt_start": "",
-            "srt_end": ""
+            "srt_end": "",
+            "context_label": "0121_scene_012_Tap Class",
+            "event_description": "[Scene: Tap Class, Monica is standing by the door.]"
         },
         {
             "scene_description": "[Scene: The Airport, everyone but Monica is there to see off Marcel.]",
@@ -1029,17 +1056,19 @@
             ],
             "location": "The Airport",
             "subjects": [
-                "PA",
                 "PHOEBE",
+                "ROSS",
                 "JOEY",
                 "RACHEL",
-                "ROSS",
+                "PA",
                 "CHANDLER"
             ],
             "clip_start": "00:20:45",
             "clip_end": "00:23:00",
             "srt_start": "",
-            "srt_end": ""
+            "srt_end": "",
+            "context_label": "0121_scene_013_The Airport",
+            "event_description": "[Scene: The Airport, everyone but Monica is there to see off Marcel.]"
         },
         {
             "scene_description": "[Scene: A Theater, there is a casting session going on for a play.]",
@@ -1059,13 +1088,15 @@
             ],
             "location": "A Theater",
             "subjects": [
-                "JOEY",
-                "ACTOR"
+                "ACTOR",
+                "JOEY"
             ],
             "clip_start": "00:23:06",
             "clip_end": "00:23:28",
             "srt_start": "",
-            "srt_end": ""
+            "srt_end": "",
+            "context_label": "0121_scene_014_A Theater",
+            "event_description": "[Scene: A Theater, there is a casting session going on for a play.]"
         }
     ]
 }

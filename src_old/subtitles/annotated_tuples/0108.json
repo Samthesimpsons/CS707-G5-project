@@ -44,13 +44,16 @@
             ],
             "location": "Chandler's Office",
             "subjects": [
-                "SHELLEY",
-                "CHANDLER"
+                "CHANDLER",
+                "SHELLY",
+                "SHELLEY"
             ],
             "clip_start": "00:00:02",
             "clip_end": "00:00:48",
             "srt_start": "00:00:06,639",
-            "srt_end": "00:00:47,839"
+            "srt_end": "00:00:47,839",
+            "context_label": "0108_scene_000_Chandler's Office",
+            "event_description": "Scene: Chandler's Office, Chandler is on a coffee break. Shelley enters."
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, everyone is there.)",
@@ -155,16 +158,18 @@
             "location": "Monica and Rachel's",
             "subjects": [
                 "PHOEBE",
+                "ROSS",
                 "JOEY",
                 "RACHEL",
-                "ROSS",
                 "CHANDLER",
                 "MONICA"
             ],
             "clip_start": "00:00:49",
             "clip_end": "00:03:23",
             "srt_start": "00:01:37,464",
-            "srt_end": "00:04:06,311"
+            "srt_end": "00:04:06,311",
+            "context_label": "0108_scene_001_Monica and Rachel's",
+            "event_description": "[Scene: Monica and Rachel's, everyone is there.)"
         },
         {
             "scene_description": "[Scene: The Hospital, Mr. and Mrs. Geller are there, along with Aunt Lillian. Ross and\nMonica enter and everyone says hi and kisses.)",
@@ -300,17 +305,19 @@
             ],
             "location": "The Hospital",
             "subjects": [
-                "MRS. GELLER",
-                "AUNT LILLIAN",
-                "ROSS",
-                "MR. GELLER",
                 "NURSE",
+                "AUNT LILLIAN",
+                "MR. GELLER",
+                "MRS. GELLER",
+                "ROSS",
                 "MONICA"
             ],
             "clip_start": "00:03:24",
             "clip_end": "00:06:19",
             "srt_start": "00:04:22,528",
-            "srt_end": "00:06:59,910"
+            "srt_end": "00:06:59,910",
+            "context_label": "0108_scene_002_The Hospital",
+            "event_description": "[Scene: The Hospital, Mr. and Mrs. Geller are there, along with Aunt Lillian. Ross and\nMonica enter and everyone says hi and kisses.)"
         },
         {
             "scene_description": "[Scene: Central Perk, Chandler, Phoebe, Joey, and Rachel are there.]",
@@ -391,16 +398,18 @@
             "location": "Central Perk",
             "subjects": [
                 "PHOEBE",
+                "ROSS",
                 "JOEY",
                 "RACHEL",
-                "ROSS",
                 "CHANDLER",
                 "MONICA"
             ],
             "clip_start": "00:06:23",
             "clip_end": "00:08:13",
             "srt_start": "00:07:09,729",
-            "srt_end": "00:08:54,099"
+            "srt_end": "00:08:54,099",
+            "context_label": "0108_scene_003_Central Perk",
+            "event_description": "[Scene: Central Perk, Chandler, Phoebe, Joey, and Rachel are there.]"
         },
         {
             "scene_description": "[Scene: Nana's house, Ross, Mrs. Geller and Aunt Lillian are going through clothes.]",
@@ -428,13 +437,15 @@
             ],
             "location": "Nana's house",
             "subjects": [
-                "MRS. GELLER",
-                "ROSS"
+                "ROSS",
+                "MRS. GELLER"
             ],
             "clip_start": "00:09:00",
             "clip_end": "00:09:38",
             "srt_start": "00:09:41,948",
-            "srt_end": "00:10:17,743"
+            "srt_end": "00:10:17,743",
+            "context_label": "0108_scene_004_Nana's house",
+            "event_description": "[Scene: Nana's house, Ross, Mrs. Geller and Aunt Lillian are going through clothes.]"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, Monica is talking to her father.]",
@@ -486,13 +497,15 @@
             ],
             "location": "Monica and Rachel's",
             "subjects": [
-                "MR. GELLER",
-                "MONICA"
+                "MONICA",
+                "MR. GELLER"
             ],
             "clip_start": "00:09:44",
             "clip_end": "00:10:37",
             "srt_start": "00:10:26,692",
-            "srt_end": "00:11:15,566"
+            "srt_end": "00:11:15,566",
+            "context_label": "0108_scene_005_Monica and Rachel's",
+            "event_description": "[Scene: Monica and Rachel's, Monica is talking to her father.]"
         },
         {
             "scene_description": "[Scene: Chandler's Office, Shelley is drinking coffee; Chandler enters.]",
@@ -566,7 +579,9 @@
             "clip_start": "00:10:41",
             "clip_end": "00:12:00",
             "srt_start": "00:11:27,453",
-            "srt_end": "00:12:39,981"
+            "srt_end": "00:12:39,981",
+            "context_label": "0108_scene_006_Chandler's Office",
+            "event_description": "[Scene: Chandler's Office, Shelley is drinking coffee; Chandler enters.]"
         },
         {
             "scene_description": "[Scene: Nana's Bedroom, Ross is holding a dress out from inside the closet.]",
@@ -646,14 +661,16 @@
             ],
             "location": "Nana's Bedroom",
             "subjects": [
-                "MRS. GELLER",
                 "AUNT LILLIAN",
-                "ROSS"
+                "ROSS",
+                "MRS. GELLER"
             ],
             "clip_start": "00:12:01",
             "clip_end": "00:13:45",
             "srt_start": "00:12:41,327",
-            "srt_end": "00:14:11,975"
+            "srt_end": "00:14:11,975",
+            "context_label": "0108_scene_007_Nana's Bedroom",
+            "event_description": "[Scene: Nana's Bedroom, Ross is holding a dress out from inside the closet.]"
         },
         {
             "scene_description": "[Scene: Monica and Rachel's, Monica and Rachel are preparing to leave for the funeral.]",
@@ -710,16 +727,18 @@
             "location": "Monica and Rachel's",
             "subjects": [
                 "PHOEBE",
+                "ROSS",
                 "JOEY",
                 "RACHEL",
-                "ROSS",
                 "CHANDLER",
                 "MONICA"
             ],
             "clip_start": "00:13:49",
             "clip_end": "00:14:31",
             "srt_start": "00:14:39,545",
-            "srt_end": "00:15:05,597"
+            "srt_end": "00:15:05,597",
+            "context_label": "0108_scene_008_Monica and Rachel's",
+            "event_description": "[Scene: Monica and Rachel's, Monica and Rachel are preparing to leave for the funeral.]"
         },
         {
             "scene_description": "[Scene: The cemetary, after the funeral.]",
@@ -783,18 +802,20 @@
             ],
             "location": "The cemetary",
             "subjects": [
-                "PHOEBE",
                 "MRS. GELLER",
+                "PHOEBE",
+                "ROSS",
                 "JOEY",
                 "RACHEL",
-                "ROSS",
                 "CHANDLER",
                 "MONICA"
             ],
             "clip_start": "00:14:33",
             "clip_end": "00:15:59",
             "srt_start": "00:15:17,349",
-            "srt_end": "00:16:35,115"
+            "srt_end": "00:16:35,115",
+            "context_label": "0108_scene_009_The cemetary",
+            "event_description": "[Scene: The cemetary, after the funeral.]"
         },
         {
             "scene_description": "[Scene: The Wake, at the Gellers' house. Ross is lying on his back, with Phoebe\nsquatting over him, checking to see if he's injured.]",
@@ -998,20 +1019,22 @@
             ],
             "location": "The Wake",
             "subjects": [
-                "PHOEBE",
+                "ANDREA",
+                "MR. GELLER",
                 "MRS. GELLER",
+                "PHOEBE",
+                "ROSS",
                 "JOEY",
                 "RACHEL",
-                "ROSS",
-                "MR. GELLER",
                 "CHANDLER",
-                "ANDREA",
                 "MONICA"
             ],
             "clip_start": "00:16:00",
             "clip_end": "00:20:53",
             "srt_start": "00:16:43,302",
-            "srt_end": "00:21:27,013"
+            "srt_end": "00:21:27,013",
+            "context_label": "0108_scene_010_The Wake",
+            "event_description": "[Scene: The Wake, at the Gellers' house. Ross is lying on his back, with Phoebe\nsquatting over him, checking to see if he's injured.]"
         },
         {
             "scene_description": "[Scene: Central Perk, the gang are looking at old photos.]",
@@ -1067,16 +1090,18 @@
             ],
             "location": "Central Perk",
             "subjects": [
+                "ROSS",
                 "JOEY",
                 "RACHEL",
-                "ROSS",
                 "CHANDLER",
                 "MONICA"
             ],
             "clip_start": "00:20:59",
             "clip_end": "00:22:11",
             "srt_start": "00:21:40,565",
-            "srt_end": "00:22:41,389"
+            "srt_end": "00:22:41,389",
+            "context_label": "0108_scene_011_Central Perk",
+            "event_description": "[Scene: Central Perk, the gang are looking at old photos.]"
         },
         {
             "scene_description": "[Scene: Chandler's Office, Chandler is on a coffee break as Lowell enters.]",
@@ -1144,13 +1169,15 @@
             ],
             "location": "Chandler's Office",
             "subjects": [
-                "LOWELL",
-                "CHANDLER"
+                "CHANDLER",
+                "LOWELL"
             ],
             "clip_start": "00:22:15",
             "clip_end": "00:23:27",
             "srt_start": "00:22:51,903",
-            "srt_end": "00:23:59,265"
+            "srt_end": "00:23:59,265",
+            "context_label": "0108_scene_012_Chandler's Office",
+            "event_description": "[Scene: Chandler's Office, Chandler is on a coffee break as Lowell enters.]"
         }
     ]
 }
