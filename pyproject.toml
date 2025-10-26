@@ -40,3 +40,10 @@ dev = [
 
 [tool.mypy]
 ignore_missing_imports = true
+
+[model]
+qwen_vl = {
+  "fps": 8.0,
+  "min_pixels": 256*28*28,
+  "max_pixels": 1280*28*28,
+}
