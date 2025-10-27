@@ -23,8 +23,8 @@ class QwenVL:
         model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
             self.model_path, 
             dtype=torch.bfloat16, 
-            device_map="auto"
-        )
+            # device_map="auto"
+        ).to("cuda" if torch.cuda.is_available() else "cpu")
         processor = AutoProcessor.from_pretrained(self.model_path)
         return model, processor
 
@@ -67,7 +67,7 @@ class QwenVL:
             padding=True,
             return_tensors="pt",
         )
-        inputs = inputs.to("cuda")
+        inputs = inputs.to("cuda" if torch.cuda.is_available() else "cpu")
         return inputs
     
 
