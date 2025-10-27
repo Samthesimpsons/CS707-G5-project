@@ -6,13 +6,6 @@ from moviepy import VideoFileClip
 from dataclasses import dataclass
 from pathlib import Path
 
-
-DATA = Path("./data/")
-EPISODIC_TUPLES_DIR = DATA / "annotated_tuples"
-VIDEO_INPUT_DIR = DATA / "video" / "season_1"
-VIDEO_OUTPUT_DIR = DATA / "video_clip"
-VIDEO_OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-
 @dataclass
 class EpisodicTuple:
     episode_file: str 
@@ -98,6 +91,12 @@ def process_videos_from_annotations(
 
 
 if __name__ == "__main__":
+    DATA = Path("./data/")
+    EPISODIC_TUPLES_DIR = DATA / "annotated_tuples"
+    VIDEO_INPUT_DIR = DATA / "video" / "season_1"
+    VIDEO_OUTPUT_DIR = DATA / "video_clip"
+    VIDEO_OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
     bad_files = process_videos_from_annotations(
         files_input_dir = EPISODIC_TUPLES_DIR,
         video_input_dir = VIDEO_INPUT_DIR,
@@ -107,4 +106,3 @@ if __name__ == "__main__":
     print(f"Split Results - {len(bad_files)} Bad Files")
     pprint.pprint(bad_files)
     print(f"{'='*80}\n")
-    
