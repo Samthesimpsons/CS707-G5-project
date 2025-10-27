@@ -827,7 +827,7 @@
             "dialogue": [
                 {
                     "speaker": "FOUR LETTERS",
-                    "text": "\"Circle or hoop\"."
+                    "text": "Circle or hoop."
                 },
                 {
                     "speaker": "CHANDLER",
@@ -924,8 +924,7 @@
                 "ROSS",
                 "JOEY",
                 "CHANDLER",
-                "MONICA",
-                "FOUR LETTERS"
+                "MONICA"
             ],
             "clip_start": "00:16:08",
             "clip_end": "00:18:17",
@@ -1109,8 +1108,8 @@
                     "text": "You know he's gay?"
                 },
                 {
-                    "speaker": "I JUST WANNA CLARIFY THIS",
-                    "text": "are you outing Mr. Peanut?"
+                    "speaker": "PHOEBE",
+                    "text": "I JUST WANNA CLARIFY THIS are you outing Mr. Peanut?"
                 },
                 {
                     "speaker": "DANIELLE",
@@ -1193,11 +1192,10 @@
                 "JOEY",
                 "RACHEL",
                 "CHANDLER",
-                "I JUST WANNA CLARIFY THIS",
                 "MONICA"
             ],
             "clip_start": "00:21:28",
-            "clip_end": "00:22:35",
+            "clip_end": "00:22:34",
             "srt_start": "",
             "srt_end": "",
             "context_label": "0120_scene_011_Central Perk",

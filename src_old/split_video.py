@@ -1,5 +1,6 @@
 import time
 import json
+import pprint
 
 from moviepy import VideoFileClip
 from dataclasses import dataclass
@@ -59,6 +60,7 @@ def process_videos_from_annotations(
     video_input_dir: Path,
     video_output_dir: Path
 ):
+    bad_files = []
     json_files = list(files_input_dir.glob("*.json"))
     print(json_files)
     ### Read from file containing annotated json tuple files
@@ -87,23 +89,22 @@ def process_videos_from_annotations(
                     episode_output_path = video_output_dir / f"{clip_name}.mp4"
                     split_video(input_video_path, episode_output_path, params)
                 else:
-                    print(f"Unknown clip name {params.clip_name} for {json_path}")
+                    print(f"\nUnknown clip name {params.clip_name} for {json_path}")
                     continue
             except Exception as e:
-                print(f"Clip:{clip_name}-{e}")
+                bad_files.append(f"\nClip:{clip_name}-{e}")
+                print(f"\nClip:{clip_name}-{e}")
+    return sorted(bad_files)
 
 
 if __name__ == "__main__":
-    process_videos_from_annotations(
+    bad_files = process_videos_from_annotations(
         files_input_dir = EPISODIC_TUPLES_DIR,
         video_input_dir = VIDEO_INPUT_DIR,
         video_output_dir = VIDEO_OUTPUT_DIR
     )
-
-
-
-
-
-
-    
+    print(f"\n{'='*80}")
+    print(f"Split Results - {len(bad_files)} Bad Files")
+    pprint.pprint(bad_files)
+    print(f"{'='*80}\n")
     
