@@ -1,0 +1,804 @@
+{
+  "episode": "0102",
+  "title": "The One With The Sonogram at the End",
+  "scenes": [
+    {
+      "scene_description": "Scene: Central Perk, everyone's there.",
+      "dialogue": [
+        {
+          "speaker": "MONICA",
+          "text": "What you guys don't understand is, for us, kissing is as important as any part of it."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Yeah, right!.......Y'serious?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, yeah!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Everything you need to know is in that first kiss."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Absolutely."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Yeah, I think for us, kissing is pretty much like an opening act, y'know? I mean it's like the stand-up comedian you have to sit through before Pink Floyd comes out."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Yeah, and-and it's not that we don't like the comedian, it's that-that... that's not why we bought the ticket."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "The problem is, though, after the concert's over, no matter how great the show was, you girls are always looking for the comedian again, y'know? I mean, we're in the car, we're fighting traffic... basically just trying to stay awake."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Yeah, well,"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "WORD OF ADVICE Bring back the comedian. Otherwise next time you're gonna find yourself sitting at home, listening to that album alone."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "(pause)....Are we still talking about sex?"
+        }
+      ],
+      "location": "Central Perk",
+      "subjects": [
+        "PHOEBE",
+        "ROSS",
+        "JOEY",
+        "RACHEL",
+        "CHANDLER",
+        "MONICA"
+      ],
+      "clip_start": "00:00:01",
+      "clip_end": "00:01:09",
+      "srt_start": "00:00:01,868",
+      "srt_end": "00:01:09,868",
+      "context_label": "0102_scene_000_Central Perk",
+      "event_description": "Scene: Central Perk, everyone's there.",
+      "events": [
+        {
+          "event_id": "0102_scene_000_event_001",
+          "event_description": "Monica explains that kissing is important for women",
+          "involved_subjects": ["MONICA", "JOEY", "PHOEBE", "RACHEL"],
+          "location": "Central Perk",
+          "timestamp": "00:00:01-00:00:25"
+        },
+        {
+          "event_id": "0102_scene_000_event_002",
+          "event_description": "Chandler compares kissing to an opening act before a concert",
+          "involved_subjects": ["CHANDLER", "ROSS"],
+          "location": "Central Perk",
+          "timestamp": "00:00:26-00:00:50"
+        },
+        {
+          "event_id": "0102_scene_000_event_003",
+          "event_description": "Rachel advises the men to bring back the comedian or listen to the album alone",
+          "involved_subjects": ["RACHEL", "CHANDLER", "ROSS", "JOEY"],
+          "location": "Central Perk",
+          "timestamp": "00:00:51-00:01:05"
+        },
+        {
+          "event_id": "0102_scene_000_event_004",
+          "event_description": "Joey asks if they are still talking about sex",
+          "involved_subjects": ["JOEY"],
+          "location": "Central Perk",
+          "timestamp": "00:01:06-00:01:09"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Museum of Prehistoric History, Ross and a co-worker (Marsha) are setting up an exhibit which includes some mannequins of cave people.]",
+      "dialogue": [
+        {
+          "speaker": "ROSS",
+          "text": "No, it's good, it is good, it's just that- mm- doesn't she seem a little angry?"
+        },
+        {
+          "speaker": "MARSHA",
+          "text": "Well, she has issues."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Does she."
+        },
+        {
+          "speaker": "MARSHA",
+          "text": "He's out banging other women over the head with a club, while she sits at home trying to get the mastodon smell out of the carpet!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Marsha, these are cave people. Okay? They have issues like 'Gee, that glacier's getting kinda close.' See?"
+        },
+        {
+          "speaker": "MARSHA",
+          "text": "Speaking of issues, isn't that your ex-wife?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "(trying to ignore her) No. No."
+        },
+        {
+          "speaker": "MARSHA",
+          "text": "Yes, it is. Carol! Hi!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Okay, okay, yes, it is. (waves) How about I'll, uh, catch up with you in the Ice Age."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Hi."
+        },
+        {
+          "speaker": "CAROL",
+          "text": "So."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "You look great. I, uh... I hate that."
+        },
+        {
+          "speaker": "CAROL",
+          "text": "Sorry. You look good too."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Ah, well, in here, anyone who... stands erect... So what's new? Still, uh..."
+        },
+        {
+          "speaker": "CAROL",
+          "text": "A lesbian?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Well... you never know. How's, um.. how's the family?"
+        },
+        {
+          "speaker": "CAROL",
+          "text": "Marty's still totally paranoid. Oh, and, uh-"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Why- why are you here, Carol?"
+        },
+        {
+          "speaker": "CAROL",
+          "text": "I'm pregnant."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Pregnant?!"
+        }
+      ],
+      "location": "Museum of Prehistoric History",
+      "subjects": [
+        "MARSHA",
+        "CAROL",
+        "ROSS"
+      ],
+      "clip_start": "00:01:10",
+      "clip_end": "00:03:11",
+      "srt_start": "00:02:01,421",
+      "srt_end": "00:03:51,591",
+      "context_label": "0102_scene_001_Museum of Prehistoric History",
+      "event_description": "[Scene: Museum of Prehistoric History, Ross and a co-worker (Marsha) are setting up an exhibit which includes some mannequins of cave people.]",
+      "events": [
+        {
+          "event_id": "0102_scene_001_event_001",
+          "event_description": "Ross and Marsha discuss the angry expression of a cave woman mannequin",
+          "involved_subjects": ["ROSS", "MARSHA"],
+          "location": "Museum of Prehistoric History",
+          "timestamp": "00:01:10-00:01:45"
+        },
+        {
+          "event_id": "0102_scene_001_event_002",
+          "event_description": "Marsha points out that Ross's ex-wife Carol has arrived",
+          "involved_subjects": ["MARSHA", "ROSS", "CAROL"],
+          "location": "Museum of Prehistoric History",
+          "timestamp": "00:01:46-00:02:10"
+        },
+        {
+          "event_id": "0102_scene_001_event_003",
+          "event_description": "Ross greets Carol and they exchange awkward pleasantries",
+          "involved_subjects": ["ROSS", "CAROL"],
+          "location": "Museum of Prehistoric History",
+          "timestamp": "00:02:11-00:02:50"
+        },
+        {
+          "event_id": "0102_scene_001_event_004",
+          "event_description": "Carol reveals to Ross that she is pregnant",
+          "involved_subjects": ["CAROL", "ROSS"],
+          "location": "Museum of Prehistoric History",
+          "timestamp": "00:02:51-00:03:11"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, Chandler, Joey, Phoebe, and Monica are watching Three's Company.]",
+      "dialogue": [
+        {
+          "speaker": "CHANDLER",
+          "text": "Oh, I think this is the episode of Three's Company where there's some kind of misunderstanding."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "...Then I've already seen this one! (Turns off the TV.)"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "(taking a drink from Joey) Are you through with that?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Yeah, sorry, the swallowing slowed me down."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Whose little ball of paper is this?!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Oh, uh, that would be mine. See, I wrote a note to myself, and then I realised I didn't need it, so I balled it up and... (sees that Monica is glaring at him) ...now I wish I was dead."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "(She lifts up the cushion of the couch and it's all dirty and gross under it) Eww!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Look, I'm sorry guys, I just don't wanna give them any more ammunition than they already have."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Yes, and we all know how cruel a parent can be about the flatness of a child's pillow."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Monica, Hi! Um, Monica, you're scaring me. I mean, you're like all chaotic and twirly, you know? And not-not in a good way."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Yeah, calm down. You don't see Ross getting all chaotic and twirly every time they come."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "That's because as far as my parents are concerned, Ross can do no wrong. You see, he's the Prince. Apparently they had some big ceremony before I was born."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "(Looking out the window) Uh, Mudda? Ross is here. (Turns away from the window.) I'd like to say that I can't do this, but I think I just did."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "(Entering) Hi. (They all say hi back)"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "What's with you?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "I just feel like someone reached down my throat, grabbed my small intestine, pulled it out of my mouth and tied it around my neck."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Cookie?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Carol moved her stuff out today."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Ohh."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Let me get you some coffee."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "(To all) Thanks. (To Monica) No, no don't! Stop cleansing! See, everything doesn't have to be pristine. You know what? I'll just get the coffee myself."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Uh, is this decaf? Where's the real coffee?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "I gotta get some."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "(About to drink the coffee) So, uh, how's it going?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Good."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "(Drinks the coffee) How's it going?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Good. So, uh, do you think there's a chance we'll get to see this sometime soon?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "What're you talking about?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "It's your birthday. You know, the big day. Where you have the cake and presents and stuff."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Oh, yeah!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "(He turns and enters his bedroom, Carol is putting on her coat.) Hey."
+        },
+        {
+          "speaker": "CAROL",
+          "text": "Hey."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "I just wanted to say goodbye."
+        },
+        {
+          "speaker": "CAROL",
+          "text": "This is really hard for me too."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Oh, yeah, I know. I mean, I just wasn't expecting this."
+        },
+        {
+          "speaker": "CAROL",
+          "text": "I'm not, I'm not blaming you."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Well, I don't know what to say to that."
+        },
+        {
+          "speaker": "CAROL",
+          "text": "Nothing. I mean, I'm not saying that you should say anything. I'm, I'm just saying, you know, I'm-I'm sorry."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Yeah. Yeah, I'm sorry too. (They hug)"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "(Entering) So she's gone. Off to be with her lesbian lover. Oh, God, that hurt more than I thought it would."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "I know. Oh, c'mere."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Oh, no no no... don't. Stop cleansing, okay? Just let me handle this."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "(Starts to run to the bathroom to cry, sees parents, stops, walks to parents) Hi!"
+        },
+        {
+          "speaker": "MRS. GELLER",
+          "text": "Hi."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Oh, uh, this is Carol."
+        },
+        {
+          "speaker": "CAROL",
+          "text": "Hello."
+        },
+        {
+          "speaker": "MRS. GELLER",
+          "text": "Hello."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Carol, this is my mother and father."
+        },
+        {
+          "speaker": "CAROL",
+          "text": "Hi."
+        },
+        {
+          "speaker": "MRS. GELLER",
+          "text": "Hi."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Okay, good. Great. Well, I'm gonna go get some coffee."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Oops, sorry."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Listen, do you maybe wanna talk about this?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "No."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Okay, I'm gonna get a refill. Anybody else? (They all say no) No? Okay."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "So uh, what're you gonna do now?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "I don't know. What do you do when you break up with the only person you've ever loved?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Oh, I know, I know! They have a ball of paper! It's like rock, paper, scissors! Okay?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "You don't understand."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "No, I really don't."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "You know what the scariest part is? What if there's only one woman for everybody, y'know? I mean what if you get one woman, and that's it?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Then what?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Then you just have to... carry on and... live your life. Sucks, doesn't it?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "My ex-wife is a lesbian."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Great. Mine never even got that far."
+        }
+      ],
+      "location": "Monica and Rachel's apartment",
+      "subjects": [
+        "CHANDLER",
+        "JOEY",
+        "PHOEBE",
+        "MONICA",
+        "ROSS"
+      ],
+      "clip_start": "00:03:12",
+      "clip_end": "00:05:30",
+      "srt_start": "00:03:52,632",
+      "srt_end": "00:10:52,952",
+      "context_label": "0102_scene_002_Monica and Rachel's apartment",
+      "event_description": "[Scene: Monica and Rachel's, Chandler, Joey, Phoebe, and Monica are watching Three's Company.]",
+      "events": [
+        {
+          "event_id": "0102_scene_002_event_001",
+          "event_description": "Chandler jokes about Three's Company having a misunderstanding",
+          "involved_subjects": ["CHANDLER", "PHOEBE"],
+          "location": "Monica and Rachel's apartment",
+          "timestamp": "00:03:12-00:03:25"
+        },
+        {
+          "event_id": "0102_scene_002_event_002",
+          "event_description": "Monica gets angry about a ball of paper on the floor",
+          "involved_subjects": ["MONICA", "CHANDLER"],
+          "location": "Monica and Rachel's apartment",
+          "timestamp": "00:03:26-00:03:50"
+        },
+        {
+          "event_id": "0102_scene_002_event_003",
+          "event_description": "Ross enters and announces that Carol is pregnant",
+          "involved_subjects": ["ROSS", "MONICA", "CHANDLER", "JOEY", "PHOEBE"],
+          "location": "Monica and Rachel's apartment",
+          "timestamp": "00:03:51-00:04:30"
+        },
+        {
+          "event_id": "0102_scene_002_event_004",
+          "event_description": "The group reacts with shock and confusion to Ross's news",
+          "involved_subjects": ["ROSS", "MONICA", "CHANDLER", "JOEY", "PHOEBE"],
+          "location": "Monica and Rachel's apartment",
+          "timestamp": "00:04:31-00:05:30"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Carol's OB/GYN, they're still arguing about what to name the baby.]",
+      "dialogue": [
+        {
+          "speaker": "SUSAN",
+          "text": "Oh, please! What's wrong with Helen?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Helen Geller? I don't think so."
+        },
+        {
+          "speaker": "CAROL",
+          "text": "Hello? It's not gonna be Helen Geller."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Thank you!"
+        },
+        {
+          "speaker": "CAROL",
+          "text": "No, I mean it's not Geller."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "What, it's gonna be Helen Willick?"
+        },
+        {
+          "speaker": "CAROL",
+          "text": "No, actually, um, we talked about Helen Willick-Bunch."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Well, wait a minute, wha- why is she in the title?"
+        },
+        {
+          "speaker": "SUSAN",
+          "text": "It's my baby too."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Oh, 's'funny, really? Um, I don't remember you making any sperm."
+        },
+        {
+          "speaker": "SUSAN",
+          "text": "Yeah, and we all know what a challenge that is!"
+        },
+        {
+          "speaker": "CAROL",
+          "text": "All right, you two, stop it!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "No no no, she gets a credit, hey, I'm in there too."
+        },
+        {
+          "speaker": "CAROL",
+          "text": "Ross. You're not actually suggesting Helen Willick-Bunch-Geller? 'Cause I think that borders on child abuse."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Of course not, I'm... suggesting Geller-Willick-Bunch."
+        },
+        {
+          "speaker": "SUSAN",
+          "text": "Oh, no, nonononono, you see what he's doing? He knows no-one's gonna say all those names, so they'll wind up calling her Geller, then he gets his way!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "My way?! You-you think this is my way? Believe me, of all the ways I ever imagined this moment in my life being, this is not my way- y'know what? Uh, um, this is too hard. I'm not, I can't do-"
+        },
+        {
+          "speaker": "DR. OBERMAN",
+          "text": "(entering) Knock knock!How are we today? Any nausea?"
+        },
+        {
+          "speaker": "ALL",
+          "text": "Yeah. Yeah. A little."
+        },
+        {
+          "speaker": "DR. OBERMAN",
+          "text": "Well, I was just wondering about the mother-to-be, but.. thanks for sharing. (To Carol) Uh, lie back.."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "You- uh- y'know what, I'm gonna go. I don't- I don't think I can be involved in this particular thing right now."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Oh my God."
+        },
+        {
+          "speaker": "SUSAN",
+          "text": "Look at that."
+        },
+        {
+          "speaker": "CAROL",
+          "text": "I know."
+        }
+      ],
+      "location": "Carol's OB/GYN",
+      "subjects": [
+        "ROSS",
+        "CAROL",
+        "DR. OBERMAN",
+        "SUSAN"
+      ],
+      "clip_start": "00:20:31",
+      "clip_end": "00:22:18",
+      "srt_start": "00:21:05,831",
+      "srt_end": "00:22:47,198",
+      "context_label": "0102_scene_007_Carol's OB/GYN",
+      "event_description": "[Scene: Carol's OB/GYN, they're still arguing about what to name the baby.]",
+      "events": [
+        {
+          "event_id": "0102_scene_007_event_001",
+          "event_description": "Susan suggests naming the baby Helen",
+          "involved_subjects": ["SUSAN", "ROSS"],
+          "location": "Carol's OB/GYN",
+          "timestamp": "00:20:31-00:20:50"
+        },
+        {
+          "event_id": "0102_scene_007_event_002",
+          "event_description": "Ross objects to the name Helen Geller",
+          "involved_subjects": ["ROSS", "CAROL"],
+          "location": "Carol's OB/GYN",
+          "timestamp": "00:20:51-00:21:05"
+        },
+        {
+          "event_id": "0102_scene_007_event_003",
+          "event_description": "Carol reveals the baby will not have the Geller surname",
+          "involved_subjects": ["CAROL", "ROSS", "SUSAN"],
+          "location": "Carol's OB/GYN",
+          "timestamp": "00:21:06-00:21:25"
+        },
+        {
+          "event_id": "0102_scene_007_event_004",
+          "event_description": "Ross and Susan argue about whose surname should come first",
+          "involved_subjects": ["ROSS", "SUSAN", "CAROL"],
+          "location": "Carol's OB/GYN",
+          "timestamp": "00:21:26-00:21:45"
+        },
+        {
+          "event_id": "0102_scene_007_event_005",
+          "event_description": "Dr. Oberman enters and begins the sonogram examination",
+          "involved_subjects": ["DR. OBERMAN", "CAROL", "ROSS", "SUSAN"],
+          "location": "Carol's OB/GYN",
+          "timestamp": "00:21:46-00:22:05"
+        },
+        {
+          "event_id": "0102_scene_007_event_006",
+          "event_description": "Ross sees the baby on the sonogram screen and is amazed",
+          "involved_subjects": ["ROSS", "CAROL", "SUSAN", "DR. OBERMAN"],
+          "location": "Carol's OB/GYN",
+          "timestamp": "00:22:06-00:22:18"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's apartment, everyone is watching the tape of the sonogram. Rachel is on the phone.]",
+      "dialogue": [
+        {
+          "speaker": "ROSS",
+          "text": "Well? Isn't that amazing?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "What are we supposed to be seeing here?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "I dunno, but.. I think it's about to attack the Enterprise."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "You know, if you tilt your head to the left, and relax your eyes, it kinda looks like an old potato."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Then don't do that, alright?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Okay!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "(walks over to where Monica is standing)Monica. Whaddya think?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "(welling up) Mm-hmm."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Wh- are you welling up?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "No."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "You are, you're welling up."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Am not!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "You're gonna be an aunt."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "(pushes him and starts to cry) Oh shut up!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(on phone) Hi, Mindy. Hi, it-it's Rachel. Yeah, I'm fine. I-I saw Barry today. Oh, yeah, yeah he-he told me. No, no, it's okay. I hope you two are very happy, I really do. Oh, oh, and Mind, y'know, if-if everything works out, and you guys end up getting married and having kids- and everything- I just hope they have his old hairline and your old nose. (Slams the phone down.) (To everyone) Okay, I know it was a cheap shot, but I feel so much better now."
+        }
+      ],
+      "location": "Monica and Rachel's apartment",
+      "subjects": [
+        "PHOEBE",
+        "ROSS",
+        "JOEY",
+        "RACHEL",
+        "CHANDLER",
+        "MONICA"
+      ],
+      "clip_start": "00:22:20",
+      "clip_end": "00:23:44",
+      "srt_start": "00:22:57,609",
+      "srt_end": "00:24:18,379",
+      "context_label": "0102_scene_008_Monica and Rachel's apartment",
+      "event_description": "[Scene: Monica and Rachel's apartment, everyone is watching the tape of the sonogram. Rachel is on the phone.]",
+      "events": [
+        {
+          "event_id": "0102_scene_008_event_001",
+          "event_description": "Ross shows the sonogram video to his friends",
+          "involved_subjects": ["ROSS", "JOEY", "CHANDLER", "PHOEBE"],
+          "location": "Monica and Rachel's apartment",
+          "timestamp": "00:22:20-00:22:50"
+        },
+        {
+          "event_id": "0102_scene_008_event_002",
+          "event_description": "Chandler and Phoebe make jokes about what the sonogram looks like",
+          "involved_subjects": ["CHANDLER", "PHOEBE", "JOEY"],
+          "location": "Monica and Rachel's apartment",
+          "timestamp": "00:22:51-00:23:10"
+        },
+        {
+          "event_id": "0102_scene_008_event_003",
+          "event_description": "Ross notices that Monica is welling up with emotion",
+          "involved_subjects": ["ROSS", "MONICA"],
+          "location": "Monica and Rachel's apartment",
+          "timestamp": "00:23:11-00:23:25"
+        },
+        {
+          "event_id": "0102_scene_008_event_004",
+          "event_description": "Rachel calls Mindy and makes a sarcastic comment about her and Barry",
+          "involved_subjects": ["RACHEL"],
+          "location": "Monica and Rachel's apartment",
+          "timestamp": "00:23:26-00:23:44"
+        }
+      ]
+    }
+  ]
+}

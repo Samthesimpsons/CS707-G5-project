@@ -1,0 +1,531 @@
+{
+  "episode": "0102",
+  "title": "The One With The Sonogram at the End",
+  "qa_dataset": [
+    {
+      "question_id": "Q_0102_001",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did Monica explain that kissing is important for women when Rachel and Phoebe were present?",
+      "options": [
+        "Central Perk",
+        "Monica and Rachel's apartment",
+        "Museum of Prehistoric History",
+        "Carol's OB/GYN"
+      ],
+      "answer": "Central Perk",
+      "answer_index": 0,
+      "related_events": ["0102_scene_000_event_001"],
+      "episode_span": ["0102"]
+    },
+    {
+      "question_id": "Q_0102_002",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Perk when Chandler compared kissing to an opening act?",
+      "options": [
+        "Monica, Rachel, Phoebe, Joey",
+        "Ross, Chandler, Joey, Phoebe",
+        "Ross, Monica, Chandler, Rachel",
+        "Everyone except Carol"
+      ],
+      "answer": "Ross, Chandler, Joey, Phoebe",
+      "answer_index": 1,
+      "related_events": ["0102_scene_000_event_002"],
+      "episode_span": ["0102"]
+    },
+    {
+      "question_id": "Q_0102_003",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Perk when Rachel, Chandler, Ross, and Joey were together?",
+      "options": [
+        "Rachel advised the men to bring back the comedian or listen to the album alone",
+        "Joey asked if they were still talking about sex",
+        "Monica explained that kissing is important",
+        "Chandler made a joke about Three's Company"
+      ],
+      "answer": "Rachel advised the men to bring back the comedian or listen to the album alone",
+      "answer_index": 0,
+      "related_events": ["0102_scene_000_event_003"],
+      "episode_span": ["0102"]
+    },
+    {
+      "question_id": "Q_0102_004",
+      "question_type": "boolean",
+      "subcategory": "location verification",
+      "question": "Did Carol reveal she is pregnant at Central Perk?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "No",
+      "answer_index": 1,
+      "explanation": "Carol revealed she is pregnant at the Museum of Prehistoric History, not Central Perk.",
+      "related_events": ["0102_scene_001_event_004"],
+      "episode_span": ["0102"]
+    },
+    {
+      "question_id": "Q_0102_005",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "question": "Was Marsha present when Carol revealed she is pregnant?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "No",
+      "answer_index": 1,
+      "explanation": "Marsha had left before Carol revealed the pregnancy. Only Ross and Carol were present during that moment.",
+      "related_events": ["0102_scene_001_event_004"],
+      "episode_span": ["0102"]
+    },
+    {
+      "question_id": "Q_0102_006",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did Ross and Marsha discuss the angry cave woman mannequin?",
+      "options": [
+        "Museum of Prehistoric History",
+        "Central Perk",
+        "Monica and Rachel's apartment",
+        "Carol's apartment"
+      ],
+      "answer": "Museum of Prehistoric History",
+      "answer_index": 0,
+      "related_events": ["0102_scene_001_event_001"],
+      "episode_span": ["0102"]
+    },
+    {
+      "question_id": "Q_0102_007",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at the Museum of Prehistoric History when Carol revealed she is pregnant?",
+      "options": [
+        "Ross and Carol",
+        "Ross, Carol, and Marsha",
+        "Ross, Carol, and Monica",
+        "Only Carol"
+      ],
+      "answer": "Ross and Carol",
+      "answer_index": 0,
+      "related_events": ["0102_scene_001_event_004"],
+      "episode_span": ["0102"]
+    },
+    {
+      "question_id": "Q_0102_008",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at the Museum of Prehistoric History when Ross and Carol were alone together?",
+      "options": [
+        "Carol revealed she is pregnant",
+        "They discussed cave people",
+        "Ross gave Carol a tour",
+        "They argued about their divorce"
+      ],
+      "answer": "Carol revealed she is pregnant",
+      "answer_index": 0,
+      "related_events": ["0102_scene_001_event_004"],
+      "episode_span": ["0102"]
+    },
+    {
+      "question_id": "Q_0102_009",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence",
+      "question": "What happened before Carol revealed she is pregnant?",
+      "options": [
+        "Ross and Carol exchanged awkward pleasantries",
+        "Ross announced the pregnancy to his friends",
+        "Ross saw the sonogram",
+        "Monica got angry about a paper ball"
+      ],
+      "answer": "Ross and Carol exchanged awkward pleasantries",
+      "answer_index": 0,
+      "related_events": ["0102_scene_001_event_003", "0102_scene_001_event_004"],
+      "episode_span": ["0102"]
+    },
+    {
+      "question_id": "Q_0102_010",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence",
+      "question": "What happened after Marsha pointed out that Carol had arrived?",
+      "options": [
+        "Ross greeted Carol and they exchanged awkward pleasantries",
+        "Ross discussed the cave woman with Marsha",
+        "Carol revealed she is pregnant",
+        "Ross left the museum"
+      ],
+      "answer": "Ross greeted Carol and they exchanged awkward pleasantries",
+      "answer_index": 0,
+      "related_events": ["0102_scene_001_event_002", "0102_scene_001_event_003"],
+      "episode_span": ["0102"]
+    },
+    {
+      "question_id": "Q_0102_011",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did Ross announce that Carol is pregnant when Monica, Chandler, Joey, and Phoebe were present?",
+      "options": [
+        "Monica and Rachel's apartment",
+        "Central Perk",
+        "Museum of Prehistoric History",
+        "Ross's apartment"
+      ],
+      "answer": "Monica and Rachel's apartment",
+      "answer_index": 0,
+      "related_events": ["0102_scene_002_event_003"],
+      "episode_span": ["0102"]
+    },
+    {
+      "question_id": "Q_0102_012",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's apartment when Monica got angry about a ball of paper?",
+      "options": [
+        "Monica and Chandler",
+        "Monica, Chandler, Joey, and Phoebe",
+        "Everyone including Ross",
+        "Monica, Rachel, and Ross"
+      ],
+      "answer": "Monica, Chandler, Joey, and Phoebe",
+      "answer_index": 1,
+      "related_events": ["0102_scene_002_event_002"],
+      "episode_span": ["0102"]
+    },
+    {
+      "question_id": "Q_0102_013",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's apartment when Chandler and Phoebe were watching TV?",
+      "options": [
+        "Chandler joked about Three's Company having a misunderstanding",
+        "Ross announced Carol is pregnant",
+        "Monica got angry about a paper ball",
+        "Rachel called Mindy"
+      ],
+      "answer": "Chandler joked about Three's Company having a misunderstanding",
+      "answer_index": 0,
+      "related_events": ["0102_scene_002_event_001"],
+      "episode_span": ["0102"]
+    },
+    {
+      "question_id": "Q_0102_014",
+      "question_type": "boolean",
+      "subcategory": "event verification",
+      "question": "Did Ross announce Carol's pregnancy at Central Perk?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "No",
+      "answer_index": 1,
+      "explanation": "Ross announced Carol's pregnancy at Monica and Rachel's apartment, not Central Perk.",
+      "related_events": ["0102_scene_002_event_003"],
+      "episode_span": ["0102"]
+    },
+    {
+      "question_id": "Q_0102_015",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence",
+      "question": "What happened before Ross announced that Carol is pregnant?",
+      "options": [
+        "Monica got angry about a ball of paper",
+        "Carol revealed the pregnancy to Ross",
+        "Ross saw the sonogram",
+        "Rachel called Mindy"
+      ],
+      "answer": "Monica got angry about a ball of paper",
+      "answer_index": 0,
+      "related_events": ["0102_scene_002_event_002", "0102_scene_002_event_003"],
+      "episode_span": ["0102"]
+    },
+    {
+      "question_id": "Q_0102_016",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did Susan suggest naming the baby Helen when Ross was present?",
+      "options": [
+        "Carol's OB/GYN",
+        "Monica and Rachel's apartment",
+        "Carol's apartment",
+        "Central Perk"
+      ],
+      "answer": "Carol's OB/GYN",
+      "answer_index": 0,
+      "related_events": ["0102_scene_007_event_001"],
+      "episode_span": ["0102"]
+    },
+    {
+      "question_id": "Q_0102_017",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Carol's OB/GYN when Ross and Susan argued about whose surname should come first?",
+      "options": [
+        "Ross, Susan, and Carol",
+        "Ross, Susan, Carol, and Dr. Oberman",
+        "Ross and Susan only",
+        "Everyone including Monica"
+      ],
+      "answer": "Ross, Susan, and Carol",
+      "answer_index": 0,
+      "related_events": ["0102_scene_007_event_004"],
+      "episode_span": ["0102"]
+    },
+    {
+      "question_id": "Q_0102_018",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Carol's OB/GYN when Dr. Oberman, Carol, Ross, and Susan were present?",
+      "options": [
+        "Dr. Oberman began the sonogram examination",
+        "They argued about baby names",
+        "Susan suggested the name Helen",
+        "Ross left the appointment"
+      ],
+      "answer": "Dr. Oberman began the sonogram examination",
+      "answer_index": 0,
+      "related_events": ["0102_scene_007_event_005"],
+      "episode_span": ["0102"]
+    },
+    {
+      "question_id": "Q_0102_019",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "question": "Was Monica present when Ross saw the baby on the sonogram screen?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "No",
+      "answer_index": 1,
+      "explanation": "Monica was not at Carol's OB/GYN. Only Ross, Carol, Susan, and Dr. Oberman were present.",
+      "related_events": ["0102_scene_007_event_006"],
+      "episode_span": ["0102"]
+    },
+    {
+      "question_id": "Q_0102_020",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence",
+      "question": "What happened before Ross saw the baby on the sonogram screen?",
+      "options": [
+        "Dr. Oberman entered and began the sonogram examination",
+        "Ross and Susan argued about surnames",
+        "Susan suggested naming the baby Helen",
+        "Ross announced the pregnancy to his friends"
+      ],
+      "answer": "Dr. Oberman entered and began the sonogram examination",
+      "answer_index": 0,
+      "related_events": ["0102_scene_007_event_005", "0102_scene_007_event_006"],
+      "episode_span": ["0102"]
+    },
+    {
+      "question_id": "Q_0102_021",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence",
+      "question": "What happened after Carol revealed the baby will not have the Geller surname?",
+      "options": [
+        "Ross and Susan argued about whose surname should come first",
+        "Susan suggested the name Helen",
+        "Ross saw the sonogram",
+        "Dr. Oberman entered"
+      ],
+      "answer": "Ross and Susan argued about whose surname should come first",
+      "answer_index": 0,
+      "related_events": ["0102_scene_007_event_003", "0102_scene_007_event_004"],
+      "episode_span": ["0102"]
+    },
+    {
+      "question_id": "Q_0102_022",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did Ross show the sonogram video when his friends Joey, Chandler, and Phoebe were watching?",
+      "options": [
+        "Monica and Rachel's apartment",
+        "Carol's OB/GYN",
+        "Central Perk",
+        "Ross's apartment"
+      ],
+      "answer": "Monica and Rachel's apartment",
+      "answer_index": 0,
+      "related_events": ["0102_scene_008_event_001"],
+      "episode_span": ["0102"]
+    },
+    {
+      "question_id": "Q_0102_023",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's apartment when Ross noticed Monica welling up with emotion?",
+      "options": [
+        "Ross and Monica",
+        "Ross, Monica, and everyone else",
+        "Ross, Monica, and Rachel",
+        "Monica and Rachel only"
+      ],
+      "answer": "Ross and Monica",
+      "answer_index": 0,
+      "related_events": ["0102_scene_008_event_003"],
+      "episode_span": ["0102"]
+    },
+    {
+      "question_id": "Q_0102_024",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's apartment when Rachel was alone on the phone?",
+      "options": [
+        "Rachel called Mindy and made a sarcastic comment about her and Barry",
+        "Rachel watched the sonogram video",
+        "Rachel cried about her breakup",
+        "Rachel talked to Ross about Carol"
+      ],
+      "answer": "Rachel called Mindy and made a sarcastic comment about her and Barry",
+      "answer_index": 0,
+      "related_events": ["0102_scene_008_event_004"],
+      "episode_span": ["0102"]
+    },
+    {
+      "question_id": "Q_0102_025",
+      "question_type": "boolean",
+      "subcategory": "location verification",
+      "question": "Did Ross show the sonogram video at Central Perk?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "No",
+      "answer_index": 1,
+      "explanation": "Ross showed the sonogram video at Monica and Rachel's apartment, not Central Perk.",
+      "related_events": ["0102_scene_008_event_001"],
+      "episode_span": ["0102"]
+    },
+    {
+      "question_id": "Q_0102_026",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence",
+      "question": "What happened before Ross noticed Monica welling up?",
+      "options": [
+        "Chandler and Phoebe made jokes about the sonogram",
+        "Ross saw the baby on the sonogram at the OB/GYN",
+        "Rachel called Mindy",
+        "Monica got angry about a paper ball"
+      ],
+      "answer": "Chandler and Phoebe made jokes about the sonogram",
+      "answer_index": 0,
+      "related_events": ["0102_scene_008_event_002", "0102_scene_008_event_003"],
+      "episode_span": ["0102"]
+    },
+    {
+      "question_id": "Q_0102_027",
+      "question_type": "temporal: latest event retrieval",
+      "subcategory": "location-based latest event",
+      "question": "What was the last event that happened at Monica and Rachel's apartment in this episode?",
+      "options": [
+        "Rachel called Mindy and made a sarcastic comment",
+        "Ross showed the sonogram video",
+        "Monica got angry about a paper ball",
+        "Ross announced Carol is pregnant"
+      ],
+      "answer": "Rachel called Mindy and made a sarcastic comment",
+      "answer_index": 0,
+      "related_events": ["0102_scene_008_event_004"],
+      "episode_span": ["0102"]
+    },
+    {
+      "question_id": "Q_0102_028",
+      "question_type": "temporal: latest event retrieval",
+      "subcategory": "location-based latest event",
+      "question": "What was the last event that happened at Central Perk in this episode?",
+      "options": [
+        "Joey asked if they were still talking about sex",
+        "Rachel advised the men to bring back the comedian",
+        "Chandler compared kissing to an opening act",
+        "Monica explained that kissing is important"
+      ],
+      "answer": "Joey asked if they were still talking about sex",
+      "answer_index": 0,
+      "related_events": ["0102_scene_000_event_004"],
+      "episode_span": ["0102"]
+    },
+    {
+      "question_id": "Q_0102_029",
+      "question_type": "temporal: latest event retrieval",
+      "subcategory": "episode-wide latest event",
+      "question": "What was the most recent event that occurred in the episode?",
+      "options": [
+        "Rachel called Mindy and made a sarcastic comment",
+        "Ross saw the baby on the sonogram",
+        "Ross announced Carol is pregnant",
+        "Joey asked if they were still talking about sex"
+      ],
+      "answer": "Rachel called Mindy and made a sarcastic comment",
+      "answer_index": 0,
+      "related_events": ["0102_scene_008_event_004"],
+      "episode_span": ["0102"]
+    },
+    {
+      "question_id": "Q_0102_030",
+      "question_type": "boolean",
+      "subcategory": "temporal verification",
+      "question": "Did Ross see the baby on the sonogram before he announced the pregnancy to his friends?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "No",
+      "answer_index": 1,
+      "explanation": "Ross announced the pregnancy to his friends at Monica and Rachel's apartment before going to Carol's OB/GYN where he saw the sonogram.",
+      "related_events": ["0102_scene_002_event_003", "0102_scene_007_event_006"],
+      "episode_span": ["0102"]
+    }
+  ],
+  "statistics": {
+    "total_questions": 30,
+    "question_type_distribution": {
+      "single target recall": 18,
+      "boolean": 7,
+      "temporal: chronological ordering": 7,
+      "temporal: latest event retrieval": 3
+    },
+    "cue_distribution": {
+      "E+S → L": 6,
+      "L+E → S": 6,
+      "L+S → E": 6
+    },
+    "target_distribution": {
+      "Location (L)": 6,
+      "Subject (S)": 6,
+      "Event (E)": 6,
+      "Temporal": 10,
+      "Boolean": 7
+    }
+  }
+}
