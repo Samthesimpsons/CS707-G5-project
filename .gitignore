@@ -210,7 +210,7 @@ __marimo__/
 # Dataset files
 # Ignore downloaded dataset files in data/ directory at any depth
 /data/
-main/subtitles/
+main/subtitles/tvqa_subtitles_friends
 src_old/subtitles/
 src_old/mllm_test.ipynb
 src_old/.DS_Store

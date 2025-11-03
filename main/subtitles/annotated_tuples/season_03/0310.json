@@ -1,0 +1,1144 @@
+{
+    "episode": "0310",
+    "title": "The One Where Rachel Quits",
+    "scenes": [
+        {
+            "scene_description": "[Scene: Central Perk, Chandler and Rachel are sitting on the couch.]",
+            "dialogue": [
+                {
+                    "speaker": "CHANDLER",
+                    "text": "(reading the comics) Eh..., I don\u2019t, I don\u2019t know."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "What?"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Well, as old as he is in dog years, do you think Snoopy should still be allowed to fly this thing?"
+                },
+                {
+                    "speaker": "GUNTHER",
+                    "text": "Rachel?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Yeah."
+                },
+                {
+                    "speaker": "GUNTHER",
+                    "text": "Do you remember when you first came here, how you spent two weeks getting trained by another waitress?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Oh, sure! Do you need me to train somebody new?"
+                },
+                {
+                    "speaker": "GUNTHER",
+                    "text": "(laughs) Good one. Actually, ah, Terry wants you to take the training again, whenever."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "(to Chandler) Eh, do you believe that?"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "(thinks about it) Yeah?"
+                }
+            ],
+            "location": "Central Perk",
+            "subjects": [
+                "GUNTHER",
+                "CHANDLER",
+                "RACHEL"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Central Perk, Chandler and Rachel are sitting on the couch.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: The hallway of Ross\u2019s building, there is a Brown Bird girl selling\ncookies, as Ross and Chandler come up the stairs.]",
+            "dialogue": [
+                {
+                    "speaker": "SARAH",
+                    "text": "So that\u2019s two boxes of the Holiday Macaroons. On behalf of the Brown Birds of America, I salute you. (Does the Brown Bird salute, she blows on a bird call, then holds her hand, palm facing out, next to her face, and then waves it like a bird flapping it\u2019s wings.)"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Just admit it Chandler, you have no backhand."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Excuse me little one, I have a very solid backhand."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Shielding your face and shrieking like a girl... is not a backhand."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "I was shrieking... like a Marine."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "All right here. Watch me execute the three \u2018P\u2019s of championship play. Power. (swings the racquet) Precision. (swings the racquet.) and penache. (does a backswing and hits Sarah who\u2019s started up the stairs, knocking her down, they both watch in horror.)"
+                }
+            ],
+            "location": "The hallway of Ross\u2019s building",
+            "subjects": [
+                "SARAH",
+                "ROSS",
+                "CHANDLER"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: The hallway of Ross\u2019s building, there is a Brown Bird girl selling\ncookies, as Ross and Chandler come up the stairs.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Central Perk, the gang\u2019s all there discussing the incident.]",
+            "dialogue": [
+                {
+                    "speaker": "MONICA",
+                    "text": "You broke a little girl\u2019s leg?!!"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "I know. I feel horrible. Okay."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "(reading the paper) Says here that a muppet got whacked on Seasame Street last night. (to Ross) Where exactly were around ten-ish?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Well, I\u2019m gonna go see her. I want to bring her something, what do you think she\u2019ll like?"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Maybe a Hello Kitty doll, the ability to walk..."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "I\u2019m gonna get back to retraining. (gets up)"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "All right, see you guys. (starts to leave)"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Look out kids, he\u2019s coming! (Ross continues to leave with his head down in shame.)"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "And I gotta go sell some Christmas trees."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Have fun. Oh wait, no, don\u2019t! I forgot I am totally against that now."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "What? Me having a job?"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "No, no, I am against innocent trees being cut down in their prime, and their, their corpses grotesquely dressed in like tinsel and twinkly lights. (to Joey) Hey, how do you sleep at night?"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Well, I\u2019m pretty tired from lugging the trees around all day. Hey, Phoebe listen, you got this all wrong. Those trees were born to be Christmas trees, their fulfilling their life purpose, by, by making people happy."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Really?"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Yes. Yes, and ah, ah, the trees are happy too, because for most of them, it\u2019s the only chance to see New York."
+                },
+                {
+                    "speaker": "GUNTHER",
+                    "text": "...and after you\u2019ve delivered the drinks, you take the empty tray...."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Gunther, Gunther, please, I\u2019ve worked here for two and a half years, I know the empty trays go over there. (points to the counter.)"
+                },
+                {
+                    "speaker": "GUNTHER",
+                    "text": "What if you put them here. (sets the empty tray on another stack of empty trays on the back counter.)"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Huh. Well, y'know that\u2019s actually a really good idea, because that way they\u2019ll be closer to the mugs. Y'know what, you should have the other waitresses do that too."
+                },
+                {
+                    "speaker": "GUNTHER",
+                    "text": "They already do. That\u2019s why they call it the \u2018tray spot.\u2019"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Gee, I always heard them talk about that, I just always thought that it was a club they went to. Oh God, I\u2019m, I\u2019m sorry. (walks away)"
+                },
+                {
+                    "speaker": "GUNTHER",
+                    "text": "It\u2019s all right. Sweetheart."
+                }
+            ],
+            "location": "Central Perk",
+            "subjects": [
+                "CHANDLER",
+                "GUNTHER",
+                "ROSS",
+                "MONICA",
+                "PHOEBE",
+                "RACHEL",
+                "JOEY"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Central Perk, the gang\u2019s all there discussing the incident.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Sarah\u2019s bedroom, her room is decorated with a space motif.]",
+            "dialogue": [
+                {
+                    "speaker": "ROSS",
+                    "text": "So, this must be kinda neat for ya, huh? I mean, your Dad tells me that you get a couple of days off school, and you, you ah, don\u2019t have to sell those cookies anymore."
+                },
+                {
+                    "speaker": "SARAH",
+                    "text": "Well, I kinda wanted to sell the cookies. The girl who sells the most wins a trip to Spacecamp, and gets to sit in a real space shuttle."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Wow, you ah, you really like all this space stuff, huh?"
+                },
+                {
+                    "speaker": "SARAH",
+                    "text": "Yeah. My Dad says if I spend as much time helping him clean apartments, as I do daydreaming about outer space, he\u2019d be able to afford a trip to the Taj Mahal."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "I think you would have to clean a whole lot of apartments to go all the way to India."
+                },
+                {
+                    "speaker": "SARAH",
+                    "text": "No. The one in Atlantic City, Dad loves the slots. He says he\u2019s gonna double the college money my Grandma left me."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Huh. Well, good luck to Dad. Say, how many more boxes would you have to sell in order to win?"
+                },
+                {
+                    "speaker": "SARAH",
+                    "text": "The girl who won last year sold four hundred and seventy-five."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Yeah."
+                },
+                {
+                    "speaker": "SARAH",
+                    "text": "So far, I\u2019ve sold seventy-five."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Four hundred, huh? Well, that sounds do-able. (starts to get out his wallet) How much are the boxes?"
+                },
+                {
+                    "speaker": "SARAH",
+                    "text": "Five dollars a box."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "(puts away his wallet) And what is second prize?"
+                },
+                {
+                    "speaker": "SARAH",
+                    "text": "A ten speed bike. But, I\u2019d rather have something my Dad couldn\u2019t sell."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Well, that makes sense."
+                },
+                {
+                    "speaker": "SARAH",
+                    "text": "Could you do me one favor, if it\u2019s not too much trouble?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Yeah, Sarah, anything."
+                },
+                {
+                    "speaker": "SARAH",
+                    "text": "Could you pull open the curtains for me? The astronauts from the space shuttle are gonna be on the news, and since we don\u2019t have a TV, the lady across the alley said she\u2019d push hers up to a window, so I could watch it."
+                }
+            ],
+            "location": "Sarah\u2019s bedroom",
+            "subjects": [
+                "SARAH",
+                "ROSS"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Sarah\u2019s bedroom, her room is decorated with a space motif.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: A hallway, Ross is selling Brown Bird cookies for Sarah, he stops and knocks on\na door.]",
+            "dialogue": [
+                {
+                    "speaker": "WOMAN",
+                    "text": "(looking through her peephole, we see Ross standing in the hallway.) Yesss?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Hi, I\u2019m selling Brown Bird cookies."
+                },
+                {
+                    "speaker": "WOMAN",
+                    "text": "You\u2019re no Brown Bird, I can see you through my peephole."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "No, hi, I\u2019m, I\u2019m an honorary Brown Bird (does the Brown Bird salute.)"
+                },
+                {
+                    "speaker": "WOMAN",
+                    "text": "What does that mean?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Ah, well, it means that I can sell cookies, but I\u2019m not invited to sleep-overs."
+                },
+                {
+                    "speaker": "WOMAN",
+                    "text": "I can dial 9-1-1 at the touch of a button, y'know. Now, go away!"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "No, please, please, um, it\u2019s for a poor little girl who wants to go to Spacecamp more than anything in the world."
+                },
+                {
+                    "speaker": "WOMAN",
+                    "text": "I\u2019m pressing, a policeman is on his way."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Okay, okay! I\u2019m going. I\u2019m going. (goes across the hall to knock on another door.)"
+                },
+                {
+                    "speaker": "WOMAN",
+                    "text": "I can still see you!"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "All right!!"
+                }
+            ],
+            "location": "A hallway",
+            "subjects": [
+                "ROSS",
+                "WOMAN"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: A hallway, Ross is selling Brown Bird cookies for Sarah, he stops and knocks on\na door.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Joey\u2019s work, selling Christmas trees.]",
+            "dialogue": [
+                {
+                    "speaker": "PHOEBE",
+                    "text": "(walking up to Joey) Hey."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Hey. What, what are you doing here?"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Well, I-I thought a lot about what you said, and um, I realilized duh, all right maybe I was a little judgmental. Yeah, (looks at the tree) oh, but oh..."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Look now, Phoebe remember, hey, their just fulfilling their Christmas...."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Destiny."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Sure."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Yes."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "All right."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Okay. (One of Joey\u2019s co-workers, walks by with a dead tree.) Yikes! That one doesn\u2019t look very fulfilled."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Oh, that\u2019s, that\u2019s ah, one of the old ones, he\u2019s just taking it to the back."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "You keep the old ones in the back, that is so ageist."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Well we have to make room for the fresh ones."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "So, what happens to the old guys?"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Well, they go into the chipper."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Why, do I have a feeling that\u2019s not as happy as it sounds? (Joey points out one going into the chipper to her, as this haunty, demonic music starts to play in the background) No! Nooooo!!! (she winces in horror and hides her face against Joey\u2019s shoulder, as she sees the tree spit out from the chipper.)"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "(to the guy operating the chipper) Hey! Hey!! (makes the \u2018cut it\u2019 motion with his hands)"
+                }
+            ],
+            "location": "Joey\u2019s work",
+            "subjects": [
+                "PHOEBE",
+                "JOEY"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Joey\u2019s work, selling Christmas trees.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Central Perk, all except Phoebe are there, Ross is telling the gang, minus\nRachel who\u2019s still being retrained, about the different cookie options.]",
+            "dialogue": [
+                {
+                    "speaker": "ROSS",
+                    "text": "...and these come in the shapes of your favourite Christmas characters, Santa, Rudolph, and Baby Jesus."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "All right, I\u2019ll take a box of the cream filled Jesus\u2019s."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Wait a minute, one box! Come on, I\u2019m trying to send a little girl to Spacecamp, I\u2019m putting you down for five boxes. Chandler, what about you?"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Ahh, do you have any coconut flavoured deities?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "No, but ah, there\u2019s coconut in the Hanukkah Menoreoes. I tell you what, I\u2019ll put you down for eight boxes, one for each night."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Mon?"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "All right, I\u2019ll take one box of the mint treasures, just one, and that\u2019s it. I-I started gaining weight after I joined the Brown Birds. (to Ross) Remember, how Dad bought all my boxes and I ate them all?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Ah, no Mon, Dad had to buy everyone of your boxes because you ate them all. But ah, y'know I\u2019m sure that\u2019s not gonna happen this time, why don\u2019t I put you down for three of the mint treasures and just a couple of the Rudolph\u2019s."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "No."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Oh, come on, now you know you want \u2018em."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Don\u2019t, don\u2019t, don\u2019t, don\u2019t, don\u2019t do this."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "I\u2019ll tell you what Mon, I\u2019ll give you the first box for free."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "(she reaches out for it and stops) Oh God! I gotta go! (runs out)"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Come on! All the cool kids are eating \u2018em! (chases after her.)"
+                },
+                {
+                    "speaker": "GUNTHER",
+                    "text": "And when you have a second later, I wanna show you why we don\u2019t just trap spiders under coffee mugs and leave them there."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "(sitting down next to Chandler) I\u2019m training to be better at a job that I hate, my life officially sucks."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Look Rach, wasn\u2019t this supposed to a temporary thing? I thought you wanted to do fashion stuff?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Well, yeah! I\u2019m still pursuing that."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "How... exactly are you pursuing that? Y'know other than sending out resumes like what, two years ago?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Well, I\u2019m also sending out.... good thoughts."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "If you ask me, as long as you got this job, you\u2019ve got nothing pushing you to get another one. You need the fear."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "The fear?"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "He\u2019s right, if you quit this job, you then have motivation to go after a job you really want."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Well then how come you\u2019re still at a job that you hate, I mean why don\u2019t you quit and get \u2018the fear\u2019?"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Because, I\u2019m too afraid."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "I don\u2019t know, I mean I would give anything to work for a designer, y'know, or a buyer.... Oh, I just don\u2019t want to be 30 and still work here."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Yeah, that\u2019d be much worse than being 28, and still working here."
+                },
+                {
+                    "speaker": "GUNTHER",
+                    "text": "Rachel?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Yeah."
+                },
+                {
+                    "speaker": "GUNTHER",
+                    "text": "Remind me to review with you which pot is decaf and which is regular."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Can\u2019t I just look at the handles on them?"
+                },
+                {
+                    "speaker": "GUNTHER",
+                    "text": "You would think."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Okay, fine. Gunther, y'know what, I am a terrible waitress, do you know why I\u2019m a terrible waitress? Because, I don\u2019t care. I don\u2019t care. I don\u2019t care which pot is regular and which pot is decaf, I don\u2019t care where the tray spot is, I just don\u2019t care, this is not what I want to do. So I don\u2019t think I should do it anymore. I\u2019m gonna give you my weeks notice."
+                },
+                {
+                    "speaker": "GUNTHER",
+                    "text": "What?!"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Gunther, I quit."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "(to Joey) Does this mean we\u2019re gonna have to start paying for coffee? (Joey shrugs his shoulders.)"
+                }
+            ],
+            "location": "Central Perk",
+            "subjects": [
+                "CHANDLER",
+                "GUNTHER",
+                "ROSS",
+                "MONICA",
+                "RACHEL",
+                "JOEY"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Central Perk, all except Phoebe are there, Ross is telling the gang, minus\nRachel who\u2019s still being retrained, about the different cookie options.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Monica and Rachel's, Chandler is entering numbers on a calculator as Ross reads\noff how much he\u2019s sold.]",
+            "dialogue": [
+                {
+                    "speaker": "ROSS",
+                    "text": "....and 12, 22, 18, four... (Chandler starts laughing) What?"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "I spelled out boobies."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "(comes up and starts looking through Ross\u2019s cookie supply) Ross, but me down for another box of the mint treasures, okay. Where, where are the mint treasures?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Ah, we\u2019re out. I sold them all."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "What?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Monica, I\u2019m cutting you off."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "No. No, just, just, just a couple more boxes. It-it-it\u2019s no big deal, all right, I\u2019m-I\u2019m cool. You gotta help me out with a couple more boxes!"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Mon, look at yourself. You have cookie on your neck."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "(covers her neck) Oh God! (runs to the bathroom)"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "So, how many have you sold so far?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Check this out. Five hundred and seventeen boxes!"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Oh my God, how did you do that?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Okay, the other night I was leaving the museum just as \u2018Laser Floyd\u2019 was letting out of the planetarium, without even trying I sold 50 boxes! That\u2019s when it occurred to me, the key to my success, \u2018the munchies.\u2019 So I ah, started hitting the NYU dorms around midnight. I am selling co"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "(entering) Okay, stop what you\u2019re doing, I need envelope stuffers, I need stamp lickers....."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Well hey, who did these resumes for ya?"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Me! On my computer."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Well you sure used a large font."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Eh, yeah, well ah, waitress at a coffee shop and cheer squad co-captain only took up so much room."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Hey-hey-hey that\u2019s funny! Your funny Chandler! Your a funny guy! You wanna know what else is really funny?!"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Something else I might have said?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "I don\u2019t know, I don\u2019t know, weren\u2019t you the guy that told me to quit my job when I had absolutely nothing else to do. Ha! Ha! Ha! Ha! Ha!!"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Sweetie, calm down, it\u2019s gonna be okay."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "No, it\u2019s not gonna be okay Ross, tomorrow is my last day, and I don\u2019t have a lead. Okay, y'know what, I\u2019m just gonna, I\u2019m just gonna call Gunther and I\u2019m gonna tell him, I\u2019m not quitting."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "You-you-you don\u2019t wanna give into the fear."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "You and your stupid fear. I hate your fear. I would like to take you and your fear...."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "(entering, interrupting Rachel) Hey! I got great news!"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Run, Joey! Run for your life! (runs out)"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "What? Rachel, listen, have you ever heard of Fortunata Fashions?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "No."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Well my old man is doing a plumbing job down there and he heard they have an opening. So, you want me to see if I can get you an interview?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Oh my God! Yes, I would love that, oh, that is soo sweet, Joey."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Not a problem."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Thanks."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "And now for the great news."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "What, that wasn\u2019t the great news?"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Only if you think it\u2019s better than this... (holds up an aerosol can) snow-in-a-can!! I got it at work. Mon, you want me to decorate the window, give it a kind of Christmas lookie."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Christmas cookie?"
+                }
+            ],
+            "location": "Monica and Rachel's",
+            "subjects": [
+                "CHANDLER",
+                "ROSS",
+                "MONICA",
+                "RACHEL",
+                "JOEY"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Monica and Rachel's, Chandler is entering numbers on a calculator as Ross reads\noff how much he\u2019s sold.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Joey work, Joey is showing a guy a tree.]",
+            "dialogue": [
+                {
+                    "speaker": "JOEY",
+                    "text": "Okay, and ah, this one here is a Douglas Fir, now it\u2019s a little more money, but you get a nicer smell."
+                },
+                {
+                    "speaker": "GUY",
+                    "text": "Looks good. I\u2019ll take it."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "(running up carrying a tree) Wait, wait, wait, wait, wait! No, no, you don\u2019t want that one. No, you can have this cool brown one. (points to the almost dead tree she has)"
+                },
+                {
+                    "speaker": "GUY",
+                    "text": "It\u2019s-it\u2019s-it\u2019s almost dead!"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Okay but that\u2019s why you have to buy it, so it can fulfil it\u2019s Christmas destiny, otherwise there gonna throw it into the chipper. Tell him, Joey"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Yeah, the ah, trees that don\u2019t fulfil their Christmas destiny are thrown in the chipper."
+                },
+                {
+                    "speaker": "GUY",
+                    "text": "I-I think I\u2019m gonna look around a little bit more."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Pheebs, you gotta stop this, I working on commission here."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "(entering) Hey, guys. I\u2019m here to pick out my Christmas tree."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Well look no further, (shows her the dead one) this one\u2019s yours! Ahhh."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Is this the one that I threw out last year?"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "All right y'know what, nevermind! Everyone wants to have a green one! I\u2019m sorry, I\u2019m sorry, I didn\u2019t mean to get so emotional, I guess it\u2019s just the holidays, it\u2019s hard."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Oh honey, is that \u2018cause your Mom died around Christmas?"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Oh, I wasn\u2019t even thinking about that."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Oh. (turns and looks at Joey, who gives a \u2018way-to-go\u2019 thumbs up and smile.)"
+                }
+            ],
+            "location": "Joey work",
+            "subjects": [
+                "PHOEBE",
+                "JOEY",
+                "GUY",
+                "MONICA"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Joey work, Joey is showing a guy a tree.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: A Brown Bird meeting, Ross is there with the other Brown Birds to see who won\nthe contest.]",
+            "dialogue": [
+                {
+                    "speaker": "ROSS",
+                    "text": "(to the girl sitting next to him) Hi there. How many, how many ah, did you sell?"
+                },
+                {
+                    "speaker": "GIRL",
+                    "text": "I\u2019m not gonna tell you! You\u2019re the bad man who broke Sarah\u2019s leg."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Hey now! That was an accident, okay."
+                },
+                {
+                    "speaker": "GIRL",
+                    "text": "You\u2019re a big scrud."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "What\u2019s a scrud?"
+                },
+                {
+                    "speaker": "GIRL",
+                    "text": "Why don\u2019t you look in the mirror, scrud."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "I don\u2019t have too. I can just look at you."
+                },
+                {
+                    "speaker": "LEADER",
+                    "text": "All right girls, and man. Let\u2019s see your final tallies. (all the girls raise their hands) Ohhhh, Debbie, (looks at her form) 321 boxes of cookies, (to Debbie) Very nice."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "(to himself) Not nice enough."
+                },
+                {
+                    "speaker": "LEADER",
+                    "text": "Charla, 278. Sorry, dear, but still good."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "(to himself) Good for a scrud."
+                },
+                {
+                    "speaker": "LEADER",
+                    "text": "Oh, yes Elizabeth. Ah, 871."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "That\u2019s crap!! Sister Brown Bird. (to Elizabeth) Good going. (does the salute)"
+                },
+                {
+                    "speaker": "LEADER",
+                    "text": "Who\u2019s next? (goes over and stands behind Ross, who\u2019s feverishly writing on his form, and clears her throat to get his attention.)"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Hi there!"
+                },
+                {
+                    "speaker": "LEADER",
+                    "text": "Hi. And batting for Sarah, Ross Geller, 872. Although, it looks like you bought an awful lot of cookies yourself."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Um, that is because my doctor says that I have a very serious.... nuget.... diffency."
+                }
+            ],
+            "location": "A Brown Bird meeting",
+            "subjects": [
+                "GIRL",
+                "ROSS",
+                "LEADER"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: A Brown Bird meeting, Ross is there with the other Brown Birds to see who won\nthe contest.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Central Perk, Chandler, Phoebe, and Ross are there.]",
+            "dialogue": [
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Tell us what happened, Brown Bird Ross."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Well, I lost. Some little girl loaned her uniform to her nineteen year old sister, who went down to the U.S.S. Nimitz, and sold over 2,000 boxes."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "(to Rachel, who\u2019s entering) Hey! How\u2019d the interview go?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Oh, I blew it. I wouldn\u2019t of even hired me."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Oh, come here sweetie, listen, you\u2019re gonna go on like a thousand interviews before you get a job. (she glares at him) That\u2019s not how that was supposed to come out."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "This is the worst Christmas ever."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Y'know what Rach, maybe you should just, y'know stay here at the coffee house."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "I can\u2019t! It\u2019s too late! Terry already hired that girl over there. (points to her) Look at her, she\u2019s even got waitress experience. Last night she was teaching everybody how to make napkin.... (starts to cry) swans."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "That word was swans."
+                }
+            ],
+            "location": "Central Perk",
+            "subjects": [
+                "PHOEBE",
+                "CHANDLER",
+                "ROSS",
+                "RACHEL"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Central Perk, Chandler, Phoebe, and Ross are there.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: The hallway between the two apartments, Chandler, Phoebe, Ross, and Rachel are\ncoming up the stairs.]",
+            "dialogue": [
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Well seeing that drunk Santa wet himself, really perked up my Christmas."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Oh! Oh my God!"
+                },
+                {
+                    "speaker": "JOEY AND MONICA",
+                    "text": "(jumping up from behind the couch) Merry Christmas!!"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "You saved them! You guys! Oh God, you\u2019re the best!"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "It\u2019s like \u2018Night of the Living Dead Christmas Trees.\u2019"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "(answering the phone) Hello? (listens) Yeah, this is she. (listens) Oh! You\u2019re kidding! You\u2019re kidding! (listens) Oh thank you! I love you!"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Sure, everybody loves a kidder."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "(hanging up the phone) I got the job!"
+                },
+                {
+                    "speaker": "ALL",
+                    "text": "That\u2019s great! Hey! Excellent!"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Oh, God bless us, everyone."
+                }
+            ],
+            "location": "The hallway between the two apartments",
+            "subjects": [
+                "PHOEBE",
+                "CHANDLER",
+                "RACHEL"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: The hallway between the two apartments, Chandler, Phoebe, Ross, and Rachel are\ncoming up the stairs.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Central Perk, Rachel is serving her last cup of coffee.]",
+            "dialogue": [
+                {
+                    "speaker": "RACHEL",
+                    "text": "Here we go. I\u2019m serving my last cup of coffee. (the gang starts humming the graduation theme) There you go. (hands it to Chandler) Enjoy. (they all cheer)"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "(to Ross) Should I tell her I ordered tea?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "No."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Um, excuse me, everyone. Ah, this is my last night working here, and I ah, just wanted say that I made some really good friends working here, and ah, it\u2019s just time to move on. (at the counter Gunther starts to cry and runs into the back room) Ah, and no offence to everybody who ah, still works here, you have no idea how good it feels to say that as of this moment I will never have to make coffee again."
+                }
+            ],
+            "location": "Central Perk",
+            "subjects": [
+                "CHANDLER",
+                "ROSS",
+                "RACHEL"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Central Perk, Rachel is serving her last cup of coffee.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Rachel\u2019s new job, Rachel\u2019s boss is telling her what to do.]",
+            "dialogue": [
+                {
+                    "speaker": "S BOSS",
+                    "text": "Now Mr. Kaplan Sr. likes his coffee strong, so your gonna use two bags instead of one, see. Now pay attention, \u2018cause this part\u2019s tricky, see some people use filters just once."
+                }
+            ],
+            "location": "Rachel\u2019s new job",
+            "subjects": [
+                "S BOSS"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Rachel\u2019s new job, Rachel\u2019s boss is telling her what to do.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: The hallway between the apartments, Ross is bringing Sarah to Joey and\nChandler\u2019s.]",
+            "dialogue": [
+                {
+                    "speaker": "ROSS",
+                    "text": "I\u2019m, I\u2019m sorry you didn\u2019t get to go to Spacecamp, and I\u2019m hoping that maybe somehow, this may make up for it. Presenting Sarah Tuttle\u2019s Private Very Special Spacecamp!! (opens the door and Chandler and Joey jump up, their apartment is decorated like outer space, one of the leather chairs is covered in tinfoil.)"
+                },
+                {
+                    "speaker": "SARAH",
+                    "text": "Really Mr. Geller, you don\u2019t have to do this."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Oh come on! Here we go! (picks her up and puts her in the chair) Stand by for mission countdown!"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "(simulating an echo) Ten , ten.., nine , nine, nine...., eight, eight, eight... (Chandler hits him in the back of the head) Okay, Blast off!"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "I\u2019m an alien. I\u2019m an alien."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Oh no! An asteroid! (throws the soccer ball off the back of Joey\u2019s head.)"
+                }
+            ],
+            "location": "The hallway between the apartments",
+            "subjects": [
+                "SARAH",
+                "ROSS",
+                "CHANDLER",
+                "JOEY"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: The hallway between the apartments, Ross is bringing Sarah to Joey and\nChandler\u2019s.]",
+            "srt_start": "",
+            "srt_end": ""
+        }
+    ]
+}

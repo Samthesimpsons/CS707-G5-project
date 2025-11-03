@@ -1,0 +1,1279 @@
+{
+    "episode": "0323",
+    "title": "The One With Ross's Thing",
+    "scenes": [
+        {
+            "scene_description": "[Scene: Chandler and Joey's, Chandler and Joey are playing with the duck and the\nchick.]",
+            "dialogue": [
+                {
+                    "speaker": "JOEY",
+                    "text": "Hey, wouldn't be cool if our duck and chick had a little baby? We could call it Chuck."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Or... Dick."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "(entering) Hey."
+                },
+                {
+                    "speaker": "CHANDLER AND JOEY",
+                    "text": "Hey."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Listen, I-I need a favor. Umm, I was in the shower, and as I was cleansing myself, I ah, I-I, well I felt something."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Was it like a sneeze only better?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "No, no, I mean, I mean a thing on my body."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "(with a disgusted look) What was it?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Well, I don't know, it's-it's kinda in a place that's not... It's not visually accessible to me, and I was hoping maybe you guys could-could help me out. (starts to take off his pants)"
+                },
+                {
+                    "speaker": "CHANDLER AND JOEY",
+                    "text": "Whoa!!!"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "No!!"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Come on you guys, it's no big deal! (He turns around and shows him his thing.)"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Whoa-heeeiiiiii-iiiii-ah!! (sees it) Huh."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Well what is it? Is it a mole? (He moves closer to them, and they jump back.)"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "No, it's too wrinkly to be a mole."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Well, eww. What? Is it a pimple?"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "No, it's... fancier than a pimple. Look Ross, why don't you just go see a\u2026"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "(entering, interrupting them) Hey guys! What's... (sees what they're doing and stops, the guys are stunned)"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Okay, well, it's definite, two more weeks of winter."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Ahhh."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Yeah, right."
+                }
+            ],
+            "location": "Chandler and Joey's",
+            "subjects": [
+                "JOEY",
+                "ROSS",
+                "RACHEL",
+                "CHANDLER"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Chandler and Joey's, Chandler and Joey are playing with the duck and the\nchick.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Central Perk, Chandler, Joey, and Rachel are there, as Phoebe enters with her\ndate.]",
+            "dialogue": [
+                {
+                    "speaker": "PHOEBE",
+                    "text": "(to her date) Okay, and then this is the coffee house. This is where I play my music. (points to the stage)"
+                },
+                {
+                    "speaker": "VINCE",
+                    "text": "Good deal."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Yeah, and these are my friends. People. This is Vince, Vince the people."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Hi!"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Hey!"
+                },
+                {
+                    "speaker": "VINCE",
+                    "text": "Hey!"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Vince is a fireman."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Wow! Have you ever rescued anyone from a burning building before?"
+                },
+                {
+                    "speaker": "VINCE",
+                    "text": "98 hot saves, highest in the force."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Well, y'know if Joey and I played with matches we could get you up to an even hundred."
+                },
+                {
+                    "speaker": "VINCE",
+                    "text": "(dead serious) Fire safety is not a joke, son."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "You're right, I know."
+                },
+                {
+                    "speaker": "VINCE",
+                    "text": "(to Phoebe) Look, I gotta go. I'm on call tonight. (kisses her) See you Saturday. (leaves)"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Okay. (watches him leave)"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Wow, he's cute, Pheebs! But I thought you just started dating that Kindergarten teacher."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Oh, Jason? Yeah, uh-huh, we're seeing each other tonight."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "What-Pheebs?! Two dates in one day? That's so unlike you."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "I know, I know! I'm like playing the field. Y'know? Like, juggling two guys, I'm sowing my wild oats. Y'know? Y'know, this kind've like y'know oat-sowin', field-playin' juggler."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "So Pheebs, do they know about each other?"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Does a dog's lips move when he reads? (Joey makes an `I don't know' face, and looks to Chandler and Rachel, who're also stumped) Okay, no they don't."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "(entering) Hey guys!"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Hey."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Hi!"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "(going over to him) Well?!"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "(joining them) Okay, how'd it go at the doctor's?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Well, he said there's definitely nothing to worry about, it's totally benign."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Well what is it?!"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "He couldn't even tell me! He said it was just some sort of skin... abnormality. And the worst thing is he-he-he said, he said, without being able to identify it, he was reluctant to remove it."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Y'know what? You should go to my guy, because when I went in there with my third nipple. He just lopped it right off. Y'know? So I guess I'm lucky. I mean not as lucky as people who were born with two nipples."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "At least they knew what yours was. Y'know, yours had a name."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Oh! Maybe they'll name yours after you! Y'know, they'll call it, The Ross. And then people would be like, \"Awww, he's got a Ross.\""
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "(sarcastic) Yeah, that'd be cool!"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Pete's breaking up with me."
+                },
+                {
+                    "speaker": "ALL",
+                    "text": "What?!"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "I just checked my messages, and he said that when he gets back from Atlanta, we need to talk."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "And?"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Well that's it. People never say `We need to talk' unless it's something bad."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Whoa, that doesn't necessarily mean that he's breaking up with you."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Really?!"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Yeah, maybe he just cheated on you."
+                }
+            ],
+            "location": "Central Perk",
+            "subjects": [
+                "CHANDLER",
+                "ROSS",
+                "PHOEBE",
+                "MONICA",
+                "RACHEL",
+                "VINCE",
+                "JOEY"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Central Perk, Chandler, Joey, and Rachel are there, as Phoebe enters with her\ndate.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: A Street, Phoebe is walking with her second date, Jason.]",
+            "dialogue": [
+                {
+                    "speaker": "JASON",
+                    "text": "...and I know I'll never miss doing it, but I gotta tell you, it's pretty cool knowing that you're making a difference in a kid's life."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "That is so great! Oh, I... (sees that a parked car near them has caught on fire) Oh my God!"
+                },
+                {
+                    "speaker": "JASON",
+                    "text": "Whoa!"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "(the fire has worsened) Oh my God!!!"
+                },
+                {
+                    "speaker": "JASON",
+                    "text": "Ahh-ahh, we'd better call the fire department!"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "(stopping him) No! No!"
+                },
+                {
+                    "speaker": "JASON",
+                    "text": "No, no?"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Well, we don't n-n-n-n-need a fireman, we'd, we'd like a good mechanic. (hears the sound of approaching sirens) Oh my God, here they come! Well, we gotta get out of here!"
+                },
+                {
+                    "speaker": "JASON",
+                    "text": "W-w-w-wait! Why?!"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Well look, if I wanted to see a fireman, I would date one. Okay? (she drags him away)"
+                }
+            ],
+            "location": "A Street",
+            "subjects": [
+                "PHOEBE",
+                "JASON"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: A Street, Phoebe is walking with her second date, Jason.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: A Doctor's Office, Ross is having his thing looked at by Dr. Rhodes.]",
+            "dialogue": [
+                {
+                    "speaker": "ROSS",
+                    "text": "Th-th-that's all it is, a third nipple. Y'know? Just your run-of-the-mill third nipple. Y'know? You can take it off. Just slice that baby right off!"
+                },
+                {
+                    "speaker": "DR. RHODES",
+                    "text": "Take your shirt off, and let's see what we're dealing with here. (Ross starts to take off his pants) What are you doing?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Just showing you my run-of-the-mill-slice-it-right-off third nipple."
+                },
+                {
+                    "speaker": "DR. RHODES",
+                    "text": "Well that's not a third nipple."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "No?"
+                },
+                {
+                    "speaker": "DR. RHODES",
+                    "text": "First of all, it's on your ass."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Well then, what is it?!"
+                },
+                {
+                    "speaker": "DR. RHODES",
+                    "text": "Wait a minute, hold it. (He goes to the door and opens it.) Johnson! Will you come in here a moment?"
+                },
+                {
+                    "speaker": "DR. JOHNSON",
+                    "text": "I'm with Hamilton!"
+                },
+                {
+                    "speaker": "DR. RHODES",
+                    "text": "He's good with rear things, bring him in too."
+                }
+            ],
+            "location": "A Doctor's Office",
+            "subjects": [
+                "DR. RHODES",
+                "ROSS",
+                "DR. JOHNSON"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: A Doctor's Office, Ross is having his thing looked at by Dr. Rhodes.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Central Perk, Chandler, Monica, and Joey are there.]",
+            "dialogue": [
+                {
+                    "speaker": "MONICA",
+                    "text": "(starting to get up) I gotta go water Pete's plants. (stops) Y'know what, if he's gonna break up with me, maybe I won't water his plants."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Well, if he's gonna break up with you, maybe Joey and I should water his plants. If y'know what I mean."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Or ha-ha, we could go over there and pee on them."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "(entering with Rachel) \u2026and I-I can't take it! Y'know? I'm just, always afraid one of them is gonna catch me with the other one. It's making me crazy."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Well honey, then why don't you break up with one of them?"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "(disgusted) Uh."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Whoa-whoa-whoa. What ah, what happened to playing the field?"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Well, it just, it doesn't feel like playing anymore, it feels like work. It's like I'm working in the field."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "So Pheebs, pick one of them."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Yeah. Which one do you like more?"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Well, Vince is great, y'know `cause, he's like a guy, guy. Y'know? He's so burly, he's sooo very burly. (giggles)"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Okay, good, so there you go. Go with Vince."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Yeah, but Jason's really sensitive."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Well sensitive is important, pick him."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Yeah."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Oh sure, go with the sissy."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Jason is not a sissy!"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Oh no-no-no-no, I meant Chandler."
+                }
+            ],
+            "location": "Central Perk",
+            "subjects": [
+                "CHANDLER",
+                "PHOEBE",
+                "MONICA",
+                "RACHEL",
+                "JOEY"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Central Perk, Chandler, Monica, and Joey are there.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Dr. Rhodes's Office, a rather large group of doctors has now gathered to take a\nlook at Ross's thing. Ross is none too pleased with the developments, he has a disgusted\nlook on his face.]",
+            "dialogue": [
+                {
+                    "speaker": "ROSS",
+                    "text": "Y'know I have dinner plans!!"
+                },
+                {
+                    "speaker": "DR. RHODES",
+                    "text": "Thank you soo much for coming on such a short notice. Ladies and gentlemen, I've-I've-I've been practicing medicine for twenty-three years, and I'm stumped."
+                },
+                {
+                    "speaker": "ALL",
+                    "text": "Whoa. (they all lean in to get a closer look, Ross isn't pleased)"
+                }
+            ],
+            "location": "Dr. Rhodes's Office",
+            "subjects": [
+                "DR. RHODES",
+                "ROSS"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Dr. Rhodes's Office, a rather large group of doctors has now gathered to take a\nlook at Ross's thing. Ross is none too pleased with the developments, he has a disgusted\nlook on his face.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Pete's apartment, Monica is there to water the plants, and is showing the gang\naround.]",
+            "dialogue": [
+                {
+                    "speaker": "MONICA",
+                    "text": "Okay, this is the den. All right, check this out. Lights! (the lights turn on automatically, but are very bright) Whoa! All right. Less lights! Bad lights! Lights go away! (they dim) Oh, see you just need to find the right command."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Yes, and the dimmer switch."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Whoa! For a rich guy he's got, that's a pretty small TV."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "No-no-no, that's a video-phone. But hey guys you're not supposed to be here, so please, do not touch anything."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "(sitting down on the couch) I-kea! This is comfortable."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "(entering with Phoebe) This place is amazing."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "God, that is the nicest kitchen."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "I know."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "No! But it's the nicest kitchen, the refrigerator told me to have a great day."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Look at this! A millionaire's checkbook."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Joey, put that down! (the phone rings) Oh my God! It's Pete. Okay, get out!! How the hell do you answer a video-phone! (steps in front of it, and automatically answers it)"
+                },
+                {
+                    "speaker": "PETE",
+                    "text": "Monica? (the gang ducks and hides)"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "I guess that's how."
+                },
+                {
+                    "speaker": "PETE",
+                    "text": "Hey Monica, how's it going."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Oh it\u2019s umm, good! It's umm, it\u2019s good, just here watering the plants."
+                },
+                {
+                    "speaker": "PETE",
+                    "text": "Well don't forget that fiches over there by Rachel."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "(standing up) Ahh... Chandler's on the couch!!"
+                },
+                {
+                    "speaker": "PETE",
+                    "text": "I see him, you guys are just the worst hiders ever."
+                },
+                {
+                    "speaker": "ALL",
+                    "text": "(standing up) Hey Pete."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Hi, how ya doing?"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Ahh, Pete, the other day when you said you needed to talk, umm, just so I know, is it good news or bad news."
+                },
+                {
+                    "speaker": "PETE",
+                    "text": "Oh, it's good news. No, it's definitely good news. Hold on a second, I have another call. (clicks his remote) (to his other call) Hey, how's it going?"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Oh no-no-no, it's still me."
+                },
+                {
+                    "speaker": "PETE",
+                    "text": "Ah, no it's not. I've got picture-in-picture here. (to other caller) Yeah. (listens) Yeah, okay. I'm gonna have to call you back later. (pause) Monica? You. I'm gonna have to call you back."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Oh, oh, okay umm, so I'll see you soon."
+                },
+                {
+                    "speaker": "PETE",
+                    "text": "Okay, I love you."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "I love you."
+                },
+                {
+                    "speaker": "ALL",
+                    "text": "I love you, love you."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Okay. Well, it's good news. It's good news."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "So, what do you thing the good news is?"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "(looking at the checkbook) Wow! Look at this! He wrote a check for 50,000 dollars to Hugo Ligrens Ring Design. (Monica is stunned) Oh, sorry, what do you think the good news is?"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Oh my."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Monica's gonna marry a millionaire!!!"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Hey, you gotta get Mom on the phone. Call Mom! Call Mom!"
+                },
+                {
+                    "speaker": "PETE'S MOM",
+                    "text": "Hello."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "And that's Pete's Mom."
+                }
+            ],
+            "location": "Pete's apartment",
+            "subjects": [
+                "CHANDLER",
+                "PETE'S MOM",
+                "PETE",
+                "ROSS",
+                "MONICA",
+                "PHOEBE",
+                "RACHEL",
+                "JOEY"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Pete's apartment, Monica is there to water the plants, and is showing the gang\naround.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Monica and Rachel's, the gang is returning from Pete\u2019s.]",
+            "dialogue": [
+                {
+                    "speaker": "RACHEL",
+                    "text": "Mon you definitely have to make it a theme wedding, and the theme could be, \u201cLook how much money we\u2019ve got!\u201d Y'know, I mean you could put, you could put money in-in the invitations! You-you could have like little money place settings. And ah, you could start with a money salad! I mean it\u2019ll be dry, but people will like it."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Would you stop? We\u2019ve only been going out a couple of weeks, I mean we don\u2019t even know if he\u2019s gonna propose."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Yes, but this is Pete. Okay? He\u2019s not like other people, on your first date he took you to Rome. For most guys that\u2019s like a third or fourth date kinda thing."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Well if-if that\u2019s what it is, then it\u2019s-it\u2019s crazy."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Monica\u2019s right. We\u2019re talking about getting married here. Okay? She-she can\u2019t just rush into this."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Oh please, what do you know! You married a lesbian!"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "All right. I gotta go. I have break up with Vince."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Oh, so you\u2019re going with the teacher, huh?"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Yeah, I like Vince a lot, y'know? But, it\u2019s just Jason\u2019s so sensitive, y'know? And in the long run, I think sensitive it\u2019s just better than having just like a really, really, really nice (pause) butt. (Her eyes glaze over thinking about the butt.) (pause) Jason! Definitely Jason! Okay, wish me luck!"
+                },
+                {
+                    "speaker": "ALL",
+                    "text": "Good luck!"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "OH MY GOD!!! (She holds her hands up in triumph and the gang all look at her.) Sorry, I was just imagining what it\u2019d be like to catch the money bouquet."
+                }
+            ],
+            "location": "Monica and Rachel's",
+            "subjects": [
+                "CHANDLER",
+                "ROSS",
+                "PHOEBE",
+                "MONICA",
+                "RACHEL"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Monica and Rachel's, the gang is returning from Pete\u2019s.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: A Fire House, Phoebe has gone to break up with Vince.]",
+            "dialogue": [
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Excuse me. Umm, is Vince here?"
+                },
+                {
+                    "speaker": "FIREMAN",
+                    "text": "Oh sure. Vince?!"
+                },
+                {
+                    "speaker": "VINCE",
+                    "text": "Yo!! (slides down that pole that fire station\u2019s have)"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Wow! I didn\u2019t know you guys actually used those."
+                },
+                {
+                    "speaker": "VINCE",
+                    "text": "So, what\u2019s up?"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Umm, wow. This-this isn\u2019t gonna be easy. Umm, I don\u2019t think we should see each other anymore."
+                },
+                {
+                    "speaker": "VINCE",
+                    "text": "Uh-huh. G-good deal."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "I\u2019m sorry."
+                },
+                {
+                    "speaker": "VINCE",
+                    "text": "No-no it\u2019s okay. It\u2019s just that ah, I thought we had something pretty special here. And y'know I-I felt like you were someone I could finally open up to, and\u2026 (starts choking up) That there\u2019s so much in me I have to share with you yet."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Oh my God, I didn\u2019t\u2026"
+                },
+                {
+                    "speaker": "VINCE",
+                    "text": "(starting to cry) I\u2019m sorry, I can\u2019t talk. I\u2019m gonna go write in my journal. (walks away)"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "(running after him) Wait-wait-wait! Wait!!"
+                }
+            ],
+            "location": "A Fire House",
+            "subjects": [
+                "VINCE",
+                "PHOEBE",
+                "FIREMAN"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: A Fire House, Phoebe has gone to break up with Vince.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Central Perk, Phoebe, Ross, and Monica are there.]",
+            "dialogue": [
+                {
+                    "speaker": "PHOEBE",
+                    "text": "(to Ross) I\u2019m telling you, if you want to take care of that thing, you should go to my herbal guy."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Thank you, but I want to remove it Pheebs. I don\u2019t want to make it savory."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Y'know when girls sleep with guys with weird things on their body, they tell their friends about it."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Gimme this. (Grabs the herbalist\u2019s card and leaves.)"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "(entering) Hi! Okay, don\u2019t be mad at me, but I couldn\u2019t resist."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Brides magazines?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Yes, and I know that you\u2019d say no if he asked you, but I\u2019m sorry; how great would you look walking down the aisle in this Donna Carin. (shows her the picture.)"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "(gasps) Oh, you so would! Oh, you should get that anyway. (They both look at her.) Like for clubbing."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "It is so weird, I know what I said, but uh, this morning, I was lying in bed I was, I was imagining what it would be like to say yes. (Rachel slams the magazine shut in amazement.) I know it\u2019s a little sudden, and it\u2019s a little rushed, and it\u2019s totally not like me to do something like this, but that doesn\u2019t mean I can\u2019t. Right? I mean I\u2019m-I\u2019m crazy about Pete, and I know that we want the same things, and when I thought about saying yes, it made me really happy."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Oh my God. (starting to cry)"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "I know. (pause) I need more pie. (goes and gets some)"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Hey Mon umm, if you do get married, can I bring two guests?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "You didn\u2019t break up with that fireman?"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "No, that was my way of telling you. Well, it turns out he\u2019s incredibly sensitive, he keeps a journal and he paints. He even showed me charcoal drawings that he drew of me."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Wow!"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Yeah, well he\u2019d prefer water colors, but y'know, he has easy access to a lot of charcoal."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "So then, are you going to dump Jason?"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Well, yeah, because I have to break up with someone, and\u2026 Okay so Jason is sensitive, (holds up one finger) but now so\u2019s Vince (holds up one finger on her other hand) Plus, Vince has the body y'know? (holds up two more fingers on the Vince side) So\u2026 It\u2019s really just about the math."
+                }
+            ],
+            "location": "Central Perk",
+            "subjects": [
+                "PHOEBE",
+                "ROSS",
+                "MONICA",
+                "RACHEL"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Central Perk, Phoebe, Ross, and Monica are there.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Jason\u2019s apartment, Phoebe has gone to break up with Jason.]",
+            "dialogue": [
+                {
+                    "speaker": "PHOEBE",
+                    "text": "(knocks on the door) Jason?"
+                },
+                {
+                    "speaker": "JASON",
+                    "text": "Yeah, come on in."
+                },
+                {
+                    "speaker": "JASON",
+                    "text": "So Phoebe, you ah, sounded kinda serious on the phone, is ah, is anything wrong?"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Nah-ha!"
+                }
+            ],
+            "location": "Jason\u2019s apartment",
+            "subjects": [
+                "PHOEBE",
+                "JASON"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Jason\u2019s apartment, Phoebe has gone to break up with Jason.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Phoebe\u2019s Herbal Guy\u2019s office, Ross is there about his thing. Ross is\nlooking around the exam room, and he goes over to a large bank of drawers, pulls one out\nand almost spills it as the herbalist, Guru Saj, enters.]",
+            "dialogue": [
+                {
+                    "speaker": "GURU SAJ",
+                    "text": "You must be Ross."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Hi."
+                },
+                {
+                    "speaker": "GURU SAJ",
+                    "text": "I am Guru Saj. (takes the drawer back and replaces)"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Listen, I got to tell you I\u2019ve-I\u2019ve never been to a guru before, so..."
+                },
+                {
+                    "speaker": "GURU SAJ",
+                    "text": "Well, relax. If it makes you feel better, I\u2019ve attended some of the finest medical schools in Central America. Well then, let\u2019s take a look at this skin abnormality of yours. (motions to the table) Come on, have a seat. (looks at it) Eeh, huh. As I suspected, it\u2019s a koondis!"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "What\u2019s a koondis?"
+                },
+                {
+                    "speaker": "GURU SAJ",
+                    "text": "I don\u2019t know, what\u2019s a koondis with you? (starts laughing as if that joke was funny, Ross only looks at him, and he stops) Please, lie down! I\u2019ve got a sav that oughta shrink that right up."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "I guess it\u2019s worth a try."
+                },
+                {
+                    "speaker": "GURU SAJ",
+                    "text": "Oh sure, we should see results\u2014Whoa!! Clearly not the way to go!! (quickly wipes it off)"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "What?! What?!"
+                },
+                {
+                    "speaker": "GURU SAJ",
+                    "text": "We appear to have angered it."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "We?! We angered it?!"
+                },
+                {
+                    "speaker": "GURU SAJ",
+                    "text": "Oh, I think I see the problem. And I\u2019m afraid we\u2019re gonna have to use a much stronger tool. (Ross gives him a \u2018What?\u2019 look) Love."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Oh God!"
+                },
+                {
+                    "speaker": "GURU SAJ",
+                    "text": "(He starts moving his hands around in circles above the thing.) Ross, there is absolutely no way this is going to come off unless you start to\u2026"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Ow!!"
+                },
+                {
+                    "speaker": "GURU SAJ",
+                    "text": "Oops."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "What was, what was that?"
+                },
+                {
+                    "speaker": "GURU SAJ",
+                    "text": "Well it\u2019s gone."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "What?! How\u2019s that?"
+                },
+                {
+                    "speaker": "GURU SAJ",
+                    "text": "It got caught on my watch."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Hey! (congratulates him)"
+                }
+            ],
+            "location": "Phoebe\u2019s Herbal Guy\u2019s office",
+            "subjects": [
+                "ROSS",
+                "GURU SAJ"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Phoebe\u2019s Herbal Guy\u2019s office, Ross is there about his thing. Ross is\nlooking around the exam room, and he goes over to a large bank of drawers, pulls one out\nand almost spills it as the herbalist, Guru Saj, enters.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Pete\u2019s apartment, Pete and Monica are coming back from a date.]",
+            "dialogue": [
+                {
+                    "speaker": "PETE",
+                    "text": "Lights. (The lights turn on, once again they\u2019re too bright.) Uh, romantic lights. (The lights dim.)"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Ooh, nice."
+                },
+                {
+                    "speaker": "PETE",
+                    "text": "So ah, there was this thing I wanted to talk to you about."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Oh, right! I completely forgot about that."
+                },
+                {
+                    "speaker": "PETE",
+                    "text": "Well ah, I\u2019ve been doing a lot of thinking, and I look at my life\u2026"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Yeah?"
+                },
+                {
+                    "speaker": "PETE",
+                    "text": "And I feel like I\u2019ve conquered the business world, and I feel like I\u2019ve conquered the intellectual world, and now I-I have the most beautiful woman in the world."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Wow."
+                },
+                {
+                    "speaker": "PETE",
+                    "text": "There\u2019s one thing missing."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "What\u2019s that?"
+                },
+                {
+                    "speaker": "PETE",
+                    "text": "It\u2019s time for me to conquer the physical world."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Okay. (not sure of herself)"
+                },
+                {
+                    "speaker": "PETE",
+                    "text": "Monica, I want to become (pause) the Ultimate Fighting Champion."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "You wanna what?!"
+                },
+                {
+                    "speaker": "PETE",
+                    "text": "I want to become the Ultimate Fighting Champion! It\u2019s the most intense physical competition in the world, it\u2019s banned in 49 states!"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "What are you talking about?"
+                },
+                {
+                    "speaker": "PETE",
+                    "text": "Okay, my trainer, Ho Chi, is teaching me a combination of Gee Koon Doe and Brazilian street fighting, I\u2019ve even had my own octagon training ring designed."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "And I suppose you used a ring designer for that."
+                },
+                {
+                    "speaker": "PETE",
+                    "text": "Yeah. Monica, I want you there in the front row when I win. I want you close enough to smell the blood. What do you think?"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "My parents will be so happy."
+                }
+            ],
+            "location": "Pete\u2019s apartment",
+            "subjects": [
+                "PETE",
+                "MONICA"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Pete\u2019s apartment, Pete and Monica are coming back from a date.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Central Perk, Phoebe\u2019s singing, Vince is also there.]",
+            "dialogue": [
+                {
+                    "speaker": "PHOEBE",
+                    "text": "(singing) \u201cCrazy underwear, creepin\u2019 up my butt. (Jason enters) Crazy underwear, always in a rut. Crazy under-(sees Jason)-wear\u2026\u201d (In her head) Oh No! What is he doing here? All right, just keep playing, just keep playing. You\u2019ll get through this; you\u2019ll be fine. (She tries to continue the song, but she has lost the ability to pronounce words, and the lyrics come out as gibberish.) (giving up on the song) Okay, thank you. And, as always no one talk to me after the show."
+                },
+                {
+                    "speaker": "JASON",
+                    "text": "(going up to her) Hey. I was\u2026"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Hey!"
+                },
+                {
+                    "speaker": "JASON",
+                    "text": "I was passin\u2019 by and I saw that you were playing tonight, it\u2019s kinda cool seeing you up there. (kisses her)"
+                },
+                {
+                    "speaker": "VINCE",
+                    "text": "(running over) Whoa! Hey-hey! What\u2019s going on here? Who is this guy?"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "I don\u2019t know, he just started kissing me. Get him! Get him, Vince!"
+                },
+                {
+                    "speaker": "VINCE",
+                    "text": "What?!"
+                },
+                {
+                    "speaker": "JASON",
+                    "text": "What?!"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Yeah, okay, I\u2019ve-I\u2019ve been dating both of you, and it\u2019s been really horrible. \u2018Cause y'know it\u2019s been a lot of fun, for me. Umm, but I-I like you both, and I, and I didn\u2019t know how to chose, so... I\u2019m sorry, I\u2019m just, I\u2019m terrible, I\u2019m a terrible person. I\u2019m terrible."
+                },
+                {
+                    "speaker": "VINCE",
+                    "text": "Phoebe, Phoebe relax, it\u2019s okay. I mean we never said this was exclusive."
+                },
+                {
+                    "speaker": "JASON",
+                    "text": "Yeah, and neither did we. Give yourself a break."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Really?!"
+                },
+                {
+                    "speaker": "JASON",
+                    "text": "Yeah. I mean y'know, we haven\u2019t been going out that long. Come on, we haven\u2019t even slept together yet. Huh."
+                },
+                {
+                    "speaker": "VINCE",
+                    "text": "You haven\u2019t?"
+                },
+                {
+                    "speaker": "JASON",
+                    "text": "You have?"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Well, this is none of my business. (starts to walk away)"
+                },
+                {
+                    "speaker": "JASON",
+                    "text": "(to Phoebe) I-I can\u2019t believe this! You-you\u2019ve slept with him?!"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Well, I made you a candle light dinner in the park."
+                },
+                {
+                    "speaker": "JASON",
+                    "text": "Y'know Phoebe, I\u2019m gonna make this real easy for you. (walks out)"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "(to Vince) Well, that could\u2019ve been really awkward."
+                },
+                {
+                    "speaker": "VINCE",
+                    "text": "You made him a candle light dinner in the park?"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Yeah, but I-I-I-I can do that for you, I\u2019m gonna do that for you."
+                },
+                {
+                    "speaker": "VINCE",
+                    "text": "Uh yeah, I can\u2019t believe I ever went out with somebody who would actually have an open flame in the middle of a wooden area. (walks out)"
+                }
+            ],
+            "location": "Central Perk",
+            "subjects": [
+                "VINCE",
+                "PHOEBE",
+                "JASON"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Central Perk, Phoebe\u2019s singing, Vince is also there.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Guru Saj\u2019s office: Joey and Chandler have taken the duck to see the guru.]",
+            "dialogue": [
+                {
+                    "speaker": "CHANDLER",
+                    "text": "(comforting the duck) Everything\u2019s gonna be all right. Okay, Dick?"
+                },
+                {
+                    "speaker": "GURU SAJ",
+                    "text": "(entering) Hello, I am Guru Saj-(sees the duck)-Whoa!! (to Joey) That\u2019s supposed to be a duck right? \u2018Cause otherwise, this is waaay out of my league."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Yeah, yeah. He\u2019s got a, he\u2019s got a really bad cough, and our vet, he can\u2019t do anything about it. Is there something you can do?"
+                },
+                {
+                    "speaker": "GURU SAJ",
+                    "text": "Hmm, let me see. Let me see. Do you think you could get him to eat a bat?"
+                }
+            ],
+            "location": "Guru Saj\u2019s office: Joey and Chandler have taken the duck to see the guru.",
+            "subjects": [
+                "CHANDLER",
+                "JOEY",
+                "GURU SAJ"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Guru Saj\u2019s office: Joey and Chandler have taken the duck to see the guru.]",
+            "srt_start": "",
+            "srt_end": ""
+        }
+    ]
+}

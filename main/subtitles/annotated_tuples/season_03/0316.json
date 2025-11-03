@@ -1,0 +1,1384 @@
+{
+    "episode": "0316",
+    "title": "The One The Morning After",
+    "scenes": [
+        {
+            "scene_description": "Episode dialogue",
+            "dialogue": [
+                {
+                    "speaker": "JOEY",
+                    "text": "(Voice Over) Previously on Friends."
+                }
+            ],
+            "location": "",
+            "subjects": [
+                "JOEY"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "Episode dialogue",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Monica and Rachel's, Ross is eating the picnic as Rachel comes home from work.]",
+            "dialogue": [
+                {
+                    "speaker": "ROSS",
+                    "text": "I mean, I don\u2019t feel like I even have a girlfriend anymore."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "You want me to just quit my job so that you can feel like you\u2019ve got a girlfriend?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Is this about Mark?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "(shocked) Oh my God."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Okay, it\u2019s not, it\u2019s not."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Oh my God. I cannot keep having this same fight with you Ross! Look, urrgh, maybe we should take a break."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Fine, you\u2019re right. Let\u2019s ah, let\u2019s take a break, (goes to the door) let\u2019s cool off, okay, let\u2019s get some frozen yoghurt, or something.. (opens the door)"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "No. A break from us."
+                }
+            ],
+            "location": "Monica and Rachel's",
+            "subjects": [
+                "ROSS",
+                "RACHEL"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Monica and Rachel's, Ross is eating the picnic as Rachel comes home from work.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Monica and Rachel's, Mark is there, opening Chinese food boxes.]",
+            "dialogue": [
+                {
+                    "speaker": "RACHEL",
+                    "text": "Then, we had this big, stupid fight, and I said I wanted to take a break, I don\u2019t want to take a break."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "(on the phone) I\u2019ve been thinking, this is crazy, I mean don\u2019t, don\u2019t you think we can work on this?"
+                },
+                {
+                    "speaker": "MARK",
+                    "text": "Hey, what do you want to drink?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Who\u2019s that?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Nobody."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Is that Mark?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Umm, honey, look he just came over to...."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Yeah! Got it! (slams down the phone)"
+                }
+            ],
+            "location": "Monica and Rachel's",
+            "subjects": [
+                "ROSS",
+                "RACHEL",
+                "MARK"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Monica and Rachel's, Mark is there, opening Chinese food boxes.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: The Philly.]",
+            "dialogue": [
+                {
+                    "speaker": "CHLOE",
+                    "text": "Hey, come dance. What? Are you married? \u2018Cause that\u2019s okay."
+                }
+            ],
+            "location": "The Philly.",
+            "subjects": [
+                "CHLOE"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: The Philly.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Monica and Rachel's, Monica is making a fruit drink in the blender, Rachel has\njust finished her shower and is coming out of the bathroom.]",
+            "dialogue": [
+                {
+                    "speaker": "MONICA",
+                    "text": "Hey."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Hey."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "How\u2019s the big anniversary dinner?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Well, we never actually got to dinner."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Ohhh, nice."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "No, we kinda broke up instead."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "What?! (She accidentally starts the blender without the lid on it and fruit flies everywhere.)"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "(looking up at the ceiling) God, Monica it\u2019s on the ceiling."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "That\u2019s okay, this is more important than fruit (pause) (angrily) on my ceiling! You broke up?!"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Yeah, but it\u2019s okay, because when Ross left Mark came over."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Oh no!!"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "No."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Rachel, you and Mark?!"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "No, no-no, it\u2019s okay, calm down. Mark and I talked, and I realised how much I love your stupid brother, and, yeah, we got our problems, but I really want to make it work."
+                }
+            ],
+            "location": "Monica and Rachel's",
+            "subjects": [
+                "MONICA",
+                "RACHEL"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Monica and Rachel's, Monica is making a fruit drink in the blender, Rachel has\njust finished her shower and is coming out of the bathroom.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Ross\u2019s Bedroom, Ross is waking up. He straightens himself out on the bed\nand puts the covers over his head.]",
+            "dialogue": [
+                {
+                    "speaker": "CHLOE",
+                    "text": "(entering from bathroom) Morning!"
+                }
+            ],
+            "location": "Ross\u2019s Bedroom",
+            "subjects": [
+                "CHLOE"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Ross\u2019s Bedroom, Ross is waking up. He straightens himself out on the bed\nand puts the covers over his head.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Ross\u2019s Kitchen, Ross is taking some aspirin and checking his messages.]",
+            "dialogue": [
+                {
+                    "speaker": "RACHEL",
+                    "text": "(on answering machine) Hi, it\u2019s me. I\u2019ve been trying to reach you all night. I feel awful. Please, Ross, you gotta know there is nothing between me and Mark. This whole break-up thing is just stupid."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Yeah!!"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Eh, I\u2019m just so sorry I put you through it. And, I y'know, I don\u2019t want to get back together over a machine."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Na-huh."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "So, I love you."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "I love you."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "And y'know what, I\u2019m gonna, I\u2019m gonna go to bed now, but ah, on my way to work tomorrow morning, I\u2019m gonna stop by around 8:30."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Okay. (Ross starts frantically looking for a clock.)"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Bye."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Chloe, Chloe how\u2019s it coming?!!"
+                },
+                {
+                    "speaker": "CHLOE",
+                    "text": "(entering from bedroom) Hey, what kind of puppy do you think I should get?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Umm, oh, hey, I don\u2019t know. How about a big one?"
+                },
+                {
+                    "speaker": "CHLOE",
+                    "text": "But my apartment is so..."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Well then a small one!! Listen, let\u2019s, we kinda have to get going!"
+                },
+                {
+                    "speaker": "CHLOE",
+                    "text": "Wait! Where\u2019s my shoes?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "You, you sure you need shoes? (Chloe nods her head) Okay. (reaches down and picks up a shoe)"
+                },
+                {
+                    "speaker": "CHLOE",
+                    "text": "Do I know why we\u2019re rushing?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Yeah, y'know the ah, the girlfriend I told you about last night? (He\u2019s frantically throwing the cushions off of the couch looking for her other shoe) Well it turns out she ah, she wants to get back together with me. Oh, I found it!!"
+                },
+                {
+                    "speaker": "CHLOE",
+                    "text": "That\u2019s so great for you guys!"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Yeah!"
+                },
+                {
+                    "speaker": "CHLOE",
+                    "text": "You must be so happy!"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Yes, yes I am, one of the many things I\u2019m feeling. Well.... (picks up her coat)"
+                },
+                {
+                    "speaker": "CHLOE",
+                    "text": "Good luck, with your girlfriend."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Oh, thank you. (She goes to kiss him, but he holds her coat up between their faces to stop her.) Hey, hey. (opens the door, sees Rachel, and hides Chloe behind the door) Rachel!!!!"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Hi. Ohhh, you got my message."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Yeah, oh hey, you are right on time."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "So what do you say? Can I be your girlfriend again?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Yes, you can, very much."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "(seeing the thumbs up) Ahhhh!! (Hugs Rachel tighter.)"
+                }
+            ],
+            "location": "Ross\u2019s Kitchen",
+            "subjects": [
+                "CHLOE",
+                "ROSS",
+                "RACHEL"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Ross\u2019s Kitchen, Ross is taking some aspirin and checking his messages.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Monica and Rachel's, Phoebe is entering carry a large box, Monica is mopping\nthe ceiling.]",
+            "dialogue": [
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Hey!"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Hey."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Hey, why are you mopping your ceiling?"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Oh, there\u2019s banana on it."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Wow, I have the spirit of an old Indian women living in mine."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "So then you know? (Phoebe nods her head)"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "The mailman was downstairs, so I brought up your mail."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Oh, good. Thanks."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Now what is Fabutec?"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Okay, all right don\u2019t judge me to much. Okay? Um, but I saw this info-mercial, and um, I swear to you I have never-ever bought anything on TV before, except for this mop. But there was this stuff on leg waxing, it just, it looked so amazing...."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Waxine!!"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Yes! Have you seen it?"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Oh, it\u2019s incredible! I so want to be a Waxine girl."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "I know!!"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "God. Do think it really doesn\u2019t hurt? \u2018Cause how can they do that?"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Hello! Organic substances recently discovered in the depths of the rain forest!"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "They have the best stuff in there."
+                }
+            ],
+            "location": "Monica and Rachel's",
+            "subjects": [
+                "PHOEBE",
+                "MONICA"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Monica and Rachel's, Phoebe is entering carry a large box, Monica is mopping\nthe ceiling.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Chandler and Joey's, Ross has told Chandler and Joey his terrible act.]",
+            "dialogue": [
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Oh my God! Oh my God!"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Yeah. We figured when we couldn\u2019t find you, you\u2019d gone home to make up with Rachel. Which is probably what you shoulda done. Huh?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "You think?! God, I, ah, I\u2019m in hell. I mean what, what am I gonna do? Rachel\u2019s all like, \u2018I love you and, and let\u2019s work on this.\u2019 And all I can think about is, \u2018What is she gonna do? What is she gonna say?\u2019 when I tell her what I did."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Well, before we answer that, I think we should address the more important question. How dumb are you?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "What?! Look, we\u2019re trying to rebuild a relationship here, right. How am I supposed to do that here, without being totally honest with each other?"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Look, Ross look, I\u2019m on board about this totally honesty thing, I am, just not about stuff that\u2019s gonna get you in trouble."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "He\u2019s right. Nobody\u2019s gonna benefit, and you\u2019re just gonna hurt her."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Yeah, and there won\u2019t be a relationship left to rebuild."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Yeah, but don\u2019t you think...."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "All right look, if you absolutely have to tell her, at least wait until the timing\u2019s right. And that\u2019s what deathbeds are for."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Yeah, okay. (he plops down into one of the leather chairs, with the footrest extended.)"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "All right, okay, now, we just have to make sure she doesn\u2019t find out some other way. (spins the chair around so that Ross is facing him) Did you think about the trail?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "What trail?"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "(stomps on the footrest which pops Ross up into a sitting position) The trail from the woman you did it with to the woman you hope never finds out who did it! (slapping his hands with each word) You always have to think about the trail!"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Oh, I-I don\u2019t think there\u2019s any trail."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Okay, okay-okay, ah, Chloe works with that guy Issac. Issac\u2019s sister is Jasmine. And Jasmine works at that message place with Phoebe. And Phoebe\u2019s friends with Rachel. And that\u2019s the trail, I did it!"
+                }
+            ],
+            "location": "Chandler and Joey's",
+            "subjects": [
+                "CHANDLER",
+                "JOEY",
+                "ROSS"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Chandler and Joey's, Ross has told Chandler and Joey his terrible act.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Monica's Bedroom, Monica and Phoebe are waxing their legs.]",
+            "dialogue": [
+                {
+                    "speaker": "PHOEBE",
+                    "text": "(reading from the instructions) After applying the Waxine and linen strips to leg number one,"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Did that!"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Grasp one of the linen strips by its \u2018easy grab tab\u2019 and pull it off in one quick pain free motion."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Okay. (Does so.) Ow!!!!! Ow-oh-oh!"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Was it not pain-free?"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "No. It was painful. Oh my God , they should call it Pain-zine, now with a little wax."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Huh, well, the girls in the satin nighties on the commercial don\u2019t seem to think it\u2019s that bad."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "That\u2019s because their nerves are probably deadened from being so stupid. But hey, y'know if you don\u2019t believe me, please, by my guest."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "(Removing one of the strips) Ow-ow-ow-ow! Oh my God!!!"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Now, are you glad we didn\u2019t start with the bikini strips?"
+                }
+            ],
+            "location": "Monica's Bedroom",
+            "subjects": [
+                "PHOEBE",
+                "MONICA"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Monica's Bedroom, Monica and Phoebe are waxing their legs.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: The Xerox Place, Ross is trying to break the trail.]",
+            "dialogue": [
+                {
+                    "speaker": "ROSS",
+                    "text": "(entering) Chloe? Hi.."
+                },
+                {
+                    "speaker": "CHLOE",
+                    "text": "Is this about me taking your watch?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "You took my watch?"
+                },
+                {
+                    "speaker": "CHLOE",
+                    "text": "I\u2019m sorry, I do that."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Just you keep it, listen did you, did you tell anyone about us?"
+                },
+                {
+                    "speaker": "CHLOE",
+                    "text": "Oh no. I feel it isn\u2019t really anybody\u2019s business, y'know."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Exactly. So you didn\u2019t, didn\u2019t mention anything to Issac right?"
+                },
+                {
+                    "speaker": "CHLOE",
+                    "text": "Oh, well I tell Issac everything."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "You tell, of course you do. Issac. Issac. Hey, Issac. Issac, hi! Y'know we haven\u2019t actually met..."
+                },
+                {
+                    "speaker": "ISSAC",
+                    "text": "You dog!"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Yes, I suppose I am a dog. But Issac, see I-I happen to have a girlfriend."
+                },
+                {
+                    "speaker": "ISSAC",
+                    "text": "Oh right, that Rachel chick from the coffee place."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Yeah, that\u2019s the one. Listen, I don\u2019t want to hurt her."
+                },
+                {
+                    "speaker": "ISSAC",
+                    "text": "Oh, hey, man I know, doesn\u2019t matter how much we love \u2018em, monogamy is too cruel a rule."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Yeah. Listen, can you keep this information to yourself?"
+                },
+                {
+                    "speaker": "ISSAC",
+                    "text": "Aw, no problem dude. Y'know we got to look out for each other. We\u2019re the same, you and me."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Actually, no, we\u2019re not."
+                },
+                {
+                    "speaker": "ISSAC",
+                    "text": "Yeah, we are."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "No, we\u2019re not."
+                },
+                {
+                    "speaker": "ISSAC",
+                    "text": "Yeah, we are."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "No, we\u2019re not!!"
+                },
+                {
+                    "speaker": "ISSAC",
+                    "text": "Okay, we\u2019re not."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Right."
+                },
+                {
+                    "speaker": "ISSAC",
+                    "text": "But, we are."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Fine. I just need to know that you\u2019re not gonna tell your sister."
+                },
+                {
+                    "speaker": "ISSAC",
+                    "text": "I can promise not to tell her again."
+                }
+            ],
+            "location": "The Xerox Place",
+            "subjects": [
+                "CHLOE",
+                "ROSS",
+                "ISSAC"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: The Xerox Place, Ross is trying to break the trail.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Phoebe\u2019s Work, Ross is now trying to stop Jasmine from telling Phoebe.]",
+            "dialogue": [
+                {
+                    "speaker": "ROSS",
+                    "text": "(entering out of breath) Jasmine?"
+                },
+                {
+                    "speaker": "JASMINE",
+                    "text": "Uh-huh."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "We met at Phoebe\u2019s birthday party, I\u2019m, I\u2019m Ross Geller."
+                },
+                {
+                    "speaker": "JASMINE",
+                    "text": "You did a bad thing!"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Yes, I did."
+                },
+                {
+                    "speaker": "JASMINE",
+                    "text": "Very bad!"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Very bad."
+                },
+                {
+                    "speaker": "JASMINE",
+                    "text": "Very, very bad."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "I\u2019m agreeing with you. Did you, listen, did you happen to tell Phoebe yet?"
+                },
+                {
+                    "speaker": "JASMINE",
+                    "text": "No."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Okay, Jasmine, please, please don\u2019t. I love my girlfriend very much, and I want more than anything to just work it out with her. Okay?"
+                },
+                {
+                    "speaker": "JASMINE",
+                    "text": "All right."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Thank you, thank you."
+                },
+                {
+                    "speaker": "JASMINE",
+                    "text": "But you should probably talk to my roommate, because I told him and he knows Phoebe too."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "(angrily) Who\u2019s your roommate?"
+                }
+            ],
+            "location": "Phoebe\u2019s Work",
+            "subjects": [
+                "ROSS",
+                "JASMINE"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Phoebe\u2019s Work, Ross is now trying to stop Jasmine from telling Phoebe.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Central Perk, Gunther is wiping down the counter as Ross rushes in.]",
+            "dialogue": [
+                {
+                    "speaker": "ROSS",
+                    "text": "Gunther! Gunther. Gunther, please tell me you didn\u2019t say anything to Rachel about me and the girl from the Xerox place."
+                },
+                {
+                    "speaker": "GUNTHER",
+                    "text": "I\u2019m sorry. Was I not supposed to?"
+                }
+            ],
+            "location": "Central Perk",
+            "subjects": [
+                "GUNTHER",
+                "ROSS"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Central Perk, Gunther is wiping down the counter as Ross rushes in.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Monica\u2019s Bedroom, Monica and Phoebe are removing the rest of their wax\nstrips.]",
+            "dialogue": [
+                {
+                    "speaker": "MONICA",
+                    "text": "Ow!"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Oh!!"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Ow!! Ow!!"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Ow!!!"
+                },
+                {
+                    "speaker": "MONICA AND PHOEBE",
+                    "text": "Ow!!!!!!! Ow-ow-ow-ow!"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "We\u2019re all right."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "It\u2019s okay, it\u2019s okay."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "We\u2019re all right."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "We were just waxing our legs."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Off?!!"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "For your information, this happens to be a pain like no man will ever experience."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Yeah, well I don\u2019t think you can make that statement, unless you\u2019ve been kicked in an area that God only meant to be treated nicely."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Yeah, I-I think that women just have a lower threshold of pain than men, that\u2019s all. I mean, come on, it\u2019s just a little wax."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Oh yeah, come here. (Puts a little wax on Joey\u2019s arm and puts a strip on it.)"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Oh, that\u2019s mature."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Okay, fine, so now what, I just pull it off?"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Uh-huh."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "That\u2019s right."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "(forcing the door open) Come on, Rachel, come on! Talk to me! Please!!"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "I can\u2019t talk to you. I can\u2019t even look at you right now!"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "What?"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Nothing, nothing."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "(going over to listen at the door) Rachel said everything was okay."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "(to Joey) What, what are they talking about?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Rachel?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Just get away from me!"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "No, it was a mistake! I made a mistake! Okay?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "A mistake?! What were you trying to put it in? Her purse?!"
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Whe-where did he put it?!"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Ross, you had sex with another woman!"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Oh my God."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Oh, I knew something had to be wrong, because my fingernails did not grow at all yesterday."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Yeah, well, I guess they had a fight, and he got drunk...."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Oh!! (hits Chandler and Joey in the head) You guys knew about this and you didn\u2019t tell us?!"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "(to Joey) He has sex, and we get hit in our heads."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "(opening the door) Y'know what, I want you to leave! Get outta here!"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "No!!"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Just get out! Now!!"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "No!! No!! I wanna stay. I wanna talk about this."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Okay! All right! How was she?"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Uh-oh."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "What?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Was she good?"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Don\u2019t answer that."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Come on Ross! You said you wanted to talk about it, let\u2019s talk about it!! How was she?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "She was..."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Awful! Horrible!"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "She was not good. Not good."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "She was nothing compared to you."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "She, she was different."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Ewwwww!"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Uh-oh."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Good different?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Nobody likes change."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "What? Okay, okay, okay, okay."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Should we do something?"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Yeah, never cheat on Rachel."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "I\u2019m sorry, okay, I\u2019m sorry. I wa-I was disgusted with myself, and this morning I was so, I was so upset and then I got your message and I was so happy, and all I wanted was to get her out of my apartment as fast as possible."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Whoa!! Whoa, whoa, wait a minute. What time did your little friend leave? (Ross can\u2019t answer that) Oh my God. She was there? She was still there? She was in there, when I was in there?!"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Listen. Oh hey, hey, the important thing was that she meant, she meant nothing to me!"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "And yet she was worth jeopardising our relationship!!"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Look, I didn\u2019t think there was a relationship to jeopardise. I thought we were broken up."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "We were on a break!"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "That, for all I knew would, could last forever. That to me is a break-up."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "You think you\u2019re gonna get out of this on a technicality?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Look, I\u2019m not trying to get out of anything, okay. I thought our relationship was dead!"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Well, you sure had a hell of a time at the wake!"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Y'know what, I don\u2019t think we should listen to this anymore. (Goes to open the door)"
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "(stopping him) What, what are you doing? You can\u2019t go out there."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Why not?! (to Chandler) I\u2019m hungry."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Because they\u2019ll know we\u2019ve been listening."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "God! And to have to hear about it from Gunther!!"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Come on! Like I wanted him to tell you, I ran all over the place trying to make sure that didn\u2019t happen!"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Oh, that is so sweet. I think I\u2019m falling in love with you all over again."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Y'know what, I think we can go out there. I mean they have more important things to worry about."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Yeah, we\u2019ll be fine."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Look Rachel, I wanted to tell you, I thought I should, I-I did, and then Chandler and Joey convinced me not to."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "(handing Monica the wax) Wax the door shut, we\u2019re never leaving, ever."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Hi, it\u2019s Phoebe. Listen someone\u2019s gonna have to take my 9:00 with Mr. Rehack, \u2018cause it\u2019s like 9:15 now, and I\u2019m not there."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Don\u2019t you realise none of this would\u2019ve ever happened if I didn\u2019t think at that same moment you weren\u2019t having sex with Mark?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "All right. Let\u2019s say I had slept with Mark. Would you have been able to forgive me?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "(pause) Yes I would."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "You\u2019d be okay if you knew that Mark had kissed me, and been naked with me, and made love to me?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "(less sure) Yes."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "You knew that our hot, sweaty, writhing bodies were...."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "(covering his ears and screaming) La-la-la-la-la-la-la-la-la-la! Okay, okay, yeah, I would have been devastated but, I would still want to be with you. Because it\u2019s, I mean it\u2019s you."
+                },
+                {
+                    "speaker": "ALL",
+                    "text": "Ohhhhh!"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "What? Come on Rach, tell me what you\u2019re thinking?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "I\u2019m thinking, I\u2019m gonna order a pizza."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Order a pizza like, \u2018I forgive you?\u2019"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Oh man, pizza? I like pizza. (makes like he is trying to send a telepathic message to Rachel) Put olives on the pizza."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "We could eat the wax! It\u2019s organic."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Oh great, food with hair on it."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "No, not the used wax."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Because that would be crazy?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Hey, can I, can I get in on that? Because I\u2019m kinda hungry myself."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Fine. (on phone) Hi! Yes, I\u2019d like to order a large pizza."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "No anchovies."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "With ah, extra anchovies."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "That\u2019s okay, I\u2019ll just pick \u2018em off."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Yeah, and could you please chop some up and just put it right there in the sauce?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "You can have the last piece, if you want."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Well, I should think so. You slept with someone."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "They\u2019re gonna get through this, aren\u2019t they?"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Yeah, come on, it\u2019s Ross and Rachel, they\u2019ve got too."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "What if they don\u2019t?"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "You think I need a new walk?"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "What?"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Well y'know, I\u2019ve been walking the same way since high school. Y'know, y'know how some guys they walk into a room and everybody takes notice. I think I need a \u2018take notice\u2019 walk."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Are you actually saying these words?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "What, now you\u2019re not even taking to me? (moves over to the coffee table) Look Rachel, I-I\u2019m sorry, okay, I\u2019m sorry, I was out of my mind. I thought I\u2019d lost you, I didn\u2019t know what to do. Come on! Come on, how insane must I have been to do something like this? Huh? I-I don\u2019t cheat right, I, that\u2019s not me, I\u2019m not Joey!"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Whoa-ho-ho! (He looks at Chandler, who gives him a \u2018come on\u2019 look.) Yeah, okay."
+                },
+                {
+                    "speaker": "MONICA",
+                    "text": "Hey. It\u2019s three in the morning. They don\u2019t know that I\u2019ve come home yet. You notice how neither one of them are wondering where I am."
+                },
+                {
+                    "speaker": "PHOEBE",
+                    "text": "Yeah, y'know, people can be so self-involved."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Y'know what, y'know what, I\u2019m-I\u2019m not the one that wanted that, that break, okay. You\u2019re the one that bailed on us. You\u2019re the one that, that ran when things got just a little rough!"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "That\u2019s...."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "That\u2019s what?!"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "That is neither here nor there."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Okay, well here we are. Now we\u2019re in a tough spot again, Rach. What do you want to do? How do you want to handle it? Huh? Do you wanna fight for us? Or, do you wanna bail? (sits down next to her) Look, I, (on the verge of tears) I did a terrible, stupid, stupid thing. Okay? And I\u2019m sorry, I wish I could take it back, but I can\u2019t. (We see Monica and Phoebe are almost in tears.) I just can\u2019t see us throwing away something we know is so damn good. Rachel, I love you so much."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "No Ross!! (stands up and moves away from him) Don\u2019t! You can\u2019t just kiss me and think you\u2019re gonna make it all go away, okay? It doesn\u2019t work that way. It doesn\u2019t just make it better. Okay?"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Okay, okay, okay."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "(softly) I think you should go."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "What?"
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "(softly) I really think you need to go now."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "(moving over to stand in front of her) Okay, okay. This morning you said there was nothing so big that we couldn\u2019t work past it together..."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Yeah, what the hell did I know!"
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "Look, look, there\u2019s got to be a way we can work past this. Okay, (takes a hold of one of her arms.) I can\u2019t imagine, I can\u2019t imagine my life without you. (Both of them are starting to cry.) Without, without these arms, and your face, and this heart. Your good heart Rach, (drops to his knees and hugs her around her waist) and, and...."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "(crying) No. I can\u2019t, you\u2019re a totally different person to me now. I used to think of you as somebody that would never, ever hurt me, ever. God, and now I just can\u2019t stop picturing with her, I can\u2019t, (Ross stands up and backs away) it doesn\u2019t matter what you say, or what you do, Ross. It\u2019s just changed, everything. Forever."
+                },
+                {
+                    "speaker": "ROSS",
+                    "text": "(crying) Yeah, but this can\u2019t be it, I mean."
+                },
+                {
+                    "speaker": "RACHEL",
+                    "text": "Then how come it is?"
+                }
+            ],
+            "location": "Monica\u2019s Bedroom",
+            "subjects": [
+                "CHANDLER",
+                "ROSS",
+                "PHOEBE",
+                "MONICA",
+                "RACHEL",
+                "JOEY"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Monica\u2019s Bedroom, Monica and Phoebe are removing the rest of their wax\nstrips.]",
+            "srt_start": "",
+            "srt_end": ""
+        },
+        {
+            "scene_description": "[Scene: Monica\u2019s bedroom.]",
+            "dialogue": [
+                {
+                    "speaker": "PHOEBE",
+                    "text": "They\u2019ve been quiet for a long time."
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "Maybe she killed him?"
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "Let\u2019s go."
+                },
+                {
+                    "speaker": "CHANDLER",
+                    "text": "(to Joey) Is that your new walk?"
+                },
+                {
+                    "speaker": "JOEY",
+                    "text": "(whispering) No, I really have to pee."
+                }
+            ],
+            "location": "Monica\u2019s bedroom.",
+            "subjects": [
+                "PHOEBE",
+                "JOEY",
+                "CHANDLER"
+            ],
+            "clip_start": "",
+            "clip_end": "",
+            "context_label": "",
+            "event_description": "[Scene: Monica\u2019s bedroom.]",
+            "srt_start": "",
+            "srt_end": ""
+        }
+    ]
+}
