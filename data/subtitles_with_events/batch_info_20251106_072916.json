@@ -1,0 +1,13 @@
+{
+  "batch_id": "batch_690bddd62960819095d8112f94b093bd",
+  "status": "validating",
+  "input_file_id": "file-DVWtAMXEmfXny85wgnEoF9",
+  "created_at": 1762385366,
+  "metadata": {
+    "description": "Event extraction for 70 episodes (20251106_072916)"
+  },
+  "tracking_url": "https://platform.openai.com/batches/batch_690bddd62960819095d8112f94b093bd",
+  "total_requests": 689,
+  "batch_file": "data\\subtitles_with_events\\batch_requests_20251106_072916.jsonl",
+  "metadata_file": "data\\subtitles_with_events\\batch_metadata_20251106_072916.json"
+}

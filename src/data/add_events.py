@@ -1,75 +1,64 @@
 """
-Event Extraction and Data Enhancement Script
+Event Extraction and Data Enhancement Script - Batch API Version
 
-This script adds atomic event annotations to existing episode JSON files.
-It extracts events from scenes using an LLM (OpenAI API via litellm) and saves
-enhanced JSON files with the original structure preserved plus an 'events' array per scene.
+This script creates batch requests for event extraction from episode JSON files.
+Instead of processing immediately, it submits all requests to OpenAI's Batch API
+and returns a tracking link to monitor the batch job progress.
+
+Note: The downloading and parsing of batch outputs occurs in generate_qa.py after
+the batch job completes. This script only handles batch submission.
 """
 
 import json
-import re
+import os
+from datetime import datetime
 from pathlib import Path
 from typing import List, Dict, Any, Optional
-from dataclasses import dataclass, asdict
+from dataclasses import dataclass
 
-import litellm
+from openai import OpenAI
 from textwrap import dedent
 from tqdm import tqdm
+from pydantic import BaseModel
+
+
+class ExtractedEvent(BaseModel):
+    """Pydantic model for event extraction from LLM."""
+
+    event_description: str
+    involved_subjects: List[str]
+    start_offset: str
+    end_offset: str
+
+
+class EventsList(BaseModel):
+    """Pydantic model for list of events returned by LLM."""
+
+    events: List[ExtractedEvent]
 
 
 @dataclass
-class Event:
-    """Represents an atomic event in the narrative."""
+class SceneRequest:
+    """Represents metadata for a batch request."""
 
-    event_id: str
-    event_description: str
-    involved_subjects: List[str]
-    location: str
-    timestamp: str
-    episode_clip: str = ""
+    custom_id: str
+    json_file: str
+    episode_id: str
+    scene_idx: int
 
 
-class LLMEventExtractor:
-    """Extracts atomic events from scenes using OpenAI API via litellm."""
+class BatchRequestBuilder:
+    """Builds batch requests for OpenAI Batch API."""
 
     def __init__(self, model: str = "gpt-4o") -> None:
         """
-        Initialize the LLM event extractor.
+        Initialize the batch request builder.
 
         Args:
-            model: Model name to use (e.g., "gpt-4o", "gpt-4-turbo", "gpt-3.5-turbo")
+            model: Model name to use (e.g., "gpt-4o", "gpt-4-turbo")
         """
         self.model = model
-        print(f"Initialized LLM Event Extractor with model: {model}")
-
-    def extract_events(
-        self,
-        scene: Dict[str, Any],
-        episode_id: str,
-        scene_idx: int,
-        max_events: int = 10,
-    ) -> List[Event]:
-        """
-        Extract atomic events from a scene using LLM.
-
-        Args:
-            scene: Scene dictionary with dialogue, location, subjects, etc.
-            episode_id: Episode identifier
-            scene_idx: Scene index
-            max_events: Maximum number of events to extract (default: 10)
-
-        Returns:
-            List of Event objects extracted from the scene
-        """
-        prompt = self._create_extraction_prompt(scene, max_events)
-
-        response = self._generate_response(prompt)
-
-        events = self._parse_events_from_response(
-            response, scene, episode_id, scene_idx
-        )
-
-        return events[:max_events]
+        print(f"Initialized Batch Request Builder with model: {model}")
 
     def _create_extraction_prompt(self, scene: Dict[str, Any], max_events: int) -> str:
         """
@@ -113,141 +102,96 @@ class LLMEventExtractor:
             - If a character is mentioned in the event description but was not present in the scene, exclude them from the involved subjects
             - If a character showed up in the scene but left before the event occured, exclude them from the involved subjects
 
-            Format your response as a JSON array (output ONLY the JSON, nothing else):
-            [
+            Format your response as a JSON object with an "events" array:
             {{
-                "event_description": "Clear, specific description of what happened",
-                "involved_subjects": ["CHARACTER1", "CHARACTER2"],
-                "start_offset": "00:00:05",
-                "end_offset": "00:00:20"
-            }},
-            {{
-                "event_description": "Another event description",
-                "involved_subjects": ["CHARACTER1"],
-                "start_offset": "00:00:21",
-                "end_offset": "00:00:35"
+                "events": [
+                    {{
+                        "event_description": "Clear, specific description of what happened",
+                        "involved_subjects": ["CHARACTER1", "CHARACTER2"],
+                        "start_offset": "00:00:05",
+                        "end_offset": "00:00:20"
+                    }},
+                    {{
+                        "event_description": "Another event description",
+                        "involved_subjects": ["CHARACTER1"],
+                        "start_offset": "00:00:21",
+                        "end_offset": "00:00:35"
+                    }}
+                ]
             }}
-            ]
 
-            Output only the JSON array, no additional text."""
+            Output only the JSON object, no additional text."""
         )
 
         return prompt
 
-    def _generate_response(self, prompt: str) -> str:
+    def create_batch_request(
+        self,
+        scene: Dict[str, Any],
+        custom_id: str,
+        max_events: int = 10,
+    ) -> Dict[str, Any]:
         """
-        Generate response from LLM using litellm.
+        Create a batch request object for a single scene.
+
+        Converts the Pydantic EventsList model to a JSON schema for structured output
+        compatibility with OpenAI's Batch API.
 
         Args:
-            prompt: The prompt to send to the LLM
+            scene: Scene dictionary with dialogue, location, subjects, etc.
+            custom_id: Unique identifier for this request
+            max_events: Maximum number of events to extract (default: 10)
 
         Returns:
-            The generated text response from the LLM
+            Dictionary in OpenAI Batch API request format
         """
-        try:
-            response = litellm.completion(
-                model=self.model,
-                messages=[{"role": "user", "content": prompt}],
-                temperature=0,
-                # max_tokens=2048,
-            )
-            return response.choices[0].message.content
-        except Exception as e:
-            print(f"Warning: Error generating response from LLM: {e}")
-            return "[]"
+        prompt = self._create_extraction_prompt(scene, max_events)
 
-    def _parse_events_from_response(
-        self, response: str, scene: Dict[str, Any], episode_id: str, scene_idx: int
-    ) -> List[Event]:
-        """
-        Parse events from LLM response.
+        json_schema = {
+            "name": "events_list",
+            "strict": True,
+            "schema": {
+                "type": "object",
+                "properties": {
+                    "events": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "event_description": {"type": "string"},
+                                "involved_subjects": {
+                                    "type": "array",
+                                    "items": {"type": "string"},
+                                },
+                                "start_offset": {"type": "string"},
+                                "end_offset": {"type": "string"},
+                            },
+                            "required": [
+                                "event_description",
+                                "involved_subjects",
+                                "start_offset",
+                                "end_offset",
+                            ],
+                            "additionalProperties": False,
+                        },
+                    }
+                },
+                "required": ["events"],
+                "additionalProperties": False,
+            },
+        }
 
-        Args:
-            response: The raw text response from the LLM
-            scene: Scene dictionary for context
-            episode_id: Episode identifier for event ID generation
-            scene_idx: Scene index for event ID generation
-
-        Returns:
-            List of parsed Event objects
-        """
-        events: List[Event] = []
-
-        try:
-            json_match = re.search(r"\[.*\]", response, re.DOTALL)
-            if json_match:
-                events_data = json.loads(json_match.group())
-            else:
-                print(
-                    f"Warning: Could not find JSON array in response for scene {scene_idx}"
-                )
-                return []
-
-            if not isinstance(events_data, list):
-                print(f"Warning: Response is not a JSON array for scene {scene_idx}")
-                return []
-
-            scene_subjects = set(scene.get("subjects", []))
-
-            for idx, event_data in enumerate(events_data):
-                if not isinstance(event_data, dict):
-                    continue
-
-                event_desc = event_data.get("event_description", "").strip()
-                if not event_desc:
-                    continue
-
-                event_id = f"{episode_id}_scene_{scene_idx:03d}_event_{idx+1:03d}"
-
-                raw_subjects = event_data.get("involved_subjects", [])
-                if not isinstance(raw_subjects, list):
-                    raw_subjects = []
-
-                involved_subjects = [
-                    s.strip() for s in raw_subjects if s.strip() in scene_subjects
-                ]
-
-                if not involved_subjects:
-                    for subject in scene_subjects:
-                        if subject.lower() in event_desc.lower():
-                            involved_subjects.append(subject)
-
-                start = event_data.get(
-                    "start_offset", scene.get("clip_start", "00:00:00")
-                )
-                end = event_data.get("end_offset", scene.get("clip_end", "00:00:00"))
-                timestamp = f"{start}-{end}"
-
-                context_label = scene.get("context_label", "")
-                if context_label:
-                    parts = context_label.split("_")
-                    if len(parts) >= 3:
-                        episode_clip = f"{parts[0]}_scene_{parts[2]}"
-                    else:
-                        episode_clip = context_label
-                else:
-                    episode_clip = scene.get("episode_clip", "")
-
-                event = Event(
-                    event_id=event_id,
-                    event_description=event_desc,
-                    involved_subjects=involved_subjects,
-                    location=scene.get("location", ""),
-                    timestamp=timestamp,
-                    episode_clip=episode_clip,
-                )
-                events.append(event)
-
-        except json.JSONDecodeError as e:
-            print(f"Warning: JSON decode error for scene {scene_idx}: {e}")
-            return []
-        except Exception as e:
-            print(
-                f"Warning: Unexpected error parsing events for scene {scene_idx}: {e}"
-            )
-            return []
-
-        return events
+        return {
+            "custom_id": custom_id,
+            "method": "POST",
+            "url": "/v1/chat/completions",
+            "body": {
+                "model": self.model,
+                "messages": [{"role": "user", "content": prompt}],
+                "temperature": 0,
+                "response_format": {"type": "json_schema", "json_schema": json_schema},
+            },
+        }
 
 
 def load_episode_data(json_path: Path) -> Dict[str, Any]:
@@ -277,83 +221,113 @@ def save_json(data: Any, output_path: Path, indent: int = 2) -> None:
         json.dump(data, f, indent=indent, ensure_ascii=False)
 
 
-def add_events_to_episode(
-    episode_data: Dict[str, Any],
-    llm_extractor: LLMEventExtractor,
+def save_jsonl(data: List[Dict[str, Any]], output_path: Path) -> None:
+    """
+    Save data to JSONL file (one JSON object per line).
+
+    Args:
+        data: List of dictionaries to save
+        output_path: Path where to save the JSONL file
+    """
+    with open(output_path, "w", encoding="utf-8") as f:
+        for item in data:
+            f.write(json.dumps(item, ensure_ascii=False) + "\n")
+
+
+def create_batch_requests_for_episodes(
+    json_files: List[Path],
+    builder: BatchRequestBuilder,
     max_events_per_scene: int = 10,
+) -> tuple[List[Dict[str, Any]], List[SceneRequest]]:
+    """
+    Create batch requests for all scenes in all episodes.
+
+    Args:
+        json_files: List of episode JSON file paths
+        builder: BatchRequestBuilder instance
+        max_events_per_scene: Maximum events to extract per scene
+
+    Returns:
+        Tuple of (batch_requests, metadata) where:
+        - batch_requests: List of batch request dictionaries
+        - metadata: List of SceneRequest objects with metadata for each request
+    """
+    batch_requests = []
+    metadata = []
+
+    for json_file in tqdm(json_files, desc="Creating batch requests"):
+        try:
+            episode_data = load_episode_data(json_file)
+            episode_id = episode_data.get("episode", "unknown")
+            scenes = episode_data.get("scenes", [])
+
+            for scene_idx, scene in enumerate(scenes):
+                custom_id = f"{json_file.stem}_scene_{scene_idx:04d}"
+
+                batch_request = builder.create_batch_request(
+                    scene, custom_id, max_events=max_events_per_scene
+                )
+                batch_requests.append(batch_request)
+
+                scene_metadata = SceneRequest(
+                    custom_id=custom_id,
+                    json_file=str(json_file),
+                    episode_id=episode_id,
+                    scene_idx=scene_idx,
+                )
+                metadata.append(scene_metadata)
+
+        except Exception as e:
+            print(f"Warning: Error processing {json_file.name}: {e}")
+            continue
+
+    return batch_requests, metadata
+
+
+def submit_batch_to_openai(
+    batch_file_path: Path,
+    description: str = "Event extraction batch",
 ) -> Dict[str, Any]:
     """
-    Add events to an episode's scenes.
+    Upload batch file and create batch job with OpenAI.
+
+    First uploads the JSONL batch file to OpenAI's file storage, then creates
+    a batch job that will process all requests within a 24-hour completion window.
 
     Args:
-        episode_data: Episode data dictionary containing scenes
-        llm_extractor: LLM event extractor instance
-        max_events_per_scene: Maximum events to extract per scene (default: 10)
+        batch_file_path: Path to the JSONL batch file
+        description: Description for the batch job
 
     Returns:
-        Enhanced episode data with events added to each scene
+        Dictionary with batch information including batch_id and status URL
     """
-    episode_id = episode_data.get("episode", "unknown")
-    scenes = episode_data.get("scenes", [])
+    client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
-    total_events = 0
+    print(f"\nUploading batch file: {batch_file_path}")
+    with open(batch_file_path, "rb") as f:
+        batch_input_file = client.files.create(file=f, purpose="batch")
 
-    scene_iterator = tqdm(scenes, desc="Extracting events")
+    print(f"File uploaded successfully. File ID: {batch_input_file.id}")
 
-    for scene_idx, scene in enumerate(scene_iterator):
-        events = llm_extractor.extract_events(
-            scene, episode_id, scene_idx, max_events=max_events_per_scene
-        )
-        scene["events"] = [asdict(e) for e in events]
-        total_events += len(events)
+    print("Creating batch job...")
+    batch = client.batches.create(
+        input_file_id=batch_input_file.id,
+        endpoint="/v1/chat/completions",
+        completion_window="24h",
+        metadata={"description": description},
+    )
 
-    return episode_data
+    print("Batch job created successfully!")
+    print(f"Batch ID: {batch.id}")
+    print(f"Status: {batch.status}")
 
-
-def process_single_file(
-    input_path: Path,
-    output_path: Path,
-    model: str = "gpt-4o",
-    max_events_per_scene: int = 10,
-    overwrite: bool = False,
-) -> bool:
-    """
-    Process a single JSON file to extract and add events.
-
-    Args:
-        input_path: Path to input JSON file
-        output_path: Path to output JSON file
-        model: Model name to use (e.g., "gpt-4o", "gpt-4-turbo")
-        max_events_per_scene: Maximum events to extract per scene (default: 10)
-        overwrite: Whether to overwrite existing output file (default: False)
-
-    Returns:
-        True if processing was successful, False otherwise
-    """
-    if output_path.exists() and not overwrite:
-        print(f"Output file already exists: {output_path}")
-        print("Set overwrite=True to replace it")
-        return False
-
-    try:
-        llm_extractor = LLMEventExtractor(model=model)
-
-        episode_data = load_episode_data(input_path)
-
-        enhanced_data = add_events_to_episode(
-            episode_data,
-            llm_extractor,
-            max_events_per_scene=max_events_per_scene,
-        )
-
-        save_json(enhanced_data, output_path)
-        print(f"Saved: {output_path}\n")
-
-        return True
-
-    except Exception as e:
-        print(f"Error processing {input_path}: {e}\n")
-        return False
+    return {
+        "batch_id": batch.id,
+        "status": batch.status,
+        "input_file_id": batch_input_file.id,
+        "created_at": batch.created_at,
+        "metadata": batch.metadata,
+    }
 
 
 def generate_events_from_subtitles(
@@ -362,115 +336,106 @@ def generate_events_from_subtitles(
     model: str = "gpt-4o",
     max_events_per_scene: int = 10,
     max_files: Optional[int] = None,
-    overwrite: bool = False,
-    resume: bool = True,
-) -> Dict[str, int]:
+) -> Dict[str, Any]:
     """
-    Process all JSON files in a directory to extract and add events.
+    Create and submit batch requests for event extraction from all episodes.
 
     Args:
         input_dir: Input directory path containing JSON files
-        output_dir: Output directory path for enhanced JSON files
+        output_dir: Output directory path for batch files and metadata
         model: Model name to use (e.g., "gpt-4o", "gpt-4-turbo")
         max_events_per_scene: Maximum events to extract per scene (default: 10)
         max_files: Maximum number of files to process, None for all (default: None)
-        overwrite: Whether to overwrite existing output files (default: False)
-        resume: Whether to skip already processed files (default: True)
 
     Returns:
-        Dictionary containing processing statistics:
-            - total_files: Total number of files found
-            - processed: Number of successfully processed files
-            - skipped: Number of skipped files
-            - failed: Number of failed files
+        Dictionary containing batch information:
+            - batch_id: OpenAI batch job ID
+            - status: Current batch status
+            - tracking_url: URL to track batch progress
+            - total_requests: Total number of requests in the batch
+            - batch_file: Path to the JSONL batch file
+            - metadata_file: Path to the metadata JSON file
     """
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    json_files = sorted(input_dir.glob("*.json"))
-
+    json_files = sorted(input_dir.rglob("*.json"))
     if max_files:
         json_files = json_files[:max_files]
 
     print(f"\n{'='*70}")
-    print(f"Processing {len(json_files)} files from {input_dir}")
+    print("BATCH REQUEST CREATION")
+    print(f"{'='*70}")
+    print(f"Input directory:  {input_dir}")
     print(f"Output directory: {output_dir}")
-    print(f"Model: {model}")
+    print(f"Model:            {model}")
+    print(f"Episodes:         {len(json_files)}")
     print(f"{'='*70}\n")
 
-    llm_extractor = LLMEventExtractor(model=model)
+    builder = BatchRequestBuilder(model=model)
+    batch_requests, metadata = create_batch_requests_for_episodes(
+        json_files, builder, max_events_per_scene
+    )
 
-    stats = {"total_files": len(json_files), "processed": 0, "skipped": 0, "failed": 0}
+    print(
+        f"\nCreated {len(batch_requests)} batch requests for {len(json_files)} episodes"
+    )
 
-    if resume:
-        processed_files = set()
-        for f in output_dir.glob("*_with_events.json"):
-            episode_id = f.stem.replace("_with_events", "")
-            processed_files.add(episode_id)
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    batch_file_path = output_dir / f"batch_requests_{timestamp}.jsonl"
+    save_jsonl(batch_requests, batch_file_path)
+    print(f"Saved batch requests to: {batch_file_path}")
 
-        if processed_files:
-            print(f"Resume mode: Found {len(processed_files)} already processed files")
-            json_files = [f for f in json_files if f.stem not in processed_files]
-            stats["skipped"] = len(processed_files)
-            print(f"Will process {len(json_files)} remaining files\n")
-
-    for idx, json_file in enumerate(json_files, 1):
-        print(f"[{idx}/{len(json_files)}] Processing: {json_file.name}")
-
-        output_filename = f"{json_file.stem}_with_events.json"
-        output_path = output_dir / output_filename
-
-        try:
-            episode_data = load_episode_data(json_file)
-
-            enhanced_data = add_events_to_episode(
-                episode_data,
-                llm_extractor,
-                max_events_per_scene=max_events_per_scene,
-            )
-
-            save_json(enhanced_data, output_path)
-            print(f"Saved: {output_path}\n")
-
-            stats["processed"] += 1
-
-        except Exception as e:
-            print(f"Error processing {json_file}: {e}\n")
-            stats["failed"] += 1
+    metadata_file_path = output_dir / f"batch_metadata_{timestamp}.json"
+    metadata_dict = {
+        "timestamp": timestamp,
+        "model": model,
+        "max_events_per_scene": max_events_per_scene,
+        "total_requests": len(batch_requests),
+        "total_episodes": len(json_files),
+        "requests": [
+            {
+                "custom_id": m.custom_id,
+                "json_file": m.json_file,
+                "episode_id": m.episode_id,
+                "scene_idx": m.scene_idx,
+            }
+            for m in metadata
+        ],
+    }
+    save_json(metadata_dict, metadata_file_path)
+    print(f"Saved metadata to: {metadata_file_path}")
 
     print(f"\n{'='*70}")
-    print("PROCESSING COMPLETE")
+    print("SUBMITTING BATCH TO OPENAI")
     print(f"{'='*70}")
-    print(f"Total files:     {stats['total_files']}")
-    print(f"Processed:       {stats['processed']}")
-    print(f"Skipped:         {stats['skipped']}")
-    print(f"Failed:          {stats['failed']}")
-    print(f"Output dir:      {output_dir}")
+
+    batch_info = submit_batch_to_openai(
+        batch_file_path,
+        description=f"Event extraction for {len(json_files)} episodes ({timestamp})",
+    )
+
+    batch_info["tracking_url"] = (
+        f"https://platform.openai.com/batches/{batch_info['batch_id']}"
+    )
+    batch_info["total_requests"] = len(batch_requests)
+    batch_info["batch_file"] = str(batch_file_path)
+    batch_info["metadata_file"] = str(metadata_file_path)
+
+    batch_info_path = output_dir / f"batch_info_{timestamp}.json"
+    save_json(batch_info, batch_info_path)
+    print(f"\nSaved batch info to: {batch_info_path}")
+
+    print(f"\n{'='*70}")
+    print("BATCH SUBMISSION COMPLETE")
+    print(f"{'='*70}")
+    print(f"Batch ID:         {batch_info['batch_id']}")
+    print(f"Status:           {batch_info['status']}")
+    print(f"Total Requests:   {batch_info['total_requests']}")
+    print(f"Tracking URL:     {batch_info['tracking_url']}")
+    print("\nTo check batch status, visit:")
+    print(f"  {batch_info['tracking_url']}")
+    print("\nOr use the OpenAI CLI:")
+    print(f"  openai api batches.retrieve -i {batch_info['batch_id']}")
     print(f"{'='*70}\n")
 
-    return stats
-
-
-if __name__ == "__main__":
-    print("This script is meant to be imported and used as a library.")
-    print("\nExample usage:")
-    print(
-        """
-    from pathlib import Path
-    from add_events import process_single_file, generate_events_from_subtitles
-
-    # Process single file
-    process_single_file(
-        input_path=Path("data/0102.json"),
-        output_path=Path("output/0102_with_events.json"),
-        model="gpt-4o"
-    )
-
-    # Process directory
-    generate_events_from_subtitles(
-        input_dir=Path("data/annotated_tuples"),
-        output_dir=Path("output_with_events"),
-        model="gpt-4o",
-        max_events_per_scene=10
-    )
-    """
-    )
+    return batch_info

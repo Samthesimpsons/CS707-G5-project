@@ -1,7 +1,8 @@
 # CS707-G5-project
-Project for CS707 G5
 
-[OUTDATED]
+Episodic Memory Question-Answering System for Video Narratives
+
+This project implements an automated pipeline for generating question-answering datasets from video subtitle data, focusing on episodic memory and temporal reasoning.
 
 ## Prerequisites
 
@@ -49,25 +50,10 @@ uv python install 3.13
 
 The `.python-version` file in the project root specifies Python 3.13, so `uv` will automatically use it.
 
-### 4. Set Up API Keys
+### 4. Set Up Environment Variables
 
-1. Copy `.env.example` to `.env`:
-   ```bash
-   cp .env.example .env
-   ```
-
-2. Add your API keys to `.env`:
-   ```
-   # Hugging Face (for datasets)
-   HUGGING_FACE_TOKEN=hf_your_token_here
-
-   # OpenAI (required for data processing pipeline)
-   OPENAI_API_KEY=add_your_key_here
-   ```
-
-Get keys from:
-- Hugging Face: [huggingface.co/settings/tokens](https://huggingface.co/settings/tokens)
-- OpenAI: [platform.openai.com/api-keys](https://platform.openai.com/api-keys)
+1. Copy `.env.example` to `.env`
+2. Modify accordingly
 
 ### 5. Install FFmpeg (for video processing)
 
@@ -86,13 +72,87 @@ sudo apt-get install ffmpeg  # Debian/Ubuntu
 sudo yum install ffmpeg      # RHEL/CentOS
 ```
 
+## Pipeline Overview
+
+The project consists of two main stages:
+
+### Stage 1: Batch Job Submission (`add_events.py`)
+- **Input**: Annotated subtitle JSON files with scene information
+- **Process**: Creates batch requests for event extraction and submits to OpenAI's Batch API
+- **Features**:
+  - Uses OpenAI Batch API for cost-effective processing (50% discount)
+  - Generates JSONL batch request files with structured output schema
+  - Returns batch job ID and tracking URL for monitoring
+  - Saves batch metadata for later result processing
+- **Output**: Batch job submission with tracking information (batch completes within 24 hours)
+- **Note**: This script only submits batch jobs; downloading results and QA generation happen in Stage 2
+
+### Stage 2: Batch Results Processing & QA Generation (`generate_qa.py`)
+- **Input**: Batch job ID and metadata file from Stage 1
+- **Process**:
+  1. Downloads completed batch results from OpenAI and merges events back into episode JSON files
+  2. Rule-based generation of multiple question types from extracted events
+- **Features**:
+  - **Batch Processing**: Checks batch completion status before downloading, parses batch output JSONL, maps results to original scenes, and creates enhanced JSON files with event annotations
+  - **QA Generation**: Async parallel processing with configurable concurrency, cross-episode temporal reasoning, and comprehensive statistics reporting
+- **Question Types**:
+  - Single target recall (E+S→L, L+E→S, L+S→E): ~60%
+  - Boolean verification: ~20%
+  - Temporal ordering (multi-episode span): ~15%
+  - Latest event retrieval: ~5%
+  - Location-based temporal ordering: 2 per episode
+- **Output**: Enhanced episode JSON files with events and QA dataset JSON files with questions and answers
+
 ## Usage
 
-### Running the Pipelines
+### Running the Pipeline
 
-The project includes pipeline tasks that should be run in sequence:
+#### Stage 1: Submit Batch Job for Event Extraction
 
-TBD
+```bash
+poe run-events-generation
+```
+
+This will:
+- Create batch requests for event extraction from subtitle files
+- Submit the batch to OpenAI's Batch API
+- Print batch job ID, tracking URL, and metadata file path
+- Display the exact command to run for Stage 2
+
+**Output**: The script will print the complete command with arguments for Stage 2.
+
+#### Stage 2: Download Results and Generate QA Datasets
+
+After the batch completes (check the tracking URL from Stage 1), run with just the batch ID:
+
+```bash
+poe run-qa-generation <batch_id>
+```
+
+**Example**:
+```bash
+poe run-qa-generation batch_abc123xyz
+```
+
+The metadata file will be automatically located based on the batch ID.
+
+This will:
+1. Download and process batch results from OpenAI
+2. Merge extracted events into episode JSON files
+3. Generate QA datasets with multiple question types
+4. Save outputs to `data/qa_output/`
+
+**Advanced Usage**:
+- Explicitly specify metadata file: `poe run-qa-generation <batch_id> <metadata_file_path>`
+- Skip batch downloading (QA generation only): `poe run-qa-generation`
+
+### Available Poe Tasks
+
+The project includes the following poe tasks defined in `pyproject.toml`:
+
+- `poe run-events-generation` - Stage 1: Submit OpenAI Batch API jobs for event extraction from subtitles
+- `poe run-qa-generation [batch_id]` - Stage 2: Download batch results and generate QA datasets (metadata auto-detected)
+- `poe run-check` - Run linting, formatting, and type checking
 
 ## Development
 
@@ -100,5 +160,10 @@ TBD
 
 Run linting, formatting, and type checks:
 ```bash
-poe checks
+poe run-check
 ```
+
+This command runs:
+1. `uvx ruff check src --fix` - Linting with auto-fix
+2. `uvx black src` - Code formatting
+3. `uvx ty check src` - Type checking

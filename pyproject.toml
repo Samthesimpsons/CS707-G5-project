@@ -14,14 +14,16 @@ dependencies = [
     "moviepy >= 2.0.0",
     "litellm>=1.79.1",
     "tqdm>=4.66.0",
+    "asyncio>=4.0.0",
+    "tenacity>=9.1.2",
 ]
 
 [tool.poe.tasks]
-events-generation-pipeline = { script = "src.pipelines:events_generation", help = "Starts the process to add events to the annotated subtitles" }
-qa-generation-pipeline = { script = "src.pipelines:qa_generation", help = "Starts the process to generate qa samples form the events" }
+run-events-generation = { script = "src.pipelines:events_generation", help = "Stage 1: Submit OpenAI Batch API jobs for event extraction from subtitles" }
+run-qa-generation = { script = "src.pipelines:qa_generation", help = "Stage 2: Download batch results and generate QA datasets. Usage: poe run-qa-generation [batch_id]" }
 
 
-[tool.poe.tasks.checks]
+[tool.poe.tasks.run-check]
 sequence = [
   { cmd = "uvx ruff check src --fix" },
   { cmd = "uvx black src" },

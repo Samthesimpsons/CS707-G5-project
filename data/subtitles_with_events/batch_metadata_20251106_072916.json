@@ -1,0 +1,4143 @@
+{
+  "timestamp": "20251106_072916",
+  "model": "gpt-4.1-nano",
+  "max_events_per_scene": 10,
+  "total_requests": 689,
+  "total_episodes": 70,
+  "requests": [
+    {
+      "custom_id": "0102_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0102.json",
+      "episode_id": "0102",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0102_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0102.json",
+      "episode_id": "0102",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0102_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0102.json",
+      "episode_id": "0102",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0102_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0102.json",
+      "episode_id": "0102",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0102_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0102.json",
+      "episode_id": "0102",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0102_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0102.json",
+      "episode_id": "0102",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0102_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0102.json",
+      "episode_id": "0102",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0102_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0102.json",
+      "episode_id": "0102",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0102_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0102.json",
+      "episode_id": "0102",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0103_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0103.json",
+      "episode_id": "0103",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0103_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0103.json",
+      "episode_id": "0103",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0103_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0103.json",
+      "episode_id": "0103",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0103_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0103.json",
+      "episode_id": "0103",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0103_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0103.json",
+      "episode_id": "0103",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0103_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0103.json",
+      "episode_id": "0103",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0103_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0103.json",
+      "episode_id": "0103",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0103_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0103.json",
+      "episode_id": "0103",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0103_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0103.json",
+      "episode_id": "0103",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0103_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0103.json",
+      "episode_id": "0103",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0103_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0103.json",
+      "episode_id": "0103",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0103_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0103.json",
+      "episode_id": "0103",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0103_scene_0012",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0103.json",
+      "episode_id": "0103",
+      "scene_idx": 12
+    },
+    {
+      "custom_id": "0103_scene_0013",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0103.json",
+      "episode_id": "0103",
+      "scene_idx": 13
+    },
+    {
+      "custom_id": "0104_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0104.json",
+      "episode_id": "0104",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0104_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0104.json",
+      "episode_id": "0104",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0104_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0104.json",
+      "episode_id": "0104",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0104_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0104.json",
+      "episode_id": "0104",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0104_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0104.json",
+      "episode_id": "0104",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0104_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0104.json",
+      "episode_id": "0104",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0104_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0104.json",
+      "episode_id": "0104",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0104_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0104.json",
+      "episode_id": "0104",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0104_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0104.json",
+      "episode_id": "0104",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0104_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0104.json",
+      "episode_id": "0104",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0104_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0104.json",
+      "episode_id": "0104",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0104_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0104.json",
+      "episode_id": "0104",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0104_scene_0012",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0104.json",
+      "episode_id": "0104",
+      "scene_idx": 12
+    },
+    {
+      "custom_id": "0104_scene_0013",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0104.json",
+      "episode_id": "0104",
+      "scene_idx": 13
+    },
+    {
+      "custom_id": "0104_scene_0014",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0104.json",
+      "episode_id": "0104",
+      "scene_idx": 14
+    },
+    {
+      "custom_id": "0105_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0105.json",
+      "episode_id": "0105",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0105_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0105.json",
+      "episode_id": "0105",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0105_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0105.json",
+      "episode_id": "0105",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0105_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0105.json",
+      "episode_id": "0105",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0105_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0105.json",
+      "episode_id": "0105",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0105_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0105.json",
+      "episode_id": "0105",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0105_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0105.json",
+      "episode_id": "0105",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0105_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0105.json",
+      "episode_id": "0105",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0105_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0105.json",
+      "episode_id": "0105",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0105_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0105.json",
+      "episode_id": "0105",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0105_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0105.json",
+      "episode_id": "0105",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0105_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0105.json",
+      "episode_id": "0105",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0105_scene_0012",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0105.json",
+      "episode_id": "0105",
+      "scene_idx": 12
+    },
+    {
+      "custom_id": "0105_scene_0013",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0105.json",
+      "episode_id": "0105",
+      "scene_idx": 13
+    },
+    {
+      "custom_id": "0105_scene_0014",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0105.json",
+      "episode_id": "0105",
+      "scene_idx": 14
+    },
+    {
+      "custom_id": "0105_scene_0015",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0105.json",
+      "episode_id": "0105",
+      "scene_idx": 15
+    },
+    {
+      "custom_id": "0106_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0106.json",
+      "episode_id": "0106",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0106_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0106.json",
+      "episode_id": "0106",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0106_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0106.json",
+      "episode_id": "0106",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0106_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0106.json",
+      "episode_id": "0106",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0106_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0106.json",
+      "episode_id": "0106",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0106_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0106.json",
+      "episode_id": "0106",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0106_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0106.json",
+      "episode_id": "0106",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0106_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0106.json",
+      "episode_id": "0106",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0106_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0106.json",
+      "episode_id": "0106",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0107_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0107.json",
+      "episode_id": "0107",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0107_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0107.json",
+      "episode_id": "0107",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0107_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0107.json",
+      "episode_id": "0107",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0107_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0107.json",
+      "episode_id": "0107",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0107_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0107.json",
+      "episode_id": "0107",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0107_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0107.json",
+      "episode_id": "0107",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0107_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0107.json",
+      "episode_id": "0107",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0107_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0107.json",
+      "episode_id": "0107",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0107_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0107.json",
+      "episode_id": "0107",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0107_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0107.json",
+      "episode_id": "0107",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0107_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0107.json",
+      "episode_id": "0107",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0107_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0107.json",
+      "episode_id": "0107",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0107_scene_0012",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0107.json",
+      "episode_id": "0107",
+      "scene_idx": 12
+    },
+    {
+      "custom_id": "0107_scene_0013",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0107.json",
+      "episode_id": "0107",
+      "scene_idx": 13
+    },
+    {
+      "custom_id": "0107_scene_0014",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0107.json",
+      "episode_id": "0107",
+      "scene_idx": 14
+    },
+    {
+      "custom_id": "0107_scene_0015",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0107.json",
+      "episode_id": "0107",
+      "scene_idx": 15
+    },
+    {
+      "custom_id": "0107_scene_0016",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0107.json",
+      "episode_id": "0107",
+      "scene_idx": 16
+    },
+    {
+      "custom_id": "0107_scene_0017",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0107.json",
+      "episode_id": "0107",
+      "scene_idx": 17
+    },
+    {
+      "custom_id": "0107_scene_0018",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0107.json",
+      "episode_id": "0107",
+      "scene_idx": 18
+    },
+    {
+      "custom_id": "0107_scene_0019",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0107.json",
+      "episode_id": "0107",
+      "scene_idx": 19
+    },
+    {
+      "custom_id": "0107_scene_0020",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0107.json",
+      "episode_id": "0107",
+      "scene_idx": 20
+    },
+    {
+      "custom_id": "0108_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0108.json",
+      "episode_id": "0108",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0108_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0108.json",
+      "episode_id": "0108",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0108_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0108.json",
+      "episode_id": "0108",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0108_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0108.json",
+      "episode_id": "0108",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0108_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0108.json",
+      "episode_id": "0108",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0108_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0108.json",
+      "episode_id": "0108",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0108_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0108.json",
+      "episode_id": "0108",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0108_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0108.json",
+      "episode_id": "0108",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0108_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0108.json",
+      "episode_id": "0108",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0108_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0108.json",
+      "episode_id": "0108",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0108_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0108.json",
+      "episode_id": "0108",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0108_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0108.json",
+      "episode_id": "0108",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0108_scene_0012",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0108.json",
+      "episode_id": "0108",
+      "scene_idx": 12
+    },
+    {
+      "custom_id": "0109_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0109.json",
+      "episode_id": "0109",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0109_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0109.json",
+      "episode_id": "0109",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0109_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0109.json",
+      "episode_id": "0109",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0109_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0109.json",
+      "episode_id": "0109",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0109_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0109.json",
+      "episode_id": "0109",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0109_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0109.json",
+      "episode_id": "0109",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0109_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0109.json",
+      "episode_id": "0109",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0109_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0109.json",
+      "episode_id": "0109",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0109_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0109.json",
+      "episode_id": "0109",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0109_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0109.json",
+      "episode_id": "0109",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0109_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0109.json",
+      "episode_id": "0109",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0109_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0109.json",
+      "episode_id": "0109",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0110_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0110.json",
+      "episode_id": "0110",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0110_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0110.json",
+      "episode_id": "0110",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0110_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0110.json",
+      "episode_id": "0110",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0110_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0110.json",
+      "episode_id": "0110",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0110_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0110.json",
+      "episode_id": "0110",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0110_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0110.json",
+      "episode_id": "0110",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0110_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0110.json",
+      "episode_id": "0110",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0110_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0110.json",
+      "episode_id": "0110",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0111_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0111.json",
+      "episode_id": "0111",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0111_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0111.json",
+      "episode_id": "0111",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0111_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0111.json",
+      "episode_id": "0111",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0111_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0111.json",
+      "episode_id": "0111",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0111_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0111.json",
+      "episode_id": "0111",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0111_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0111.json",
+      "episode_id": "0111",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0111_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0111.json",
+      "episode_id": "0111",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0111_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0111.json",
+      "episode_id": "0111",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0111_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0111.json",
+      "episode_id": "0111",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0111_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0111.json",
+      "episode_id": "0111",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0111_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0111.json",
+      "episode_id": "0111",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0111_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0111.json",
+      "episode_id": "0111",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0112_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0112.json",
+      "episode_id": "0112",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0112_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0112.json",
+      "episode_id": "0112",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0112_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0112.json",
+      "episode_id": "0112",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0112_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0112.json",
+      "episode_id": "0112",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0112_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0112.json",
+      "episode_id": "0112",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0112_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0112.json",
+      "episode_id": "0112",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0112_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0112.json",
+      "episode_id": "0112",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0112_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0112.json",
+      "episode_id": "0112",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0112_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0112.json",
+      "episode_id": "0112",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0112_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0112.json",
+      "episode_id": "0112",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0112_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0112.json",
+      "episode_id": "0112",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0112_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0112.json",
+      "episode_id": "0112",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0112_scene_0012",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0112.json",
+      "episode_id": "0112",
+      "scene_idx": 12
+    },
+    {
+      "custom_id": "0112_scene_0013",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0112.json",
+      "episode_id": "0112",
+      "scene_idx": 13
+    },
+    {
+      "custom_id": "0112_scene_0014",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0112.json",
+      "episode_id": "0112",
+      "scene_idx": 14
+    },
+    {
+      "custom_id": "0113_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0113.json",
+      "episode_id": "0113",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0113_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0113.json",
+      "episode_id": "0113",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0113_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0113.json",
+      "episode_id": "0113",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0113_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0113.json",
+      "episode_id": "0113",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0113_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0113.json",
+      "episode_id": "0113",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0113_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0113.json",
+      "episode_id": "0113",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0113_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0113.json",
+      "episode_id": "0113",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0113_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0113.json",
+      "episode_id": "0113",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0113_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0113.json",
+      "episode_id": "0113",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0113_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0113.json",
+      "episode_id": "0113",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0113_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0113.json",
+      "episode_id": "0113",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0113_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0113.json",
+      "episode_id": "0113",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0113_scene_0012",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0113.json",
+      "episode_id": "0113",
+      "scene_idx": 12
+    },
+    {
+      "custom_id": "0114_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0114.json",
+      "episode_id": "0114",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0114_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0114.json",
+      "episode_id": "0114",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0114_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0114.json",
+      "episode_id": "0114",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0114_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0114.json",
+      "episode_id": "0114",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0114_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0114.json",
+      "episode_id": "0114",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0114_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0114.json",
+      "episode_id": "0114",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0114_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0114.json",
+      "episode_id": "0114",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0114_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0114.json",
+      "episode_id": "0114",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0114_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0114.json",
+      "episode_id": "0114",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0114_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0114.json",
+      "episode_id": "0114",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0114_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0114.json",
+      "episode_id": "0114",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0114_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0114.json",
+      "episode_id": "0114",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0114_scene_0012",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0114.json",
+      "episode_id": "0114",
+      "scene_idx": 12
+    },
+    {
+      "custom_id": "0114_scene_0013",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0114.json",
+      "episode_id": "0114",
+      "scene_idx": 13
+    },
+    {
+      "custom_id": "0114_scene_0014",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0114.json",
+      "episode_id": "0114",
+      "scene_idx": 14
+    },
+    {
+      "custom_id": "0114_scene_0015",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0114.json",
+      "episode_id": "0114",
+      "scene_idx": 15
+    },
+    {
+      "custom_id": "0115_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0115.json",
+      "episode_id": "0115",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0115_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0115.json",
+      "episode_id": "0115",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0115_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0115.json",
+      "episode_id": "0115",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0115_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0115.json",
+      "episode_id": "0115",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0115_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0115.json",
+      "episode_id": "0115",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0115_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0115.json",
+      "episode_id": "0115",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0115_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0115.json",
+      "episode_id": "0115",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0115_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0115.json",
+      "episode_id": "0115",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0115_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0115.json",
+      "episode_id": "0115",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0115_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0115.json",
+      "episode_id": "0115",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0115_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0115.json",
+      "episode_id": "0115",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0115_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0115.json",
+      "episode_id": "0115",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0115_scene_0012",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0115.json",
+      "episode_id": "0115",
+      "scene_idx": 12
+    },
+    {
+      "custom_id": "0117_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0117.json",
+      "episode_id": "0116",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0117_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0117.json",
+      "episode_id": "0116",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0117_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0117.json",
+      "episode_id": "0116",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0117_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0117.json",
+      "episode_id": "0116",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0117_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0117.json",
+      "episode_id": "0116",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0117_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0117.json",
+      "episode_id": "0116",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0117_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0117.json",
+      "episode_id": "0116",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0117_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0117.json",
+      "episode_id": "0116",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0117_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0117.json",
+      "episode_id": "0116",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0117_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0117.json",
+      "episode_id": "0116",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0117_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0117.json",
+      "episode_id": "0116",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0117_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0117.json",
+      "episode_id": "0116",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0117_scene_0012",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0117.json",
+      "episode_id": "0116",
+      "scene_idx": 12
+    },
+    {
+      "custom_id": "0118_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0118.json",
+      "episode_id": "0118",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0118_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0118.json",
+      "episode_id": "0118",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0118_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0118.json",
+      "episode_id": "0118",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0118_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0118.json",
+      "episode_id": "0118",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0118_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0118.json",
+      "episode_id": "0118",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0118_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0118.json",
+      "episode_id": "0118",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0118_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0118.json",
+      "episode_id": "0118",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0118_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0118.json",
+      "episode_id": "0118",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0119_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0119.json",
+      "episode_id": "0119",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0119_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0119.json",
+      "episode_id": "0119",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0119_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0119.json",
+      "episode_id": "0119",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0119_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0119.json",
+      "episode_id": "0119",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0119_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0119.json",
+      "episode_id": "0119",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0119_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0119.json",
+      "episode_id": "0119",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0119_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0119.json",
+      "episode_id": "0119",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0120_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0120.json",
+      "episode_id": "0120",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0120_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0120.json",
+      "episode_id": "0120",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0120_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0120.json",
+      "episode_id": "0120",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0120_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0120.json",
+      "episode_id": "0120",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0120_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0120.json",
+      "episode_id": "0120",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0120_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0120.json",
+      "episode_id": "0120",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0120_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0120.json",
+      "episode_id": "0120",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0120_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0120.json",
+      "episode_id": "0120",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0120_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0120.json",
+      "episode_id": "0120",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0120_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0120.json",
+      "episode_id": "0120",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0120_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0120.json",
+      "episode_id": "0120",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0120_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0120.json",
+      "episode_id": "0120",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0121_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0121.json",
+      "episode_id": "0121",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0121_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0121.json",
+      "episode_id": "0121",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0121_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0121.json",
+      "episode_id": "0121",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0121_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0121.json",
+      "episode_id": "0121",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0121_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0121.json",
+      "episode_id": "0121",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0121_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0121.json",
+      "episode_id": "0121",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0121_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0121.json",
+      "episode_id": "0121",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0121_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0121.json",
+      "episode_id": "0121",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0121_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0121.json",
+      "episode_id": "0121",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0121_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0121.json",
+      "episode_id": "0121",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0121_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0121.json",
+      "episode_id": "0121",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0121_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0121.json",
+      "episode_id": "0121",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0121_scene_0012",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0121.json",
+      "episode_id": "0121",
+      "scene_idx": 12
+    },
+    {
+      "custom_id": "0121_scene_0013",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0121.json",
+      "episode_id": "0121",
+      "scene_idx": 13
+    },
+    {
+      "custom_id": "0121_scene_0014",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0121.json",
+      "episode_id": "0121",
+      "scene_idx": 14
+    },
+    {
+      "custom_id": "0122_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0122.json",
+      "episode_id": "0122",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0122_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0122.json",
+      "episode_id": "0122",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0122_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0122.json",
+      "episode_id": "0122",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0122_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0122.json",
+      "episode_id": "0122",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0122_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0122.json",
+      "episode_id": "0122",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0122_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0122.json",
+      "episode_id": "0122",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0122_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0122.json",
+      "episode_id": "0122",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0122_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0122.json",
+      "episode_id": "0122",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0122_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0122.json",
+      "episode_id": "0122",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0122_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0122.json",
+      "episode_id": "0122",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0122_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0122.json",
+      "episode_id": "0122",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0122_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0122.json",
+      "episode_id": "0122",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0122_scene_0012",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0122.json",
+      "episode_id": "0122",
+      "scene_idx": 12
+    },
+    {
+      "custom_id": "0123_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0123.json",
+      "episode_id": "0123",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0123_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0123.json",
+      "episode_id": "0123",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0123_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0123.json",
+      "episode_id": "0123",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0123_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0123.json",
+      "episode_id": "0123",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0123_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0123.json",
+      "episode_id": "0123",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0123_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0123.json",
+      "episode_id": "0123",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0123_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0123.json",
+      "episode_id": "0123",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0123_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0123.json",
+      "episode_id": "0123",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0123_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0123.json",
+      "episode_id": "0123",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0123_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0123.json",
+      "episode_id": "0123",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0123_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0123.json",
+      "episode_id": "0123",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0123_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0123.json",
+      "episode_id": "0123",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0123_scene_0012",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0123.json",
+      "episode_id": "0123",
+      "scene_idx": 12
+    },
+    {
+      "custom_id": "0123_scene_0013",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0123.json",
+      "episode_id": "0123",
+      "scene_idx": 13
+    },
+    {
+      "custom_id": "0123_scene_0014",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0123.json",
+      "episode_id": "0123",
+      "scene_idx": 14
+    },
+    {
+      "custom_id": "0123_scene_0015",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0123.json",
+      "episode_id": "0123",
+      "scene_idx": 15
+    },
+    {
+      "custom_id": "0123_scene_0016",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0123.json",
+      "episode_id": "0123",
+      "scene_idx": 16
+    },
+    {
+      "custom_id": "0123_scene_0017",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0123.json",
+      "episode_id": "0123",
+      "scene_idx": 17
+    },
+    {
+      "custom_id": "0123_scene_0018",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0123.json",
+      "episode_id": "0123",
+      "scene_idx": 18
+    },
+    {
+      "custom_id": "0123_scene_0019",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0123.json",
+      "episode_id": "0123",
+      "scene_idx": 19
+    },
+    {
+      "custom_id": "0123_scene_0020",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0123.json",
+      "episode_id": "0123",
+      "scene_idx": 20
+    },
+    {
+      "custom_id": "0124_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0124.json",
+      "episode_id": "0124",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0124_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0124.json",
+      "episode_id": "0124",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0124_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0124.json",
+      "episode_id": "0124",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0124_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0124.json",
+      "episode_id": "0124",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0124_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0124.json",
+      "episode_id": "0124",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0124_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0124.json",
+      "episode_id": "0124",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0124_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0124.json",
+      "episode_id": "0124",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0124_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0124.json",
+      "episode_id": "0124",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0124_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0124.json",
+      "episode_id": "0124",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0124_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0124.json",
+      "episode_id": "0124",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0124_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_01\\0124.json",
+      "episode_id": "0124",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0201_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0201.json",
+      "episode_id": "0201",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0201_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0201.json",
+      "episode_id": "0201",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0201_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0201.json",
+      "episode_id": "0201",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0201_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0201.json",
+      "episode_id": "0201",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0201_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0201.json",
+      "episode_id": "0201",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0201_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0201.json",
+      "episode_id": "0201",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0201_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0201.json",
+      "episode_id": "0201",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0201_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0201.json",
+      "episode_id": "0201",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0201_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0201.json",
+      "episode_id": "0201",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0201_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0201.json",
+      "episode_id": "0201",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0201_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0201.json",
+      "episode_id": "0201",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0202_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0202.json",
+      "episode_id": "0202",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0202_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0202.json",
+      "episode_id": "0202",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0202_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0202.json",
+      "episode_id": "0202",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0202_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0202.json",
+      "episode_id": "0202",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0202_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0202.json",
+      "episode_id": "0202",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0202_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0202.json",
+      "episode_id": "0202",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0202_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0202.json",
+      "episode_id": "0202",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0202_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0202.json",
+      "episode_id": "0202",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0202_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0202.json",
+      "episode_id": "0202",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0202_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0202.json",
+      "episode_id": "0202",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0202_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0202.json",
+      "episode_id": "0202",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0202_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0202.json",
+      "episode_id": "0202",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0202_scene_0012",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0202.json",
+      "episode_id": "0202",
+      "scene_idx": 12
+    },
+    {
+      "custom_id": "0202_scene_0013",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0202.json",
+      "episode_id": "0202",
+      "scene_idx": 13
+    },
+    {
+      "custom_id": "0203_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0203.json",
+      "episode_id": "0203",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0205_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0205.json",
+      "episode_id": "0205",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0207_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0207.json",
+      "episode_id": "0207",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0208_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0208.json",
+      "episode_id": "0208",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0208_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0208.json",
+      "episode_id": "0208",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0208_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0208.json",
+      "episode_id": "0208",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0208_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0208.json",
+      "episode_id": "0208",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0208_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0208.json",
+      "episode_id": "0208",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0208_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0208.json",
+      "episode_id": "0208",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0208_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0208.json",
+      "episode_id": "0208",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0208_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0208.json",
+      "episode_id": "0208",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0208_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0208.json",
+      "episode_id": "0208",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0208_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0208.json",
+      "episode_id": "0208",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0208_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0208.json",
+      "episode_id": "0208",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0208_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0208.json",
+      "episode_id": "0208",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0208_scene_0012",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0208.json",
+      "episode_id": "0208",
+      "scene_idx": 12
+    },
+    {
+      "custom_id": "0209_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0209.json",
+      "episode_id": "0209",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0209_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0209.json",
+      "episode_id": "0209",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0210_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0210.json",
+      "episode_id": "0210",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0210_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0210.json",
+      "episode_id": "0210",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0210_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0210.json",
+      "episode_id": "0210",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0210_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0210.json",
+      "episode_id": "0210",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0210_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0210.json",
+      "episode_id": "0210",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0210_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0210.json",
+      "episode_id": "0210",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0210_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0210.json",
+      "episode_id": "0210",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0210_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0210.json",
+      "episode_id": "0210",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0210_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0210.json",
+      "episode_id": "0210",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0211_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0211.json",
+      "episode_id": "0211",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0214_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0214.json",
+      "episode_id": "0214",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0215_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0215.json",
+      "episode_id": "0215",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0216_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0216.json",
+      "episode_id": "0216",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0224_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_02\\0224.json",
+      "episode_id": "0224",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0301_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0301.json",
+      "episode_id": "0301",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0301_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0301.json",
+      "episode_id": "0301",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0301_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0301.json",
+      "episode_id": "0301",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0301_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0301.json",
+      "episode_id": "0301",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0301_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0301.json",
+      "episode_id": "0301",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0301_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0301.json",
+      "episode_id": "0301",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0301_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0301.json",
+      "episode_id": "0301",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0301_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0301.json",
+      "episode_id": "0301",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0301_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0301.json",
+      "episode_id": "0301",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0301_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0301.json",
+      "episode_id": "0301",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0301_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0301.json",
+      "episode_id": "0301",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0301_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0301.json",
+      "episode_id": "0301",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0301_scene_0012",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0301.json",
+      "episode_id": "0301",
+      "scene_idx": 12
+    },
+    {
+      "custom_id": "0301_scene_0013",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0301.json",
+      "episode_id": "0301",
+      "scene_idx": 13
+    },
+    {
+      "custom_id": "0303_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0303.json",
+      "episode_id": "0303",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0303_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0303.json",
+      "episode_id": "0303",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0303_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0303.json",
+      "episode_id": "0303",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0303_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0303.json",
+      "episode_id": "0303",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0303_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0303.json",
+      "episode_id": "0303",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0303_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0303.json",
+      "episode_id": "0303",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0303_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0303.json",
+      "episode_id": "0303",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0303_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0303.json",
+      "episode_id": "0303",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0303_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0303.json",
+      "episode_id": "0303",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0303_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0303.json",
+      "episode_id": "0303",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0303_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0303.json",
+      "episode_id": "0303",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0303_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0303.json",
+      "episode_id": "0303",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0304_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0304.json",
+      "episode_id": "0304",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0304_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0304.json",
+      "episode_id": "0304",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0304_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0304.json",
+      "episode_id": "0304",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0304_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0304.json",
+      "episode_id": "0304",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0304_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0304.json",
+      "episode_id": "0304",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0304_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0304.json",
+      "episode_id": "0304",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0304_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0304.json",
+      "episode_id": "0304",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0304_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0304.json",
+      "episode_id": "0304",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0304_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0304.json",
+      "episode_id": "0304",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0304_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0304.json",
+      "episode_id": "0304",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0304_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0304.json",
+      "episode_id": "0304",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0304_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0304.json",
+      "episode_id": "0304",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0305_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0305.json",
+      "episode_id": "0305",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0305_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0305.json",
+      "episode_id": "0305",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0305_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0305.json",
+      "episode_id": "0305",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0305_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0305.json",
+      "episode_id": "0305",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0305_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0305.json",
+      "episode_id": "0305",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0305_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0305.json",
+      "episode_id": "0305",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0305_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0305.json",
+      "episode_id": "0305",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0305_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0305.json",
+      "episode_id": "0305",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0305_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0305.json",
+      "episode_id": "0305",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0305_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0305.json",
+      "episode_id": "0305",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0305_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0305.json",
+      "episode_id": "0305",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0305_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0305.json",
+      "episode_id": "0305",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0305_scene_0012",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0305.json",
+      "episode_id": "0305",
+      "scene_idx": 12
+    },
+    {
+      "custom_id": "0305_scene_0013",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0305.json",
+      "episode_id": "0305",
+      "scene_idx": 13
+    },
+    {
+      "custom_id": "0305_scene_0014",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0305.json",
+      "episode_id": "0305",
+      "scene_idx": 14
+    },
+    {
+      "custom_id": "0306_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0306.json",
+      "episode_id": "0306",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0306_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0306.json",
+      "episode_id": "0306",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0306_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0306.json",
+      "episode_id": "0306",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0306_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0306.json",
+      "episode_id": "0306",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0306_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0306.json",
+      "episode_id": "0306",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0306_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0306.json",
+      "episode_id": "0306",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0306_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0306.json",
+      "episode_id": "0306",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0306_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0306.json",
+      "episode_id": "0306",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0306_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0306.json",
+      "episode_id": "0306",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0306_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0306.json",
+      "episode_id": "0306",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0306_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0306.json",
+      "episode_id": "0306",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0306_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0306.json",
+      "episode_id": "0306",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0306_scene_0012",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0306.json",
+      "episode_id": "0306",
+      "scene_idx": 12
+    },
+    {
+      "custom_id": "0306_scene_0013",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0306.json",
+      "episode_id": "0306",
+      "scene_idx": 13
+    },
+    {
+      "custom_id": "0306_scene_0014",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0306.json",
+      "episode_id": "0306",
+      "scene_idx": 14
+    },
+    {
+      "custom_id": "0306_scene_0015",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0306.json",
+      "episode_id": "0306",
+      "scene_idx": 15
+    },
+    {
+      "custom_id": "0306_scene_0016",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0306.json",
+      "episode_id": "0306",
+      "scene_idx": 16
+    },
+    {
+      "custom_id": "0307_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0307.json",
+      "episode_id": "0307",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0307_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0307.json",
+      "episode_id": "0307",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0307_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0307.json",
+      "episode_id": "0307",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0307_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0307.json",
+      "episode_id": "0307",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0307_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0307.json",
+      "episode_id": "0307",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0307_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0307.json",
+      "episode_id": "0307",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0307_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0307.json",
+      "episode_id": "0307",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0307_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0307.json",
+      "episode_id": "0307",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0307_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0307.json",
+      "episode_id": "0307",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0307_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0307.json",
+      "episode_id": "0307",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0307_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0307.json",
+      "episode_id": "0307",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0307_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0307.json",
+      "episode_id": "0307",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0307_scene_0012",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0307.json",
+      "episode_id": "0307",
+      "scene_idx": 12
+    },
+    {
+      "custom_id": "0307_scene_0013",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0307.json",
+      "episode_id": "0307",
+      "scene_idx": 13
+    },
+    {
+      "custom_id": "0307_scene_0014",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0307.json",
+      "episode_id": "0307",
+      "scene_idx": 14
+    },
+    {
+      "custom_id": "0307_scene_0015",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0307.json",
+      "episode_id": "0307",
+      "scene_idx": 15
+    },
+    {
+      "custom_id": "0307_scene_0016",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0307.json",
+      "episode_id": "0307",
+      "scene_idx": 16
+    },
+    {
+      "custom_id": "0308_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0308.json",
+      "episode_id": "0308",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0308_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0308.json",
+      "episode_id": "0308",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0308_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0308.json",
+      "episode_id": "0308",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0308_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0308.json",
+      "episode_id": "0308",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0308_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0308.json",
+      "episode_id": "0308",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0308_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0308.json",
+      "episode_id": "0308",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0308_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0308.json",
+      "episode_id": "0308",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0308_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0308.json",
+      "episode_id": "0308",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0308_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0308.json",
+      "episode_id": "0308",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0308_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0308.json",
+      "episode_id": "0308",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0308_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0308.json",
+      "episode_id": "0308",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0308_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0308.json",
+      "episode_id": "0308",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0308_scene_0012",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0308.json",
+      "episode_id": "0308",
+      "scene_idx": 12
+    },
+    {
+      "custom_id": "0309_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0309.json",
+      "episode_id": "0309",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0309_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0309.json",
+      "episode_id": "0309",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0309_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0309.json",
+      "episode_id": "0309",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0309_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0309.json",
+      "episode_id": "0309",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0309_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0309.json",
+      "episode_id": "0309",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0309_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0309.json",
+      "episode_id": "0309",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0310_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0310.json",
+      "episode_id": "0310",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0310_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0310.json",
+      "episode_id": "0310",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0310_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0310.json",
+      "episode_id": "0310",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0310_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0310.json",
+      "episode_id": "0310",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0310_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0310.json",
+      "episode_id": "0310",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0310_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0310.json",
+      "episode_id": "0310",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0310_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0310.json",
+      "episode_id": "0310",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0310_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0310.json",
+      "episode_id": "0310",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0310_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0310.json",
+      "episode_id": "0310",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0310_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0310.json",
+      "episode_id": "0310",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0310_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0310.json",
+      "episode_id": "0310",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0310_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0310.json",
+      "episode_id": "0310",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0310_scene_0012",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0310.json",
+      "episode_id": "0310",
+      "scene_idx": 12
+    },
+    {
+      "custom_id": "0310_scene_0013",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0310.json",
+      "episode_id": "0310",
+      "scene_idx": 13
+    },
+    {
+      "custom_id": "0310_scene_0014",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0310.json",
+      "episode_id": "0310",
+      "scene_idx": 14
+    },
+    {
+      "custom_id": "0311_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0311.json",
+      "episode_id": "0311",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0311_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0311.json",
+      "episode_id": "0311",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0311_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0311.json",
+      "episode_id": "0311",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0311_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0311.json",
+      "episode_id": "0311",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0311_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0311.json",
+      "episode_id": "0311",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0311_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0311.json",
+      "episode_id": "0311",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0311_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0311.json",
+      "episode_id": "0311",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0311_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0311.json",
+      "episode_id": "0311",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0311_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0311.json",
+      "episode_id": "0311",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0311_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0311.json",
+      "episode_id": "0311",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0311_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0311.json",
+      "episode_id": "0311",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0311_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0311.json",
+      "episode_id": "0311",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0311_scene_0012",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0311.json",
+      "episode_id": "0311",
+      "scene_idx": 12
+    },
+    {
+      "custom_id": "0311_scene_0013",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0311.json",
+      "episode_id": "0311",
+      "scene_idx": 13
+    },
+    {
+      "custom_id": "0312_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0312.json",
+      "episode_id": "0312",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0312_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0312.json",
+      "episode_id": "0312",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0312_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0312.json",
+      "episode_id": "0312",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0312_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0312.json",
+      "episode_id": "0312",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0312_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0312.json",
+      "episode_id": "0312",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0312_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0312.json",
+      "episode_id": "0312",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0312_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0312.json",
+      "episode_id": "0312",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0312_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0312.json",
+      "episode_id": "0312",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0312_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0312.json",
+      "episode_id": "0312",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0312_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0312.json",
+      "episode_id": "0312",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0312_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0312.json",
+      "episode_id": "0312",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0312_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0312.json",
+      "episode_id": "0312",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0312_scene_0012",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0312.json",
+      "episode_id": "0312",
+      "scene_idx": 12
+    },
+    {
+      "custom_id": "0312_scene_0013",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0312.json",
+      "episode_id": "0312",
+      "scene_idx": 13
+    },
+    {
+      "custom_id": "0312_scene_0014",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0312.json",
+      "episode_id": "0312",
+      "scene_idx": 14
+    },
+    {
+      "custom_id": "0312_scene_0015",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0312.json",
+      "episode_id": "0312",
+      "scene_idx": 15
+    },
+    {
+      "custom_id": "0313_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0313.json",
+      "episode_id": "0313",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0313_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0313.json",
+      "episode_id": "0313",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0313_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0313.json",
+      "episode_id": "0313",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0313_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0313.json",
+      "episode_id": "0313",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0313_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0313.json",
+      "episode_id": "0313",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0313_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0313.json",
+      "episode_id": "0313",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0313_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0313.json",
+      "episode_id": "0313",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0313_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0313.json",
+      "episode_id": "0313",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0313_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0313.json",
+      "episode_id": "0313",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0313_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0313.json",
+      "episode_id": "0313",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0313_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0313.json",
+      "episode_id": "0313",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0313_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0313.json",
+      "episode_id": "0313",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0313_scene_0012",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0313.json",
+      "episode_id": "0313",
+      "scene_idx": 12
+    },
+    {
+      "custom_id": "0313_scene_0013",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0313.json",
+      "episode_id": "0313",
+      "scene_idx": 13
+    },
+    {
+      "custom_id": "0314_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0314.json",
+      "episode_id": "0314",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0314_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0314.json",
+      "episode_id": "0314",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0314_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0314.json",
+      "episode_id": "0314",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0314_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0314.json",
+      "episode_id": "0314",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0314_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0314.json",
+      "episode_id": "0314",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0314_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0314.json",
+      "episode_id": "0314",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0314_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0314.json",
+      "episode_id": "0314",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0314_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0314.json",
+      "episode_id": "0314",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0314_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0314.json",
+      "episode_id": "0314",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0314_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0314.json",
+      "episode_id": "0314",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0314_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0314.json",
+      "episode_id": "0314",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0314_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0314.json",
+      "episode_id": "0314",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0314_scene_0012",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0314.json",
+      "episode_id": "0314",
+      "scene_idx": 12
+    },
+    {
+      "custom_id": "0314_scene_0013",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0314.json",
+      "episode_id": "0314",
+      "scene_idx": 13
+    },
+    {
+      "custom_id": "0314_scene_0014",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0314.json",
+      "episode_id": "0314",
+      "scene_idx": 14
+    },
+    {
+      "custom_id": "0314_scene_0015",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0314.json",
+      "episode_id": "0314",
+      "scene_idx": 15
+    },
+    {
+      "custom_id": "0314_scene_0016",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0314.json",
+      "episode_id": "0314",
+      "scene_idx": 16
+    },
+    {
+      "custom_id": "0314_scene_0017",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0314.json",
+      "episode_id": "0314",
+      "scene_idx": 17
+    },
+    {
+      "custom_id": "0314_scene_0018",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0314.json",
+      "episode_id": "0314",
+      "scene_idx": 18
+    },
+    {
+      "custom_id": "0315_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0315.json",
+      "episode_id": "0315",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0315_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0315.json",
+      "episode_id": "0315",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0315_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0315.json",
+      "episode_id": "0315",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0315_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0315.json",
+      "episode_id": "0315",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0315_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0315.json",
+      "episode_id": "0315",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0315_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0315.json",
+      "episode_id": "0315",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0315_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0315.json",
+      "episode_id": "0315",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0315_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0315.json",
+      "episode_id": "0315",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0315_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0315.json",
+      "episode_id": "0315",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0315_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0315.json",
+      "episode_id": "0315",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0315_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0315.json",
+      "episode_id": "0315",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0315_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0315.json",
+      "episode_id": "0315",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0315_scene_0012",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0315.json",
+      "episode_id": "0315",
+      "scene_idx": 12
+    },
+    {
+      "custom_id": "0315_scene_0013",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0315.json",
+      "episode_id": "0315",
+      "scene_idx": 13
+    },
+    {
+      "custom_id": "0315_scene_0014",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0315.json",
+      "episode_id": "0315",
+      "scene_idx": 14
+    },
+    {
+      "custom_id": "0315_scene_0015",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0315.json",
+      "episode_id": "0315",
+      "scene_idx": 15
+    },
+    {
+      "custom_id": "0315_scene_0016",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0315.json",
+      "episode_id": "0315",
+      "scene_idx": 16
+    },
+    {
+      "custom_id": "0316_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0316.json",
+      "episode_id": "0316",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0316_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0316.json",
+      "episode_id": "0316",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0316_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0316.json",
+      "episode_id": "0316",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0316_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0316.json",
+      "episode_id": "0316",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0316_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0316.json",
+      "episode_id": "0316",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0316_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0316.json",
+      "episode_id": "0316",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0316_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0316.json",
+      "episode_id": "0316",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0316_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0316.json",
+      "episode_id": "0316",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0316_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0316.json",
+      "episode_id": "0316",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0316_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0316.json",
+      "episode_id": "0316",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0316_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0316.json",
+      "episode_id": "0316",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0316_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0316.json",
+      "episode_id": "0316",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0316_scene_0012",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0316.json",
+      "episode_id": "0316",
+      "scene_idx": 12
+    },
+    {
+      "custom_id": "0316_scene_0013",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0316.json",
+      "episode_id": "0316",
+      "scene_idx": 13
+    },
+    {
+      "custom_id": "0316_scene_0014",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0316.json",
+      "episode_id": "0316",
+      "scene_idx": 14
+    },
+    {
+      "custom_id": "0317_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0317.json",
+      "episode_id": "0317",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0317_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0317.json",
+      "episode_id": "0317",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0317_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0317.json",
+      "episode_id": "0317",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0317_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0317.json",
+      "episode_id": "0317",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0317_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0317.json",
+      "episode_id": "0317",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0317_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0317.json",
+      "episode_id": "0317",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0317_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0317.json",
+      "episode_id": "0317",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0317_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0317.json",
+      "episode_id": "0317",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0317_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0317.json",
+      "episode_id": "0317",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0317_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0317.json",
+      "episode_id": "0317",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0317_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0317.json",
+      "episode_id": "0317",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0318_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0318.json",
+      "episode_id": "0318",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0318_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0318.json",
+      "episode_id": "0318",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0318_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0318.json",
+      "episode_id": "0318",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0318_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0318.json",
+      "episode_id": "0318",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0318_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0318.json",
+      "episode_id": "0318",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0318_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0318.json",
+      "episode_id": "0318",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0318_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0318.json",
+      "episode_id": "0318",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0318_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0318.json",
+      "episode_id": "0318",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0318_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0318.json",
+      "episode_id": "0318",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0318_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0318.json",
+      "episode_id": "0318",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0318_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0318.json",
+      "episode_id": "0318",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0318_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0318.json",
+      "episode_id": "0318",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0318_scene_0012",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0318.json",
+      "episode_id": "0318",
+      "scene_idx": 12
+    },
+    {
+      "custom_id": "0318_scene_0013",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0318.json",
+      "episode_id": "0318",
+      "scene_idx": 13
+    },
+    {
+      "custom_id": "0318_scene_0014",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0318.json",
+      "episode_id": "0318",
+      "scene_idx": 14
+    },
+    {
+      "custom_id": "0318_scene_0015",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0318.json",
+      "episode_id": "0318",
+      "scene_idx": 15
+    },
+    {
+      "custom_id": "0319_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0319.json",
+      "episode_id": "0319",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0319_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0319.json",
+      "episode_id": "0319",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0319_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0319.json",
+      "episode_id": "0319",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0319_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0319.json",
+      "episode_id": "0319",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0319_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0319.json",
+      "episode_id": "0319",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0319_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0319.json",
+      "episode_id": "0319",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0319_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0319.json",
+      "episode_id": "0319",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0319_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0319.json",
+      "episode_id": "0319",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0319_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0319.json",
+      "episode_id": "0319",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0319_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0319.json",
+      "episode_id": "0319",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0319_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0319.json",
+      "episode_id": "0319",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0319_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0319.json",
+      "episode_id": "0319",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0319_scene_0012",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0319.json",
+      "episode_id": "0319",
+      "scene_idx": 12
+    },
+    {
+      "custom_id": "0319_scene_0013",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0319.json",
+      "episode_id": "0319",
+      "scene_idx": 13
+    },
+    {
+      "custom_id": "0319_scene_0014",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0319.json",
+      "episode_id": "0319",
+      "scene_idx": 14
+    },
+    {
+      "custom_id": "0319_scene_0015",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0319.json",
+      "episode_id": "0319",
+      "scene_idx": 15
+    },
+    {
+      "custom_id": "0320_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0320.json",
+      "episode_id": "0320",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0320_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0320.json",
+      "episode_id": "0320",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0320_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0320.json",
+      "episode_id": "0320",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0320_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0320.json",
+      "episode_id": "0320",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0320_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0320.json",
+      "episode_id": "0320",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0320_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0320.json",
+      "episode_id": "0320",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0320_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0320.json",
+      "episode_id": "0320",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0320_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0320.json",
+      "episode_id": "0320",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0320_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0320.json",
+      "episode_id": "0320",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0320_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0320.json",
+      "episode_id": "0320",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0320_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0320.json",
+      "episode_id": "0320",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0320_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0320.json",
+      "episode_id": "0320",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0320_scene_0012",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0320.json",
+      "episode_id": "0320",
+      "scene_idx": 12
+    },
+    {
+      "custom_id": "0320_scene_0013",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0320.json",
+      "episode_id": "0320",
+      "scene_idx": 13
+    },
+    {
+      "custom_id": "0320_scene_0014",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0320.json",
+      "episode_id": "0320",
+      "scene_idx": 14
+    },
+    {
+      "custom_id": "0321_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0321.json",
+      "episode_id": "0321",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0321_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0321.json",
+      "episode_id": "0321",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0321_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0321.json",
+      "episode_id": "0321",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0321_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0321.json",
+      "episode_id": "0321",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0321_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0321.json",
+      "episode_id": "0321",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0321_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0321.json",
+      "episode_id": "0321",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0321_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0321.json",
+      "episode_id": "0321",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0321_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0321.json",
+      "episode_id": "0321",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0321_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0321.json",
+      "episode_id": "0321",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0321_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0321.json",
+      "episode_id": "0321",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0321_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0321.json",
+      "episode_id": "0321",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0321_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0321.json",
+      "episode_id": "0321",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0321_scene_0012",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0321.json",
+      "episode_id": "0321",
+      "scene_idx": 12
+    },
+    {
+      "custom_id": "0321_scene_0013",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0321.json",
+      "episode_id": "0321",
+      "scene_idx": 13
+    },
+    {
+      "custom_id": "0321_scene_0014",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0321.json",
+      "episode_id": "0321",
+      "scene_idx": 14
+    },
+    {
+      "custom_id": "0321_scene_0015",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0321.json",
+      "episode_id": "0321",
+      "scene_idx": 15
+    },
+    {
+      "custom_id": "0322_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0322.json",
+      "episode_id": "0322",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0322_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0322.json",
+      "episode_id": "0322",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0322_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0322.json",
+      "episode_id": "0322",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0322_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0322.json",
+      "episode_id": "0322",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0322_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0322.json",
+      "episode_id": "0322",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0322_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0322.json",
+      "episode_id": "0322",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0322_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0322.json",
+      "episode_id": "0322",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0322_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0322.json",
+      "episode_id": "0322",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0322_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0322.json",
+      "episode_id": "0322",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0322_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0322.json",
+      "episode_id": "0322",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0322_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0322.json",
+      "episode_id": "0322",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0322_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0322.json",
+      "episode_id": "0322",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0322_scene_0012",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0322.json",
+      "episode_id": "0322",
+      "scene_idx": 12
+    },
+    {
+      "custom_id": "0323_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0323.json",
+      "episode_id": "0323",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0323_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0323.json",
+      "episode_id": "0323",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0323_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0323.json",
+      "episode_id": "0323",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0323_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0323.json",
+      "episode_id": "0323",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0323_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0323.json",
+      "episode_id": "0323",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0323_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0323.json",
+      "episode_id": "0323",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0323_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0323.json",
+      "episode_id": "0323",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0323_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0323.json",
+      "episode_id": "0323",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0323_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0323.json",
+      "episode_id": "0323",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0323_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0323.json",
+      "episode_id": "0323",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0323_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0323.json",
+      "episode_id": "0323",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0323_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0323.json",
+      "episode_id": "0323",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0323_scene_0012",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0323.json",
+      "episode_id": "0323",
+      "scene_idx": 12
+    },
+    {
+      "custom_id": "0323_scene_0013",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0323.json",
+      "episode_id": "0323",
+      "scene_idx": 13
+    },
+    {
+      "custom_id": "0323_scene_0014",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0323.json",
+      "episode_id": "0323",
+      "scene_idx": 14
+    },
+    {
+      "custom_id": "0324_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0324.json",
+      "episode_id": "0324",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0324_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0324.json",
+      "episode_id": "0324",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0324_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0324.json",
+      "episode_id": "0324",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0324_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0324.json",
+      "episode_id": "0324",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0324_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0324.json",
+      "episode_id": "0324",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0324_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0324.json",
+      "episode_id": "0324",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0324_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0324.json",
+      "episode_id": "0324",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0324_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0324.json",
+      "episode_id": "0324",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0324_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0324.json",
+      "episode_id": "0324",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0324_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0324.json",
+      "episode_id": "0324",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0324_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0324.json",
+      "episode_id": "0324",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0324_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0324.json",
+      "episode_id": "0324",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0324_scene_0012",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0324.json",
+      "episode_id": "0324",
+      "scene_idx": 12
+    },
+    {
+      "custom_id": "0324_scene_0013",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0324.json",
+      "episode_id": "0324",
+      "scene_idx": 13
+    },
+    {
+      "custom_id": "0324_scene_0014",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0324.json",
+      "episode_id": "0324",
+      "scene_idx": 14
+    },
+    {
+      "custom_id": "0325_scene_0000",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0325.json",
+      "episode_id": "0325",
+      "scene_idx": 0
+    },
+    {
+      "custom_id": "0325_scene_0001",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0325.json",
+      "episode_id": "0325",
+      "scene_idx": 1
+    },
+    {
+      "custom_id": "0325_scene_0002",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0325.json",
+      "episode_id": "0325",
+      "scene_idx": 2
+    },
+    {
+      "custom_id": "0325_scene_0003",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0325.json",
+      "episode_id": "0325",
+      "scene_idx": 3
+    },
+    {
+      "custom_id": "0325_scene_0004",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0325.json",
+      "episode_id": "0325",
+      "scene_idx": 4
+    },
+    {
+      "custom_id": "0325_scene_0005",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0325.json",
+      "episode_id": "0325",
+      "scene_idx": 5
+    },
+    {
+      "custom_id": "0325_scene_0006",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0325.json",
+      "episode_id": "0325",
+      "scene_idx": 6
+    },
+    {
+      "custom_id": "0325_scene_0007",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0325.json",
+      "episode_id": "0325",
+      "scene_idx": 7
+    },
+    {
+      "custom_id": "0325_scene_0008",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0325.json",
+      "episode_id": "0325",
+      "scene_idx": 8
+    },
+    {
+      "custom_id": "0325_scene_0009",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0325.json",
+      "episode_id": "0325",
+      "scene_idx": 9
+    },
+    {
+      "custom_id": "0325_scene_0010",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0325.json",
+      "episode_id": "0325",
+      "scene_idx": 10
+    },
+    {
+      "custom_id": "0325_scene_0011",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0325.json",
+      "episode_id": "0325",
+      "scene_idx": 11
+    },
+    {
+      "custom_id": "0325_scene_0012",
+      "json_file": "main\\subtitles\\annotated_tuples\\season_03\\0325.json",
+      "episode_id": "0325",
+      "scene_idx": 12
+    }
+  ]
+}
