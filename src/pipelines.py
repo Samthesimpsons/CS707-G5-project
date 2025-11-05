@@ -2,19 +2,19 @@
 Pipeline orchestration for CS707 G5 Project.
 """
 
-from data.preprocessing import preprocessing_pipeline  # type: ignore[import-not-found]
-from data.processing import processing_pipeline  # type: ignore[import-not-found]
+from pathlib import Path
+from data.add_events import generate_events_from_subtitles  # type: ignore[import-not-found]
+from data.generate_qa import generate_qa_from_events  # type: ignore[import-not-found]
 
 
-def start_data_pipeline() -> None:
-    """
-    Download, extract, preprocess and submits a batch job for Friends dataset.
-    """
-    preprocessing_pipeline()
+def events_generation() -> None:
+    generate_events_from_subtitles(
+        input_dir=Path("data/annotated_tuples"),
+        output_dir=Path("output_with_events"),
+        model="gpt-4o",
+        max_events_per_scene=10,
+    )
 
 
-def resume_data_pipeline() -> None:
-    """
-    Resume data processing after batch job completes.
-    """
-    processing_pipeline()
+def qa_generation() -> None:
+    generate_qa_from_events()

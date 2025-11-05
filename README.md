@@ -1,6 +1,8 @@
 # CS707-G5-project
 Project for CS707 G5
 
+[OUTDATED]
+
 ## Prerequisites
 
 ### 1. Install uv (Package Manager)
