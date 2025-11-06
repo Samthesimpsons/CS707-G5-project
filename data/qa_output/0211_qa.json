@@ -1,0 +1,255 @@
+{
+  "episode": "0211",
+  "title": "The One With the Lesbian Wedding",
+  "qa_dataset": [
+    {
+      "question_id": "Q_0211_14319",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was Mrs. Green present when the group prepares to help monica with the wedding preparations after carol and susan decide to proceed with the wedding.?",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "Mrs. Green was not present during this event.",
+      "related_events": [
+        "0211_scene_000_event_009"
+      ],
+      "episode_span": [
+        "0211"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0211_14320",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was Susan present when ross hands carol her son's diaper bag, mr. winky, and greets him.?",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "Susan was not present during this event.",
+      "related_events": [
+        "0211_scene_000_event_000"
+      ],
+      "episode_span": [
+        "0211"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0211_14321",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (1-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before monica discusses her new catering job for carol and susan’s mountain bike accident.?",
+      "options": [
+        "Ross hands Carol her son's diaper bag, Mr. Winky, and greets him.",
+        "Carol informs Ross that she and Susan are getting married.",
+        "Ross expresses happiness and support for Carol and Susan's wedding.",
+        "Joey prepares for his role on 'Days of Our Lives' and explains acting techniques to Chandler."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0211_scene_000_event_000",
+        "0211_scene_000_event_003"
+      ],
+      "episode_span": [
+        "0211"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0211_14322",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (1-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before mrs. green visits rachel at her workplace and comments on her daughter's job and appearance.?",
+      "options": [
+        "Ross hands Carol her son's diaper bag, Mr. Winky, and greets him.",
+        "Monica discusses her new catering job for Carol and Susan’s mountain bike accident.",
+        "Carol informs Ross that she and Susan are getting married.",
+        "Ross expresses happiness and support for Carol and Susan's wedding."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0211_scene_000_event_003",
+        "0211_scene_000_event_007"
+      ],
+      "episode_span": [
+        "0211"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0211_14323",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (2-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before estelle receives a knock on the door while on the phone.?",
+      "options": [
+        "Joey excitedly rushes to buy newspapers at one o'clock in the morning.",
+        "Joey reads a negative review of his performance as the king from the newspaper.",
+        "Phoebe reads her own review, which is a fragment of the same negative critique.",
+        "Ross refuses to read his review from the newspaper."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0210_scene_000_event_000",
+        "0210_scene_003_event_001"
+      ],
+      "episode_span": [
+        "0210"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0211_14324",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (2-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before mnca grabs the waiter as he is leaving and orders a scotch on the rocks with a twist.?",
+      "options": [
+        "Joey excitedly rushes to buy newspapers at one o'clock in the morning.",
+        "Joey reads a negative review of his performance as the king from the newspaper.",
+        "Estelle receives a knock on the door while on the phone.",
+        "Phoebe reads her own review, which is a fragment of the same negative critique."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0210_scene_003_event_001",
+        "0210_scene_006_event_004"
+      ],
+      "episode_span": [
+        "0210"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0211_14325",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (3-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before ross observes that fun bobby always has a drink in his hand.?",
+      "options": [
+        "Phoebe's grandmother shows Phoebe a box of photographs, including pictures of her father at various events.",
+        "Phoebe realizes that the man in the photograph is not her father but a man in a frame, indicating her grandmother lied about her father.",
+        "Phoebe's grandmother updates the phonebook by crossing out the name of Esther Livingston.",
+        "Phoebe's grandmother reveals that her real father lives upstate and is a pharmacist."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_000_event_000",
+        "0210_scene_001_event_008"
+      ],
+      "episode_span": [
+        "0209",
+        "0210"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0211_14326",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (3-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before joey discusses the hypothetical scenario of dating the casting lady after sleeping with her, implying a casual attitude.?",
+      "options": [
+        "Phoebe's grandmother updates the phonebook by crossing out the name of Esther Livingston.",
+        "Ross observes that Fun Bobby always has a drink in his hand.",
+        "Phoebe's grandmother shows Phoebe a box of photographs, including pictures of her father at various events.",
+        "Phoebe realizes that the man in the photograph is not her father but a man in a frame, indicating her grandmother lied about her father."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0210_scene_001_event_008",
+        "0210_scene_005_event_008"
+      ],
+      "episode_span": [
+        "0210"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0211_14327",
+      "question_type": "temporal: latest event retrieval",
+      "subcategory": "episode-wide latest event",
+      "cues": "",
+      "target": "",
+      "question": "What was the most recent event that occurred in the episode?",
+      "options": [
+        "The group prepares to help Monica with the wedding preparations after Carol and Susan decide to proceed with the wedding.",
+        "Rachel arrives hurriedly, asking if she missed the wedding, and Joey responds humorously.",
+        "Mrs. Green visits Rachel at her workplace and comments on her daughter's job and appearance.",
+        "Mrs. Green reveals her intention to leave Rachel's father and expresses pride in Rachel's happiness."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0211_scene_000_event_009"
+      ],
+      "episode_span": [
+        "0211"
+      ],
+      "clip_span": []
+    }
+  ],
+  "statistics": {
+    "total_questions": 9,
+    "question_type_distribution": {
+      "boolean": 2,
+      "temporal: chronological ordering": 6,
+      "temporal: latest event retrieval": 1
+    },
+    "subcategory_distribution": {
+      "subject verification": 2,
+      "event sequence (1-episode span)": 2,
+      "event sequence (2-episode span)": 2,
+      "event sequence (3-episode span)": 2,
+      "episode-wide latest event": 1
+    },
+    "cue_distribution": {},
+    "target_distribution": {
+      "Boolean": 2,
+      "Temporal": 7
+    },
+    "episode_span_distribution": {
+      "1 episode(s)": 8,
+      "2 episode(s)": 1
+    },
+    "clip_span_distribution": {},
+    "answer_distribution": {
+      "A": 5,
+      "B": 2,
+      "C": 2
+    }
+  }
+}

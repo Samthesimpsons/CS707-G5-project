@@ -1,0 +1,1048 @@
+{
+  "episode": "0215",
+  "title": "The One Where Ross and Rachel...You Know",
+  "qa_dataset": [
+    {
+      "question_id": "Q_0215_001",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did joey and chandler enter their apartment with chandler covering his eyes and joey leading him, indicating a surprise setup. when Joey and Chandler were present?",
+      "options": [
+        "Unknown location 1",
+        "Chandler and Joey's apartment. Joey and Chandler enter with\nChandler covering his eyes and Joey leading him.",
+        "Unknown location 2",
+        "Unknown location 3"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_000"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_002",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Chandler and Joey's apartment. Joey and Chandler enter with\nChandler covering his eyes and Joey leading him. when joey and chandler enter their apartment with chandler covering his eyes and joey leading him, indicating a surprise setup.?",
+      "options": [
+        "Joey",
+        "Unknown subjects 2",
+        "Unknown subjects 3",
+        "Chandler, Joey"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_000"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_003",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Chandler and Joey's apartment. Joey and Chandler enter with\nChandler covering his eyes and Joey leading him. when Joey and Chandler were together?",
+      "options": [
+        "Joey instructs Chandler not to peek and assures him he is wearing clothes, establishing the rules for the surprise.",
+        "Chandler opens his eyes to see two black leather recliners and a big-screen TV, expressing excitement about the new setup.",
+        "Joey and Chandler recline their chairs and extend the footrests, settling in to watch TV.",
+        "Joey and Chandler enter their apartment with Chandler covering his eyes and Joey leading him, indicating a surprise setup."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_000"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_004",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did joey instructs chandler not to peek and assures him he is wearing clothes, establishing the rules for the surprise. when Joey and Chandler were present?",
+      "options": [
+        "Unknown location 1",
+        "Chandler and Joey's apartment. Joey and Chandler enter with\nChandler covering his eyes and Joey leading him.",
+        "Unknown location 2",
+        "Unknown location 3"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_001"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_005",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Chandler and Joey's apartment. Joey and Chandler enter with\nChandler covering his eyes and Joey leading him. when joey instructs chandler not to peek and assures him he is wearing clothes, establishing the rules for the surprise.?",
+      "options": [
+        "Joey",
+        "Unknown subjects 2",
+        "Chandler, Joey",
+        "Unknown subjects 3"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_001"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_006",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Chandler and Joey's apartment. Joey and Chandler enter with\nChandler covering his eyes and Joey leading him. when Joey and Chandler were together?",
+      "options": [
+        "Joey and Chandler enter their apartment with Chandler covering his eyes and Joey leading him, indicating a surprise setup.",
+        "Chandler opens his eyes to see two black leather recliners and a big-screen TV, expressing excitement about the new setup.",
+        "Joey instructs Chandler not to peek and assures him he is wearing clothes, establishing the rules for the surprise.",
+        "Joey and Chandler recline their chairs and extend the footrests, settling in to watch TV."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_001"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_007",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did chandler opens his eyes to see two black leather recliners and a big-screen tv, expressing excitement about the new setup. when Chandler and Joey were present?",
+      "options": [
+        "Unknown location 1",
+        "Unknown location 2",
+        "Chandler and Joey's apartment. Joey and Chandler enter with\nChandler covering his eyes and Joey leading him.",
+        "Unknown location 3"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_002"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_008",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Chandler and Joey's apartment. Joey and Chandler enter with\nChandler covering his eyes and Joey leading him. when chandler opens his eyes to see two black leather recliners and a big-screen tv, expressing excitement about the new setup.?",
+      "options": [
+        "Chandler",
+        "Unknown subjects 2",
+        "Unknown subjects 3",
+        "Chandler, Joey"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_002"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_009",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Chandler and Joey's apartment. Joey and Chandler enter with\nChandler covering his eyes and Joey leading him. when Chandler and Joey were together?",
+      "options": [
+        "Chandler opens his eyes to see two black leather recliners and a big-screen TV, expressing excitement about the new setup.",
+        "Joey and Chandler enter their apartment with Chandler covering his eyes and Joey leading him, indicating a surprise setup.",
+        "Joey instructs Chandler not to peek and assures him he is wearing clothes, establishing the rules for the surprise.",
+        "Joey and Chandler recline their chairs and extend the footrests, settling in to watch TV."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_002"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_010",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did joey and chandler recline their chairs and extend the footrests, settling in to watch tv. when Joey and Chandler were present?",
+      "options": [
+        "Unknown location 1",
+        "Chandler and Joey's apartment. Joey and Chandler enter with\nChandler covering his eyes and Joey leading him.",
+        "Unknown location 2",
+        "Unknown location 3"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_003"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_011",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Chandler and Joey's apartment. Joey and Chandler enter with\nChandler covering his eyes and Joey leading him. when joey and chandler recline their chairs and extend the footrests, settling in to watch tv.?",
+      "options": [
+        "Joey",
+        "Unknown subjects 2",
+        "Chandler, Joey",
+        "Unknown subjects 3"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_003"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_012",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Chandler and Joey's apartment. Joey and Chandler enter with\nChandler covering his eyes and Joey leading him. when Joey and Chandler were together?",
+      "options": [
+        "Joey and Chandler enter their apartment with Chandler covering his eyes and Joey leading him, indicating a surprise setup.",
+        "Joey and Chandler recline their chairs and extend the footrests, settling in to watch TV.",
+        "Joey instructs Chandler not to peek and assures him he is wearing clothes, establishing the rules for the surprise.",
+        "Chandler opens his eyes to see two black leather recliners and a big-screen TV, expressing excitement about the new setup."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_003"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_013",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did rachel enters the apartment and greets everyone, initiating interaction with the group. when Rachel were present?",
+      "options": [
+        "Unknown location 1",
+        "Unknown location 2",
+        "Chandler and Joey's apartment. Joey and Chandler enter with\nChandler covering his eyes and Joey leading him.",
+        "Unknown location 3"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_004"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_014",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Chandler and Joey's apartment. Joey and Chandler enter with\nChandler covering his eyes and Joey leading him. when rachel enters the apartment and greets everyone, initiating interaction with the group.?",
+      "options": [
+        "Rachel",
+        "Chandler, Joey",
+        "Chandler, Joey",
+        "Chandler, Joey"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_004"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_015",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Chandler and Joey's apartment. Joey and Chandler enter with\nChandler covering his eyes and Joey leading him. when Rachel were together?",
+      "options": [
+        "Joey and Chandler enter their apartment with Chandler covering his eyes and Joey leading him, indicating a surprise setup.",
+        "Joey instructs Chandler not to peek and assures him he is wearing clothes, establishing the rules for the surprise.",
+        "Chandler opens his eyes to see two black leather recliners and a big-screen TV, expressing excitement about the new setup.",
+        "Rachel enters the apartment and greets everyone, initiating interaction with the group."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_004"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_016",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did ross leaves the group to go to the museum after his beeper goes off, indicating an urgent work call. when Ross were present?",
+      "options": [
+        "Unknown location 1",
+        "Unknown location 2",
+        "Unknown location 3",
+        "Chandler and Joey's apartment. Joey and Chandler enter with\nChandler covering his eyes and Joey leading him."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_005"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_017",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Chandler and Joey's apartment. Joey and Chandler enter with\nChandler covering his eyes and Joey leading him. when ross leaves the group to go to the museum after his beeper goes off, indicating an urgent work call.?",
+      "options": [
+        "Chandler, Joey",
+        "Chandler, Joey",
+        "Chandler, Joey",
+        "Ross"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_005"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_018",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Chandler and Joey's apartment. Joey and Chandler enter with\nChandler covering his eyes and Joey leading him. when Ross were together?",
+      "options": [
+        "Joey and Chandler enter their apartment with Chandler covering his eyes and Joey leading him, indicating a surprise setup.",
+        "Ross leaves the group to go to the museum after his beeper goes off, indicating an urgent work call.",
+        "Joey instructs Chandler not to peek and assures him he is wearing clothes, establishing the rules for the surprise.",
+        "Chandler opens his eyes to see two black leather recliners and a big-screen TV, expressing excitement about the new setup."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_005"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_019",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did rachel and ross share a brief moment where ross kisses her on the top of her head before leaving, showing affection and farewell. when Rachel and Ross were present?",
+      "options": [
+        "Unknown location 1",
+        "Chandler and Joey's apartment. Joey and Chandler enter with\nChandler covering his eyes and Joey leading him.",
+        "Unknown location 2",
+        "Unknown location 3"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_006"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_020",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Chandler and Joey's apartment. Joey and Chandler enter with\nChandler covering his eyes and Joey leading him. when rachel and ross share a brief moment where ross kisses her on the top of her head before leaving, showing affection and farewell.?",
+      "options": [
+        "Chandler, Joey",
+        "Chandler, Joey",
+        "Rachel, Ross",
+        "Chandler, Joey"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_006"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_021",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Chandler and Joey's apartment. Joey and Chandler enter with\nChandler covering his eyes and Joey leading him. when Rachel and Ross were together?",
+      "options": [
+        "Joey and Chandler enter their apartment with Chandler covering his eyes and Joey leading him, indicating a surprise setup.",
+        "Joey instructs Chandler not to peek and assures him he is wearing clothes, establishing the rules for the surprise.",
+        "Chandler opens his eyes to see two black leather recliners and a big-screen TV, expressing excitement about the new setup.",
+        "Rachel and Ross share a brief moment where Ross kisses her on the top of her head before leaving, showing affection and farewell."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_006"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_022",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did rachel and ross discuss their first official date, with rachel expressing excitement and monica reminding her of her work commitment. when Rachel and Monica were present?",
+      "options": [
+        "Chandler and Joey's apartment. Joey and Chandler enter with\nChandler covering his eyes and Joey leading him.",
+        "Unknown location 1",
+        "Unknown location 2",
+        "Unknown location 3"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_007"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_023",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Chandler and Joey's apartment. Joey and Chandler enter with\nChandler covering his eyes and Joey leading him. when rachel and ross discuss their first official date, with rachel expressing excitement and monica reminding her of her work commitment.?",
+      "options": [
+        "Chandler, Joey",
+        "Monica, Rachel",
+        "Chandler, Joey",
+        "Chandler, Joey"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_007"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_024",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Chandler and Joey's apartment. Joey and Chandler enter with\nChandler covering his eyes and Joey leading him. when Rachel and Monica were together?",
+      "options": [
+        "Joey and Chandler enter their apartment with Chandler covering his eyes and Joey leading him, indicating a surprise setup.",
+        "Joey instructs Chandler not to peek and assures him he is wearing clothes, establishing the rules for the surprise.",
+        "Chandler opens his eyes to see two black leather recliners and a big-screen TV, expressing excitement about the new setup.",
+        "Rachel and Ross discuss their first official date, with Rachel expressing excitement and Monica reminding her of her work commitment."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_007"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_025",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did rachel and ross go out in the hall to discuss their plans, with ross suggesting a romantic dinner and rachel agreeing. when Rachel and Ross were present?",
+      "options": [
+        "Unknown location 1",
+        "Unknown location 2",
+        "Unknown location 3",
+        "Chandler and Joey's apartment. Joey and Chandler enter with\nChandler covering his eyes and Joey leading him."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_008"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_026",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Chandler and Joey's apartment. Joey and Chandler enter with\nChandler covering his eyes and Joey leading him. when rachel and ross go out in the hall to discuss their plans, with ross suggesting a romantic dinner and rachel agreeing.?",
+      "options": [
+        "Rachel, Ross",
+        "Chandler, Joey",
+        "Chandler, Joey",
+        "Chandler, Joey"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_008"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_027",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Chandler and Joey's apartment. Joey and Chandler enter with\nChandler covering his eyes and Joey leading him. when Rachel and Ross were together?",
+      "options": [
+        "Rachel and Ross go out in the hall to discuss their plans, with Ross suggesting a romantic dinner and Rachel agreeing.",
+        "Joey and Chandler enter their apartment with Chandler covering his eyes and Joey leading him, indicating a surprise setup.",
+        "Joey instructs Chandler not to peek and assures him he is wearing clothes, establishing the rules for the surprise.",
+        "Chandler opens his eyes to see two black leather recliners and a big-screen TV, expressing excitement about the new setup."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_008"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_028",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did rachel and ross begin kissing passionately in the museum display, with rachel laughing nervously as ross's hands move on her. when Rachel and Ross were present?",
+      "options": [
+        "Unknown location 1",
+        "Unknown location 2",
+        "Unknown location 3",
+        "Chandler and Joey's apartment. Joey and Chandler enter with\nChandler covering his eyes and Joey leading him."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_009"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_029",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Chandler and Joey's apartment. Joey and Chandler enter with\nChandler covering his eyes and Joey leading him. when rachel and ross begin kissing passionately in the museum display, with rachel laughing nervously as ross's hands move on her.?",
+      "options": [
+        "Chandler, Joey",
+        "Chandler, Joey",
+        "Chandler, Joey",
+        "Rachel, Ross"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_009"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_030",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Chandler and Joey's apartment. Joey and Chandler enter with\nChandler covering his eyes and Joey leading him. when Rachel and Ross were together?",
+      "options": [
+        "Rachel and Ross begin kissing passionately in the museum display, with Rachel laughing nervously as Ross's hands move on her.",
+        "Joey and Chandler enter their apartment with Chandler covering his eyes and Joey leading him, indicating a surprise setup.",
+        "Joey instructs Chandler not to peek and assures him he is wearing clothes, establishing the rules for the surprise.",
+        "Chandler opens his eyes to see two black leather recliners and a big-screen TV, expressing excitement about the new setup."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_009"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_031",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was Chandler present when rachel and ross share a brief moment where ross kisses her on the top of her head before leaving, showing affection and farewell.?",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "Chandler was not present during this event.",
+      "related_events": [
+        "0215_scene_000_event_006"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_032",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was Chandler present when rachel and ross begin kissing passionately in the museum display, with rachel laughing nervously as ross's hands move on her.?",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "Chandler was not present during this event.",
+      "related_events": [
+        "0215_scene_000_event_009"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_033",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (1-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before joey and chandler recline their chairs and extend the footrests, settling in to watch tv.?",
+      "options": [
+        "Joey instructs Chandler not to peek and assures him he is wearing clothes, establishing the rules for the surprise.",
+        "Joey and Chandler enter their apartment with Chandler covering his eyes and Joey leading him, indicating a surprise setup.",
+        "Chandler opens his eyes to see two black leather recliners and a big-screen TV, expressing excitement about the new setup.",
+        "Rachel enters the apartment and greets everyone, initiating interaction with the group."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_000",
+        "0215_scene_000_event_003"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_034",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (1-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before rachel and ross discuss their first official date, with rachel expressing excitement and monica reminding her of her work commitment.?",
+      "options": [
+        "Joey and Chandler enter their apartment with Chandler covering his eyes and Joey leading him, indicating a surprise setup.",
+        "Joey and Chandler recline their chairs and extend the footrests, settling in to watch TV.",
+        "Joey instructs Chandler not to peek and assures him he is wearing clothes, establishing the rules for the surprise.",
+        "Chandler opens his eyes to see two black leather recliners and a big-screen TV, expressing excitement about the new setup."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_003",
+        "0215_scene_000_event_007"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_035",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (2-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before chandler jokes about the bracelet slowing down his sex life, then dismisses it.?",
+      "options": [
+        "Joey presents Chandler with a gaudy gold bracelet as a gift.",
+        "Chandler opens a box and reacts with surprise to a gold bracelet.",
+        "Joey gives Chandler an envelope as a repayment for past expenses.",
+        "Joey encourages Chandler to wear the bracelet, claiming it goes with everything."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0214_scene_000_event_000",
+        "0214_scene_000_event_006"
+      ],
+      "episode_span": [
+        "0214"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_036",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (2-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before joey and chandler recline their chairs and extend the footrests, settling in to watch tv.?",
+      "options": [
+        "Joey gives Chandler an envelope as a repayment for past expenses.",
+        "Joey presents Chandler with a gaudy gold bracelet as a gift.",
+        "Chandler opens a box and reacts with surprise to a gold bracelet.",
+        "Chandler jokes about the bracelet slowing down his sex life, then dismisses it."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0214_scene_000_event_006",
+        "0215_scene_000_event_003"
+      ],
+      "episode_span": [
+        "0215",
+        "0214"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_037",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (3-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before joey gives chandler an envelope as a repayment for past expenses.?",
+      "options": [
+        "Carol informs Ross that she and Susan are getting married.",
+        "Ross expresses happiness and support for Carol and Susan's wedding.",
+        "Monica discusses her new catering job for Carol and Susan’s mountain bike accident.",
+        "Ross hands Carol her son's diaper bag, Mr. Winky, and greets him."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0211_scene_000_event_000",
+        "0214_scene_000_event_000"
+      ],
+      "episode_span": [
+        "0214",
+        "0211"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_038",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (3-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before joey instructs chandler not to peek and assures him he is wearing clothes, establishing the rules for the surprise.?",
+      "options": [
+        "Ross hands Carol her son's diaper bag, Mr. Winky, and greets him.",
+        "Carol informs Ross that she and Susan are getting married.",
+        "Ross expresses happiness and support for Carol and Susan's wedding.",
+        "Joey gives Chandler an envelope as a repayment for past expenses."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0214_scene_000_event_000",
+        "0215_scene_000_event_001"
+      ],
+      "episode_span": [
+        "0215",
+        "0214"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_039",
+      "question_type": "temporal: latest event retrieval",
+      "subcategory": "location-based latest event",
+      "cues": "",
+      "target": "",
+      "question": "What was the last event that happened at Chandler and Joey's apartment. Joey and Chandler enter with\nChandler covering his eyes and Joey leading him. in this episode?",
+      "options": [
+        "Rachel and Ross share a brief moment where Ross kisses her on the top of her head before leaving, showing affection and farewell.",
+        "Rachel and Ross discuss their first official date, with Rachel expressing excitement and Monica reminding her of her work commitment.",
+        "Rachel and Ross begin kissing passionately in the museum display, with Rachel laughing nervously as Ross's hands move on her.",
+        "Rachel and Ross go out in the hall to discuss their plans, with Ross suggesting a romantic dinner and Rachel agreeing."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_009"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_040",
+      "question_type": "temporal: latest event retrieval",
+      "subcategory": "episode-wide latest event",
+      "cues": "",
+      "target": "",
+      "question": "What was the most recent event that occurred in the episode?",
+      "options": [
+        "Rachel and Ross share a brief moment where Ross kisses her on the top of her head before leaving, showing affection and farewell.",
+        "Rachel and Ross discuss their first official date, with Rachel expressing excitement and Monica reminding her of her work commitment.",
+        "Rachel and Ross begin kissing passionately in the museum display, with Rachel laughing nervously as Ross's hands move on her.",
+        "Rachel and Ross go out in the hall to discuss their plans, with Ross suggesting a romantic dinner and Rachel agreeing."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_009"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0215_041",
+      "question_type": "temporal: single cue retrieval",
+      "subcategory": "event sequence (location-based)",
+      "cues": "L",
+      "target": "Temporal",
+      "question": "Here are a series of 4 events. Arrange them in the correct temporal order in which they occurred at **Chandler and Joey's apartment. Joey and Chandler enter with\nChandler covering his eyes and Joey leading him.**.\n\n\"event_1\": Rachel and Ross share a brief moment where Ross kisses her on the top of her head before leaving, showing affection and farewell.\n\"event_2\": Rachel enters the apartment and greets everyone, initiating interaction with the group.\n\"event_3\": Joey and Chandler recline their chairs and extend the footrests, settling in to watch TV.\n\"event_4\": Rachel and Ross begin kissing passionately in the museum display, with Rachel laughing nervously as Ross's hands move on her.",
+      "options": [
+        "A. event_3, event_2, event_4, event_1",
+        "B. event_2, event_1, event_3, event_4",
+        "C. event_3, event_2, event_1, event_4",
+        "D. event_4, event_3, event_1, event_2"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_006",
+        "0215_scene_000_event_004",
+        "0215_scene_000_event_003",
+        "0215_scene_000_event_009"
+      ],
+      "episode_span": [
+        "0215"
+      ],
+      "clip_span": [
+        "scene_000"
+      ]
+    }
+  ],
+  "statistics": {
+    "total_questions": 41,
+    "question_type_distribution": {
+      "single target recall": 30,
+      "boolean": 2,
+      "temporal: chronological ordering": 6,
+      "temporal: latest event retrieval": 2,
+      "temporal: single cue retrieval": 1
+    },
+    "subcategory_distribution": {
+      "location recall (event + subject)": 10,
+      "subject recall (location + event)": 10,
+      "event recall (location + subject)": 10,
+      "subject verification": 2,
+      "event sequence (1-episode span)": 2,
+      "event sequence (2-episode span)": 2,
+      "event sequence (3-episode span)": 2,
+      "location-based latest event": 1,
+      "episode-wide latest event": 1,
+      "event sequence (location-based)": 1
+    },
+    "cue_distribution": {
+      "E+S → L": 10,
+      "L+E → S": 10,
+      "L+S → E": 10,
+      "L → Temporal": 1
+    },
+    "target_distribution": {
+      "L": 10,
+      "S": 10,
+      "E": 10,
+      "Boolean": 2,
+      "Temporal": 9
+    },
+    "episode_span_distribution": {
+      "1 episode(s)": 38,
+      "2 episode(s)": 3
+    },
+    "clip_span_distribution": {
+      "1 clip(s)": 1
+    },
+    "answer_distribution": {
+      "B": 9,
+      "D": 14,
+      "C": 10,
+      "A": 8
+    }
+  }
+}

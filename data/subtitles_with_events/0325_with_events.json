@@ -1,0 +1,2388 @@
+{
+  "episode": "0325",
+  "title": "The One At The Beach",
+  "scenes": [
+    {
+      "scene_description": "[Scene: Central Perk, everyone except Phoebe is there. Bonnie is telling them of her\nsex-capades.]",
+      "dialogue": [
+        {
+          "speaker": "CHANDLER",
+          "text": "(to Bonnie) So ah, your first sexual experience was with a woman?!"
+        },
+        {
+          "speaker": "BONNIE",
+          "text": "All right, I was 15, it was my best friend, Ruth, and we got drunk on that hard cider, and then suddenly, I don’t know, we were, we were making out."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Tell it again. (pause, we see Rachel is not amused.) Seriously."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(to Monica) I mean is that woman capable of talking about anything else but sex?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Yeah, sure. Well y'know, earlier she was talking about geography."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Joey, she was listing the countries she’s done it in."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Well, I think we all learned something."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "(entering, hurridly) Hey, you guys! Look what I found! Look at this! (She hands Chandler a picture) That’s my Mom’s writing! Look."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "(reading the back of the picture) Me and Frank and Phoebe, Graduation 1965."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Y'know what that means?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "That you’re actually 50?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "No-no, that’s not, that’s not me Phoebe, that’s her pal Phoebe. According to her high school yearbook, they were like B.F.F. (Ross and Bonnie look at her quizzically) Best Friends Forever."
+        },
+        {
+          "speaker": "ALL",
+          "text": "Oh!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "That is so cool."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "I know! So this woman probably could like have all kinds of stories about my parents, and she might even know like where my Dad is. So I looked her up, and she lives out by the beach. So maybe this weekend we could go to the beach?"
+        },
+        {
+          "speaker": "ALL",
+          "text": "Yeah! Yeah, we can!"
+        },
+        {
+          "speaker": "BONNIE",
+          "text": "(to Ross) Shoot! I can’t go, I have to work!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "That’s too bad."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(sarcastic) Ohh, big, fat bummerrr."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "So great! Okay! Tomorrow we’re gonna drive out to Montauk."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Hey, Bonnie had sex there!"
+        }
+      ],
+      "location": "Central Perk",
+      "subjects": [
+        "CHANDLER",
+        "ROSS",
+        "MONICA",
+        "PHOEBE",
+        "RACHEL",
+        "BONNIE",
+        "JOEY"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Central Perk, everyone except Phoebe is there. Bonnie is telling them of her\nsex-capades.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Bonnie tells the group that her first sexual experience was with her best friend Ruth when they were 15 and got drunk on cider, leading to them making out.",
+          "involved_subjects": [
+            "BONNIE"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Chandler asks Bonnie to repeat her story about her first sexual experience.",
+          "involved_subjects": [
+            "CHANDLER",
+            "BONNIE"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Rachel expresses her annoyance that Bonnie talks only about sex.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:40"
+        },
+        {
+          "event_description": "Joey comments that Bonnie was talking about geography earlier, implying she was listing countries she has been with someone.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:40",
+          "end_offset": "00:00:50"
+        },
+        {
+          "event_description": "Monica clarifies that Bonnie was listing countries where she has had sex.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:50",
+          "end_offset": "00:00:55"
+        },
+        {
+          "event_description": "Phoebe enters the scene and shows Chandler a picture with her mom's writing, indicating it is from her high school graduation in 1965.",
+          "involved_subjects": [
+            "PHOEBE",
+            "CHANDLER"
+          ],
+          "start_offset": "00:01:00",
+          "end_offset": "00:01:15"
+        },
+        {
+          "event_description": "Phoebe explains that the woman in the picture was her high school friend Phoebe, and they were best friends forever.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:01:15",
+          "end_offset": "00:01:25"
+        },
+        {
+          "event_description": "Rachel comments that the discovery of the picture is very cool.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:01:25",
+          "end_offset": "00:01:30"
+        },
+        {
+          "event_description": "Phoebe suggests that her mom might have stories about her parents and might know where her dad is, and proposes going to the beach this weekend.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:01:30",
+          "end_offset": "00:01:50"
+        },
+        {
+          "event_description": "Joey mentions that Bonnie had sex in Montauk, implying she had sex there.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:01:55",
+          "end_offset": "00:02:00"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Outside Central Perk, Chandler and Monica are waiting for Phoebe to arrive with\nthe cab.]",
+      "dialogue": [
+        {
+          "speaker": "MONICA",
+          "text": "(watching a happy couple walk by, arm in arm) Would you look at them. Am I ever gonna find a boyfriend again? I gonna die an old maid."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "You’re not gonna die an old maid, maybe an old spinster cook."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "(sarcastic) Thanks!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Hey now besides, if worst comes to worst, I’ll be your boyfriend."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Yeah right."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Why is that so funny?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "You made a joke right? So I laughed."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Ha-ha-ha. A little to hard. What am I not ah, boyfriend material?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Well, no. You’re Chandler. Y'know, Chandler! (hits him on the arm)"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Okay, so we’ve established my name, and hit me. But theoretically y'know, I mean say we weren’t friends, say it’s a blind date. I show up at your door, and I’m like (in a fake voice) “Hey, nice to meet, ya. Hey, oh-hey.”"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Well I’d probably be scared of a guy using a fake voice."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "(walking up carrying a brown paper bag) Hey!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Oh, hey! Oh good, you brought food!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "No, it’s just my luggage."
+        },
+        {
+          "speaker": "AND JOEY",
+          "text": "Hey!!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Woo-hoo! All right! Yeah!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, I am having the best karma this week. First, I find this woman who knew my parents, and then my client with the fuzzy back gives me his beach house."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Yeah? What about ah, that bike messenger you hit?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, I wasn’t talking about his karma."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(approaching) Hey!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Hey!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Hey-hey, check out the hat!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "What a minute, I know that hat! I was taken aboard that hat! They did experiments on me! I can’t have children!!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Seriously, where did you get the hat?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Ross gave it to me."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Yeah, I think she looks good."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Ohh, thank you."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Buy it for ya, or win it for ya?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Well excuse me, my fashion-impaired friends, I am here to tell you that hats are back."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "And this time, they’ve ganged up to form one giant, super hat."
+        }
+      ],
+      "location": "Outside Central Perk",
+      "subjects": [
+        "CHANDLER",
+        "ROSS",
+        "AND JOEY",
+        "MONICA",
+        "PHOEBE",
+        "RACHEL",
+        "JOEY"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Outside Central Perk, Chandler and Monica are waiting for Phoebe to arrive with\nthe cab.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Monica watches a happy couple walk by and expresses her fear of remaining single and dying alone.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Chandler reassures Monica that she won't die an old maid and jokes about being her potential boyfriend.",
+          "involved_subjects": [
+            "CHANDLER",
+            "MONICA"
+          ],
+          "start_offset": "00:00:16",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Chandler questions why Monica finds his joke funny and comments on the idea of being her boyfriend.",
+          "involved_subjects": [
+            "CHANDLER",
+            "MONICA"
+          ],
+          "start_offset": "00:00:26",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Joey arrives carrying a brown paper bag and clarifies that it's his luggage, not food.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:36",
+          "end_offset": "00:00:45"
+        },
+        {
+          "event_description": "Phoebe shares her good karma experiences, including meeting someone who knew her parents and receiving a beach house from a client.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:46",
+          "end_offset": "00:00:55"
+        },
+        {
+          "event_description": "Ross mentions Phoebe hitting a bike messenger as part of her karma stories.",
+          "involved_subjects": [
+            "ROSS",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:56",
+          "end_offset": "00:01:05"
+        },
+        {
+          "event_description": "Rachel approaches the group and comments on her hat, which Ross gave her, and discusses hats being fashionable again.",
+          "involved_subjects": [
+            "RACHEL",
+            "ROSS"
+          ],
+          "start_offset": "00:01:06",
+          "end_offset": "00:01:15"
+        },
+        {
+          "event_description": "Chandler recognizes Rachel's hat and jokes about being experimented on and being unable to have children.",
+          "involved_subjects": [
+            "CHANDLER",
+            "RACHEL"
+          ],
+          "start_offset": "00:01:16",
+          "end_offset": "00:01:25"
+        },
+        {
+          "event_description": "Rachel explains that she bought the hat because hats are back in fashion.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:01:26",
+          "end_offset": "00:01:35"
+        },
+        {
+          "event_description": "Phoebe humorously describes the hats as forming a 'super hat' when combined.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:01:36",
+          "end_offset": "00:01:45"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: At the Beach, it’s raining cats and dogs as the gang arrives. Chandler and\nMonica are taking shelter under Rachel’s hat.]",
+      "dialogue": [
+        {
+          "speaker": "ROSS",
+          "text": "Go, go, go!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh yeah, now everybody wants to be under this hat!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oy!!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "What’s with all this sand? (picking a handful of sand off of the floor, which is covered in sand)"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, yeah, Bob said there might be flood damage."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Yeah, either that, or he has a really big cat."
+        }
+      ],
+      "location": "At the Beach",
+      "subjects": [
+        "PHOEBE",
+        "ROSS",
+        "MONICA",
+        "RACHEL"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: At the Beach, it’s raining cats and dogs as the gang arrives. Chandler and\nMonica are taking shelter under Rachel’s hat.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Ross shouts 'Go, go, go!' urging the group to move quickly at the beach.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:01",
+          "end_offset": "00:00:03"
+        },
+        {
+          "event_description": "Rachel comments that everyone now wants to be under her hat during the rain.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:04",
+          "end_offset": "00:00:07"
+        },
+        {
+          "event_description": "Monica questions the amount of sand on the floor and picks up a handful.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:08",
+          "end_offset": "00:00:12"
+        },
+        {
+          "event_description": "Phoebe exclaims 'Oy!!' in reaction to the situation.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:13",
+          "end_offset": "00:00:14"
+        },
+        {
+          "event_description": "Rachel remarks that everyone now wants to be under her hat due to the rain.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:17"
+        },
+        {
+          "event_description": "Ross suggests that the flooding might be caused by a big cat, implying flood damage or a large animal.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:18",
+          "end_offset": "00:00:22"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Phoebe Sr. house, she is a real estate agent and is trying to sell a house over\nthe phone. By the way, it’s still raining outside.]",
+      "dialogue": [
+        {
+          "speaker": "PHOEBE SR",
+          "text": "Well, yes, it’s kind’ve an unusual house. It has umm, three beautiful bedrooms and ah, no baths. But y'know, the ocean is right there."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "(at the door) Knock, knock, knock."
+        },
+        {
+          "speaker": "PHOEBE SR",
+          "text": "(on phone) Ah, oh, hang on a second. (to Phoebe) Come in, come in. (on phone) All right, so think about it, and call me back. (hangs up)"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "(entering) Are you ah, Phoebe Abott?"
+        },
+        {
+          "speaker": "PHOEBE SR",
+          "text": "Ahh, yes."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Hi Phoebe Abott, I’m your best friends daughter!"
+        },
+        {
+          "speaker": "PHOEBE SR",
+          "text": "You’re Erwin’s daughter?!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "No, I-I mean your-your old best friend, here. (hands her the picture) Lily, from high school. Remember?"
+        },
+        {
+          "speaker": "PHOEBE SR",
+          "text": "Oh gosh, Lily, yes. Of course I remember Lily. I... Then you must be?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "(points to herself) Phoebe. (points to her) Phoebe. Phoebe, yeah. She named me after you I guess."
+        },
+        {
+          "speaker": "PHOEBE SR",
+          "text": "Uh-huh. Wow! Well, look! There’s Frank. (points to the picture.)"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Yes!! Yes! Yes! Yes!! That’s my Dad, that’s Frank! Yeah! I’m sorry I’m getting all flingy."
+        },
+        {
+          "speaker": "PHOEBE SR",
+          "text": "Take it easy--if you want, there’s cookies on the counter, or, or--sangria! (jumps up) I can make sangria!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "No-no, sorry. Cookies are good, thanks."
+        },
+        {
+          "speaker": "PHOEBE SR",
+          "text": "Oh."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "(goes and gets some cookies) Well, so, umm, anyway umm, I’ve been, I’ve been looking for my Father, and umm, have you heard from him, or seen him?"
+        },
+        {
+          "speaker": "PHOEBE SR",
+          "text": "Oh no, I-I’m sorry, I guess we lost track of everybody after high school."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "(disappointed) Oh, okay. Well, so tell me everything about my parents. Everything."
+        },
+        {
+          "speaker": "PHOEBE SR",
+          "text": "Ohh, well. Y'know we were always together, in fact the had a nickname for the three of us."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, what? What was it?"
+        },
+        {
+          "speaker": "PHOEBE SR",
+          "text": "The three losers. Oh, poor Lily. (Phoebe notices a picture on the fridge, takes it, and puts it in her pocket.) Ohh, y'know I-I heard about what happened, that must have been just terrible for you, losing your mother that way."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "(happily) Yeah, no, it was great."
+        }
+      ],
+      "location": "Phoebe Sr. house",
+      "subjects": [
+        "PHOEBE",
+        "PHOEBE SR"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Phoebe Sr. house, she is a real estate agent and is trying to sell a house over\nthe phone. By the way, it’s still raining outside.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Phoebe Sr. describes the house as having three bedrooms and no baths, with the ocean nearby, over the phone.",
+          "involved_subjects": [
+            "PHOEBE SR"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Phoebe knocks on the door of Phoebe Sr.'s house.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:12"
+        },
+        {
+          "event_description": "Phoebe Sr. invites Phoebe inside and ends her phone call.",
+          "involved_subjects": [
+            "PHOEBE SR",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:12",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Phoebe introduces herself as Phoebe Abott and confirms her identity.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Phoebe explains she is the daughter of Phoebe Sr.'s old best friend, Lily, and shows her a picture.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Phoebe Sr. recognizes Lily and confirms her identity, then asks about Phoebe.",
+          "involved_subjects": [
+            "PHOEBE SR",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:45"
+        },
+        {
+          "event_description": "Phoebe shows her own name and identity to Phoebe Sr.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:45",
+          "end_offset": "00:00:50"
+        },
+        {
+          "event_description": "Phoebe Sr. points out a picture of Frank, Phoebe's father, and Phoebe reacts excitedly.",
+          "involved_subjects": [
+            "PHOEBE SR",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:50",
+          "end_offset": "00:01:00"
+        },
+        {
+          "event_description": "Phoebe expresses her intention to find her father and asks Phoebe Sr. if she has seen him.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:01:00",
+          "end_offset": "00:01:10"
+        },
+        {
+          "event_description": "Phoebe Sr. states they lost track of everyone after high school, expressing regret.",
+          "involved_subjects": [
+            "PHOEBE SR",
+            "PHOEBE"
+          ],
+          "start_offset": "00:01:10",
+          "end_offset": "00:01:20"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: The beach house, it’s still raining. Chandler is building a sand castle,\nRachel is doing Monica’s nails, and they’re all drinking margaritas, obviously\nbored.]",
+      "dialogue": [
+        {
+          "speaker": "JOEY",
+          "text": "(getting an idea) Hey, y'know what a really good rainy day game is?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "What?!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "I mean naked game. Strip poker, we should totally play strip poker."
+        },
+        {
+          "speaker": "ALL",
+          "text": "No, no!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "What are you crazy?!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Come on! When you go away, you-you have to play, it’s like a law!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(to Monica) Allll done!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Aww, thank you."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Okay, who’s next?! (She looks around the room, and stops when she comes to Ross.)"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "No-o-o! (Rachel gives him a “Please?” look.) No way!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Come on, please?! I’m boredddd! You let me do it once before."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Yeah well, if ah, if that’s the rule this weekend... (She gets up) No!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Yes! (she starts creeping up on him)"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Get away!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Just once!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Stay away!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Take it like a man, Ross!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "(he gets up and starts to run away from her) No! (in his escape attempt he crushes Chandler’s sand castle) No!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh, come on!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Big bullies!!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Ow! Ow! Oh, no-no-no!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "(entering) Oh, hey!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Hey!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Hey!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, so, how are we doing?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Bored and bored!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Hey, you know what naked card game is never boring?"
+        },
+        {
+          "speaker": "ALL",
+          "text": "Noo!!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "(to Phoebe) So what’s Phoebe like?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "I’m kind, caring, and sweet. What’s Monica like?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Ah no, the other Phoebe, the one you went to go see."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Ohh, I think she knows where my Dad is."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "What?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Really?!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Oh well, where is he?!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "She was acting, she was pretending like she hasn’t heard from him on years, but I found this picture on her fridge, and look (shows Monica)! Isn’t this what he would look like now?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "(gasps) Totally familiar. (Phoebe shows the rest of them.)"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh, yeah."
+        },
+        {
+          "speaker": "THE GUYS",
+          "text": "Yeah!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Well, why would she lie to you?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "I don’t know, but we’re having dinner tomorrow night, so I figured, she’s gonna tell me then. Y'know maybe she just wanted to give him time to, buy me presents, I don’t know! So, you’re all bored?"
+        },
+        {
+          "speaker": "ALL",
+          "text": "Ohh!!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Yes!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "All right, I’m gonna close my eyes and point to someone, and you, whoever I point has to come up with something fun for us to do, and we have to do it."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Okay, all right."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Okay."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Fan out! Fan out!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Okay. (Starts to spin) Ooh, y'know we could just do this. (She stops at Chandler)"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Okay, umm, we all have to play strip poker."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "(jumping in triumph) OH YES!!!!!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Strip Happy Days Game?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Yeah, well, I couldn’t find any cards, so it was either this or Strip Bag Of Old Knitting Stuff."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Okay, (reading the card) Fonzy gives you two thumbs up, collect two cool points. Yeah."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Monica, if you get five cool points, you get to make somebody take off one item of clothing. It hasn’t happened yet, but we’re all very excited."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Okay, come on! (blows on the dice) Daddy needs a new pair of electromagnetic microscopes for the Prehistoric Forensics Department! (They all look at him, and he shuts up and rolls the dice.) (he moves his piece) Okay. (reading a card) Take Pinky Tuscadero up to Inspiration Point, collect three cool points!! Yeah! Which gives me five, and let’s see who is gonna lose their clothes. Ummmm, I think I pick our strip poker sponsor Mr. Joey Tribianni."
+        },
+        {
+          "speaker": "THE GIRLS",
+          "text": "Woo-hooooo!!!!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "All right, relax. It’s just a shoe."
+        },
+        {
+          "speaker": "ALL",
+          "text": "Wooooo!!!!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(reading a card) Okay, your band is playing at Arnold’s, collect three cool points. Which means, I have five, and that means I get Joey’s boxers!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Fine. Gang up on me! I got you all right where I want you."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Come on, take ‘em off!!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Actually, y'know it’s kinda cold, so how about I keep my boxers on, and give you all a peek at the good stuff?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(getting up) All right, I’m gonna make more margaritas! (She pours the rest of the pitcher into Ross’s glass.)"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Whoa, hey! What are doing? Trying to get me drunk?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "I’m just making margaritas."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Okay."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "I think I’ll help her out. (She gets up to go over and help Rachel, and reveals she has no pants.) (to Rachel) What is going on here?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "What?!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "You painting his toenails?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh, come on!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Chasing him all around the room?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Monica, please?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "He’s totally flirting with you too."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(pause) He is, isn’t he? I don’t know, I don’t know, I mean maybe it’s just being here at the beach together or, I don’t know. But it’s like something... (she’s interrupted by the sound of Bonnie entering)"
+        },
+        {
+          "speaker": "BONNIE",
+          "text": "Hey!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Hey! (Rachel is shocked) Hi Bonnie!"
+        },
+        {
+          "speaker": "BONNIE",
+          "text": "Hi! My boss let me off early, so I took the train."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Oh."
+        },
+        {
+          "speaker": "BONNIE",
+          "text": "What are you guys doing?!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "We’re playing Strip Happy Days Game!"
+        },
+        {
+          "speaker": "BONNIE",
+          "text": "Cool! I’ll catch up! (She takes off her sweater.)"
+        }
+      ],
+      "location": "The beach house",
+      "subjects": [
+        "CHANDLER",
+        "ROSS",
+        "MONICA",
+        "PHOEBE",
+        "RACHEL",
+        "BONNIE",
+        "JOEY"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: The beach house, it’s still raining. Chandler is building a sand castle,\nRachel is doing Monica’s nails, and they’re all drinking margaritas, obviously\nbored.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Joey suggests playing a naked game, specifically strip poker, to the group.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:02:00",
+          "end_offset": "00:02:10"
+        },
+        {
+          "event_description": "Rachel offers to do Monica’s nails, indicating she has finished with Monica's nails.",
+          "involved_subjects": [
+            "RACHEL",
+            "MONICA"
+          ],
+          "start_offset": "00:02:15",
+          "end_offset": "00:02:20"
+        },
+        {
+          "event_description": "Rachel attempts to persuade Ross to participate in a game by asking him to let her do his nails, citing boredom.",
+          "involved_subjects": [
+            "RACHEL",
+            "ROSS"
+          ],
+          "start_offset": "00:02:25",
+          "end_offset": "00:02:35"
+        },
+        {
+          "event_description": "Rachel tries to convince Ross to let her do his nails by appealing to him with a 'please' and a 'please?!', while Ross refuses.",
+          "involved_subjects": [
+            "RACHEL",
+            "ROSS"
+          ],
+          "start_offset": "00:02:36",
+          "end_offset": "00:02:45"
+        },
+        {
+          "event_description": "Rachel starts creeping up on Ross to persuade him to participate in the game, leading Ross to get up and run away.",
+          "involved_subjects": [
+            "RACHEL",
+            "ROSS"
+          ],
+          "start_offset": "00:02:46",
+          "end_offset": "00:02:55"
+        },
+        {
+          "event_description": "Ross accidentally crushes Chandler's sand castle while trying to escape from Rachel.",
+          "involved_subjects": [
+            "ROSS",
+            "CHANDLER"
+          ],
+          "start_offset": "00:02:56",
+          "end_offset": "00:03:05"
+        },
+        {
+          "event_description": "Phoebe enters the scene and asks the group how they are doing, commenting on their boredom.",
+          "involved_subjects": [
+            "PHOEBE",
+            "CHANDLER",
+            "ROSS"
+          ],
+          "start_offset": "00:03:10",
+          "end_offset": "00:03:15"
+        },
+        {
+          "event_description": "Phoebe suggests closing her eyes and pointing to someone who then has to come up with a fun activity for the group to do.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:03:16",
+          "end_offset": "00:03:25"
+        },
+        {
+          "event_description": "Phoebe spins around and stops at Chandler, who then suggests they all play strip poker.",
+          "involved_subjects": [
+            "PHOEBE",
+            "CHANDLER"
+          ],
+          "start_offset": "00:03:26",
+          "end_offset": "00:03:35"
+        },
+        {
+          "event_description": "Joey enthusiastically agrees to play strip poker after Chandler's suggestion, expressing excitement.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:03:36",
+          "end_offset": "00:03:45"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: The beach house, the next morning. Chandler and Monica are in the kitchen\neating breakfast.]",
+      "dialogue": [
+        {
+          "speaker": "CHANDLER",
+          "text": "So, you still don’t think I’m boyfriend material?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Huh?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "I saw you checking me out during the game last night."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "You didn’t even take off your pants."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Yeah, well, lucky for you."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "What?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "I don’t know."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(entering) Well! Is everybody else having just the best time?!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Shhh! Shhhh! Joey’s asleep."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "After he passed out, we put the sand around him to keep him warm."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Well I assume the ah, happy couple isn’t up yet. Did you guys hear them last night?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Oh, yeah, I don’t know what they were doing, but at one point sea turtles actually came up to the house."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Good morning."
+        },
+        {
+          "speaker": "ALL",
+          "text": "Hey."
+        },
+        {
+          "speaker": "BONNIE",
+          "text": "Hey! How did everybody sleep?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh, great."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Like a log."
+        },
+        {
+          "speaker": "ROSS AND BONNIE",
+          "text": "Us too."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "I’m going for a walk."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "(to Joey) Good morning. Nice breasts by the way."
+        }
+      ],
+      "location": "The beach house",
+      "subjects": [
+        "CHANDLER",
+        "ROSS",
+        "PHOEBE",
+        "MONICA",
+        "RACHEL",
+        "BONNIE"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: The beach house, the next morning. Chandler and Monica are in the kitchen\neating breakfast.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Chandler questions Monica about her opinion of him as a boyfriend during breakfast.",
+          "involved_subjects": [
+            "Chandler",
+            "Monica"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Chandler accuses Monica of checking him out during the previous night's game.",
+          "involved_subjects": [
+            "Chandler",
+            "Monica"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Monica denies that she checked out Chandler and comments on his lack of pants during the game.",
+          "involved_subjects": [
+            "Monica",
+            "Chandler"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Chandler makes a sarcastic remark about being lucky for Monica.",
+          "involved_subjects": [
+            "Chandler"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:40"
+        },
+        {
+          "event_description": "Rachel enters the scene and comments on everyone's enjoyment.",
+          "involved_subjects": [
+            "Rachel"
+          ],
+          "start_offset": "00:00:40",
+          "end_offset": "00:00:50"
+        },
+        {
+          "event_description": "Phoebe instructs others to be quiet because Joey is asleep and mentions they covered him with sand to keep him warm.",
+          "involved_subjects": [
+            "Phoebe"
+          ],
+          "start_offset": "00:00:50",
+          "end_offset": "00:01:00"
+        },
+        {
+          "event_description": "Rachel comments on the absence of the couple from the previous night.",
+          "involved_subjects": [
+            "Rachel"
+          ],
+          "start_offset": "00:01:00",
+          "end_offset": "00:01:05"
+        },
+        {
+          "event_description": "Chandler humorously claims that sea turtles came up to the house at one point during the night.",
+          "involved_subjects": [
+            "Chandler"
+          ],
+          "start_offset": "00:01:05",
+          "end_offset": "00:01:15"
+        },
+        {
+          "event_description": "Ross greets everyone with a 'Good morning' as they respond collectively.",
+          "involved_subjects": [
+            "Ross",
+            "Chandler",
+            "Monica",
+            "Rachel",
+            "Phoebe",
+            "Bonnie"
+          ],
+          "start_offset": "00:01:15",
+          "end_offset": "00:01:20"
+        },
+        {
+          "event_description": "Rachel announces her intention to go for a walk, and Ross comments on Joey's physical appearance.",
+          "involved_subjects": [
+            "Rachel",
+            "Ross"
+          ],
+          "start_offset": "00:01:20",
+          "end_offset": "00:01:30"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: The porch, Bonnie is coming back from swimming, Rachel is reading.]",
+      "dialogue": [
+        {
+          "speaker": "BONNIE",
+          "text": "Hey, what happened to you?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh, ah nothin’. I just felt like hangin’ out here and reading."
+        },
+        {
+          "speaker": "BONNIE",
+          "text": "Oh, the water was sooo great! We jumped off this pier and my suit came off."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Ohhhh, sorry I missed that."
+        },
+        {
+          "speaker": "BONNIE",
+          "text": "Yeah, Joey and Chandler sure are funny."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Ohh-ha-ha!"
+        },
+        {
+          "speaker": "BONNIE",
+          "text": "I think I brought back half of the beach in my hair. It was so much easier when I used to shave my head."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Y'know, I gotta tell ya, I just loved your look when you were bald."
+        },
+        {
+          "speaker": "BONNIE",
+          "text": "Really?!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Ohh!"
+        },
+        {
+          "speaker": "BONNIE",
+          "text": "Because I think about shaving it all off again sometime."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Really?!"
+        },
+        {
+          "speaker": "BONNIE",
+          "text": "Yeah!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "I mean you definitely should do that."
+        },
+        {
+          "speaker": "BONNIE",
+          "text": "Y'know what, I should do it."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Yeah!"
+        },
+        {
+          "speaker": "BONNIE",
+          "text": "Yeah, thank you Rachel, you are soo cool."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Awww, stop. Come on. Now go shave that head!"
+        },
+        {
+          "speaker": "BONNIE",
+          "text": "All right."
+        }
+      ],
+      "location": "The porch",
+      "subjects": [
+        "BONNIE",
+        "RACHEL"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: The porch, Bonnie is coming back from swimming, Rachel is reading.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Bonnie returns from swimming and enters the scene on the porch.",
+          "involved_subjects": [
+            "BONNIE"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "Bonnie asks Rachel about what happened to her.",
+          "involved_subjects": [
+            "BONNIE",
+            "RACHEL"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Rachel responds that she was just reading and hanging out.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Bonnie describes jumping off a pier and losing her swimsuit.",
+          "involved_subjects": [
+            "BONNIE"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Rachel expresses regret about missing Bonnie’s water activity.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Bonnie comments on her hair being full of beach debris from swimming.",
+          "involved_subjects": [
+            "BONNIE"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Rachel compliments Bonnie’s bald look and Bonnie considers shaving her head again.",
+          "involved_subjects": [
+            "RACHEL",
+            "BONNIE"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:40"
+        },
+        {
+          "event_description": "Bonnie expresses her intention to shave her head again.",
+          "involved_subjects": [
+            "BONNIE"
+          ],
+          "start_offset": "00:00:40",
+          "end_offset": "00:00:45"
+        },
+        {
+          "event_description": "Rachel encourages Bonnie to go ahead and shave her head.",
+          "involved_subjects": [
+            "RACHEL",
+            "BONNIE"
+          ],
+          "start_offset": "00:00:45",
+          "end_offset": "00:00:50"
+        },
+        {
+          "event_description": "Bonnie agrees to shave her head and thanks Rachel for her support.",
+          "involved_subjects": [
+            "BONNIE",
+            "RACHEL"
+          ],
+          "start_offset": "00:00:50",
+          "end_offset": "00:00:55"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: The beach house, at night. Phoebe is hangs up the phone, and gently pushes one\nof the stools over.]",
+      "dialogue": [
+        {
+          "speaker": "JOEY",
+          "text": "What’s the matter, Pheebs?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "She cancelled! My namesake cancelled on me!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "What?!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Yeah, she clamed she had to go out of town suddenly. She’s avoiding me, she doesn’t want to tell me where my Father is. She knows, and she won’t tell me."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Aww Pheebs, that sucks!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Yeah, well, don’t “Aww Pheebs, that sucks!” me yet. (she starts to leave)"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Where ya going?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Well, she’s out of town so, there’s gotta be something in her house that tells me where my Father is."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Uh, Pheebs, some people call that breaking and entering."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Well, are any of those people here?!"
+        },
+        {
+          "speaker": "ALL",
+          "text": "Oh, no!! No, no!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Okay, look I-I-I do something nice, okay? I’ll-I’ll fill her ice trays."
+        },
+        {
+          "speaker": "BONNIE",
+          "text": "Hey, everybody!"
+        },
+        {
+          "speaker": "ALL",
+          "text": "Wow!! (they all recoil in shock and horror)"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Wh-haa-haa! Look what ‘cha did! (Rachel has her hand over her mouth to keep from laughing.)"
+        },
+        {
+          "speaker": "BONNIE",
+          "text": "You wanna touch it?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Nooo, but it, but it’s great."
+        },
+        {
+          "speaker": "BONNIE",
+          "text": "Come on, touch it!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Okay. (He gently touches it.) You can feel all the bones in your skull."
+        }
+      ],
+      "location": "The beach house",
+      "subjects": [
+        "CHANDLER",
+        "ROSS",
+        "PHOEBE",
+        "RACHEL",
+        "BONNIE",
+        "JOEY"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: The beach house, at night. Phoebe is hangs up the phone, and gently pushes one\nof the stools over.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Phoebe hangs up the phone after receiving a cancellation notification.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:03"
+        },
+        {
+          "event_description": "Phoebe pushes a stool over in frustration.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:03",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "Joey asks Phoebe what is wrong.",
+          "involved_subjects": [
+            "JOEY",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:07"
+        },
+        {
+          "event_description": "Phoebe explains that her namesake canceled and is avoiding her.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:07",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Rachel expresses sympathy to Phoebe.",
+          "involved_subjects": [
+            "RACHEL",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:17"
+        },
+        {
+          "event_description": "Phoebe decides to investigate her friend's house to find her father’s location.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:17",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Chandler questions Phoebe about her plan to enter her friend's house.",
+          "involved_subjects": [
+            "CHANDLER",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:22"
+        },
+        {
+          "event_description": "Phoebe justifies her plan by claiming her friend is out of town.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:22",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Phoebe prepares to fill her friend's ice trays as a harmless action.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:27"
+        },
+        {
+          "event_description": "Bonnie arrives and greets everyone, causing shock among the group.",
+          "involved_subjects": [
+            "BONNIE",
+            "CHANDLER",
+            "ROSS",
+            "RACHEL",
+            "PHOEBE",
+            "JOEY"
+          ],
+          "start_offset": "00:00:27",
+          "end_offset": "00:00:30"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Outside the beach house, Ross is coming out to talk to Rachel.]",
+      "dialogue": [
+        {
+          "speaker": "ROSS",
+          "text": "Hi."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Hi!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "I was having a little chat with ah, Bonnie, and ah, guess what, she-she happened to bring up y'know, who was behind the um, whole head shaving idea, and now, who was it? Oh, that’s right, that’s right, it was you!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "That was her idea, I just gave her a nudge."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "She said you gave her the razor!"
+        },
+        {
+          "speaker": "BONNIE",
+          "text": "(joining them) Hey guys."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Hey!"
+        },
+        {
+          "speaker": "BONNIE",
+          "text": "So, anyone up for a midnight dip in the ocean?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Ahh, no, I’m good."
+        },
+        {
+          "speaker": "BONNIE",
+          "text": "Okay, I’ll see you in a bit."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Okay, have fun! Wooo!!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Come on see, she doesn’t look that bad."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "You can see the moonlight bouncing off her head! What the hell were you thinking?!!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "I don’t know."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "You don’t know?! Rach, you balded my girlfriend!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "All right! Ross, do you think it’s easy for me to see you with somebody else?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Y'know, hey! You’re the one who ended it, remember?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Yeah, because I was mad at you, not because I stopped loving you!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "You still love me?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Noo."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "You still love me."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh, y-yeah, so, you-you love me!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Noo, nnnnn. What does this mean? What do you, I mean do you wanna, get back together?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Noo! Maybe! I, I don’t know. Ross, I still can’t forgive you for what you did, I can’t, I just, but sometimes when I’m with you I just, I feel so..."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "What?!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "I just, I feel, I-I just..."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "What?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "I feel..."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "(to Joey) Noo!! I don’t care! I’m not, I’m not gonna playing one-on-one strip poker with you for practice!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "But I made cards!!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Well! Good night. (to Ross) I’m going upstairs."
+        },
+        {
+          "speaker": "JOEY AND CHANDLER",
+          "text": "G’night."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "(to Ross) Wanna play strip poker for practice?"
+        }
+      ],
+      "location": "Outside the beach house",
+      "subjects": [
+        "CHANDLER",
+        "ROSS",
+        "RACHEL",
+        "BONNIE",
+        "JOEY"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Outside the beach house, Ross is coming out to talk to Rachel.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Ross approaches Rachel outside the beach house and greets her.",
+          "involved_subjects": [
+            "Ross",
+            "Rachel"
+          ],
+          "start_offset": "00:00:01",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "Ross accuses Rachel of being behind the head-shaving idea after talking with Bonnie.",
+          "involved_subjects": [
+            "Ross",
+            "Rachel"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Rachel admits that Bonnie suggested the head-shaving and she only gave her a nudge.",
+          "involved_subjects": [
+            "Rachel"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Bonnie joins Ross and Rachel outside and invites them for a midnight swim.",
+          "involved_subjects": [
+            "Bonnie",
+            "Ross",
+            "Rachel"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Bonnie leaves to go for a midnight swim, saying she will see Ross and Rachel later.",
+          "involved_subjects": [
+            "Bonnie"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Ross criticizes Rachel for shaving Bonnie's head, expressing anger about the situation.",
+          "involved_subjects": [
+            "Ross",
+            "Rachel"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:40"
+        },
+        {
+          "event_description": "Rachel responds that she doesn't know why she shaved Bonnie's head.",
+          "involved_subjects": [
+            "Rachel"
+          ],
+          "start_offset": "00:00:40",
+          "end_offset": "00:00:45"
+        },
+        {
+          "event_description": "Ross confronts Rachel about her feelings, asking if she still loves him.",
+          "involved_subjects": [
+            "Ross",
+            "Rachel"
+          ],
+          "start_offset": "00:00:45",
+          "end_offset": "00:00:55"
+        },
+        {
+          "event_description": "Rachel denies still loving Ross but admits she can't forgive him completely.",
+          "involved_subjects": [
+            "Rachel"
+          ],
+          "start_offset": "00:00:55",
+          "end_offset": "00:01:05"
+        },
+        {
+          "event_description": "Rachel announces she is going upstairs and leaves the scene, ending her interaction with Ross.",
+          "involved_subjects": [
+            "Rachel"
+          ],
+          "start_offset": "00:01:05",
+          "end_offset": "00:01:10"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Phoebe Sr.’s house, Phoebe is breaking in through a window.]",
+      "dialogue": [
+        {
+          "speaker": "PHOEBE",
+          "text": "Ow! My ass. Okay. Okay. (She manages to climb completely inside and the window slams shut.) Oh, shhh!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "No! No!! It’s me! It’s me! I-I didn’t want to make any noise!"
+        },
+        {
+          "speaker": "PHOEBE SR",
+          "text": "Then don't break in!!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "I’m sorry."
+        },
+        {
+          "speaker": "PHOEBE SR",
+          "text": "What are you doing here?!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "I-I, came to fill your ice cube trays."
+        },
+        {
+          "speaker": "PHOEBE SR",
+          "text": "What?!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Umm, okay, okay, look. I took this picture from your fridge. Okay, because I know that this is my Father. Yeah, this is Frank Buffay and you are standing right there next to him. Now, look I deserve to know where I came from. All right? So if you can help me find my Father then you should! Otherwise, you’re just mean! (pause) So, just tell me the truth!"
+        },
+        {
+          "speaker": "PHOEBE SR",
+          "text": "All right, the man in the picture is Chuck Magioni."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "My Father is Chuck Magioni?"
+        },
+        {
+          "speaker": "PHOEBE SR",
+          "text": "No, no, that’s just Chuck Magioni, I-I sold him a house last year! And I’m very sorry, but I don’t know where your Father is, and that’s the truth."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh."
+        },
+        {
+          "speaker": "PHOEBE SR",
+          "text": "But umm, you’re right. I think that a person should know where they come from. Wh-which is why I ah, (pause) ahh, (pause) okay. I’m your mother."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Heh?"
+        },
+        {
+          "speaker": "PHOEBE SR",
+          "text": "Y'know I wanted to tell you yesterday, but I just, I kinda felt all floopy, and..."
+        }
+      ],
+      "location": "Phoebe Sr.’s house",
+      "subjects": [
+        "PHOEBE",
+        "PHOEBE SR"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Phoebe Sr.’s house, Phoebe is breaking in through a window.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Phoebe attempts to climb through a window at Phoebe Sr.'s house and injures herself.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Phoebe manages to fully enter the house after climbing through the window.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Phoebe explains she came to fill her aunt's ice cube trays and shows a picture from the fridge.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Phoebe confronts Phoebe Sr. about the identity of the man in the picture, claiming he is her father.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Phoebe Sr. reveals that the man in the picture is Chuck Magioni and denies knowing her father's whereabouts.",
+          "involved_subjects": [
+            "PHOEBE SR"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:50"
+        },
+        {
+          "event_description": "Phoebe expresses disappointment upon learning the man in the picture is not her father.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:50",
+          "end_offset": "00:00:55"
+        },
+        {
+          "event_description": "Phoebe Sr. admits she is her mother and explains she wanted to tell her yesterday but felt 'all floopy'.",
+          "involved_subjects": [
+            "PHOEBE SR"
+          ],
+          "start_offset": "00:00:55",
+          "end_offset": "00:01:10"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Outside the beach house, Ross is telling Joey and Chandler what happened with\nRachel.]",
+      "dialogue": [
+        {
+          "speaker": "JOEY",
+          "text": "I’m telling ya, you guys are totally getting back together!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "That’s not true! Her, she doesn’t even know what she wants! Rachel’s still mad about the whole thing."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Okay, then you gotta back away, all right? You don’t need that kind’ve hurt. Take it from a guy who’s never had a long term relationship......"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "I know, but ahhhhhh!! I really wanna go up there and finish that kiss!"
+        },
+        {
+          "speaker": "BONNIE",
+          "text": "(coming back from her swim) Hey!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Ahhhh! (Steps away from her.)"
+        },
+        {
+          "speaker": "BONNIE",
+          "text": "You guys, the water’s great. You should really go in."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Oh, ahh, no thanks, I just had an M&M."
+        },
+        {
+          "speaker": "BONNIE",
+          "text": "Okay, well g’night."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Good night."
+        },
+        {
+          "speaker": "BONNIE",
+          "text": "(kisses Ross) Don’t be too long."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Okey-dokey!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "There is not one hair on that head."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Hey, it’ll grow back, right? And she-she’s really fun, and she’s cool, and-and I’m finally moving on. Y'know? I mean getting over Rachel was so (makes an incoherent nasal sound), y'know? Y'know, and I’m finally feeling sane again. And now if I go up there, and-and I kiss her, and, Gooood I wanna kiss her, and-and-and it doesn’t work out, right? Do I really wanna put myself through that again?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "So let me get this straight. If you go with Bonnie tonight, you’re doing the smart, healthy thing and moving on."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Right, and you go with Rachel, Bonnie’s free tonight?"
+        }
+      ],
+      "location": "Outside the beach house",
+      "subjects": [
+        "BONNIE",
+        "JOEY",
+        "ROSS",
+        "CHANDLER"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Outside the beach house, Ross is telling Joey and Chandler what happened with\nRachel.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Ross tells Joey and Chandler about his feelings for Rachel and his desire to kiss her again.",
+          "involved_subjects": [
+            "Ross",
+            "Joey",
+            "Chandler"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Chandler advises Ross to back away from pursuing Rachel to avoid getting hurt.",
+          "involved_subjects": [
+            "Chandler",
+            "Ross"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:45"
+        },
+        {
+          "event_description": "Bonnie returns from her swim and invites Joey and Chandler to go into the water.",
+          "involved_subjects": [
+            "Bonnie",
+            "Joey",
+            "Chandler"
+          ],
+          "start_offset": "00:00:45",
+          "end_offset": "00:00:55"
+        },
+        {
+          "event_description": "Chandler declines Bonnie's invitation, citing he just ate an M&M.",
+          "involved_subjects": [
+            "Chandler",
+            "Bonnie"
+          ],
+          "start_offset": "00:00:55",
+          "end_offset": "00:01:05"
+        },
+        {
+          "event_description": "Bonnie says goodnight and kisses Ross before leaving.",
+          "involved_subjects": [
+            "Bonnie",
+            "Ross"
+          ],
+          "start_offset": "00:01:05",
+          "end_offset": "00:01:15"
+        },
+        {
+          "event_description": "Ross expresses his feelings about moving on from Rachel and his desire to kiss Bonnie.",
+          "involved_subjects": [
+            "Ross"
+          ],
+          "start_offset": "00:01:15",
+          "end_offset": "00:01:35"
+        },
+        {
+          "event_description": "Joey interprets Ross's indecision as him choosing to move on by going with Bonnie tonight.",
+          "involved_subjects": [
+            "Joey",
+            "Ross"
+          ],
+          "start_offset": "00:01:35",
+          "end_offset": "00:01:50"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: The hallway between the bedrooms. Ross is coming upstairs and stops between two\ndoors. He looks at the one on the right, then he looks at the one on his left, thinks\nabout it, and goes in the one on his right.]",
+      "dialogue": [
+        {
+          "speaker": "ROSS",
+          "text": "(entering the bedroom) Hi. (closes the door)"
+        }
+      ],
+      "location": "The hallway between the bedrooms. Ross is coming upstairs and stops between two\ndoors. He looks at the one on the right",
+      "subjects": [
+        "ROSS"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: The hallway between the bedrooms. Ross is coming upstairs and stops between two\ndoors. He looks at the one on the right, then he looks at the one on his left, thinks\nabout it, and goes in the one on his right.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Ross walks upstairs and stops between two doors in the hallway.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "Ross looks at the door on his right.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:07"
+        },
+        {
+          "event_description": "Ross looks at the door on his left and considers it.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:07",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Ross decides to enter the bedroom on his right.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:12"
+        },
+        {
+          "event_description": "Ross opens the door and enters the bedroom.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:12",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Ross greets someone inside the bedroom by saying 'Hi'.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:16"
+        },
+        {
+          "event_description": "Ross closes the bedroom door after entering.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:16",
+          "end_offset": "00:00:20"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: The beach house, Chandler is simulating he’s coming to pick up Monica for\na date. Chandler knocks on the door, and Monica answers it.]",
+      "dialogue": [
+        {
+          "speaker": "CHANDLER",
+          "text": "(in a fake voice) Hi there."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "That’s that weird voice again."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Okay! Okay! Let me try it again, you’re gonna wanna date this next guy, I swear!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Hi! I’m Dorf! You’re date for the evening. (Monica walks away in disgust) Oh come on! Dorf on dating, that’s good stuff!!"
+        }
+      ],
+      "location": "The beach house",
+      "subjects": [
+        "CHANDLER",
+        "MONICA"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: The beach house, Chandler is simulating he’s coming to pick up Monica for\na date. Chandler knocks on the door, and Monica answers it.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Chandler knocks on the door of the beach house.",
+          "involved_subjects": [
+            "Chandler"
+          ],
+          "start_offset": "00:00:01",
+          "end_offset": "00:00:02"
+        },
+        {
+          "event_description": "Monica answers the door.",
+          "involved_subjects": [
+            "Monica"
+          ],
+          "start_offset": "00:00:02",
+          "end_offset": "00:00:03"
+        },
+        {
+          "event_description": "Chandler, in a fake voice, greets Monica with 'Hi there.'",
+          "involved_subjects": [
+            "Chandler",
+            "Monica"
+          ],
+          "start_offset": "00:00:03",
+          "end_offset": "00:00:04"
+        },
+        {
+          "event_description": "Monica comments on Chandler's weird voice.",
+          "involved_subjects": [
+            "Monica"
+          ],
+          "start_offset": "00:00:04",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "Chandler attempts to imitate a new character, Dorf, claiming he's Monica's date for the evening.",
+          "involved_subjects": [
+            "Chandler"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:07"
+        },
+        {
+          "event_description": "Monica walks away in disgust after Chandler's impersonation.",
+          "involved_subjects": [
+            "Monica"
+          ],
+          "start_offset": "00:00:07",
+          "end_offset": "00:00:08"
+        },
+        {
+          "event_description": "Chandler continues to joke about Dorf being a good dating character.",
+          "involved_subjects": [
+            "Chandler"
+          ],
+          "start_offset": "00:00:08",
+          "end_offset": "00:00:10"
+        }
+      ]
+    }
+  ]
+}

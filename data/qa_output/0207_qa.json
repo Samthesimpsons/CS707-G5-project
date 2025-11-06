@@ -1,0 +1,1048 @@
+{
+  "episode": "0207",
+  "title": "The One Where Ross Finds Out",
+  "qa_dataset": [
+    {
+      "question_id": "Q_0207_20230",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did chandler answers the door to monica and informs her it's sunday morning and they are not working out. when Chandler and Monica were present?",
+      "options": [
+        "Unknown location 1",
+        "Chandler and Joey's apartment. Chandler is answering the door in his robe.",
+        "Unknown location 2",
+        "Unknown location 3"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_000"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20231",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Chandler and Joey's apartment. Chandler is answering the door in his robe. when chandler answers the door to monica and informs her it's sunday morning and they are not working out.?",
+      "options": [
+        "Chandler",
+        "Rachel, Ross",
+        "Rachel, Ross",
+        "Chandler, Monica"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_000"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20232",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Chandler and Joey's apartment. Chandler is answering the door in his robe. when Chandler and Monica were together?",
+      "options": [
+        "Chandler answers the door to Monica and informs her it's Sunday morning and they are not working out.",
+        "Chandler walks out of his apartment after telling Monica to stop exercising.",
+        "Rachel is taking aspirin when Ross enters her apartment.",
+        "Rachel and Ross discuss Ross's date and Rachel’s vague memory of a restaurant and wine from the night before."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_000"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20233",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did chandler walks out of his apartment after telling monica to stop exercising. when Chandler were present?",
+      "options": [
+        "Unknown location 1",
+        "Chandler and Joey's apartment. Chandler is answering the door in his robe.",
+        "Unknown location 2",
+        "Unknown location 3"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_001"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20234",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Chandler and Joey's apartment. Chandler is answering the door in his robe. when chandler walks out of his apartment after telling monica to stop exercising.?",
+      "options": [
+        "Chandler",
+        "Chandler, Monica",
+        "Rachel, Ross",
+        "Rachel, Ross"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_001"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20235",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Chandler and Joey's apartment. Chandler is answering the door in his robe. when Chandler were together?",
+      "options": [
+        "Chandler answers the door to Monica and informs her it's Sunday morning and they are not working out.",
+        "Rachel is taking aspirin when Ross enters her apartment.",
+        "Rachel and Ross discuss Ross's date and Rachel’s vague memory of a restaurant and wine from the night before.",
+        "Chandler walks out of his apartment after telling Monica to stop exercising."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_001"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20236",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did rachel is taking aspirin when ross enters her apartment. when Rachel and Ross were present?",
+      "options": [
+        "Unknown location 1",
+        "Unknown location 2",
+        "Chandler and Joey's apartment. Chandler is answering the door in his robe.",
+        "Unknown location 3"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_002"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20237",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Chandler and Joey's apartment. Chandler is answering the door in his robe. when rachel is taking aspirin when ross enters her apartment.?",
+      "options": [
+        "Rachel, Ross",
+        "Chandler, Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_002"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20238",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Chandler and Joey's apartment. Chandler is answering the door in his robe. when Rachel and Ross were together?",
+      "options": [
+        "Chandler answers the door to Monica and informs her it's Sunday morning and they are not working out.",
+        "Chandler walks out of his apartment after telling Monica to stop exercising.",
+        "Rachel is taking aspirin when Ross enters her apartment.",
+        "Rachel and Ross discuss Ross's date and Rachel’s vague memory of a restaurant and wine from the night before."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_002"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20239",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did rachel and ross discuss ross's date and rachel’s vague memory of a restaurant and wine from the night before. when Rachel and Ross were present?",
+      "options": [
+        "Unknown location 1",
+        "Unknown location 2",
+        "Unknown location 3",
+        "Chandler and Joey's apartment. Chandler is answering the door in his robe."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_003"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20240",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Chandler and Joey's apartment. Chandler is answering the door in his robe. when rachel and ross discuss ross's date and rachel’s vague memory of a restaurant and wine from the night before.?",
+      "options": [
+        "Chandler, Monica",
+        "Rachel, Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_003"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20241",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Chandler and Joey's apartment. Chandler is answering the door in his robe. when Rachel and Ross were together?",
+      "options": [
+        "Chandler answers the door to Monica and informs her it's Sunday morning and they are not working out.",
+        "Rachel and Ross discuss Ross's date and Rachel’s vague memory of a restaurant and wine from the night before.",
+        "Chandler walks out of his apartment after telling Monica to stop exercising.",
+        "Rachel is taking aspirin when Ross enters her apartment."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_003"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20242",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did ross picks up the cat toy after rachel expresses feeling like she had a dream about him but cannot remember. when Ross and Rachel were present?",
+      "options": [
+        "Unknown location 1",
+        "Chandler and Joey's apartment. Chandler is answering the door in his robe.",
+        "Unknown location 2",
+        "Unknown location 3"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_004"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20243",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Chandler and Joey's apartment. Chandler is answering the door in his robe. when ross picks up the cat toy after rachel expresses feeling like she had a dream about him but cannot remember.?",
+      "options": [
+        "Chandler, Monica",
+        "Rachel, Ross",
+        "Chandler",
+        "Ross"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_004"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20244",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Chandler and Joey's apartment. Chandler is answering the door in his robe. when Ross and Rachel were together?",
+      "options": [
+        "Chandler answers the door to Monica and informs her it's Sunday morning and they are not working out.",
+        "Chandler walks out of his apartment after telling Monica to stop exercising.",
+        "Rachel is taking aspirin when Ross enters her apartment.",
+        "Ross picks up the cat toy after Rachel expresses feeling like she had a dream about him but cannot remember."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_004"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20245",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did rachel questions ross about calling her last night; ross admits he hasn't been home and offers to check his messages. when Rachel and Ross were present?",
+      "options": [
+        "Chandler and Joey's apartment. Chandler is answering the door in his robe.",
+        "Unknown location 1",
+        "Unknown location 2",
+        "Unknown location 3"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_005"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20246",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Chandler and Joey's apartment. Chandler is answering the door in his robe. when rachel questions ross about calling her last night; ross admits he hasn't been home and offers to check his messages.?",
+      "options": [
+        "Rachel, Ross",
+        "Chandler, Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_005"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20247",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Chandler and Joey's apartment. Chandler is answering the door in his robe. when Rachel and Ross were together?",
+      "options": [
+        "Chandler answers the door to Monica and informs her it's Sunday morning and they are not working out.",
+        "Chandler walks out of his apartment after telling Monica to stop exercising.",
+        "Rachel questions Ross about calling her last night; Ross admits he hasn't been home and offers to check his messages.",
+        "Rachel is taking aspirin when Ross enters her apartment."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_005"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20248",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did ross finds a message from rachel on his machine and questions who michael is, leading rachel to realize she left the message. when Ross and Rachel were present?",
+      "options": [
+        "Unknown location 1",
+        "Unknown location 2",
+        "Chandler and Joey's apartment. Chandler is answering the door in his robe.",
+        "Unknown location 3"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_006"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20249",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Chandler and Joey's apartment. Chandler is answering the door in his robe. when ross finds a message from rachel on his machine and questions who michael is, leading rachel to realize she left the message.?",
+      "options": [
+        "Rachel, Ross",
+        "Chandler, Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_006"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20250",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Chandler and Joey's apartment. Chandler is answering the door in his robe. when Ross and Rachel were together?",
+      "options": [
+        "Ross finds a message from Rachel on his machine and questions who Michael is, leading Rachel to realize she left the message.",
+        "Chandler answers the door to Monica and informs her it's Sunday morning and they are not working out.",
+        "Chandler walks out of his apartment after telling Monica to stop exercising.",
+        "Rachel is taking aspirin when Ross enters her apartment."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_006"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20251",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did rachel confesses to ross that she had feelings for him, and ross reacts with surprise and confusion. when Rachel and Ross were present?",
+      "options": [
+        "Unknown location 1",
+        "Unknown location 2",
+        "Unknown location 3",
+        "Chandler and Joey's apartment. Chandler is answering the door in his robe."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_007"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20252",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Chandler and Joey's apartment. Chandler is answering the door in his robe. when rachel confesses to ross that she had feelings for him, and ross reacts with surprise and confusion.?",
+      "options": [
+        "Chandler, Monica",
+        "Chandler",
+        "Rachel, Ross",
+        "Rachel"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_007"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20253",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Chandler and Joey's apartment. Chandler is answering the door in his robe. when Rachel and Ross were together?",
+      "options": [
+        "Chandler answers the door to Monica and informs her it's Sunday morning and they are not working out.",
+        "Rachel confesses to Ross that she had feelings for him, and Ross reacts with surprise and confusion.",
+        "Chandler walks out of his apartment after telling Monica to stop exercising.",
+        "Rachel is taking aspirin when Ross enters her apartment."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_007"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20254",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did rachel and ross have a tense conversation about their feelings, leading to ross leaving to meet julie. when Rachel and Ross were present?",
+      "options": [
+        "Chandler and Joey's apartment. Chandler is answering the door in his robe.",
+        "Unknown location 1",
+        "Unknown location 2",
+        "Unknown location 3"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_008"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20255",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Chandler and Joey's apartment. Chandler is answering the door in his robe. when rachel and ross have a tense conversation about their feelings, leading to ross leaving to meet julie.?",
+      "options": [
+        "Chandler, Monica",
+        "Chandler",
+        "Rachel",
+        "Rachel, Ross"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_008"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20256",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Chandler and Joey's apartment. Chandler is answering the door in his robe. when Rachel and Ross were together?",
+      "options": [
+        "Chandler answers the door to Monica and informs her it's Sunday morning and they are not working out.",
+        "Rachel and Ross have a tense conversation about their feelings, leading to Ross leaving to meet Julie.",
+        "Chandler walks out of his apartment after telling Monica to stop exercising.",
+        "Rachel is taking aspirin when Ross enters her apartment."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_008"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20257",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did rachel closes her door and begins to cry after ross leaves, then notices ross outside the window and smiles before trying to open the lock. when Rachel and Ross were present?",
+      "options": [
+        "Unknown location 1",
+        "Unknown location 2",
+        "Unknown location 3",
+        "Chandler and Joey's apartment. Chandler is answering the door in his robe."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_009"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20258",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Chandler and Joey's apartment. Chandler is answering the door in his robe. when rachel closes her door and begins to cry after ross leaves, then notices ross outside the window and smiles before trying to open the lock.?",
+      "options": [
+        "Chandler, Monica",
+        "Chandler",
+        "Rachel",
+        "Rachel, Ross"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_009"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20259",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Chandler and Joey's apartment. Chandler is answering the door in his robe. when Rachel and Ross were together?",
+      "options": [
+        "Rachel closes her door and begins to cry after Ross leaves, then notices Ross outside the window and smiles before trying to open the lock.",
+        "Chandler answers the door to Monica and informs her it's Sunday morning and they are not working out.",
+        "Chandler walks out of his apartment after telling Monica to stop exercising.",
+        "Rachel is taking aspirin when Ross enters her apartment."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_009"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20260",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was Ross present when chandler walks out of his apartment after telling monica to stop exercising.?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "Ross was not present during this event.",
+      "related_events": [
+        "0207_scene_000_event_001"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20261",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was Chandler present when rachel is taking aspirin when ross enters her apartment.?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "Chandler was not present during this event.",
+      "related_events": [
+        "0207_scene_000_event_002"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20262",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (1-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before rachel and ross discuss ross's date and rachel’s vague memory of a restaurant and wine from the night before.?",
+      "options": [
+        "Chandler answers the door to Monica and informs her it's Sunday morning and they are not working out.",
+        "Chandler walks out of his apartment after telling Monica to stop exercising.",
+        "Rachel is taking aspirin when Ross enters her apartment.",
+        "Ross picks up the cat toy after Rachel expresses feeling like she had a dream about him but cannot remember."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_000",
+        "0207_scene_000_event_003"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20263",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (1-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before rachel confesses to ross that she had feelings for him, and ross reacts with surprise and confusion.?",
+      "options": [
+        "Chandler answers the door to Monica and informs her it's Sunday morning and they are not working out.",
+        "Chandler walks out of his apartment after telling Monica to stop exercising.",
+        "Rachel and Ross discuss Ross's date and Rachel’s vague memory of a restaurant and wine from the night before.",
+        "Rachel is taking aspirin when Ross enters her apartment."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_003",
+        "0207_scene_000_event_007"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20264",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (2-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before chandler, after confessing, tells jade that he had sex with someone else two hours prior, implying he is not bob.?",
+      "options": [
+        "Chandler answers the phone and attempts to screen calls to avoid answering when he has a social life.",
+        "Jade calls Bob and confesses she is thinking about reconnecting with him after three years, while drunk and naked.",
+        "Chandler, pretending to be Bob, arranges to meet Jade at Central Perk the next day.",
+        "Chandler reveals to Ross that he has been pretending to be Bob to Jade, planning to deceive her about his identity."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_000",
+        "0205_scene_000_event_006"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20265",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (2-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before rachel and ross discuss ross's date and rachel’s vague memory of a restaurant and wine from the night before.?",
+      "options": [
+        "Chandler answers the phone and attempts to screen calls to avoid answering when he has a social life.",
+        "Chandler, after confessing, tells Jade that he had sex with someone else two hours prior, implying he is not Bob.",
+        "Jade calls Bob and confesses she is thinking about reconnecting with him after three years, while drunk and naked.",
+        "Chandler, pretending to be Bob, arranges to meet Jade at Central Perk the next day."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_006",
+        "0207_scene_000_event_003"
+      ],
+      "episode_span": [
+        "0207",
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20266",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (3-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before chandler answers the phone and attempts to screen calls to avoid answering when he has a social life.?",
+      "options": [
+        "Chandler describes Joan's large sneezes causing bats to fly out.",
+        "Joey shares a story about dating a woman with a large Adam's apple.",
+        "Chandler announces he broke up with Joan.",
+        "Ross corrects Joey, stating women do not have Adam's apples."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0203_scene_000_event_000",
+        "0205_scene_000_event_000"
+      ],
+      "episode_span": [
+        "0203",
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20267",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (3-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before chandler walks out of his apartment after telling monica to stop exercising.?",
+      "options": [
+        "Chandler announces he broke up with Joan.",
+        "Chandler answers the phone and attempts to screen calls to avoid answering when he has a social life.",
+        "Chandler describes Joan's large sneezes causing bats to fly out.",
+        "Joey shares a story about dating a woman with a large Adam's apple."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_000",
+        "0207_scene_000_event_001"
+      ],
+      "episode_span": [
+        "0207",
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20268",
+      "question_type": "temporal: latest event retrieval",
+      "subcategory": "location-based latest event",
+      "cues": "",
+      "target": "",
+      "question": "What was the last event that happened at Chandler and Joey's apartment. Chandler is answering the door in his robe. in this episode?",
+      "options": [
+        "Ross finds a message from Rachel on his machine and questions who Michael is, leading Rachel to realize she left the message.",
+        "Rachel confesses to Ross that she had feelings for him, and Ross reacts with surprise and confusion.",
+        "Rachel and Ross have a tense conversation about their feelings, leading to Ross leaving to meet Julie.",
+        "Rachel closes her door and begins to cry after Ross leaves, then notices Ross outside the window and smiles before trying to open the lock."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_009"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20269",
+      "question_type": "temporal: latest event retrieval",
+      "subcategory": "episode-wide latest event",
+      "cues": "",
+      "target": "",
+      "question": "What was the most recent event that occurred in the episode?",
+      "options": [
+        "Ross finds a message from Rachel on his machine and questions who Michael is, leading Rachel to realize she left the message.",
+        "Rachel confesses to Ross that she had feelings for him, and Ross reacts with surprise and confusion.",
+        "Rachel and Ross have a tense conversation about their feelings, leading to Ross leaving to meet Julie.",
+        "Rachel closes her door and begins to cry after Ross leaves, then notices Ross outside the window and smiles before trying to open the lock."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_009"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0207_20270",
+      "question_type": "temporal: single cue retrieval",
+      "subcategory": "event sequence (location-based)",
+      "cues": "L",
+      "target": "Temporal",
+      "question": "Here are a series of 4 events. Arrange them in the correct temporal order in which they occurred at **Chandler and Joey's apartment. Chandler is answering the door in his robe.**.\n\n\"event_1\": Rachel and Ross have a tense conversation about their feelings, leading to Ross leaving to meet Julie.\n\"event_2\": Chandler walks out of his apartment after telling Monica to stop exercising.\n\"event_3\": Rachel questions Ross about calling her last night; Ross admits he hasn't been home and offers to check his messages.\n\"event_4\": Rachel confesses to Ross that she had feelings for him, and Ross reacts with surprise and confusion.",
+      "options": [
+        "A. event_2, event_3, event_4, event_1",
+        "B. event_1, event_3, event_2, event_4",
+        "C. event_4, event_3, event_2, event_1",
+        "D. event_3, event_1, event_2, event_4"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_008",
+        "0207_scene_000_event_001",
+        "0207_scene_000_event_005",
+        "0207_scene_000_event_007"
+      ],
+      "episode_span": [
+        "0207"
+      ],
+      "clip_span": [
+        "scene_000"
+      ]
+    }
+  ],
+  "statistics": {
+    "total_questions": 41,
+    "question_type_distribution": {
+      "single target recall": 30,
+      "boolean": 2,
+      "temporal: chronological ordering": 6,
+      "temporal: latest event retrieval": 2,
+      "temporal: single cue retrieval": 1
+    },
+    "subcategory_distribution": {
+      "location recall (event + subject)": 10,
+      "subject recall (location + event)": 10,
+      "event recall (location + subject)": 10,
+      "subject verification": 2,
+      "event sequence (1-episode span)": 2,
+      "event sequence (2-episode span)": 2,
+      "event sequence (3-episode span)": 2,
+      "location-based latest event": 1,
+      "episode-wide latest event": 1,
+      "event sequence (location-based)": 1
+    },
+    "cue_distribution": {
+      "E+S → L": 10,
+      "L+E → S": 10,
+      "L+S → E": 10,
+      "L → Temporal": 1
+    },
+    "target_distribution": {
+      "L": 10,
+      "S": 10,
+      "E": 10,
+      "Boolean": 2,
+      "Temporal": 9
+    },
+    "episode_span_distribution": {
+      "1 episode(s)": 38,
+      "2 episode(s)": 3
+    },
+    "clip_span_distribution": {
+      "1 clip(s)": 1
+    },
+    "answer_distribution": {
+      "B": 12,
+      "D": 10,
+      "A": 12,
+      "C": 7
+    }
+  }
+}

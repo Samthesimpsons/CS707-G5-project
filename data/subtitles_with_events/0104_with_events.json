@@ -1,0 +1,2351 @@
+{
+  "episode": "0104",
+  "title": "The One With George Stephanopoulos",
+  "scenes": [
+    {
+      "scene_description": "[Scene: Central Perk, Ross and Monica are watching Phoebe\nsleep.]",
+      "dialogue": [
+        {
+          "speaker": "MONICA",
+          "text": "How does she do that?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "I cannot sleep in a public place."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Would you look at her? She is so peaceful."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "(waking and startling them) Oh! What what what! ...Hi."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "It's okay, y'know, you just nodded off again."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "What's going on with you?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "I got no sleep last night!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Why?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "My grandmother has this new boyfriend, and they're both kind of insecure in bed. Oh, and deaf. So they're constantly, like, having to reassure each other that they're having a good time. You have no idea how loud they are!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Well, if you want, you can stay with Rachel and me tonight."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Thanks."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "...Ninety-five, ninety-six, ninety-seven. See, I told you! Less than a hundred steps from our place to here."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "You got waaaay too much free time."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "(to Ross) Hey! Here's the birthday boy! Ross,"
+        },
+        {
+          "speaker": "CHECK IT OUT",
+          "text": "hockey tickets, Rangers-Penguins, tonight at the Garden, and we're taking you."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Happy birthday, pal!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "We love you, man. (Kisses Ross)"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Funny, my birthday was seven months ago."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "So?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "So, I'm guessing you had an extra ticket and couldn't decide which one of you got to bring a date?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Well, aren't we Mr. \"The glass is half empty.\""
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Oh my God, oh- is today the twentieth, October twentieth?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Oh, I was hoping you wouldn't remember."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Ohhh."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "What's wrong with the twentieth?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Eleven days before Halloween.. all the good costumes are gone?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Today's the day Carol and I first.. consummated our physical relationship. (Joey is puzzled.) Sex. ..You know what, I-I'd better pass on the game. I think I'm just gonna go home and think about my ex-wife and her lesbian lover."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "The hell with hockey, let's all do that!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "(trying to stop Ross leaving) C'mon, Ross! You, me, Joey, ice, guys' night out, c'mon, whaddya say, big guy, (Pretending to punch him in the stomach.) Huh? Huh? Huh?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "What are you doing?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "(stops) I have no idea."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "C'mon, Ross!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Alright, alright, maybe it'll take my mind off it. Do you promise to buy me a big thumb finger?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "You got it."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Look-look-look-look-look, my first pay check! Look at the window, there's my name! Hi, me!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "I remember the day I got my first pay check. There was a cave in in one of the mines, and eight people were killed."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Wow, you worked in a mine?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "I worked in a Dairy Queen , why?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "God, isn't this exciting? I earned this. I wiped tables for it, I steamed milk for it, and it was totally—(opens envelope)—not worth it. Who's FICA? Why's he getting all my money? I mean, what- Chandler, look at that."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "(looking) Oh, this is not that bad."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Oh, you're fine, yeah, for a first job."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "You can totally, totally live on this."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Yeah, yeah."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Oh, by the way, great service tonight."
+        },
+        {
+          "speaker": "ALL",
+          "text": "Oh! Yeah!"
+        },
+        {
+          "speaker": "GUYS",
+          "text": "Hockey! (They go to leave but are blocked by three of Rachel's friends, Leslie, Kiki, and Joanne. The guys pause to stare at them.) Hockey! Hockey. (The guys.)"
+        },
+        {
+          "speaker": "LESLIE",
+          "text": "(looking around) Rachel?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh my God! (Rachel, Leslie, Kiki, and Joanne all scream and hug each other."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "(to Phoebe) I swear I've seen birds do this on Wild Kingdom ."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "What are you guys doing here?"
+        },
+        {
+          "speaker": "KIKI",
+          "text": "Well, we were in the city shopping, and your mom said you work here, aaand it's true!"
+        },
+        {
+          "speaker": "JOANNE",
+          "text": "Look at you in the apron. You look like you're in a play."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(to a pregnant Leslie) Look at you, you are so big I can't believe it!"
+        },
+        {
+          "speaker": "LESLIE",
+          "text": "I know. I know! I'm a duplex."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(to Joanne) So what's going on with you?"
+        },
+        {
+          "speaker": "JOANNE",
+          "text": "Well, guess who my dad's making partner in his firm? (She points to herself and they all scream again.)"
+        },
+        {
+          "speaker": "KIKI",
+          "text": "And while we're on the subject of news.. (She holds up here finger to show off her engagement ring and they all scream again.)"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "(to Monica) Look, look, I have elbows! (They scream.)"
+        }
+      ],
+      "location": "Central Perk",
+      "subjects": [
+        "CHECK IT OUT",
+        "PHOEBE",
+        "ROSS",
+        "JOEY",
+        "JOANNE",
+        "KIKI",
+        "RACHEL",
+        "CHANDLER",
+        "MONICA",
+        "LESLIE"
+      ],
+      "clip_start": "00:00:00",
+      "clip_end": "00:06:00",
+      "srt_start": "00:01:52,245",
+      "srt_end": "00:06:51,603",
+      "context_label": "0104_scene_000_Central Perk",
+      "event_description": "[Scene: Central Perk, Ross and Monica are watching Phoebe\nsleep.]",
+      "events": [
+        {
+          "event_description": "Phoebe wakes up and startles Monica and Ross while sleeping at Central Perk.",
+          "involved_subjects": [
+            "Phoebe",
+            "Monica",
+            "Ross"
+          ],
+          "start_offset": "00:01:30",
+          "end_offset": "00:01:35"
+        },
+        {
+          "event_description": "Phoebe explains to Monica and Ross that she got no sleep last night due to her grandmother's loud and insecure new boyfriend.",
+          "involved_subjects": [
+            "Phoebe",
+            "Monica",
+            "Ross"
+          ],
+          "start_offset": "00:01:35",
+          "end_offset": "00:02:00"
+        },
+        {
+          "event_description": "Monica offers Phoebe to stay overnight at her and Rachel’s apartment.",
+          "involved_subjects": [
+            "Monica",
+            "Phoebe"
+          ],
+          "start_offset": "00:02:00",
+          "end_offset": "00:02:05"
+        },
+        {
+          "event_description": "Joey counts steps from his apartment to Central Perk and claims it's less than a hundred.",
+          "involved_subjects": [
+            "Joey"
+          ],
+          "start_offset": "00:02:10",
+          "end_offset": "00:02:15"
+        },
+        {
+          "event_description": "Joey announces to Chandler and Ross that he has hockey tickets for the Rangers-Penguins game at the Garden and that they are taking Ross.",
+          "involved_subjects": [
+            "Joey",
+            "Chandler",
+            "Ross"
+          ],
+          "start_offset": "00:02:15",
+          "end_offset": "00:02:30"
+        },
+        {
+          "event_description": "Ross realizes that his birthday was seven months ago and questions Joey about the timing of the tickets.",
+          "involved_subjects": [
+            "Ross",
+            "Joey"
+          ],
+          "start_offset": "00:02:30",
+          "end_offset": "00:02:45"
+        },
+        {
+          "event_description": "Ross mentions that today is the anniversary of his first sexual encounter with Carol.",
+          "involved_subjects": [
+            "Ross"
+          ],
+          "start_offset": "00:02:45",
+          "end_offset": "00:02:50"
+        },
+        {
+          "event_description": "Ross decides to skip the hockey game and go home to think about his ex-wife and her new partner.",
+          "involved_subjects": [
+            "Ross"
+          ],
+          "start_offset": "00:02:50",
+          "end_offset": "00:02:55"
+        },
+        {
+          "event_description": "Rachel receives her first paycheck and expresses disappointment about the deductions and the value of her work.",
+          "involved_subjects": [
+            "Rachel"
+          ],
+          "start_offset": "00:03:10",
+          "end_offset": "00:03:30"
+        },
+        {
+          "event_description": "Rachel's friends Leslie, Kiki, and Joanne arrive at Central Perk, greet her enthusiastically, and share their personal news with her.",
+          "involved_subjects": [
+            "Rachel",
+            "Leslie",
+            "Kiki",
+            "Joanne"
+          ],
+          "start_offset": "00:03:50",
+          "end_offset": "00:04:20"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: A Street, Chandler and Joey are kicking a can to\neach other.]",
+      "dialogue": [
+        {
+          "speaker": "CHANDLER",
+          "text": "...Poulet passes it up to Leetch! (Passes it to Joey.)"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Leetch spots Messier in the crease- there's the pass! (He kicks it to Ross, but Ross is staring into a shop window.)"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "We'll take a brief time out while Messier stops to look at some women's shoes."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Carol was wearing boots just like those the night that we- we first- y'know. Fact, she, uh- she never took'em off, 'cause we-we- (off Chandler's look) Sorry. Sorry."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "What?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Peach pit."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Yes, Bunny?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "(points) Peach pit. That night we, uh- we had-"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "-Peaches?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Actually, nectarines, but basically..."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "(to Joey) Could've been a peach."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Then, uh, then we got dressed, and I-I... I walked her to the- (looks up, realises, and points) -the bus stop... I'm fine."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Hey, that woman's got an ass like Carol's! (They turn to stare at him.) What? Thought we were trying to find stuff."
+        }
+      ],
+      "location": "A Street",
+      "subjects": [
+        "CHANDLER",
+        "ROSS",
+        "JOEY"
+      ],
+      "clip_start": "00:06:11",
+      "clip_end": "00:07:19",
+      "srt_start": "00:06:56,783",
+      "srt_end": "00:08:02,940",
+      "context_label": "0104_scene_001_A Street",
+      "event_description": "[Scene: A Street, Chandler and Joey are kicking a can to\neach other.]",
+      "events": [
+        {
+          "event_description": "Chandler passes the puck to Joey during the street hockey game.",
+          "involved_subjects": [
+            "CHANDLER",
+            "JOEY"
+          ],
+          "start_offset": "00:06:11",
+          "end_offset": "00:06:15"
+        },
+        {
+          "event_description": "Joey kicks the puck to Ross while playing street hockey.",
+          "involved_subjects": [
+            "JOEY",
+            "ROSS"
+          ],
+          "start_offset": "00:06:15",
+          "end_offset": "00:06:19"
+        },
+        {
+          "event_description": "Ross stares into a shop window instead of catching the puck.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:06:16",
+          "end_offset": "00:06:19"
+        },
+        {
+          "event_description": "Chandler comments that they will take a brief time out while Messier looks at women's shoes.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:06:19",
+          "end_offset": "00:06:21"
+        },
+        {
+          "event_description": "Ross reminisces about Carol wearing boots similar to those in the shop window on the night they first met.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:06:21",
+          "end_offset": "00:06:25"
+        },
+        {
+          "event_description": "Ross mentions that Carol never took off her boots from that night.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:06:25",
+          "end_offset": "00:06:27"
+        },
+        {
+          "event_description": "Ross attempts to recall the details of that night, mentioning walking Carol to the bus stop.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:06:27",
+          "end_offset": "00:06:30"
+        },
+        {
+          "event_description": "Joey comments on a woman's physical appearance, comparing her to Carol.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:07:17",
+          "end_offset": "00:07:19"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Central Perk, Rachel, Lesile, Kiki, and Joanne are\ntalking.]",
+      "dialogue": [
+        {
+          "speaker": "RACHEL",
+          "text": "So c'mon, you guys, tell me all the dirt!"
+        },
+        {
+          "speaker": "KIKI",
+          "text": "Well, the biggest news is still you dumping Barry at the altar!"
+        },
+        {
+          "speaker": "JOANNE",
+          "text": "Alright. Let's talk reality for a second."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Okay."
+        },
+        {
+          "speaker": "JOANNE",
+          "text": "When are you coming home?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "What? Guys, I'm not."
+        },
+        {
+          "speaker": "JOANNE",
+          "text": "C'mon, this is us."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "I'm not! This is what I'm doing now. I've got this job-"
+        },
+        {
+          "speaker": "KIKI",
+          "text": "Waitressing?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Okay, I'm not just waitressing. I'm.. I, um... I write the specials on the specials board, and, uh... and I, uh... I take the uh dead flowers out of the vase... Oh, and, um, sometimes Artelle lets me put the little chocolate blobbies on the cookies."
+        },
+        {
+          "speaker": "LESLIE",
+          "text": "Well. Your mom didn't tell us about the blobbies."
+        }
+      ],
+      "location": "Central Perk",
+      "subjects": [
+        "RACHEL",
+        "LESLIE",
+        "JOANNE",
+        "KIKI"
+      ],
+      "clip_start": "00:07:20",
+      "clip_end": "00:08:23",
+      "srt_start": "00:08:03,850",
+      "srt_end": "00:09:05,971",
+      "context_label": "0104_scene_002_Central Perk",
+      "event_description": "[Scene: Central Perk, Rachel, Lesile, Kiki, and Joanne are\ntalking.]",
+      "events": [
+        {
+          "event_description": "Rachel asks the group to share gossip about her situation.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:07:20",
+          "end_offset": "00:07:22"
+        },
+        {
+          "event_description": "Kiki reveals that the biggest news is Rachel dumping Barry at the altar.",
+          "involved_subjects": [
+            "KIKI"
+          ],
+          "start_offset": "00:07:22",
+          "end_offset": "00:07:24"
+        },
+        {
+          "event_description": "Joanne questions Rachel about when she is coming home.",
+          "involved_subjects": [
+            "JOANNE"
+          ],
+          "start_offset": "00:07:24",
+          "end_offset": "00:07:26"
+        },
+        {
+          "event_description": "Rachel denies plans to come home and states she is doing her current activities.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:07:26",
+          "end_offset": "00:07:28"
+        },
+        {
+          "event_description": "Rachel explains her job involves writing specials on the board, removing dead flowers, and placing chocolate blobs on cookies.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:07:28",
+          "end_offset": "00:07:35"
+        },
+        {
+          "event_description": "Kiki comments that Leslie's mother didn't tell them about the chocolate blobs.",
+          "involved_subjects": [
+            "KIKI",
+            "LESLIE"
+          ],
+          "start_offset": "00:07:35",
+          "end_offset": "00:07:37"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, Phoebe and Monica are in\npajamas and Monica is making something in the blender as Rachel enters.]",
+      "dialogue": [
+        {
+          "speaker": "MONICA",
+          "text": "Hey, Rach. How was it with your friends? (She and Phoebe scream.) Okay! How would you like some Tiki Death Punch? (She pours the contents of the blender into some glasses.)"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "What's that?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Weeeell, it's rum, and-"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Okay. (Grabs the blender and starts to drink.)"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "We thought since Phoebe was staying over tonight we'd have kinda like a slumber party thing. We got some trashy magazines, we got cookie dough, we got Twister ... (The phone rings and Monica answers it.)"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Ooh! Ooh! And I brought Operation ! But, um, I lost the tweezers, so we can't operate. But we can prep the guy!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Uh, Rach, it's the Visa card people."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh, God, ask them what they want."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "(on phone) Could you please tell me what this is in reference to? (Listens) Yes, hold on. (To Rachel) Um, they say there's been some unusual activity on your account."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "But I haven't used my card in weeks!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "That is the unusual activity. Look, they just wanna see if you're okay."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "They wanna know if I'm okay. Okay.. they wanna know if I'm okay, okay, let's see. Well, let's see, the FICA guys took all my money, everyone I know is either getting married, or getting promoted, or getting pregnant, and I'm getting coffee! And it's not even for me! So if that sounds like I'm okay, okay, then you can tell them I'm okay, okay?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "(pauses then on the phone) Uh- Rachel has left the building, can you call back?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Alright, c'mon! (Miserably) Let's play Twister !"
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "RACHEL",
+        "PHOEBE",
+        "MONICA"
+      ],
+      "clip_start": "00:08:24",
+      "clip_end": "00:10:05",
+      "srt_start": "00:09:16,022",
+      "srt_end": "00:10:47,372",
+      "context_label": "0104_scene_003_Monica and Rachel's",
+      "event_description": "[Scene: Monica and Rachel's, Phoebe and Monica are in\npajamas and Monica is making something in the blender as Rachel enters.]",
+      "events": [
+        {
+          "event_description": "Monica greets Rachel and asks about her time with friends.",
+          "involved_subjects": [
+            "MONICA",
+            "RACHEL"
+          ],
+          "start_offset": "00:08:24",
+          "end_offset": "00:08:30"
+        },
+        {
+          "event_description": "Monica and Phoebe scream together after Monica asks about Tiki Death Punch.",
+          "involved_subjects": [
+            "MONICA",
+            "PHOEBE"
+          ],
+          "start_offset": "00:08:30",
+          "end_offset": "00:08:35"
+        },
+        {
+          "event_description": "Monica pours the contents of the blender into glasses to serve Tiki Death Punch.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:08:35",
+          "end_offset": "00:08:40"
+        },
+        {
+          "event_description": "Rachel questions what the Tiki Death Punch is.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:08:40",
+          "end_offset": "00:08:42"
+        },
+        {
+          "event_description": "Monica explains the ingredients of the Tiki Death Punch to Rachel.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:08:42",
+          "end_offset": "00:08:50"
+        },
+        {
+          "event_description": "Rachel starts to drink from the blender.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:08:50",
+          "end_offset": "00:08:55"
+        },
+        {
+          "event_description": "Monica answers the phone and informs Rachel about the Visa card activity.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:09:00",
+          "end_offset": "00:09:10"
+        },
+        {
+          "event_description": "Rachel reacts to the news of unusual activity on her credit card and discusses her financial situation.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:09:10",
+          "end_offset": "00:09:30"
+        },
+        {
+          "event_description": "Monica informs the credit card company that Rachel has left the building and ends the call.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:09:30",
+          "end_offset": "00:09:35"
+        },
+        {
+          "event_description": "Rachel, feeling miserable, suggests playing Twister.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:09:35",
+          "end_offset": "00:09:45"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Madison Square Garden , the guys are trying\nto find their seats.]",
+      "dialogue": [
+        {
+          "speaker": "ROSS",
+          "text": "(squeezing past people) Sorry, sorry... Uh-oh."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "What? There was ice there that night with Carol? Plastic seats? Four thousand angry Pittsburgh fans?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "No, actually I was just saying it looks like we're not sitting together. But now you mention it, there was ice there that night... It was the first frost..."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "C'mon, sit. Just sit down, sit."
+        }
+      ],
+      "location": "Madison Square Garden",
+      "subjects": [
+        "CHANDLER",
+        "ROSS",
+        "JOEY"
+      ],
+      "clip_start": "00:10:07",
+      "clip_end": "00:10:38",
+      "srt_start": "00:10:55,521",
+      "srt_end": "00:11:21,977",
+      "context_label": "0104_scene_004_Madison Square Garden",
+      "event_description": "[Scene: Madison Square Garden , the guys are trying\nto find their seats.]",
+      "events": [
+        {
+          "event_description": "Ross squeezes past people in the crowd at Madison Square Garden.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:10:07",
+          "end_offset": "00:10:08"
+        },
+        {
+          "event_description": "Ross comments on the possibility of ice on the floor and mentions the first frost.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:10:08",
+          "end_offset": "00:10:12"
+        },
+        {
+          "event_description": "Chandler questions whether there was ice on the night with Carol, plastic seats, and angry Pittsburgh fans.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:10:12",
+          "end_offset": "00:10:15"
+        },
+        {
+          "event_description": "Ross clarifies that he was referring to the fact that they might not be sitting together, then recalls the first frost that night.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:10:15",
+          "end_offset": "00:10:20"
+        },
+        {
+          "event_description": "Joey encourages the others to sit down and settle in.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:10:20",
+          "end_offset": "00:10:22"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, they're all hanging out in the\nliving room.]",
+      "dialogue": [
+        {
+          "speaker": "MONICA",
+          "text": "You should feel great about yourself! You're doing this amazing independence thing!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Monica, what is so amazing? I gave up, like, everything. And for what?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "You are just like Jack."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "...Jack from downstairs?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "No, Jack and the Beanstalk."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Ah, the other Jack."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Yeah, right! See, he gave up something, but then he got those magic beans. And then he woke up, and there was this, this big plant outside his window, full of possibilities and stuff.. And he lived in a village, and you live in the Village.."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Okay, but Pheebs, Pheebs, Jack gave up a cow, I gave up an orthodontist. Okay, I-I-I know, I know I didn't love him-"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, see, Jack did love the cow."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "But see, it was a plan. Y'know, it was clear. It was figured out, and now everything's just kinda like..."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Floopy?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "So what, you're not the only one. I mean, half the time we don't know where we're going. You've just gotta figure at some point it's all gonna come together, and it's just gonna be... un-floopy."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, like that's a word."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Okay, but Monica, what if- what if it doesn't come together?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "...Pheebs?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, well... 'cause.... you just... I don't like this question."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Okay, see, see, you guys, what if we don't get magic beans? I mean, what if all we've got are.. beans?"
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "RACHEL",
+        "PHOEBE",
+        "MONICA"
+      ],
+      "clip_start": "00:10:39",
+      "clip_end": "00:12:15",
+      "srt_start": "00:11:22,181",
+      "srt_end": "00:12:56,203",
+      "context_label": "0104_scene_005_Monica and Rachel's",
+      "event_description": "[Scene: Monica and Rachel's, they're all hanging out in the\nliving room.]",
+      "events": [
+        {
+          "event_description": "Monica encourages Rachel about her independence, praising her for doing well.",
+          "involved_subjects": [
+            "MONICA",
+            "RACHEL"
+          ],
+          "start_offset": "00:10:39",
+          "end_offset": "00:10:45"
+        },
+        {
+          "event_description": "Rachel questions the value of her sacrifices, expressing doubt about her choices.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:10:45",
+          "end_offset": "00:10:50"
+        },
+        {
+          "event_description": "Phoebe compares Rachel to Jack from the Beanstalk, implying a story of giving up something for potential gains.",
+          "involved_subjects": [
+            "PHOEBE",
+            "RACHEL"
+          ],
+          "start_offset": "00:10:50",
+          "end_offset": "00:10:55"
+        },
+        {
+          "event_description": "Phoebe explains the story of Jack and the Beanstalk, emphasizing the theme of taking risks for possibilities.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:10:55",
+          "end_offset": "00:11:05"
+        },
+        {
+          "event_description": "Rachel compares her sacrifices to Jack's, noting she gave up an orthodontist instead of a cow.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:11:05",
+          "end_offset": "00:11:10"
+        },
+        {
+          "event_description": "Rachel expresses concern that her life feels 'floopy' and unorganized.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:11:10",
+          "end_offset": "00:11:15"
+        },
+        {
+          "event_description": "Monica reassures Rachel that not knowing the future is common and encourages her to believe things will come together.",
+          "involved_subjects": [
+            "MONICA",
+            "RACHEL"
+          ],
+          "start_offset": "00:11:15",
+          "end_offset": "00:11:25"
+        },
+        {
+          "event_description": "Phoebe dismisses the idea that everything will come together, indicating discomfort with the question.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:11:25",
+          "end_offset": "00:11:30"
+        },
+        {
+          "event_description": "Rachel worries about not getting 'magic beans' and only having 'beans' instead, symbolizing her fears about her future.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:11:30",
+          "end_offset": "00:12:00"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Madison Square Garden , the guys are\nwatching the game.]",
+      "dialogue": [
+        {
+          "speaker": "ROSS",
+          "text": "Get him! GET HIM! Get him! Get- YESSS! Not laughing now, are ya pal!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "(to Ross) See buddy, that's all you need, a bunch of toothless guys hitting each other with sticks."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Pass it! Pass it!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "He's open!"
+        },
+        {
+          "speaker": "ALL",
+          "text": "Shoot! Shoot! Shoot!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Hey, look, we're on that TV thing!"
+        }
+      ],
+      "location": "Madison Square Garden",
+      "subjects": [
+        "CHANDLER",
+        "ROSS"
+      ],
+      "clip_start": "00:12:17",
+      "clip_end": "00:12:48",
+      "srt_start": "00:12:59,612",
+      "srt_end": "00:13:25,296",
+      "context_label": "0104_scene_006_Madison Square Garden",
+      "event_description": "[Scene: Madison Square Garden , the guys are\nwatching the game.]",
+      "events": [
+        {
+          "event_description": "Ross encourages the crowd to cheer for a player, shouting \"Get him! GET HIM!\" and celebrating a successful play with \"YESSS!\".",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:12:17",
+          "end_offset": "00:12:20"
+        },
+        {
+          "event_description": "Ross exclaims triumphantly, \"Not laughing now, are ya pal!\" after a play, indicating his excitement.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:12:20",
+          "end_offset": "00:12:23"
+        },
+        {
+          "event_description": "Chandler comments to Ross that the game involves aggressive players hitting each other with sticks.",
+          "involved_subjects": [
+            "CHANDLER",
+            "ROSS"
+          ],
+          "start_offset": "00:12:23",
+          "end_offset": "00:12:26"
+        },
+        {
+          "event_description": "Ross urges teammates or players to pass the puck or ball, shouting \"Pass it! Pass it!\".",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:12:26",
+          "end_offset": "00:12:28"
+        },
+        {
+          "event_description": "Chandler points out an open player, saying \"He's open!\" to the others.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:12:28",
+          "end_offset": "00:12:30"
+        },
+        {
+          "event_description": "All characters collectively encourage the players to shoot, shouting \"Shoot! Shoot! Shoot!\".",
+          "involved_subjects": [
+            "CHANDLER",
+            "ROSS"
+          ],
+          "start_offset": "00:12:30",
+          "end_offset": "00:12:33"
+        },
+        {
+          "event_description": "Chandler remarks that they are on the television broadcast, saying \"Hey, look, we're on that TV thing!\".",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:12:33",
+          "end_offset": "00:12:36"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: An Emergency Room, Chandler and Joey are leading\nRoss in.]",
+      "dialogue": [
+        {
+          "speaker": "CHANDLER",
+          "text": "(to the receptionist)'Scuse me."
+        },
+        {
+          "speaker": "RECEPTIONIST",
+          "text": "(holds up her hand—she is on the phone) It says to call this number if you're not completely satisfied with this candy bar. Well, I'm not completely satisfied."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Listen, it's kind of an emergency. Well, I guess you know that, or we'd be in the predicament room. (The receptionist glares at him.)"
+        },
+        {
+          "speaker": "RECEPTIONIST",
+          "text": "(on phone) Hold on. (To Chandler) Fill these out, sit over there. (Tosses him some forms.)"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "(jumping to his feet) Look, I don't wanna make any trouble, okay, but I'm in a lot of pain here, alright? My face is dented ."
+        },
+        {
+          "speaker": "RECEPTIONIST",
+          "text": "Well, you'll have to wait your turn."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Well, how long do you think it'll be?"
+        },
+        {
+          "speaker": "RECEPTIONIST",
+          "text": "(sarcastic) Any minute now."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Hey, this- (she gives him a look and the guys back off) Heyy..."
+        }
+      ],
+      "location": "An Emergency Room",
+      "subjects": [
+        "RECEPTIONIST",
+        "CHANDLER",
+        "ROSS",
+        "JOEY"
+      ],
+      "clip_start": "00:12:52",
+      "clip_end": "00:13:40",
+      "srt_start": "00:13:36,215",
+      "srt_end": " 00:14:20,016",
+      "context_label": "0104_scene_007_An Emergency Room",
+      "event_description": "[Scene: An Emergency Room, Chandler and Joey are leading\nRoss in.]",
+      "events": [
+        {
+          "event_description": "Chandler approaches the receptionist and addresses her with 'Scuse me.'",
+          "involved_subjects": [
+            "CHANDLER",
+            "RECEPTIONIST"
+          ],
+          "start_offset": "00:12:52",
+          "end_offset": "00:12:54"
+        },
+        {
+          "event_description": "The receptionist, on the phone, holds up her hand and responds about a candy bar satisfaction issue.",
+          "involved_subjects": [
+            "RECEPTIONIST"
+          ],
+          "start_offset": "00:12:54",
+          "end_offset": "00:12:58"
+        },
+        {
+          "event_description": "Chandler states there's an emergency and references the predicament room.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:12:58",
+          "end_offset": "00:13:02"
+        },
+        {
+          "event_description": "The receptionist glares at Chandler after his comment.",
+          "involved_subjects": [
+            "RECEPTIONIST"
+          ],
+          "start_offset": "00:13:02",
+          "end_offset": "00:13:04"
+        },
+        {
+          "event_description": "The receptionist instructs Chandler to fill out forms and sit over there, tossing him some forms.",
+          "involved_subjects": [
+            "RECEPTIONIST",
+            "CHANDLER"
+          ],
+          "start_offset": "00:13:04",
+          "end_offset": "00:13:08"
+        },
+        {
+          "event_description": "Ross jumps to his feet and states he is in a lot of pain and his face is dented.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:13:08",
+          "end_offset": "00:13:12"
+        },
+        {
+          "event_description": "The receptionist tells Ross he will have to wait his turn.",
+          "involved_subjects": [
+            "RECEPTIONIST",
+            "ROSS"
+          ],
+          "start_offset": "00:13:12",
+          "end_offset": "00:13:14"
+        },
+        {
+          "event_description": "Joey asks how long it will be before they are seen.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:13:14",
+          "end_offset": "00:13:16"
+        },
+        {
+          "event_description": "The receptionist sarcastically responds that they will be seen 'any minute now.'",
+          "involved_subjects": [
+            "RECEPTIONIST"
+          ],
+          "start_offset": "00:13:16",
+          "end_offset": "00:13:18"
+        },
+        {
+          "event_description": "Ross attempts to speak again, but the receptionist gives him a look, causing the others to back off.",
+          "involved_subjects": [
+            "ROSS",
+            "RECEPTIONIST",
+            "CHANDLER",
+            "JOEY"
+          ],
+          "start_offset": "00:13:18",
+          "end_offset": "00:13:20"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, the slumber party continues.]",
+      "dialogue": [
+        {
+          "speaker": "RACHEL",
+          "text": "I'm so sorry, you guys. I didn't mean to bring you down."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "No, you were right. I don't have a plan. (There's a knock on the door.)"
+        },
+        {
+          "speaker": "PIZZA GUY",
+          "text": "(yelling from outside) Pizza guy!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Thank God. Food. (She goes to answer the door.)"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Phoebe?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "What?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Do you have a plan?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "I don't even have a 'pl'."
+        },
+        {
+          "speaker": "PIZZA GUY",
+          "text": "Hi, one, uh, mushroom, green pepper and onion?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(miserably) No, no, that's not what we ordered... We ordered a fat-free crust with extra cheese."
+        },
+        {
+          "speaker": "PIZZA GUY",
+          "text": "Wait, you're not 'G.Stephanopoulos?' Man, my dad's gonna kill me!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "(leaping off of the couch and runs up) Wait! Did you say 'G.Stephanopoulos?'"
+        },
+        {
+          "speaker": "PIZZA GUY",
+          "text": "Yeah. This one goes across the street, I must have given him yours. Oh, bonehead, bonehead!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Wait, was this a-a small mediterranean guy with curiously intelligent good looks?"
+        },
+        {
+          "speaker": "PIZZA GUY",
+          "text": "Yeah, that sounds about right."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Was he wearing a stunning blue suit?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "And-and a power tie?"
+        },
+        {
+          "speaker": "PIZZA GUY",
+          "text": "No, pretty much just a towel."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "(staggered) Oh God."
+        },
+        {
+          "speaker": "PIZZA GUY",
+          "text": "So you guys want me to take this back?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Are you nuts?! We've got George Stephanopoulos' pizza! (Rachel pays him, Monica grabs some binoculars, and runs to the window.)"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Uh, Pheebs? Who's George Snuffalopagus?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Big Bird's friend."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "I see pizza!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, I wanna see! Lemme see! Lemme see! (She runs up and takes the binoculars.)"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Hello? Who are we spying on?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "White House adviser? Clinton's campaign guy? The one with the great hair, sexy smile, really cute butt?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh, him, the little guy? Oh, I love him!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Ooh, wait.. wait, I see a woman."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Please tell me it's his mother."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Definitely not his mother."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Oh, no..."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, wait, she's walking across the floor.. she's walking.. she's walking.. she's going for the pizza- (Yelling) Hey, that's not for you, bitch! (Phoebe covers her mouth with her hand walks away from the window.)"
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "RACHEL",
+        "PIZZA GUY",
+        "PHOEBE",
+        "MONICA"
+      ],
+      "clip_start": "00:13:41",
+      "clip_end": "00:16:06",
+      "srt_start": "00:14:31,971",
+      "srt_end": "00:16:42,095",
+      "context_label": "0104_scene_008_Monica and Rachel's",
+      "event_description": "[Scene: Monica and Rachel's, the slumber party continues.]",
+      "events": [
+        {
+          "event_description": "Rachel apologizes to Monica, Rachel, and Phoebe for bringing them down.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:13:41",
+          "end_offset": "00:13:45"
+        },
+        {
+          "event_description": "Monica admits she doesn't have a plan and acknowledges her lack of preparation.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:13:45",
+          "end_offset": "00:13:50"
+        },
+        {
+          "event_description": "Pizza guy arrives at the door and announces his presence.",
+          "involved_subjects": [
+            "PIZZA GUY"
+          ],
+          "start_offset": "00:13:50",
+          "end_offset": "00:13:52"
+        },
+        {
+          "event_description": "Rachel goes to answer the door upon hearing the pizza delivery.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:13:52",
+          "end_offset": "00:13:55"
+        },
+        {
+          "event_description": "Monica questions Phoebe about her plan, which Phoebe admits she doesn't have.",
+          "involved_subjects": [
+            "MONICA",
+            "PHOEBE"
+          ],
+          "start_offset": "00:13:55",
+          "end_offset": "00:14:00"
+        },
+        {
+          "event_description": "Pizza guy delivers a pizza order and mentions a mix-up with another customer.",
+          "involved_subjects": [
+            "PIZZA GUY"
+          ],
+          "start_offset": "00:14:00",
+          "end_offset": "00:14:10"
+        },
+        {
+          "event_description": "Monica recognizes the pizza recipient as George Stephanopoulos and becomes excited.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:14:10",
+          "end_offset": "00:14:15"
+        },
+        {
+          "event_description": "Monica and Rachel observe the pizza delivery address and speculate about the recipient's appearance.",
+          "involved_subjects": [
+            "MONICA",
+            "RACHEL"
+          ],
+          "start_offset": "00:14:15",
+          "end_offset": "00:14:25"
+        },
+        {
+          "event_description": "Phoebe uses binoculars to look out the window and observes a woman approaching the pizza recipient.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:14:25",
+          "end_offset": "00:14:35"
+        },
+        {
+          "event_description": "Phoebe yells at the woman, telling her the pizza isn't for her, and then covers her mouth to stop herself from speaking further.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:14:35",
+          "end_offset": "00:14:45"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: The Emergency Room, Joey is miming hockey pucks\nkitting foreheads.  Chandler realises it's getting tense and goes to the receptionist\nagain.]",
+      "dialogue": [
+        {
+          "speaker": "CHANDLER",
+          "text": "Excuse me, look, we've been here for over an hour, and a lot of people less sick than my friend have gone in. I mean, that guy with the toe thing? Who's he sleeping with? (She slides the gladd panel over and Chandler talks through it in a loud voice.) Oh, c'mon Dora, don't be mad... I know we both said some things we didn't mean, but that doesn't mean we still don't love each other. (To the waiting room.) Y'know, I feel like I've lost her.. (She slides the panel back, he turns, and it takes him by surprise.) Ba-!"
+        }
+      ],
+      "location": "The Emergency Room",
+      "subjects": [
+        "CHANDLER"
+      ],
+      "clip_start": "00:16:07",
+      "clip_end": "00:17:16",
+      "srt_start": "00:16:57,082 ",
+      "srt_end": "00:17:24,067",
+      "context_label": "0104_scene_009_The Emergency Room",
+      "event_description": "[Scene: The Emergency Room, Joey is miming hockey pucks\nkitting foreheads.  Chandler realises it's getting tense and goes to the receptionist\nagain.]",
+      "events": [
+        {
+          "event_description": "Chandler approaches the receptionist to inquire about the wait time and the status of his friend.",
+          "involved_subjects": [
+            "Chandler",
+            "Receptionist"
+          ],
+          "start_offset": "00:16:07",
+          "end_offset": "00:16:20"
+        },
+        {
+          "event_description": "Chandler makes a sarcastic comment about a patient with a toe injury and their personal life.",
+          "involved_subjects": [
+            "Chandler"
+          ],
+          "start_offset": "00:16:20",
+          "end_offset": "00:16:30"
+        },
+        {
+          "event_description": "Chandler talks loudly through the sliding panel, addressing Dora and expressing feelings of loss regarding his relationship.",
+          "involved_subjects": [
+            "Chandler",
+            "Dora"
+          ],
+          "start_offset": "00:16:30",
+          "end_offset": "00:16:50"
+        },
+        {
+          "event_description": "Chandler turns to the waiting room and exclaims 'Ba-!', reacting to a surprise or realization.",
+          "involved_subjects": [
+            "Chandler"
+          ],
+          "start_offset": "00:16:50",
+          "end_offset": "00:17:00"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, the girls are all out on the\nbalcony.]",
+      "dialogue": [
+        {
+          "speaker": "MONICA",
+          "text": "Light still out?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Oh. Maybe they're- napping."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh please, they're having sex."
+        },
+        {
+          "speaker": "MONICA AND PHOEBE",
+          "text": "Shut up!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "So, whaddya think George is like?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "I think he's shy."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Yeah?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Yeah. I think you have to draw him out. And then- when you do- he's a preppy animal."
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "RACHEL",
+        "PHOEBE",
+        "MONICA"
+      ],
+      "clip_start": "00:17:18",
+      "clip_end": "00:18:14",
+      "srt_start": "00:17:58,010",
+      "srt_end": "00:18:26,094",
+      "context_label": "0104_scene_010_Monica and Rachel's",
+      "event_description": "[Scene: Monica and Rachel's, the girls are all out on the\nbalcony.]",
+      "events": [
+        {
+          "event_description": "Monica asks Rachel if the light is still on.",
+          "involved_subjects": [
+            "MONICA",
+            "RACHEL"
+          ],
+          "start_offset": "00:17:18",
+          "end_offset": "00:17:20"
+        },
+        {
+          "event_description": "Rachel responds that the light is still on.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:17:20",
+          "end_offset": "00:17:22"
+        },
+        {
+          "event_description": "Monica suggests that the people inside might be napping.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:17:22",
+          "end_offset": "00:17:24"
+        },
+        {
+          "event_description": "Rachel guesses that the people inside are having sex.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:17:24",
+          "end_offset": "00:17:26"
+        },
+        {
+          "event_description": "Monica and Phoebe tell Rachel to be quiet.",
+          "involved_subjects": [
+            "MONICA",
+            "PHOEBE"
+          ],
+          "start_offset": "00:17:26",
+          "end_offset": "00:17:28"
+        },
+        {
+          "event_description": "Rachel asks what George is like.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:17:28",
+          "end_offset": "00:17:30"
+        },
+        {
+          "event_description": "Monica describes George as shy.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:17:30",
+          "end_offset": "00:17:32"
+        },
+        {
+          "event_description": "Phoebe responds with interest to Monica’s description of George.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:17:32",
+          "end_offset": "00:17:34"
+        },
+        {
+          "event_description": "Monica elaborates that George needs to be drawn out and is a preppy animal when comfortable.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:17:34",
+          "end_offset": "00:17:36"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: The Emergency Room, Ross is still going on about\nhis first night with Carol.]",
+      "dialogue": [
+        {
+          "speaker": "ROSS",
+          "text": "I remember the moonlight coming through the window- and her face had the most incredible glow."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Yes, the moon, the glow, the magical feeling, you did this part- Could I get some painkillers over here, please?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "He's right, enough, already. What is the big deal about today? So you slept with her for the first time, so what? You slept with her for seven years after that."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Look, it's just a little more complicated..."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Well, what? What? What is it? That she left you? That she likes women? That she left you for another woman that likes women?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Little louder, okay, I think there's a man on the twelfth floor in a coma that didn't quite hear you..."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Then what?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "My first time with Carol was... (He mumbles the last part)"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "What?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "It was my first time ."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "With Carol? (Ross gives him a look.) Oh."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "So in your whole life, you've only been with one—(He gets a look too)—oh."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Whoah, boy, hockey was a big mistake! There was a whole bunch of stuff we could've done tonight!"
+        }
+      ],
+      "location": "The Emergency Room",
+      "subjects": [
+        "CHANDLER",
+        "ROSS",
+        "JOEY"
+      ],
+      "clip_start": "00:18:15",
+      "clip_end": "00:20:31",
+      "srt_start": "00:19:46,318",
+      "srt_end": "00:21:07,220",
+      "context_label": "0104_scene_011_The Emergency Room",
+      "event_description": "[Scene: The Emergency Room, Ross is still going on about\nhis first night with Carol.]",
+      "events": [
+        {
+          "event_description": "Ross describes the moonlight coming through the window and Carol's face having an incredible glow during his first night with her.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:18:15",
+          "end_offset": "00:18:25"
+        },
+        {
+          "event_description": "Chandler requests painkillers from medical staff.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:18:25",
+          "end_offset": "00:18:30"
+        },
+        {
+          "event_description": "Joey expresses frustration and questions the significance of Ross's first night with Carol.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:18:30",
+          "end_offset": "00:18:40"
+        },
+        {
+          "event_description": "Ross attempts to explain that his first night with Carol was more complicated than just a casual event.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:18:40",
+          "end_offset": "00:18:50"
+        },
+        {
+          "event_description": "Chandler guesses that Ross's feelings are about Carol leaving him or her liking women.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:18:50",
+          "end_offset": "00:19:00"
+        },
+        {
+          "event_description": "Ross sarcastically comments that a man on the twelfth floor in a coma didn't hear Chandler's comment.",
+          "involved_subjects": [
+            "ROSS",
+            "CHANDLER"
+          ],
+          "start_offset": "00:19:00",
+          "end_offset": "00:19:10"
+        },
+        {
+          "event_description": "Ross mumbles that his first time with Carol was his first time ever.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:19:10",
+          "end_offset": "00:19:15"
+        },
+        {
+          "event_description": "Joey asks for clarification about Ross's statement, implying surprise.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:19:15",
+          "end_offset": "00:19:20"
+        },
+        {
+          "event_description": "Ross confirms to Joey that he had his first time with Carol.",
+          "involved_subjects": [
+            "ROSS",
+            "JOEY"
+          ],
+          "start_offset": "00:19:20",
+          "end_offset": "00:19:25"
+        },
+        {
+          "event_description": "Joey reacts with shock and comments that hockey was a big mistake, implying regret about missed opportunities.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:19:25",
+          "end_offset": "00:19:31"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, the girls are still out on the\nbalcony.]",
+      "dialogue": [
+        {
+          "speaker": "MONICA",
+          "text": "Okay. Okay, I got one. Do you remember that vegetarian pate that I made that you loved so much?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Uh-huh."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Well, unless goose is a vegetable...ha haaaah!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh! Oh! Oh! Okay, fine, fine. Now I don't feel so bad about sleeping with Jason Hurley."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "What?! You slept with Jason?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "You'd already broken up."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "How long?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "A couple hours."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Oh, that's nice!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Okay, okay, okay, I got one! (She sits up and the cushion she was leaning against falls off of the balcony.) Anyway- The valentine Tommy Rollerson left in your locker was really from me."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Excuse me?!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Hello? Like he was really gonna send you one? (To Phoebe) She was a big girl ."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Really. Well, at least 'big girls' don't pee in their pants in seventh grade!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "I was laughing! You made me laugh! (Monica and Rachel start to squabble)"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "There he is! There he is!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Where?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Right- where we've been looking all night!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "He is so cute!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Oh, George, baby, drop the towel!"
+        },
+        {
+          "speaker": "ALL",
+          "text": "Yeah, drop it! Drop the towel! Please drop the (pause) wowww."
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "RACHEL",
+        "PHOEBE",
+        "MONICA"
+      ],
+      "clip_start": "00:20:33",
+      "clip_end": "00:21:53",
+      "srt_start": "00:21:08,867",
+      "srt_end": "00:22:26,803",
+      "context_label": "0104_scene_012_Monica and Rachel's",
+      "event_description": "[Scene: Monica and Rachel's, the girls are still out on the\nbalcony.]",
+      "events": [
+        {
+          "event_description": "Monica asks Phoebe if she remembers a vegetarian pate she made that Phoebe liked.",
+          "involved_subjects": [
+            "MONICA",
+            "PHOEBE"
+          ],
+          "start_offset": "00:20:33",
+          "end_offset": "00:20:36"
+        },
+        {
+          "event_description": "Phoebe responds affirmatively to Monica's question about the vegetarian pate.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:20:36",
+          "end_offset": "00:20:37"
+        },
+        {
+          "event_description": "Monica jokes that goose is not a vegetable, implying her vegetarian pate contains goose.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:20:37",
+          "end_offset": "00:20:39"
+        },
+        {
+          "event_description": "Phoebe admits to sleeping with Jason Hurley, explaining it was after her breakup.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:20:39",
+          "end_offset": "00:20:42"
+        },
+        {
+          "event_description": "Monica exclaims in surprise upon learning Phoebe slept with Jason Hurley.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:20:42",
+          "end_offset": "00:20:44"
+        },
+        {
+          "event_description": "Rachel asks how long Phoebe's relationship with Jason Hurley lasted.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:20:44",
+          "end_offset": "00:20:45"
+        },
+        {
+          "event_description": "Phoebe states that she slept with Jason Hurley for a couple of hours.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:20:45",
+          "end_offset": "00:20:47"
+        },
+        {
+          "event_description": "Rachel reveals that the Valentine Tommy Rollerson left in Monica's locker was from her.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:20:47",
+          "end_offset": "00:20:50"
+        },
+        {
+          "event_description": "Rachel mocks Monica's disbelief about the Valentine being from Tommy Rollerson.",
+          "involved_subjects": [
+            "RACHEL",
+            "MONICA"
+          ],
+          "start_offset": "00:20:50",
+          "end_offset": "00:20:52"
+        },
+        {
+          "event_description": "Rachel and Monica begin to squabble over the Valentine and related teasing.",
+          "involved_subjects": [
+            "RACHEL",
+            "MONICA"
+          ],
+          "start_offset": "00:20:52",
+          "end_offset": "00:20:55"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: The Emergency Room, Ross is absent.]",
+      "dialogue": [
+        {
+          "speaker": "JOEY",
+          "text": "Man. Can you believe he's only had sex with one woman?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "I think it's great. Y'know, it's sweet, it's romantic..."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Really?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "No, you kidding? The guy's a freak.. (Ross enters off camera)"
+        },
+        {
+          "speaker": "BOTH",
+          "text": "Hey, buddy."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Hi. (He is wearing a piece of steel bandaged to his nose. He tosses some forms onto reception desk.)"
+        },
+        {
+          "speaker": "RECEPTIONIST",
+          "text": "(sarcastic) Oh, that's attractive."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Oh, I thought you were great in Silence of the Lambs. Oh come on, admit it! All things considered, you had fun tonight."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Fun? Where was the fun? Tell me specifically, which part was the fun part? Where's my puck?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Oh, ah- the kid has it."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "The kid...? (To the kid) Excuse me, uh, that's, that's my puck."
+        },
+        {
+          "speaker": "KID",
+          "text": "I found it. Finders keepers, losers weepers. (Ross looks at Chandler for help.)"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "You gotta do it, man."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "(to the kid) Oh yeah? Well, I'm rubber, you're glue, whatever—(to Chandler)—can't do it. (to the kid) Listen, uh- gimme back my puck."
+        },
+        {
+          "speaker": "KID",
+          "text": "No."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "'Yes', how about. C'mere. Gimme!"
+        },
+        {
+          "speaker": "KID",
+          "text": "No! No! (They start to fight over it.)"
+        },
+        {
+          "speaker": "RECEPTIONIST",
+          "text": "Hey! Hey! No rough holding in my ER!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "(tries to snatch it from the kid) GIVE ME MY PUCK!! (but it files out of his grasp and knocks out the receptionist)"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "...Now that was fun."
+        }
+      ],
+      "location": "The Emergency Room",
+      "subjects": [
+        "ROSS",
+        "JOEY",
+        "RECEPTIONIST",
+        "CHANDLER",
+        "KID"
+      ],
+      "clip_start": "00:21:55",
+      "clip_end": "00:23:21",
+      "srt_start": "00:22:29,614",
+      "srt_end": "00:23:53,694",
+      "context_label": "0104_scene_013_The Emergency Room",
+      "event_description": "[Scene: The Emergency Room, Ross is absent.]",
+      "events": [
+        {
+          "event_description": "Ross enters the emergency room with a steel bandaged nose and places forms on the reception desk.",
+          "involved_subjects": [
+            "ROSS",
+            "RECEPTIONIST"
+          ],
+          "start_offset": "00:21:55",
+          "end_offset": "00:22:05"
+        },
+        {
+          "event_description": "Chandler sarcastically comments on Ross's appearance, referencing Silence of the Lambs.",
+          "involved_subjects": [
+            "CHANDLER",
+            "ROSS"
+          ],
+          "start_offset": "00:22:05",
+          "end_offset": "00:22:10"
+        },
+        {
+          "event_description": "Joey comments on a woman having only had sex with one man.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:22:10",
+          "end_offset": "00:22:15"
+        },
+        {
+          "event_description": "Chandler jokes that Ross had fun tonight, implying Ross's injury was related to a romantic encounter.",
+          "involved_subjects": [
+            "CHANDLER",
+            "ROSS"
+          ],
+          "start_offset": "00:22:15",
+          "end_offset": "00:22:20"
+        },
+        {
+          "event_description": "Ross questions the location of the fun part of his night and asks about his puck.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:22:20",
+          "end_offset": "00:22:25"
+        },
+        {
+          "event_description": "Joey informs Ross that the kid has his puck.",
+          "involved_subjects": [
+            "JOEY",
+            "ROSS"
+          ],
+          "start_offset": "00:22:25",
+          "end_offset": "00:22:30"
+        },
+        {
+          "event_description": "Ross attempts to retrieve his puck from the kid, asking him to give it back.",
+          "involved_subjects": [
+            "ROSS",
+            "KID"
+          ],
+          "start_offset": "00:22:30",
+          "end_offset": "00:22:35"
+        },
+        {
+          "event_description": "The kid refuses to give the puck back, saying 'Finders keepers, losers weepers'.",
+          "involved_subjects": [
+            "KID"
+          ],
+          "start_offset": "00:22:35",
+          "end_offset": "00:22:40"
+        },
+        {
+          "event_description": "Ross tries to snatch the puck from the kid, leading to a physical struggle.",
+          "involved_subjects": [
+            "ROSS",
+            "KID"
+          ],
+          "start_offset": "00:22:40",
+          "end_offset": "00:22:50"
+        },
+        {
+          "event_description": "The receptionist intervenes, telling Ross and the kid to stop roughhousing in the ER, and Ross's attempt to grab the puck causes it to knock out the receptionist.",
+          "involved_subjects": [
+            "RECEPTIONIST",
+            "ROSS",
+            "KID"
+          ],
+          "start_offset": "00:22:50",
+          "end_offset": "00:23:00"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, Joey and the girls are playing\ntwister.]",
+      "dialogue": [
+        {
+          "speaker": "ROSS",
+          "text": "(Doing the spinning) Okay,"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Right foot red."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Could've played Monopoly , but nooooo."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Thanks. (The guy nods and leaves)"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Okay,"
+        },
+        {
+          "speaker": "PHEEBS",
+          "text": "Right hand blue. (Phoebe has to bend over.)Good. (Joey stares at her butt appreciatively)"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Hello? Oh, uh, Rachel, it's the Visa card people."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh, okay. Will you take my place?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Alright. (on phone) Yes, this is Rachel."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Nooo! (She grabs the phone and Chandler takes her place on the mat.) (On phone) Hello? (Listens) Oh, yeah, no, I know, I-I haven't been using it much. (Listens) Oh, well, thanks, but, I'm okay, really."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Green. To the green."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(on phone) I've got magic beans. (Listens) Never-never mind."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "To the left, to the left- aww! (They all collapse)"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(on phone) Ohhh... I'm fine."
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "ROSS",
+        "RACHEL",
+        "CHANDLER",
+        "MONICA",
+        "PHEEBS"
+      ],
+      "clip_start": "00:23:23",
+      "clip_end": "00:24:47",
+      "srt_start": "00:23:59,104",
+      "srt_end": "00:25:21,780",
+      "context_label": "0104_scene_014_Monica and Rachel's",
+      "event_description": "[Scene: Monica and Rachel's, Joey and the girls are playing\ntwister.]",
+      "events": [
+        {
+          "event_description": "Ross spins the bottle to determine the next move in the game.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:23:23",
+          "end_offset": "00:23:25"
+        },
+        {
+          "event_description": "Monica instructs to move the right foot to the red spot on the Twister mat.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:23:25",
+          "end_offset": "00:23:27"
+        },
+        {
+          "event_description": "Chandler responds to Monica's comment about playing Monopoly.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:23:27",
+          "end_offset": "00:23:29"
+        },
+        {
+          "event_description": "Phoebe announces her move to place her right hand on the blue spot, bending over.",
+          "involved_subjects": [
+            "PHEEBS"
+          ],
+          "start_offset": "00:23:29",
+          "end_offset": "00:23:31"
+        },
+        {
+          "event_description": "Joey stares appreciatively at Phoebe's butt while she bends over.",
+          "involved_subjects": [
+            "JOEY",
+            "PHEEBS"
+          ],
+          "start_offset": "00:23:31",
+          "end_offset": "00:23:33"
+        },
+        {
+          "event_description": "Chandler receives a phone call from the Visa card company and informs Rachel to take his place in the game.",
+          "involved_subjects": [
+            "CHANDLER",
+            "RACHEL"
+          ],
+          "start_offset": "00:23:33",
+          "end_offset": "00:23:37"
+        },
+        {
+          "event_description": "Rachel takes the phone from Chandler and begins speaking to the Visa company, indicating she will take Chandler's place in the game.",
+          "involved_subjects": [
+            "RACHEL",
+            "CHANDLER"
+          ],
+          "start_offset": "00:23:37",
+          "end_offset": "00:23:41"
+        },
+        {
+          "event_description": "Rachel pretends to speak to the Visa company, claiming she hasn't been using her card much.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:23:41",
+          "end_offset": "00:23:43"
+        },
+        {
+          "event_description": "Ross calls out to move to the green spot on the Twister mat.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:23:43",
+          "end_offset": "00:23:45"
+        },
+        {
+          "event_description": "Chandler, while on the phone, instructs everyone to move to the left, leading to all players collapsing.",
+          "involved_subjects": [
+            "CHANDLER",
+            "ROSS",
+            "RACHEL",
+            "MONICA",
+            "PHEEBS"
+          ],
+          "start_offset": "00:23:45",
+          "end_offset": "00:23:47"
+        }
+      ]
+    }
+  ]
+}

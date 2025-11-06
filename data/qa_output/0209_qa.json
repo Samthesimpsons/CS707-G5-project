@@ -1,0 +1,1928 @@
+{
+  "episode": "0209",
+  "title": "The One With Phoebe's Dad",
+  "qa_dataset": [
+    {
+      "question_id": "Q_0209_6085",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did phoebe's grandmother updates the phonebook by crossing out the name of esther livingston. when Phoebe's grandmother were present?",
+      "options": [
+        "Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up.",
+        "Unknown location 2",
+        "Unknown location 3",
+        "Monica and Rachel's apartment. Monica"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_000_event_000"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6086",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's apartment. Monica when phoebe's grandmother updates the phonebook by crossing out the name of esther livingston.?",
+      "options": [
+        "Phoebe, Phoebe's grandmother",
+        "Phoebe's grandmother",
+        "Phoebe, Phoebe's grandmother",
+        "Phoebe, Phoebe's grandmother"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_000_event_000"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6087",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's apartment. Monica when Phoebe's grandmother were together?",
+      "options": [
+        "Phoebe's grandmother shows Phoebe a box of photographs, including pictures of her father at various events.",
+        "Phoebe realizes that the man in the photograph is not her father but a man in a frame, indicating her grandmother lied about her father.",
+        "Phoebe's grandmother updates the phonebook by crossing out the name of Esther Livingston.",
+        "Phoebe's grandmother reveals that her real father lives upstate and is a pharmacist."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_000_event_000"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6088",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did phoebe's grandmother shows phoebe a box of photographs, including pictures of her father at various events. when Phoebe's grandmother and Phoebe were present?",
+      "options": [
+        "Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up.",
+        "Unknown location 2",
+        "Monica and Rachel's apartment. Monica",
+        "Unknown location 3"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_000_event_001"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6089",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's apartment. Monica when phoebe's grandmother shows phoebe a box of photographs, including pictures of her father at various events.?",
+      "options": [
+        "Phoebe, Phoebe's grandmother",
+        "Phoebe's grandmother",
+        "Phoebe's grandmother",
+        "Unknown subjects 3"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_000_event_001"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6090",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's apartment. Monica when Phoebe's grandmother and Phoebe were together?",
+      "options": [
+        "Phoebe's grandmother updates the phonebook by crossing out the name of Esther Livingston.",
+        "Phoebe's grandmother shows Phoebe a box of photographs, including pictures of her father at various events.",
+        "Phoebe realizes that the man in the photograph is not her father but a man in a frame, indicating her grandmother lied about her father.",
+        "Phoebe's grandmother reveals that her real father lives upstate and is a pharmacist."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_000_event_001"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6091",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did phoebe realizes that the man in the photograph is not her father but a man in a frame, indicating her grandmother lied about her father. when Phoebe and Phoebe's grandmother were present?",
+      "options": [
+        "Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up.",
+        "Monica and Rachel's apartment. Monica",
+        "Unknown location 2",
+        "Unknown location 3"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_000_event_002"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6092",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's apartment. Monica when phoebe realizes that the man in the photograph is not her father but a man in a frame, indicating her grandmother lied about her father.?",
+      "options": [
+        "Phoebe, Phoebe's grandmother",
+        "Phoebe's grandmother",
+        "Phoebe",
+        "Unknown subjects 3"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_000_event_002"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6093",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's apartment. Monica when Phoebe and Phoebe's grandmother were together?",
+      "options": [
+        "Phoebe's grandmother updates the phonebook by crossing out the name of Esther Livingston.",
+        "Phoebe's grandmother shows Phoebe a box of photographs, including pictures of her father at various events.",
+        "Phoebe's grandmother reveals that her real father lives upstate and is a pharmacist.",
+        "Phoebe realizes that the man in the photograph is not her father but a man in a frame, indicating her grandmother lied about her father."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_000_event_002"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6094",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did phoebe's grandmother reveals that her real father lives upstate and is a pharmacist. when Phoebe's grandmother and Phoebe were present?",
+      "options": [
+        "Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up.",
+        "Unknown location 2",
+        "Monica and Rachel's apartment. Monica",
+        "Unknown location 3"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_000_event_003"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6095",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's apartment. Monica when phoebe's grandmother reveals that her real father lives upstate and is a pharmacist.?",
+      "options": [
+        "Phoebe's grandmother",
+        "Phoebe, Phoebe's grandmother",
+        "Phoebe's grandmother",
+        "Unknown subjects 3"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_000_event_003"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6096",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's apartment. Monica when Phoebe's grandmother and Phoebe were together?",
+      "options": [
+        "Phoebe's grandmother updates the phonebook by crossing out the name of Esther Livingston.",
+        "Phoebe's grandmother shows Phoebe a box of photographs, including pictures of her father at various events.",
+        "Phoebe's grandmother reveals that her real father lives upstate and is a pharmacist.",
+        "Phoebe realizes that the man in the photograph is not her father but a man in a frame, indicating her grandmother lied about her father."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_000_event_003"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6097",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did ross gives gunther a slinky as a christmas gift and encourages him to go nuts with it. when Ross and Gunther were present?",
+      "options": [
+        "Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up.",
+        "Monica and Rachel's apartment. Monica",
+        "Unknown location 2",
+        "Unknown location 3"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_000_event_004"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6098",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's apartment. Monica when ross gives gunther a slinky as a christmas gift and encourages him to go nuts with it.?",
+      "options": [
+        "Gunther, Ross",
+        "Phoebe's grandmother",
+        "Phoebe, Phoebe's grandmother",
+        "Phoebe, Phoebe's grandmother"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_000_event_004"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6099",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's apartment. Monica when Ross and Gunther were together?",
+      "options": [
+        "Phoebe's grandmother updates the phonebook by crossing out the name of Esther Livingston.",
+        "Phoebe's grandmother shows Phoebe a box of photographs, including pictures of her father at various events.",
+        "Phoebe realizes that the man in the photograph is not her father but a man in a frame, indicating her grandmother lied about her father.",
+        "Ross gives Gunther a Slinky as a Christmas gift and encourages him to go nuts with it."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_000_event_004"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6100",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did rachel criticizes ross for obsessing over her and lists her reasons for being upset, including her dislike of his hair gel. when Ross and Rachel were present?",
+      "options": [
+        "Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up.",
+        "Monica and Rachel's apartment. Monica",
+        "Unknown location 2",
+        "Unknown location 3"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_000_event_005"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6101",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's apartment. Monica when rachel criticizes ross for obsessing over her and lists her reasons for being upset, including her dislike of his hair gel.?",
+      "options": [
+        "Phoebe's grandmother",
+        "Rachel, Ross",
+        "Phoebe, Phoebe's grandmother",
+        "Phoebe, Phoebe's grandmother"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_000_event_005"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6102",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's apartment. Monica when Ross and Rachel were together?",
+      "options": [
+        "Phoebe's grandmother updates the phonebook by crossing out the name of Esther Livingston.",
+        "Phoebe's grandmother shows Phoebe a box of photographs, including pictures of her father at various events.",
+        "Phoebe realizes that the man in the photograph is not her father but a man in a frame, indicating her grandmother lied about her father.",
+        "Rachel criticizes Ross for obsessing over her and lists her reasons for being upset, including her dislike of his hair gel."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_000_event_005"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6103",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did rachel thanks ross after he admits he knows what will make her feel better, then walks off. when Ross and Rachel were present?",
+      "options": [
+        "Monica and Rachel's apartment. Monica",
+        "Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up.",
+        "Unknown location 2",
+        "Unknown location 3"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_000_event_006"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6104",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's apartment. Monica when rachel thanks ross after he admits he knows what will make her feel better, then walks off.?",
+      "options": [
+        "Phoebe's grandmother",
+        "Rachel, Ross",
+        "Phoebe, Phoebe's grandmother",
+        "Phoebe, Phoebe's grandmother"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_000_event_006"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6105",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's apartment. Monica when Ross and Rachel were together?",
+      "options": [
+        "Phoebe's grandmother updates the phonebook by crossing out the name of Esther Livingston.",
+        "Rachel thanks Ross after he admits he knows what will make her feel better, then walks off.",
+        "Phoebe's grandmother shows Phoebe a box of photographs, including pictures of her father at various events.",
+        "Phoebe realizes that the man in the photograph is not her father but a man in a frame, indicating her grandmother lied about her father."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_000_event_006"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6106",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did phoebe calls various towns to find her father's phone number, indicating her attempt to locate him. when Phoebe were present?",
+      "options": [
+        "Monica and Rachel's apartment. Monica",
+        "Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up.",
+        "Unknown location 2",
+        "Unknown location 3"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_000_event_007"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6107",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's apartment. Monica when phoebe calls various towns to find her father's phone number, indicating her attempt to locate him.?",
+      "options": [
+        "Phoebe's grandmother",
+        "Phoebe, Phoebe's grandmother",
+        "Phoebe",
+        "Phoebe, Phoebe's grandmother"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_000_event_007"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6108",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's apartment. Monica when Phoebe were together?",
+      "options": [
+        "Phoebe's grandmother updates the phonebook by crossing out the name of Esther Livingston.",
+        "Phoebe calls various towns to find her father's phone number, indicating her attempt to locate him.",
+        "Phoebe's grandmother shows Phoebe a box of photographs, including pictures of her father at various events.",
+        "Phoebe realizes that the man in the photograph is not her father but a man in a frame, indicating her grandmother lied about her father."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_000_event_007"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6109",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did phoebe's grandmother reveals the actual address of her father at 74 laurel drive in middletown. when Phoebe's grandmother and Phoebe were present?",
+      "options": [
+        "Monica and Rachel's apartment. Monica",
+        "Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up.",
+        "Unknown location 2",
+        "Unknown location 3"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_000_event_008"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6110",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's apartment. Monica when phoebe's grandmother reveals the actual address of her father at 74 laurel drive in middletown.?",
+      "options": [
+        "Phoebe, Phoebe's grandmother",
+        "Phoebe's grandmother",
+        "Phoebe's grandmother",
+        "Unknown subjects 3"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_000_event_008"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6111",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's apartment. Monica when Phoebe's grandmother and Phoebe were together?",
+      "options": [
+        "Phoebe's grandmother updates the phonebook by crossing out the name of Esther Livingston.",
+        "Phoebe's grandmother reveals the actual address of her father at 74 Laurel Drive in Middletown.",
+        "Phoebe's grandmother shows Phoebe a box of photographs, including pictures of her father at various events.",
+        "Phoebe realizes that the man in the photograph is not her father but a man in a frame, indicating her grandmother lied about her father."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_000_event_008"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6112",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did phoebe reacts with surprise and realization upon learning her grandmother lied about her father's identity and location. when Phoebe and Phoebe's grandmother were present?",
+      "options": [
+        "Monica and Rachel's apartment. Monica",
+        "Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up.",
+        "Unknown location 2",
+        "Unknown location 3"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_000_event_009"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6113",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's apartment. Monica when phoebe reacts with surprise and realization upon learning her grandmother lied about her father's identity and location.?",
+      "options": [
+        "Phoebe, Phoebe's grandmother",
+        "Phoebe's grandmother",
+        "Phoebe",
+        "Unknown subjects 3"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_000_event_009"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6114",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's apartment. Monica when Phoebe and Phoebe's grandmother were together?",
+      "options": [
+        "Phoebe's grandmother updates the phonebook by crossing out the name of Esther Livingston.",
+        "Phoebe's grandmother shows Phoebe a box of photographs, including pictures of her father at various events.",
+        "Phoebe realizes that the man in the photograph is not her father but a man in a frame, indicating her grandmother lied about her father.",
+        "Phoebe reacts with surprise and realization upon learning her grandmother lied about her father's identity and location."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_000_event_009"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6115",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did phoebe drives up in a cab and runs over the curb. when PHOEBE were present?",
+      "options": [
+        "Monica and Rachel's apartment. Monica",
+        "Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up.",
+        "Unknown location 2",
+        "Unknown location 3"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_001_event_000"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6116",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up. when phoebe drives up in a cab and runs over the curb.?",
+      "options": [
+        "PHOEBE",
+        "CHANDLER, JOEY, PHOEBE",
+        "Unknown subjects 2",
+        "Unknown subjects 3"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_001_event_000"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6117",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up. when PHOEBE were together?",
+      "options": [
+        "Phoebe drives up in a cab and runs over the curb.",
+        "Phoebe announces she is about to meet her dad and hesitates to enter the house.",
+        "Chandler and Joey encourage Phoebe as she prepares to go inside her dad's house.",
+        "Phoebe sits in the cab, indicating she is hesitant or overwhelmed about meeting her dad."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_001_event_000"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6118",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did phoebe announces she is about to meet her dad and hesitates to enter the house. when PHOEBE were present?",
+      "options": [
+        "Monica and Rachel's apartment. Monica",
+        "Unknown location 2",
+        "Unknown location 3",
+        "Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_001_event_001"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6119",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up. when phoebe announces she is about to meet her dad and hesitates to enter the house.?",
+      "options": [
+        "CHANDLER, JOEY, PHOEBE",
+        "PHOEBE",
+        "Unknown subjects 2",
+        "Unknown subjects 3"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_001_event_001"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6120",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up. when PHOEBE were together?",
+      "options": [
+        "Phoebe drives up in a cab and runs over the curb.",
+        "Chandler and Joey encourage Phoebe as she prepares to go inside her dad's house.",
+        "Phoebe announces she is about to meet her dad and hesitates to enter the house.",
+        "Phoebe sits in the cab, indicating she is hesitant or overwhelmed about meeting her dad."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_001_event_001"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6121",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did chandler and joey encourage phoebe as she prepares to go inside her dad's house. when CHANDLER and JOEY and PHOEBE were present?",
+      "options": [
+        "Monica and Rachel's apartment. Monica",
+        "Unknown location 2",
+        "Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up.",
+        "Unknown location 3"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_001_event_002"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6122",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up. when chandler and joey encourage phoebe as she prepares to go inside her dad's house.?",
+      "options": [
+        "PHOEBE",
+        "PHOEBE",
+        "PHOEBE",
+        "CHANDLER, JOEY, PHOEBE"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_001_event_002"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6123",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up. when CHANDLER and JOEY and PHOEBE were together?",
+      "options": [
+        "Phoebe drives up in a cab and runs over the curb.",
+        "Chandler and Joey encourage Phoebe as she prepares to go inside her dad's house.",
+        "Phoebe announces she is about to meet her dad and hesitates to enter the house.",
+        "Phoebe sits in the cab, indicating she is hesitant or overwhelmed about meeting her dad."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_001_event_002"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6124",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did phoebe sits in the cab, indicating she is hesitant or overwhelmed about meeting her dad. when PHOEBE were present?",
+      "options": [
+        "Monica and Rachel's apartment. Monica",
+        "Unknown location 2",
+        "Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up.",
+        "Unknown location 3"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_001_event_003"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6125",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up. when phoebe sits in the cab, indicating she is hesitant or overwhelmed about meeting her dad.?",
+      "options": [
+        "PHOEBE",
+        "CHANDLER, JOEY, PHOEBE",
+        "Unknown subjects 2",
+        "Unknown subjects 3"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_001_event_003"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6126",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up. when PHOEBE were together?",
+      "options": [
+        "Phoebe drives up in a cab and runs over the curb.",
+        "Phoebe sits in the cab, indicating she is hesitant or overwhelmed about meeting her dad.",
+        "Phoebe announces she is about to meet her dad and hesitates to enter the house.",
+        "Chandler and Joey encourage Phoebe as she prepares to go inside her dad's house."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_001_event_003"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6127",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did ross gives mr. treeger $50 in cash, attempting to bribe him for help with the radiator knob. when ROSS and MR. TREEGER were present?",
+      "options": [
+        "Monica and Rachel's apartment. Monica",
+        "Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up.",
+        "Unknown location 2",
+        "Unknown location 3"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_001_event_004"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6128",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up. when ross gives mr. treeger $50 in cash, attempting to bribe him for help with the radiator knob.?",
+      "options": [
+        "PHOEBE",
+        "PHOEBE",
+        "CHANDLER, JOEY, PHOEBE",
+        "MR. TREEGER, ROSS"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_001_event_004"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6129",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up. when ROSS and MR. TREEGER were together?",
+      "options": [
+        "Phoebe drives up in a cab and runs over the curb.",
+        "Ross gives Mr. Treeger $50 in cash, attempting to bribe him for help with the radiator knob.",
+        "Phoebe announces she is about to meet her dad and hesitates to enter the house.",
+        "Chandler and Joey encourage Phoebe as she prepares to go inside her dad's house."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_001_event_004"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6130",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did rachel offers her earrings to mr. treeger as part of a bribe to fix the radiator knob. when RACHEL and MR. TREEGER were present?",
+      "options": [
+        "Monica and Rachel's apartment. Monica",
+        "Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up.",
+        "Unknown location 2",
+        "Unknown location 3"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_001_event_005"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6131",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up. when rachel offers her earrings to mr. treeger as part of a bribe to fix the radiator knob.?",
+      "options": [
+        "PHOEBE",
+        "PHOEBE",
+        "CHANDLER, JOEY, PHOEBE",
+        "MR. TREEGER, RACHEL"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_001_event_005"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6132",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up. when RACHEL and MR. TREEGER were together?",
+      "options": [
+        "Phoebe drives up in a cab and runs over the curb.",
+        "Rachel offers her earrings to Mr. Treeger as part of a bribe to fix the radiator knob.",
+        "Phoebe announces she is about to meet her dad and hesitates to enter the house.",
+        "Chandler and Joey encourage Phoebe as she prepares to go inside her dad's house."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_001_event_005"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6133",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did ross gives mr. treeger an additional $50, hoping to help with the radiator knob issue. when ROSS and MR. TREEGER were present?",
+      "options": [
+        "Monica and Rachel's apartment. Monica",
+        "Unknown location 2",
+        "Unknown location 3",
+        "Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_001_event_006"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6134",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up. when ross gives mr. treeger an additional $50, hoping to help with the radiator knob issue.?",
+      "options": [
+        "PHOEBE",
+        "PHOEBE",
+        "CHANDLER, JOEY, PHOEBE",
+        "MR. TREEGER, ROSS"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_001_event_006"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6135",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up. when ROSS and MR. TREEGER were together?",
+      "options": [
+        "Phoebe drives up in a cab and runs over the curb.",
+        "Ross gives Mr. Treeger an additional $50, hoping to help with the radiator knob issue.",
+        "Phoebe announces she is about to meet her dad and hesitates to enter the house.",
+        "Chandler and Joey encourage Phoebe as she prepares to go inside her dad's house."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_001_event_006"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6136",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did rachel informs mr. treeger that the basil is not mistletoe, correcting his assumption. when RACHEL and MR. TREEGER were present?",
+      "options": [
+        "Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up.",
+        "Monica and Rachel's apartment. Monica",
+        "Unknown location 2",
+        "Unknown location 3"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_001_event_007"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6137",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up. when rachel informs mr. treeger that the basil is not mistletoe, correcting his assumption.?",
+      "options": [
+        "PHOEBE",
+        "PHOEBE",
+        "CHANDLER, JOEY, PHOEBE",
+        "MR. TREEGER, RACHEL"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_001_event_007"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6138",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up. when RACHEL and MR. TREEGER were together?",
+      "options": [
+        "Phoebe drives up in a cab and runs over the curb.",
+        "Phoebe announces she is about to meet her dad and hesitates to enter the house.",
+        "Chandler and Joey encourage Phoebe as she prepares to go inside her dad's house.",
+        "Rachel informs Mr. Treeger that the basil is not mistletoe, correcting his assumption."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_001_event_007"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6139",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did phoebe runs back to the cab after attempting to meet her dad, indicating she is retreating or reconsidering. when PHOEBE were present?",
+      "options": [
+        "Monica and Rachel's apartment. Monica",
+        "Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up.",
+        "Unknown location 2",
+        "Unknown location 3"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_001_event_008"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6140",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up. when phoebe runs back to the cab after attempting to meet her dad, indicating she is retreating or reconsidering.?",
+      "options": [
+        "CHANDLER, JOEY, PHOEBE",
+        "Unknown subjects 2",
+        "Unknown subjects 3",
+        "PHOEBE"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_001_event_008"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6141",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up. when PHOEBE were together?",
+      "options": [
+        "Phoebe drives up in a cab and runs over the curb.",
+        "Phoebe runs back to the cab after attempting to meet her dad, indicating she is retreating or reconsidering.",
+        "Phoebe announces she is about to meet her dad and hesitates to enter the house.",
+        "Chandler and Joey encourage Phoebe as she prepares to go inside her dad's house."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_001_event_008"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6142",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did chandler, joey, monica, and rachel enter the apartment after the party, indicating the party has concluded. when CHANDLER and JOEY and MONICA and RACHEL were present?",
+      "options": [
+        "Monica and Rachel's apartment. Monica",
+        "Unknown location 2",
+        "Unknown location 3",
+        "Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_001_event_009"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6143",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up. when chandler, joey, monica, and rachel enter the apartment after the party, indicating the party has concluded.?",
+      "options": [
+        "PHOEBE",
+        "CHANDLER, JOEY, MONICA, RACHEL",
+        "PHOEBE",
+        "CHANDLER, JOEY, PHOEBE"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_001_event_009"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6144",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up. when CHANDLER and JOEY and MONICA and RACHEL were together?",
+      "options": [
+        "Phoebe drives up in a cab and runs over the curb.",
+        "Phoebe announces she is about to meet her dad and hesitates to enter the house.",
+        "Chandler and Joey encourage Phoebe as she prepares to go inside her dad's house.",
+        "Chandler, Joey, Monica, and Rachel enter the apartment after the party, indicating the party has concluded."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_001_event_009"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6145",
+      "question_type": "boolean",
+      "subcategory": "location verification",
+      "cues": "",
+      "target": "",
+      "question": "Did phoebe calls various towns to find her father's phone number, indicating her attempt to locate him. at Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up.?",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "Phoebe calls various towns to find her father's phone number, indicating her attempt to locate him. occurred at Monica and Rachel's apartment. Monica, not Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up..",
+      "related_events": [
+        "0209_scene_000_event_007"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6146",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was Gunther present when phoebe calls various towns to find her father's phone number, indicating her attempt to locate him.?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "Gunther was not present during this event.",
+      "related_events": [
+        "0209_scene_000_event_007"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6147",
+      "question_type": "boolean",
+      "subcategory": "location verification",
+      "cues": "",
+      "target": "",
+      "question": "Did phoebe's grandmother reveals that her real father lives upstate and is a pharmacist. at Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up.?",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "Phoebe's grandmother reveals that her real father lives upstate and is a pharmacist. occurred at Monica and Rachel's apartment. Monica, not Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up..",
+      "related_events": [
+        "0209_scene_000_event_003"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6148",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was Gunther present when phoebe's grandmother reveals that her real father lives upstate and is a pharmacist.?",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "Gunther was not present during this event.",
+      "related_events": [
+        "0209_scene_000_event_003"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6149",
+      "question_type": "boolean",
+      "subcategory": "location verification",
+      "cues": "",
+      "target": "",
+      "question": "Did ross gives gunther a slinky as a christmas gift and encourages him to go nuts with it. at Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up.?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "Ross gives Gunther a Slinky as a Christmas gift and encourages him to go nuts with it. occurred at Monica and Rachel's apartment. Monica, not Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up..",
+      "related_events": [
+        "0209_scene_000_event_004"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6150",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was Phoebe present when ross gives gunther a slinky as a christmas gift and encourages him to go nuts with it.?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "Phoebe was not present during this event.",
+      "related_events": [
+        "0209_scene_000_event_004"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6151",
+      "question_type": "boolean",
+      "subcategory": "location verification",
+      "cues": "",
+      "target": "",
+      "question": "Did rachel informs mr. treeger that the basil is not mistletoe, correcting his assumption. at Monica and Rachel's apartment. Monica?",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "Rachel informs Mr. Treeger that the basil is not mistletoe, correcting his assumption. occurred at Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up., not Monica and Rachel's apartment. Monica.",
+      "related_events": [
+        "0209_scene_001_event_007"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6152",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was Rachel present when rachel informs mr. treeger that the basil is not mistletoe, correcting his assumption.?",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "Rachel was not present during this event.",
+      "related_events": [
+        "0209_scene_001_event_007"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6153",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (1-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before rachel thanks ross after he admits he knows what will make her feel better, then walks off.?",
+      "options": [
+        "Phoebe's grandmother shows Phoebe a box of photographs, including pictures of her father at various events.",
+        "Phoebe realizes that the man in the photograph is not her father but a man in a frame, indicating her grandmother lied about her father.",
+        "Phoebe's grandmother reveals that her real father lives upstate and is a pharmacist.",
+        "Phoebe's grandmother updates the phonebook by crossing out the name of Esther Livingston."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_000_event_000",
+        "0209_scene_000_event_006"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6154",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (1-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before phoebe sits in the cab, indicating she is hesitant or overwhelmed about meeting her dad.?",
+      "options": [
+        "Phoebe's grandmother updates the phonebook by crossing out the name of Esther Livingston.",
+        "Phoebe's grandmother shows Phoebe a box of photographs, including pictures of her father at various events.",
+        "Phoebe realizes that the man in the photograph is not her father but a man in a frame, indicating her grandmother lied about her father.",
+        "Rachel thanks Ross after he admits he knows what will make her feel better, then walks off."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_000_event_006",
+        "0209_scene_001_event_003"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6155",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (2-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before joey suggests to ross that he consider a threesome as a solution.?",
+      "options": [
+        "Rachel confesses to Monica and Phoebe that Ross kissed her.",
+        "Monica reacts with excitement and exclaims 'Oh my god, oh my god, oh my god!'",
+        "Phoebe instructs Monica to get wine and unplug the phone to prepare for hearing about the kiss.",
+        "Rachel describes the initial intensity of the kiss, saying it was really intense and they sank into it."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0208_scene_000_event_000",
+        "0208_scene_005_event_004"
+      ],
+      "episode_span": [
+        "0208"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6156",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (2-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before monica explains that some recipes have unusual ingredient quantities, citing coconut, crushed nuts, and mockolate amounts.?",
+      "options": [
+        "Joey suggests to Ross that he consider a threesome as a solution.",
+        "Rachel confesses to Monica and Phoebe that Ross kissed her.",
+        "Monica reacts with excitement and exclaims 'Oh my god, oh my god, oh my god!'",
+        "Phoebe instructs Monica to get wine and unplug the phone to prepare for hearing about the kiss."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0208_scene_005_event_004",
+        "0208_scene_010_event_000"
+      ],
+      "episode_span": [
+        "0208"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6157",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (3-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before rachel questions why ross didn't call and speculates about his plans with julie.?",
+      "options": [
+        "Chandler answers the door to Monica and informs her it's Sunday morning and they are not working out.",
+        "Chandler walks out of his apartment after telling Monica to stop exercising.",
+        "Rachel is taking aspirin when Ross enters her apartment.",
+        "Rachel and Ross discuss Ross's date and Rachel’s vague memory of a restaurant and wine from the night before."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0207_scene_000_event_000",
+        "0208_scene_004_event_006"
+      ],
+      "episode_span": [
+        "0208",
+        "0207"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6158",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (3-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before chandler questions ross about his activity outside.?",
+      "options": [
+        "Chandler answers the door to Monica and informs her it's Sunday morning and they are not working out.",
+        "Rachel questions why Ross didn't call and speculates about his plans with Julie.",
+        "Chandler walks out of his apartment after telling Monica to stop exercising.",
+        "Rachel is taking aspirin when Ross enters her apartment."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0208_scene_004_event_006",
+        "0208_scene_009_event_006"
+      ],
+      "episode_span": [
+        "0208"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6159",
+      "question_type": "temporal: latest event retrieval",
+      "subcategory": "location-based latest event",
+      "cues": "",
+      "target": "",
+      "question": "What was the last event that happened at Monica and Rachel's apartment. Monica in this episode?",
+      "options": [
+        "Rachel thanks Ross after he admits he knows what will make her feel better, then walks off.",
+        "Phoebe calls various towns to find her father's phone number, indicating her attempt to locate him.",
+        "Phoebe reacts with surprise and realization upon learning her grandmother lied about her father's identity and location.",
+        "Phoebe's grandmother reveals the actual address of her father at 74 Laurel Drive in Middletown."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_000_event_009"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6160",
+      "question_type": "temporal: latest event retrieval",
+      "subcategory": "episode-wide latest event",
+      "cues": "",
+      "target": "",
+      "question": "What was the most recent event that occurred in the episode?",
+      "options": [
+        "Chandler, Joey, Monica, and Rachel enter the apartment after the party, indicating the party has concluded.",
+        "Ross gives Mr. Treeger an additional $50, hoping to help with the radiator knob issue.",
+        "Rachel informs Mr. Treeger that the basil is not mistletoe, correcting his assumption.",
+        "Phoebe runs back to the cab after attempting to meet her dad, indicating she is retreating or reconsidering."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_001_event_009"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0209_6161",
+      "question_type": "temporal: single cue retrieval",
+      "subcategory": "event sequence (location-based)",
+      "cues": "L",
+      "target": "Temporal",
+      "question": "Here are a series of 4 events. Arrange them in the correct temporal order in which they occurred at **Monica and Rachel's apartment. Monica**.\n\n\"event_1\": Rachel criticizes Ross for obsessing over her and lists her reasons for being upset, including her dislike of his hair gel.\n\"event_2\": Phoebe realizes that the man in the photograph is not her father but a man in a frame, indicating her grandmother lied about her father.\n\"event_3\": Ross gives Gunther a Slinky as a Christmas gift and encourages him to go nuts with it.\n\"event_4\": Phoebe's grandmother reveals the actual address of her father at 74 Laurel Drive in Middletown.",
+      "options": [
+        "A. event_4, event_2, event_3, event_1",
+        "B. event_4, event_1, event_3, event_2",
+        "C. event_1, event_2, event_3, event_4",
+        "D. event_3, event_4, event_1, event_2"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_000_event_005",
+        "0209_scene_000_event_002",
+        "0209_scene_000_event_004",
+        "0209_scene_000_event_008"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": [
+        "scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0209_6162",
+      "question_type": "temporal: single cue retrieval",
+      "subcategory": "event sequence (location-based)",
+      "cues": "L",
+      "target": "Temporal",
+      "question": "Here are a series of 4 events. Arrange them in the correct temporal order in which they occurred at **Chandler is standing on a street corner waiting for Phoebe in the cab. Joey\nwalks up.**.\n\n\"event_1\": Chandler and Joey encourage Phoebe as she prepares to go inside her dad's house.\n\"event_2\": Rachel offers her earrings to Mr. Treeger as part of a bribe to fix the radiator knob.\n\"event_3\": Phoebe sits in the cab, indicating she is hesitant or overwhelmed about meeting her dad.\n\"event_4\": Ross gives Mr. Treeger $50 in cash, attempting to bribe him for help with the radiator knob.",
+      "options": [
+        "A. event_2, event_4, event_3, event_1",
+        "B. event_1, event_3, event_4, event_2",
+        "C. event_4, event_1, event_2, event_3",
+        "D. event_4, event_3, event_1, event_2"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0209_scene_001_event_002",
+        "0209_scene_001_event_005",
+        "0209_scene_001_event_003",
+        "0209_scene_001_event_004"
+      ],
+      "episode_span": [
+        "0209"
+      ],
+      "clip_span": [
+        "scene_001"
+      ]
+    }
+  ],
+  "statistics": {
+    "total_questions": 78,
+    "question_type_distribution": {
+      "single target recall": 60,
+      "boolean": 8,
+      "temporal: chronological ordering": 6,
+      "temporal: latest event retrieval": 2,
+      "temporal: single cue retrieval": 2
+    },
+    "subcategory_distribution": {
+      "location recall (event + subject)": 20,
+      "subject recall (location + event)": 20,
+      "event recall (location + subject)": 20,
+      "location verification": 4,
+      "subject verification": 4,
+      "event sequence (1-episode span)": 2,
+      "event sequence (2-episode span)": 2,
+      "event sequence (3-episode span)": 2,
+      "location-based latest event": 1,
+      "episode-wide latest event": 1,
+      "event sequence (location-based)": 2
+    },
+    "cue_distribution": {
+      "E+S → L": 20,
+      "L+E → S": 20,
+      "L+S → E": 20,
+      "L → Temporal": 2
+    },
+    "target_distribution": {
+      "L": 20,
+      "S": 20,
+      "E": 20,
+      "Boolean": 8,
+      "Temporal": 10
+    },
+    "episode_span_distribution": {
+      "1 episode(s)": 77,
+      "2 episode(s)": 1
+    },
+    "clip_span_distribution": {
+      "1 clip(s)": 2
+    },
+    "answer_distribution": {
+      "D": 18,
+      "B": 28,
+      "C": 10,
+      "A": 22
+    }
+  }
+}

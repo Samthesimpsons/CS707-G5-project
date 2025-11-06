@@ -1,0 +1,1048 @@
+{
+  "episode": "0224",
+  "title": "The One With Barry and Mindy's Wedding",
+  "qa_dataset": [
+    {
+      "question_id": "Q_0224_7987",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did joey auditions for a role and meets warren beatty, who comments on joey's kissing performance. when JOEY and WARREN BEATTY were present?",
+      "options": [
+        "Unknown location 1",
+        "Unknown location 2",
+        "Unknown location 3",
+        "Central Perk"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0224_scene_000_event_000"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_7988",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Perk when joey auditions for a role and meets warren beatty, who comments on joey's kissing performance.?",
+      "options": [
+        "CHANDLER, JOEY, MONICA",
+        "JOEY, WARREN BEATTY",
+        "JOEY, MONICA, PHOEBE, RACHEL",
+        "JOEY, PHOEBE"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0224_scene_000_event_000"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_7989",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Perk when JOEY and WARREN BEATTY were together?",
+      "options": [
+        "Joey auditions for a role and meets Warren Beatty, who comments on Joey's kissing performance.",
+        "Joey expresses concern to Chandler and Monica about his kissing scene and Warren Beatty's critique.",
+        "Joey asks Monica, Rachel, and Phoebe to kiss him to improve his acting, and Phoebe agrees to help.",
+        "Phoebe kisses Joey passionately to demonstrate how to kiss better for his audition."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0224_scene_000_event_000"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_7990",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did joey expresses concern to chandler and monica about his kissing scene and warren beatty's critique. when JOEY and CHANDLER and MONICA were present?",
+      "options": [
+        "Unknown location 1",
+        "Central Perk",
+        "Unknown location 2",
+        "Unknown location 3"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0224_scene_000_event_001"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_7991",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Perk when joey expresses concern to chandler and monica about his kissing scene and warren beatty's critique.?",
+      "options": [
+        "CHANDLER, JOEY, MONICA",
+        "JOEY, WARREN BEATTY",
+        "JOEY, MONICA, PHOEBE, RACHEL",
+        "JOEY, PHOEBE"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0224_scene_000_event_001"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_7992",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Perk when JOEY and CHANDLER and MONICA were together?",
+      "options": [
+        "Joey auditions for a role and meets Warren Beatty, who comments on Joey's kissing performance.",
+        "Joey asks Monica, Rachel, and Phoebe to kiss him to improve his acting, and Phoebe agrees to help.",
+        "Joey expresses concern to Chandler and Monica about his kissing scene and Warren Beatty's critique.",
+        "Phoebe kisses Joey passionately to demonstrate how to kiss better for his audition."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0224_scene_000_event_001"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_7993",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did joey asks monica, rachel, and phoebe to kiss him to improve his acting, and phoebe agrees to help. when JOEY and MONICA and RACHEL and PHOEBE were present?",
+      "options": [
+        "Unknown location 1",
+        "Unknown location 2",
+        "Central Perk",
+        "Unknown location 3"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0224_scene_000_event_002"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_7994",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Perk when joey asks monica, rachel, and phoebe to kiss him to improve his acting, and phoebe agrees to help.?",
+      "options": [
+        "JOEY, WARREN BEATTY",
+        "CHANDLER, JOEY, MONICA",
+        "JOEY, MONICA, PHOEBE, RACHEL",
+        "JOEY, PHOEBE"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0224_scene_000_event_002"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_7995",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Perk when JOEY and MONICA and RACHEL and PHOEBE were together?",
+      "options": [
+        "Joey auditions for a role and meets Warren Beatty, who comments on Joey's kissing performance.",
+        "Joey expresses concern to Chandler and Monica about his kissing scene and Warren Beatty's critique.",
+        "Joey asks Monica, Rachel, and Phoebe to kiss him to improve his acting, and Phoebe agrees to help.",
+        "Phoebe kisses Joey passionately to demonstrate how to kiss better for his audition."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0224_scene_000_event_002"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_7996",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did phoebe kisses joey passionately to demonstrate how to kiss better for his audition. when PHOEBE and JOEY were present?",
+      "options": [
+        "Unknown location 1",
+        "Unknown location 2",
+        "Central Perk",
+        "Unknown location 3"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0224_scene_000_event_003"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_7997",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Perk when phoebe kisses joey passionately to demonstrate how to kiss better for his audition.?",
+      "options": [
+        "JOEY, PHOEBE",
+        "JOEY, WARREN BEATTY",
+        "CHANDLER, JOEY, MONICA",
+        "JOEY, MONICA, PHOEBE, RACHEL"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0224_scene_000_event_003"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_7998",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Perk when PHOEBE and JOEY were together?",
+      "options": [
+        "Joey auditions for a role and meets Warren Beatty, who comments on Joey's kissing performance.",
+        "Joey expresses concern to Chandler and Monica about his kissing scene and Warren Beatty's critique.",
+        "Phoebe kisses Joey passionately to demonstrate how to kiss better for his audition.",
+        "Joey asks Monica, Rachel, and Phoebe to kiss him to improve his acting, and Phoebe agrees to help."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0224_scene_000_event_003"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_7999",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did joey questions why he still struggles with kissing, despite practicing with phoebe. when JOEY were present?",
+      "options": [
+        "Central Perk",
+        "Unknown location 1",
+        "Unknown location 2",
+        "Unknown location 3"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0224_scene_000_event_004"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_8000",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Perk when joey questions why he still struggles with kissing, despite practicing with phoebe.?",
+      "options": [
+        "JOEY",
+        "JOEY, WARREN BEATTY",
+        "CHANDLER, JOEY, MONICA",
+        "JOEY, MONICA, PHOEBE, RACHEL"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0224_scene_000_event_004"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_8001",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Perk when JOEY were together?",
+      "options": [
+        "Joey questions why he still struggles with kissing, despite practicing with Phoebe.",
+        "Joey auditions for a role and meets Warren Beatty, who comments on Joey's kissing performance.",
+        "Joey expresses concern to Chandler and Monica about his kissing scene and Warren Beatty's critique.",
+        "Joey asks Monica, Rachel, and Phoebe to kiss him to improve his acting, and Phoebe agrees to help."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0224_scene_000_event_004"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_8002",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did ross reacts defensively when joey suggests he could help joey improve his kissing by practicing with him. when ROSS and JOEY were present?",
+      "options": [
+        "Unknown location 1",
+        "Unknown location 2",
+        "Central Perk",
+        "Unknown location 3"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0224_scene_000_event_005"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_8003",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Perk when ross reacts defensively when joey suggests he could help joey improve his kissing by practicing with him.?",
+      "options": [
+        "JOEY, WARREN BEATTY",
+        "JOEY, ROSS",
+        "CHANDLER, JOEY, MONICA",
+        "JOEY, MONICA, PHOEBE, RACHEL"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0224_scene_000_event_005"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_8004",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Perk when ROSS and JOEY were together?",
+      "options": [
+        "Joey auditions for a role and meets Warren Beatty, who comments on Joey's kissing performance.",
+        "Joey expresses concern to Chandler and Monica about his kissing scene and Warren Beatty's critique.",
+        "Ross reacts defensively when Joey suggests he could help Joey improve his kissing by practicing with him.",
+        "Joey asks Monica, Rachel, and Phoebe to kiss him to improve his acting, and Phoebe agrees to help."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0224_scene_000_event_005"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_8005",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did rachel prepares to walk down the aisle in her wedding dress, feeling anxious about the ceremony. when RACHEL were present?",
+      "options": [
+        "Unknown location 1",
+        "Central Perk",
+        "Unknown location 2",
+        "Unknown location 3"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0224_scene_000_event_006"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_8006",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Perk when rachel prepares to walk down the aisle in her wedding dress, feeling anxious about the ceremony.?",
+      "options": [
+        "JOEY, WARREN BEATTY",
+        "CHANDLER, JOEY, MONICA",
+        "JOEY, MONICA, PHOEBE, RACHEL",
+        "RACHEL"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0224_scene_000_event_006"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_8007",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Perk when RACHEL were together?",
+      "options": [
+        "Rachel prepares to walk down the aisle in her wedding dress, feeling anxious about the ceremony.",
+        "Joey auditions for a role and meets Warren Beatty, who comments on Joey's kissing performance.",
+        "Joey expresses concern to Chandler and Monica about his kissing scene and Warren Beatty's critique.",
+        "Joey asks Monica, Rachel, and Phoebe to kiss him to improve his acting, and Phoebe agrees to help."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0224_scene_000_event_006"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_8008",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did rachel notices her dress is bunched up in her underwear, revealing her butt, just before walking down the aisle. when RACHEL were present?",
+      "options": [
+        "Unknown location 1",
+        "Unknown location 2",
+        "Unknown location 3",
+        "Central Perk"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0224_scene_000_event_007"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_8009",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Perk when rachel notices her dress is bunched up in her underwear, revealing her butt, just before walking down the aisle.?",
+      "options": [
+        "JOEY, WARREN BEATTY",
+        "CHANDLER, JOEY, MONICA",
+        "RACHEL",
+        "JOEY, MONICA, PHOEBE, RACHEL"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0224_scene_000_event_007"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_8010",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Perk when RACHEL were together?",
+      "options": [
+        "Joey auditions for a role and meets Warren Beatty, who comments on Joey's kissing performance.",
+        "Joey expresses concern to Chandler and Monica about his kissing scene and Warren Beatty's critique.",
+        "Joey asks Monica, Rachel, and Phoebe to kiss him to improve his acting, and Phoebe agrees to help.",
+        "Rachel notices her dress is bunched up in her underwear, revealing her butt, just before walking down the aisle."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0224_scene_000_event_007"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_8011",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did rachel leaves the wedding reception in humiliation after her dress mishap is revealed. when RACHEL were present?",
+      "options": [
+        "Unknown location 1",
+        "Central Perk",
+        "Unknown location 2",
+        "Unknown location 3"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0224_scene_000_event_008"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_8012",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Perk when rachel leaves the wedding reception in humiliation after her dress mishap is revealed.?",
+      "options": [
+        "JOEY, WARREN BEATTY",
+        "RACHEL",
+        "CHANDLER, JOEY, MONICA",
+        "JOEY, MONICA, PHOEBE, RACHEL"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0224_scene_000_event_008"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_8013",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Perk when RACHEL were together?",
+      "options": [
+        "Rachel leaves the wedding reception in humiliation after her dress mishap is revealed.",
+        "Joey auditions for a role and meets Warren Beatty, who comments on Joey's kissing performance.",
+        "Joey expresses concern to Chandler and Monica about his kissing scene and Warren Beatty's critique.",
+        "Joey asks Monica, Rachel, and Phoebe to kiss him to improve his acting, and Phoebe agrees to help."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0224_scene_000_event_008"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_8014",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did barry's parents tell others that rachel was 'sort of... insane' after she ran out on her wedding. when BARRY'S PARENTS and RACHEL were present?",
+      "options": [
+        "Unknown location 1",
+        "Central Perk",
+        "Unknown location 2",
+        "Unknown location 3"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0224_scene_000_event_009"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_8015",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Perk when barry's parents tell others that rachel was 'sort of... insane' after she ran out on her wedding.?",
+      "options": [
+        "JOEY, WARREN BEATTY",
+        "CHANDLER, JOEY, MONICA",
+        "BARRY'S PARENTS, RACHEL",
+        "JOEY, MONICA, PHOEBE, RACHEL"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0224_scene_000_event_009"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_8016",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Perk when BARRY'S PARENTS and RACHEL were together?",
+      "options": [
+        "Joey auditions for a role and meets Warren Beatty, who comments on Joey's kissing performance.",
+        "Barry's parents tell others that Rachel was 'sort of... insane' after she ran out on her wedding.",
+        "Joey expresses concern to Chandler and Monica about his kissing scene and Warren Beatty's critique.",
+        "Joey asks Monica, Rachel, and Phoebe to kiss him to improve his acting, and Phoebe agrees to help."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0224_scene_000_event_009"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_8017",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was WARREN BEATTY present when joey asks monica, rachel, and phoebe to kiss him to improve his acting, and phoebe agrees to help.?",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "WARREN BEATTY was not present during this event.",
+      "related_events": [
+        "0224_scene_000_event_002"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_8018",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was MONICA present when joey questions why he still struggles with kissing, despite practicing with phoebe.?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "MONICA was not present during this event.",
+      "related_events": [
+        "0224_scene_000_event_004"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_8019",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (1-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before phoebe kisses joey passionately to demonstrate how to kiss better for his audition.?",
+      "options": [
+        "Joey expresses concern to Chandler and Monica about his kissing scene and Warren Beatty's critique.",
+        "Joey asks Monica, Rachel, and Phoebe to kiss him to improve his acting, and Phoebe agrees to help.",
+        "Joey questions why he still struggles with kissing, despite practicing with Phoebe.",
+        "Joey auditions for a role and meets Warren Beatty, who comments on Joey's kissing performance."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0224_scene_000_event_000",
+        "0224_scene_000_event_003"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_8020",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (1-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before rachel notices her dress is bunched up in her underwear, revealing her butt, just before walking down the aisle.?",
+      "options": [
+        "Joey auditions for a role and meets Warren Beatty, who comments on Joey's kissing performance.",
+        "Joey expresses concern to Chandler and Monica about his kissing scene and Warren Beatty's critique.",
+        "Phoebe kisses Joey passionately to demonstrate how to kiss better for his audition.",
+        "Joey asks Monica, Rachel, and Phoebe to kiss him to improve his acting, and Phoebe agrees to help."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0224_scene_000_event_003",
+        "0224_scene_000_event_007"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_8021",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (2-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before rachel shows phoebe her tattoo of a heart on her hip, and phoebe reacts positively.?",
+      "options": [
+        "Chandler criticizes Joey for licking his spoon and putting it back in the drawer, expressing disgust.",
+        "Joey admits to using Chandler's red toothbrush to unclog the drain, leading Chandler to express concern about sharing personal items.",
+        "Chandler and Joey discuss the differences between sharing soap and toothbrushes, with Chandler expressing discomfort about sharing personal items.",
+        "Joey comments on the eyebrows of Captain Crunch, noting they are on his hat."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0216_scene_000_event_000",
+        "0216_scene_000_event_006"
+      ],
+      "episode_span": [
+        "0216"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_8022",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (2-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before phoebe kisses joey passionately to demonstrate how to kiss better for his audition.?",
+      "options": [
+        "Joey comments on the eyebrows of Captain Crunch, noting they are on his hat.",
+        "Rachel shows Phoebe her tattoo of a heart on her hip, and Phoebe reacts positively.",
+        "Chandler criticizes Joey for licking his spoon and putting it back in the drawer, expressing disgust.",
+        "Joey admits to using Chandler's red toothbrush to unclog the drain, leading Chandler to express concern about sharing personal items."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0216_scene_000_event_006",
+        "0224_scene_000_event_003"
+      ],
+      "episode_span": [
+        "0216",
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_8023",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (3-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before joey comments on the eyebrows of captain crunch, noting they are on his hat.?",
+      "options": [
+        "Joey instructs Chandler not to peek and assures him he is wearing clothes, establishing the rules for the surprise.",
+        "Joey and Chandler enter their apartment with Chandler covering his eyes and Joey leading him, indicating a surprise setup.",
+        "Chandler opens his eyes to see two black leather recliners and a big-screen TV, expressing excitement about the new setup.",
+        "Joey and Chandler recline their chairs and extend the footrests, settling in to watch TV."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0215_scene_000_event_000",
+        "0216_scene_000_event_000"
+      ],
+      "episode_span": [
+        "0216",
+        "0215"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_8024",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (3-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before joey expresses concern to chandler and monica about his kissing scene and warren beatty's critique.?",
+      "options": [
+        "Joey and Chandler enter their apartment with Chandler covering his eyes and Joey leading him, indicating a surprise setup.",
+        "Joey instructs Chandler not to peek and assures him he is wearing clothes, establishing the rules for the surprise.",
+        "Chandler opens his eyes to see two black leather recliners and a big-screen TV, expressing excitement about the new setup.",
+        "Joey comments on the eyebrows of Captain Crunch, noting they are on his hat."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0216_scene_000_event_000",
+        "0224_scene_000_event_001"
+      ],
+      "episode_span": [
+        "0216",
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_8025",
+      "question_type": "temporal: latest event retrieval",
+      "subcategory": "location-based latest event",
+      "cues": "",
+      "target": "",
+      "question": "What was the last event that happened at Central Perk in this episode?",
+      "options": [
+        "Rachel prepares to walk down the aisle in her wedding dress, feeling anxious about the ceremony.",
+        "Barry's parents tell others that Rachel was 'sort of... insane' after she ran out on her wedding.",
+        "Rachel notices her dress is bunched up in her underwear, revealing her butt, just before walking down the aisle.",
+        "Rachel leaves the wedding reception in humiliation after her dress mishap is revealed."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0224_scene_000_event_009"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_8026",
+      "question_type": "temporal: latest event retrieval",
+      "subcategory": "episode-wide latest event",
+      "cues": "",
+      "target": "",
+      "question": "What was the most recent event that occurred in the episode?",
+      "options": [
+        "Barry's parents tell others that Rachel was 'sort of... insane' after she ran out on her wedding.",
+        "Rachel prepares to walk down the aisle in her wedding dress, feeling anxious about the ceremony.",
+        "Rachel notices her dress is bunched up in her underwear, revealing her butt, just before walking down the aisle.",
+        "Rachel leaves the wedding reception in humiliation after her dress mishap is revealed."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0224_scene_000_event_009"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0224_8027",
+      "question_type": "temporal: single cue retrieval",
+      "subcategory": "event sequence (location-based)",
+      "cues": "L",
+      "target": "Temporal",
+      "question": "Here are a series of 4 events. Arrange them in the correct temporal order in which they occurred at **Central Perk**.\n\n\"event_1\": Phoebe kisses Joey passionately to demonstrate how to kiss better for his audition.\n\"event_2\": Joey auditions for a role and meets Warren Beatty, who comments on Joey's kissing performance.\n\"event_3\": Joey asks Monica, Rachel, and Phoebe to kiss him to improve his acting, and Phoebe agrees to help.\n\"event_4\": Rachel leaves the wedding reception in humiliation after her dress mishap is revealed.",
+      "options": [
+        "A. event_2, event_1, event_3, event_4",
+        "B. event_2, event_4, event_3, event_1",
+        "C. event_4, event_1, event_2, event_3",
+        "D. event_2, event_4, event_1, event_3"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0224_scene_000_event_003",
+        "0224_scene_000_event_000",
+        "0224_scene_000_event_002",
+        "0224_scene_000_event_008"
+      ],
+      "episode_span": [
+        "0224"
+      ],
+      "clip_span": [
+        "scene_000"
+      ]
+    }
+  ],
+  "statistics": {
+    "total_questions": 41,
+    "question_type_distribution": {
+      "single target recall": 30,
+      "boolean": 2,
+      "temporal: chronological ordering": 6,
+      "temporal: latest event retrieval": 2,
+      "temporal: single cue retrieval": 1
+    },
+    "subcategory_distribution": {
+      "location recall (event + subject)": 10,
+      "subject recall (location + event)": 10,
+      "event recall (location + subject)": 10,
+      "subject verification": 2,
+      "event sequence (1-episode span)": 2,
+      "event sequence (2-episode span)": 2,
+      "event sequence (3-episode span)": 2,
+      "location-based latest event": 1,
+      "episode-wide latest event": 1,
+      "event sequence (location-based)": 1
+    },
+    "cue_distribution": {
+      "E+S → L": 10,
+      "L+E → S": 10,
+      "L+S → E": 10,
+      "L → Temporal": 1
+    },
+    "target_distribution": {
+      "L": 10,
+      "S": 10,
+      "E": 10,
+      "Boolean": 2,
+      "Temporal": 9
+    },
+    "episode_span_distribution": {
+      "1 episode(s)": 38,
+      "2 episode(s)": 3
+    },
+    "clip_span_distribution": {
+      "1 clip(s)": 1
+    },
+    "answer_distribution": {
+      "D": 7,
+      "B": 13,
+      "A": 10,
+      "C": 11
+    }
+  }
+}

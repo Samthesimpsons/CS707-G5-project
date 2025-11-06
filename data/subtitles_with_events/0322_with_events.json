@@ -1,0 +1,2413 @@
+{
+  "episode": "0322",
+  "title": "The One With The Screamer",
+  "scenes": [
+    {
+      "scene_description": "[Scene: Monica and Rachel's, Phoebe is on the phone, Chandler and Monica are sitting in\nthe living room, and Ross is in the kitchen as Rachel enters from her bedroom.]",
+      "dialogue": [
+        {
+          "speaker": "RACHEL",
+          "text": "Oh, Phoebe, are you still on hold? I was supposed to call my Dad back like two hours ago."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, yeah, he clipped on, he said call him as soon as you get a chance, he’s at Flimby’s."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "What’s Flimby’s?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, yeah, that’s the word I use when I can’t remember the real thing."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Okay. Hang up! That’s it! Come on!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "No! Rachel, that’s what they want me to do. My warranty expires tomorrow, if I don’t get through, they’re not gonna fix my crappy, broken phone for free! We cannot let them win! It’s us versus them!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Ye-e-es!!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "(entering) Hey."
+        },
+        {
+          "speaker": "ALL",
+          "text": "Hey."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Uh, listen I gotta double check for tickets tonight. Who-who got what?"
+        },
+        {
+          "speaker": "AND RACHEL",
+          "text": "I had one."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "I need two. I’m bringing Pete. My boyfriend. I have a boyfriend now!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Two it is. Ross, how about you?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Uh, yeah, I ah, I also need two."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Really? Who’s number two?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Who’s number two? One of the more difficult games sewer workers play."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Uh, no, it’s-it’s just this person."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Like a date type (looks at Rachel) person?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Yeah, kinda. It’s this woman from work. I hope that won’t be too weird. Will it, Rach?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "No. No, not at all, not at all. I actually was gonna bring someone myself, so…"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "But you said one."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "I meant, me plus one!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Okay. (to Phoebe and Chandler) Did ah, you guys mean you plus one?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "All right, I’ll see you tonight."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Okay."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Okay, bye-bye!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Bye!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Bye-bye!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Okay, I need a date! (runs to her bedroom)"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Oh, hey, you guys are finally gonna get to meet Kate!"
+        },
+        {
+          "speaker": "ALL",
+          "text": "Oh!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "(to Chandler) And I ah, borrowed some of your cologne. I hope she likes it."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Joey, what are you doing?! It’s never gonna happen, she’s seeing somebody."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Yeah, and I don’t have any cologne."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "The green bottle next to the shaving cream."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Oh! Worm medicine for the duck."
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "CHANDLER",
+        "ROSS",
+        "PHOEBE",
+        "AND RACHEL",
+        "MONICA",
+        "RACHEL",
+        "JOEY"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Monica and Rachel's, Phoebe is on the phone, Chandler and Monica are sitting in\nthe living room, and Ross is in the kitchen as Rachel enters from her bedroom.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Phoebe is on the phone, talking about her warranty and the need to get her broken phone fixed for free.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Rachel enters from her bedroom and asks Phoebe if she's still on hold.",
+          "involved_subjects": [
+            "RACHEL",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Rachel expresses frustration about calling her dad two hours ago.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Rachel decides to hang up on Phoebe to try calling her dad again.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Joey enters the scene and asks about the tickets for the evening.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Monica announces she needs two tickets because she's bringing her boyfriend Pete.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:40"
+        },
+        {
+          "event_description": "Ross states he also needs two tickets and mentions he's bringing a woman from work.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:40",
+          "end_offset": "00:00:45"
+        },
+        {
+          "event_description": "Rachel clarifies she is bringing a date herself, indicating she needs one ticket plus one.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:45",
+          "end_offset": "00:00:50"
+        },
+        {
+          "event_description": "Rachel runs to her bedroom to find a date.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:50",
+          "end_offset": "00:00:55"
+        },
+        {
+          "event_description": "Joey reveals he borrowed Chandler's cologne to impress his date, Kate.",
+          "involved_subjects": [
+            "JOEY",
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:55",
+          "end_offset": "00:01:00"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, Monica is getting ready to go to Joey’s premiere and\nPhoebe is still on hold.]",
+      "dialogue": [
+        {
+          "speaker": "MONICA",
+          "text": "(to Phoebe) Here you go. You can wear this. (hands her a sweater)"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Thanks!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Uh-huh."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Okay. (on phone) Ooh, I’m setting the phone down. (does so) But I’m still here! Just don’t go anywhere I’m still here. (starts to put on the sweater) Don’t-don’t switch or anything, ‘cause I’m, I’m right here. (She has pulled the sweater over her head, but her head is stuck in a sleeve.) Just one sec. One sec! One second!! (She is now frantically trying to get the sweater on, as Monica returns from the bathroom.) Wait! One second! Just…"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Phoebe?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "What?! Monica, I’m scared!!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "All right. Honey, that’s-that’s a sleeve. Okay?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "And! We also have speaker phone. (She turns on the speaker phone.)"
+        },
+        {
+          "speaker": "HOLD VOICE",
+          "text": "Please, stay on the line. Your call is important to us."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Okay, wait, you gotta hang up ‘cause we’re gonna be late."
+        },
+        {
+          "speaker": "HOLD VOICE",
+          "text": "Thank you for your patience, you’re the next caller."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Yes!! Yes!! I’m the next caller! You were gonna have me hang up."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "(entering, carrying the chick and duck) Hey! Can you take a duck and a chick to the theatre?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Of course not."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "No."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Okay. I just wanted them to hear it from somebody else."
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "PHOEBE",
+        "MONICA",
+        "CHANDLER",
+        "HOLD VOICE"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Monica and Rachel's, Monica is getting ready to go to Joey’s premiere and\nPhoebe is still on hold.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Monica hands a sweater to Phoebe to wear.",
+          "involved_subjects": [
+            "MONICA",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:01",
+          "end_offset": "00:00:03"
+        },
+        {
+          "event_description": "Phoebe thanks Monica for the sweater.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:04",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "Phoebe starts to put on the sweater and gets her head stuck in a sleeve.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:06",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Phoebe frantically tries to free her head from the sweater sleeve.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:11",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Monica notices Phoebe's distress and asks if she's okay.",
+          "involved_subjects": [
+            "MONICA",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:16",
+          "end_offset": "00:00:17"
+        },
+        {
+          "event_description": "Monica turns on the speakerphone to speak with the hold voice.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:18",
+          "end_offset": "00:00:19"
+        },
+        {
+          "event_description": "The hold voice requests the caller to stay on the line, indicating the call is important.",
+          "involved_subjects": [
+            "HOLD VOICE"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:21"
+        },
+        {
+          "event_description": "Monica informs Phoebe that she needs to hang up because they will be late.",
+          "involved_subjects": [
+            "MONICA",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:22",
+          "end_offset": "00:00:24"
+        },
+        {
+          "event_description": "Chandler enters carrying a chick and a duck, asking if they can be taken to the theatre.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:27"
+        },
+        {
+          "event_description": "Monica refuses Chandler's request to take the chick and duck to the theatre.",
+          "involved_subjects": [
+            "MONICA",
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:28",
+          "end_offset": "00:00:30"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Joey’s Premiere, Rachel is already there with her date, Tommy who's played\nby Ben Stiller who will be in There's Something About Mary and Meet The\nParents , as Ross and his date, Cailin, arrive.]",
+      "dialogue": [
+        {
+          "speaker": "ROSS",
+          "text": "Hey, hey Rach!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh, hi!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Hi!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "How are you? (She goes to kiss him on the cheek, but stops because of the dates and pats him on the shoulder.)"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Good."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Hey."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "So it’s looks like we’re the first ones here."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Yeah, looks that way. First ones here! Wooo!!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Yay!!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh! Tommy, this is Ross. Ross, Tommy."
+        },
+        {
+          "speaker": "TOMMY",
+          "text": "Hey."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Hey. Oh, I’m sorry, this is Cailin."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "And! Break!!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Okay, uhh, I think I’m going to run to the ladies room."
+        },
+        {
+          "speaker": "TOMMY",
+          "text": "Okay."
+        },
+        {
+          "speaker": "CAILIN",
+          "text": "I’ll join you."
+        },
+        {
+          "speaker": "TOMMY",
+          "text": "I’ll get our seats."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Okay. (The girls leave.) (to Tommy) So uh, well, this-this is uh, this is awkward."
+        },
+        {
+          "speaker": "TOMMY",
+          "text": "Yeah?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Well y'know ‘cause Rachel and I used to go out."
+        },
+        {
+          "speaker": "TOMMY",
+          "text": "Oh, I didn’t, I didn’t know that."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Oh! Well then this is awkward. So what do you uh…"
+        },
+        {
+          "speaker": "TOMMY",
+          "text": "I think we’re here."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Oh! Yeah."
+        },
+        {
+          "speaker": "TOMMY",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Okay. (sees two people sitting in their seats.) Uh, huh. Excuse me, I’m sorry, I-I think you may be in our seats."
+        },
+        {
+          "speaker": "MAN",
+          "text": "Umm, no, I don’t think so."
+        },
+        {
+          "speaker": "TOMMY",
+          "text": "Can-can we take a look at your ticket?"
+        },
+        {
+          "speaker": "MAN",
+          "text": "Sure. (Hands him the ticket.)"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "(looking at ticket) Yep! Yeah, see this says D-13, and uh…"
+        },
+        {
+          "speaker": "MAN",
+          "text": "Oh, well I thought that ah…"
+        },
+        {
+          "speaker": "TOMMY",
+          "text": "Oh, you thought, huh? Yeah, well that didn’t really work out too well for you did it you idiot !! What are you?! A moron!! Huh?! It says D-13! Okay?! Look you’re surrounded by even numbers!! Did that give you some clue?!"
+        },
+        {
+          "speaker": "MAN",
+          "text": "Uh, the usher told us to come…"
+        },
+        {
+          "speaker": "TOMMY",
+          "text": "Oh! Oh! The usher must be right! What, with all that training they go through! Get out!! (They start to leave.) Here! (He throws him back his ticket.) (to Ross, calmly) Hey man, you want the aisle?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "No, I’m good. (He sits down, stunned.)"
+        }
+      ],
+      "location": "Joey’s Premiere",
+      "subjects": [
+        "ROSS",
+        "MAN",
+        "TOMMY",
+        "RACHEL",
+        "CAILIN"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Joey’s Premiere, Rachel is already there with her date, Tommy who's played\nby Ben Stiller who will be in There's Something About Mary and Meet The\nParents , as Ross and his date, Cailin, arrive.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Rachel arrives at Joey's Premiere and greets Ross.",
+          "involved_subjects": [
+            "RACHEL",
+            "ROSS"
+          ],
+          "start_offset": "00:00:01",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "Rachel stops herself from kissing Ross on the cheek and pats his shoulder instead.",
+          "involved_subjects": [
+            "RACHEL",
+            "ROSS"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Rachel introduces Tommy to Ross.",
+          "involved_subjects": [
+            "RACHEL",
+            "ROSS",
+            "TOMMY"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Rachel leaves to go to the ladies' room, and Cailin joins her.",
+          "involved_subjects": [
+            "RACHEL",
+            "CAILIN"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Tommy offers to get their seats while Rachel and Cailin leave.",
+          "involved_subjects": [
+            "TOMMY"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Ross comments to Tommy that the situation is awkward because he used to date Rachel.",
+          "involved_subjects": [
+            "ROSS",
+            "TOMMY"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Ross notices two people sitting in their seats and approaches to address the issue.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Ross and Tommy confront the man about the seats, asking to see his ticket.",
+          "involved_subjects": [
+            "TOMMY",
+            "MAN"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:40"
+        },
+        {
+          "event_description": "The man shows his ticket to Tommy, who verifies the seat number.",
+          "involved_subjects": [
+            "TOMMY",
+            "MAN"
+          ],
+          "start_offset": "00:00:40",
+          "end_offset": "00:00:45"
+        },
+        {
+          "event_description": "Tommy angrily tells the man he is an idiot for sitting in the wrong seats and throws his ticket back.",
+          "involved_subjects": [
+            "TOMMY",
+            "MAN"
+          ],
+          "start_offset": "00:00:45",
+          "end_offset": "00:00:50"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: The Theatre, at the post premiere party. The gang is already there, except\nPhoebe. Joey runs in.]",
+      "dialogue": [
+        {
+          "speaker": "CHANDLER",
+          "text": "(seeing Joey) There he is!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "There’s our star!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "So, so, what’d ya think?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Almost as good as that play with the two naked girls on the see-saw."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "I-I wasn’t in that."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "I know."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "(sees Kate) Oh-oh, hey-hey, Kate! Listen I want you to meet everybody. Everybody, this is Kate."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Hi!"
+        },
+        {
+          "speaker": "THE DIRECTOR",
+          "text": "(stepping in) Excuse me. Excuse me. (to Kate) Sweetheart! (Kisses her.) Come! (They leave.)"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "So that’s the girl you like."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "(drags Chandler over to buffet table) I’m telling you, this guy Rachel is with is crazy! Okay? He viscously screamed at total strangers! I think he’s baaad news!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Wait a minute, wait a minute, you don’t like the guy Rachel’s dating? Well, that’s odd."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Oh, hey, Lauren. Uh, you guys this is, this is Kate’s understudy, Lauren."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh, hi!"
+        },
+        {
+          "speaker": "LAUREN",
+          "text": "Hey."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Hey. Gosh, you look soo familiar."
+        },
+        {
+          "speaker": "LAUREN",
+          "text": "Oh, yeah! I-I ran into you in the hallway in your building. It was right after I slept with Joey. He dumped me the next day."
+        },
+        {
+          "speaker": "CAILIN",
+          "text": "So. How’d you guys meet?"
+        },
+        {
+          "speaker": "PETE",
+          "text": "Well ah, the short version is, I ah pursued her for a couple of months, then I gave her a check for 20,000 dollars, and she was mine."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Yeah, and in the long version, I dump him for telling people the short version."
+        },
+        {
+          "speaker": "ESTELLE",
+          "text": "Joey, sweetheart, you were fabulous!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Hey you guys, this is my agent, Estelle."
+        },
+        {
+          "speaker": "ESTELLE",
+          "text": "How do you do. (to Rachel and Monica) Ooh, you two girls were outstanding! (to Joey) Did they have representation?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "No, they-they weren’t in the play."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "We’re not actors."
+        },
+        {
+          "speaker": "ESTELLE",
+          "text": "Ooh, what a shame! Because with her face (points to Monica) and her chest (points to Rachel) I could really put something together."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Could I borrow it?"
+        },
+        {
+          "speaker": "CAILIN",
+          "text": "(to Ross) Hi! Remember me?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Hi! Yeah! Tommy’s in line for the bathroom and someone just cut in front of him, I think he’s gonna snap. (He’s watching very intently)"
+        },
+        {
+          "speaker": "CAILIN",
+          "text": "Ross, I’m gonna go."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Go? Why?"
+        },
+        {
+          "speaker": "CAILIN",
+          "text": "I don’t know. Could be because I don’t feel like standing around all night waiting for some guy who may or may not scream."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "But-but Cailin, he definitely will scream."
+        },
+        {
+          "speaker": "CAILIN",
+          "text": "Good bye Ross."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Uh, oh-ho bye."
+        },
+        {
+          "speaker": "THE DIRECTOR",
+          "text": "(entering carrying a newspaper) Here we go people! (starts reading the review) Boxing Day! The Lucille Lortel Theatre, blah-la-la-la… Ah-ha! Joey Tribianni, gives an uneven performance, but Mr. Tribianni is not the worst thing in this production."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Yes!!! Ha-ha-ha!"
+        },
+        {
+          "speaker": "THE DIRECTOR",
+          "text": "Kate Miller’s awkward and mannered portrayal is laughable. (Kate walks away depressed.) Badda-badda-badda. Ah-ha! Here it is! The direction by Marshal Talmant is… (stops, reads it again, and throws down the paper in disgust) Thank you, boys and girls, you’ve ruined my life. Please, stuff your talentless faces with my Mother’s crab cakes! (starts to leave) Excuse me!!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Anyone mind if I save this?"
+        }
+      ],
+      "location": "The Theatre",
+      "subjects": [
+        "CHANDLER",
+        "THE DIRECTOR",
+        "PETE",
+        "ESTELLE",
+        "ROSS",
+        "MONICA",
+        "RACHEL",
+        "CAILIN",
+        "JOEY",
+        "LAUREN"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: The Theatre, at the post premiere party. The gang is already there, except\nPhoebe. Joey runs in.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Joey runs into the scene and is greeted by Chandler and Monica.",
+          "involved_subjects": [
+            "Joey",
+            "Chandler",
+            "Monica"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Joey introduces Kate to the group.",
+          "involved_subjects": [
+            "Joey",
+            "Kate",
+            "Monica"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "The Director kisses Kate and leaves with her.",
+          "involved_subjects": [
+            "The Director",
+            "Kate"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Ross drags Chandler to the buffet table and expresses concern about Rachel's date.",
+          "involved_subjects": [
+            "Ross",
+            "Chandler"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:45"
+        },
+        {
+          "event_description": "Ross introduces Lauren as Kate's understudy and mentions her past with Joey.",
+          "involved_subjects": [
+            "Ross",
+            "Lauren",
+            "Rachel"
+          ],
+          "start_offset": "00:00:50",
+          "end_offset": "00:00:55"
+        },
+        {
+          "event_description": "Pete describes how he pursued and paid Cailin to be with him.",
+          "involved_subjects": [
+            "Pete",
+            "Cailin"
+          ],
+          "start_offset": "00:01:00",
+          "end_offset": "00:01:10"
+        },
+        {
+          "event_description": "Estelle compliments Monica and Rachel and asks if they have representation.",
+          "involved_subjects": [
+            "Estelle",
+            "Monica",
+            "Rachel",
+            "Joey"
+          ],
+          "start_offset": "00:01:15",
+          "end_offset": "00:01:25"
+        },
+        {
+          "event_description": "Cailin tells Ross she is leaving because she doesn't want to wait for a guy who may scream.",
+          "involved_subjects": [
+            "Cailin",
+            "Ross"
+          ],
+          "start_offset": "00:01:30",
+          "end_offset": "00:01:35"
+        },
+        {
+          "event_description": "The Director reads a negative review of Joey's performance from a newspaper.",
+          "involved_subjects": [
+            "The Director",
+            "Joey"
+          ],
+          "start_offset": "00:01:40",
+          "end_offset": "00:01:50"
+        },
+        {
+          "event_description": "The Director throws down the newspaper in disgust and leaves, while Joey asks to keep the review.",
+          "involved_subjects": [
+            "The Director",
+            "Joey"
+          ],
+          "start_offset": "00:01:55",
+          "end_offset": "00:02:05"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, Monica and Rachel are returning. Phoebe is still on\nhold.]",
+      "dialogue": [
+        {
+          "speaker": "MONICA",
+          "text": "Hey!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Hey!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, is the play over?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Yeah. Where were you?"
+        },
+        {
+          "speaker": "HOLD VOICE",
+          "text": "Thank you for your patience, you’re the next caller."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "You were the next caller five hours ago. You must be going crazy."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Nah. I kept myself busy."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, okay, yeah. (to Monica) I put your stuff in her room, and her stuff in your room."
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "PHOEBE",
+        "MONICA",
+        "RACHEL",
+        "HOLD VOICE"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Monica and Rachel's, Monica and Rachel are returning. Phoebe is still on\nhold.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Monica and Rachel arrive back at Monica and Rachel's apartment.",
+          "involved_subjects": [
+            "MONICA",
+            "RACHEL"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "Phoebe, who is still on hold, asks if the play is over.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Monica confirms the play is over and asks Rachel where she was.",
+          "involved_subjects": [
+            "MONICA",
+            "RACHEL"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Hold voice informs the next caller that they are on hold, and Monica comments on the delay.",
+          "involved_subjects": [
+            "HOLD VOICE",
+            "MONICA"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Phoebe states she kept herself busy while on hold.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Phoebe informs Monica that she has put Monica's belongings in Rachel's room and Rachel's belongings in Monica's room.",
+          "involved_subjects": [
+            "PHOEBE",
+            "MONICA",
+            "RACHEL"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:30"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: The Theatre, after the party. Joey is trying to comfort Kate.]",
+      "dialogue": [
+        {
+          "speaker": "JOEY",
+          "text": "Hey! Are you okay?"
+        },
+        {
+          "speaker": "KATE",
+          "text": "Fabulous."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Listen, drama critics they’re nothing but, but people who couldn’t make it as actors. You know what you should do?"
+        },
+        {
+          "speaker": "KATE",
+          "text": "Become a drama critic!"
+        },
+        {
+          "speaker": "THE DIRECTOR",
+          "text": "(entering, drunk) I am hurt! (to Joey and Kate) A plague on both your houses! (walks away)"
+        },
+        {
+          "speaker": "KATE",
+          "text": "By the way, he dumped me tonight after he read my review."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Oh, classy."
+        },
+        {
+          "speaker": "KATE",
+          "text": "Yep! I sure know how to pick ‘em, huh? Y'know I gave up a part on a soap for this!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Wow! Yeah I ah, I gave up a job too."
+        },
+        {
+          "speaker": "KATE",
+          "text": "Really. What?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Uh, de-clawing cats. Hey, tell ya what. Let me walk you home. We’ll stop by every news stand and burn every copy of their Times and the Post."
+        },
+        {
+          "speaker": "KATE",
+          "text": "Why the Post?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Oh, you didn’t see the Post?"
+        },
+        {
+          "speaker": "KATE",
+          "text": "No. You?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "No. Why?"
+        }
+      ],
+      "location": "The Theatre",
+      "subjects": [
+        "JOEY",
+        "THE DIRECTOR",
+        "KATE"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: The Theatre, after the party. Joey is trying to comfort Kate.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Joey asks Kate if she is okay after the party at the theatre.",
+          "involved_subjects": [
+            "JOEY",
+            "KATE"
+          ],
+          "start_offset": "00:00:01",
+          "end_offset": "00:00:03"
+        },
+        {
+          "event_description": "Kate responds that she is fabulous.",
+          "involved_subjects": [
+            "KATE"
+          ],
+          "start_offset": "00:00:04",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "Joey comments on drama critics being unsuccessful actors and suggests Kate should become one.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:06",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Kate sarcastically suggests Joey become a drama critic.",
+          "involved_subjects": [
+            "KATE"
+          ],
+          "start_offset": "00:00:11",
+          "end_offset": "00:00:12"
+        },
+        {
+          "event_description": "The Director enters the scene drunk and exclaims he is hurt, then walks away cursing.",
+          "involved_subjects": [
+            "THE DIRECTOR"
+          ],
+          "start_offset": "00:00:13",
+          "end_offset": "00:00:16"
+        },
+        {
+          "event_description": "Kate reveals that the Director dumped her after reading her review.",
+          "involved_subjects": [
+            "KATE"
+          ],
+          "start_offset": "00:00:17",
+          "end_offset": "00:00:19"
+        },
+        {
+          "event_description": "Joey comments on Kate's situation with sarcasm.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:21"
+        },
+        {
+          "event_description": "Kate laments giving up a soap role for her current work.",
+          "involved_subjects": [
+            "KATE"
+          ],
+          "start_offset": "00:00:22",
+          "end_offset": "00:00:24"
+        },
+        {
+          "event_description": "Joey shares that he also gave up a job, specifically de-clawing cats.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:27"
+        },
+        {
+          "event_description": "Joey offers to walk Kate home and suggests burning newspapers at newsstands.",
+          "involved_subjects": [
+            "JOEY",
+            "KATE"
+          ],
+          "start_offset": "00:00:28",
+          "end_offset": "00:00:30"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Kate’s Apartment, Joey and Kate are returning from a night out on the\ntown.]",
+      "dialogue": [
+        {
+          "speaker": "KATE",
+          "text": "(drunk) So you really think those newspapers are just jealous of me?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Oh, absolutely! You’re talented and you’re good looking."
+        },
+        {
+          "speaker": "KATE",
+          "text": "Oh, you’re sweet and cute."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "I know! That’s why they trashed me!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Whoa. Wait a minute, wait a minute."
+        },
+        {
+          "speaker": "KATE",
+          "text": "What?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "I, I don’t get you. I mean first, you hate me. Then you sleep with me. Then you want nothing to do with me, now you want me again."
+        },
+        {
+          "speaker": "KATE",
+          "text": "What? So you never went out with an actress before?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Kate, do you even like me?"
+        },
+        {
+          "speaker": "KATE",
+          "text": "Of course I do."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Well so, how come you blew me off? Y'know? How come you were with him?"
+        },
+        {
+          "speaker": "KATE",
+          "text": "I don’t know! I just, just do this! I-I always have to pick the like the smartest guy, or-or the most talented guy… Why can’t I just pick someone like you?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Thanks."
+        },
+        {
+          "speaker": "KATE",
+          "text": "You know what I mean. I mean like the sweetest guy. Joey, you’re just so, you’re so, so… (She passes out and slumps against his shoulder.)"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "(Checks to see if she’s drooling on his shirt.) Okay. Okay, okay, hey. (Lays her down and covers her with a blanket.) There we go, let’s get your feet up there. (Looks at her) Good night, Kate. Sweet dreams. (Picks up a garbage can) I’m gonna put this can right here in case you have to hurl."
+        }
+      ],
+      "location": "Kate’s Apartment",
+      "subjects": [
+        "JOEY",
+        "KATE"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Kate’s Apartment, Joey and Kate are returning from a night out on the\ntown.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Kate, visibly intoxicated, questions Joey about newspapers being jealous of her.",
+          "involved_subjects": [
+            "KATE"
+          ],
+          "start_offset": "00:00:01",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "Joey affirms to Kate that newspapers are jealous of her, praising her talent and looks.",
+          "involved_subjects": [
+            "JOEY",
+            "KATE"
+          ],
+          "start_offset": "00:00:06",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Kate compliments Joey, calling him sweet and cute.",
+          "involved_subjects": [
+            "KATE"
+          ],
+          "start_offset": "00:00:11",
+          "end_offset": "00:00:13"
+        },
+        {
+          "event_description": "Joey expresses self-deprecating humor, saying he is trashed because of his qualities.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:14",
+          "end_offset": "00:00:16"
+        },
+        {
+          "event_description": "Joey questions Kate about her inconsistent feelings towards him.",
+          "involved_subjects": [
+            "JOEY",
+            "KATE"
+          ],
+          "start_offset": "00:00:17",
+          "end_offset": "00:00:22"
+        },
+        {
+          "event_description": "Kate questions Joey about her previous relationships, implying she has only dated actors.",
+          "involved_subjects": [
+            "KATE"
+          ],
+          "start_offset": "00:00:23",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Joey asks Kate if she genuinely likes him.",
+          "involved_subjects": [
+            "JOEY",
+            "KATE"
+          ],
+          "start_offset": "00:00:26",
+          "end_offset": "00:00:28"
+        },
+        {
+          "event_description": "Kate affirms that she does like Joey.",
+          "involved_subjects": [
+            "KATE"
+          ],
+          "start_offset": "00:00:29",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Joey questions why Kate ignored him and was with another man.",
+          "involved_subjects": [
+            "JOEY",
+            "KATE"
+          ],
+          "start_offset": "00:00:31",
+          "end_offset": "00:00:34"
+        },
+        {
+          "event_description": "Kate, emotionally overwhelmed, passes out and slumps against Joey's shoulder.",
+          "involved_subjects": [
+            "KATE",
+            "JOEY"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:40"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, the next morning, Phoebe is STILL on hold.]",
+      "dialogue": [
+        {
+          "speaker": "HOLD VOICE",
+          "text": "Please stay on the line. You’re call is very important to us."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "(entering from her bedroom) Pheebs, you’ve been up for 24 hours! Go to sleep, honey. Th-this isn’t healthy."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "No, no, I’m fine, and y’know why? ‘Cause of all the riboflavin."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "(entering, happily) Hey!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Hey! Didn’t you have that outfit on last night?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Yeah! I stayed at Kate’s, but ah, nothing happened. Hey, Pheebs, where were ya?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "I’m so, so, so sorry, Joey. I definitely am gonna see you’re play. I swear you’re play is very important to us, thank you for your patience. You’re play is the next play is the next play I’m gonna see."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Anyway, how did it go with Kate?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Oh, it was great! Yeah, I-I walked her home, and it was amazing how much we connected, y'know? Then ah, then she passed out, but then she woke up. Yeah? And we stayed up all night talking, and now we’re like totally crazy about each other!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Joey, you had the night!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "What?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "When two people finally realise their feelings for each other, and-and they talk for hours, and they-they learn all about the other person!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "You-you think?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Did you like learn about her family?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Two brothers, one died!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Yes!!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Yeah?!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Oh! (They hug, triumphantly.)"
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "PHOEBE",
+        "MONICA",
+        "JOEY",
+        "HOLD VOICE"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Monica and Rachel's, the next morning, Phoebe is STILL on hold.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Phoebe remains on hold, listening to the hold voice message.",
+          "involved_subjects": [
+            "PHOEBE",
+            "HOLD VOICE"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Monica enters the scene and tells Phoebe to go to sleep due to her being awake for 24 hours.",
+          "involved_subjects": [
+            "MONICA",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Phoebe insists she is fine and attributes her energy to riboflavin.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Joey enters the scene happily and greets everyone.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:40"
+        },
+        {
+          "event_description": "Monica questions Joey about his outfit from the previous night.",
+          "involved_subjects": [
+            "MONICA",
+            "JOEY"
+          ],
+          "start_offset": "00:00:40",
+          "end_offset": "00:00:50"
+        },
+        {
+          "event_description": "Joey explains he stayed at Kate's and claims nothing happened.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:50",
+          "end_offset": "00:01:00"
+        },
+        {
+          "event_description": "Joey tells Phoebe he will see her play and thanks her for her patience.",
+          "involved_subjects": [
+            "JOEY",
+            "PHOEBE"
+          ],
+          "start_offset": "00:01:00",
+          "end_offset": "00:01:10"
+        },
+        {
+          "event_description": "Monica asks Joey about his experience with Kate.",
+          "involved_subjects": [
+            "MONICA",
+            "JOEY"
+          ],
+          "start_offset": "00:01:10",
+          "end_offset": "00:01:20"
+        },
+        {
+          "event_description": "Joey describes walking Kate home, connecting with her, and staying up talking all night.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:01:20",
+          "end_offset": "00:01:30"
+        },
+        {
+          "event_description": "Monica explains to Joey the significance of realizing feelings and talking for hours, implying a romantic connection.",
+          "involved_subjects": [
+            "MONICA",
+            "JOEY"
+          ],
+          "start_offset": "00:01:30",
+          "end_offset": "00:01:40"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Central Perk, Chandler and Monica are sitting on the couch, Rachel is on the\nchair.]",
+      "dialogue": [
+        {
+          "speaker": "GUNTHER",
+          "text": "(bringing Chandler a cup) This is from the woman at the bar."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Oh-ho-ho-ho."
+        },
+        {
+          "speaker": "GUNTHER",
+          "text": "Sorry. She thought you were somebody else."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "What time is it?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "One."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "One."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "7:15. (Monica looks at him) Watch doesn’t work."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Tommy’s supposed to be here soon, we’re going to lunch."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Look. Look, I wasn’t going to say anything to you, but... All right, I don’t think you should be seeing Tommy anymore."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "You don’t?!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "No! The guy is mean. I mean really mean. I think you should stay away from him."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Umm, or , maybe, I should stay away from all men."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "No, it’s not just ‘cause I’m jealous. (Both Monica and Chandler give him a ‘Come on’ look) I mean I’m not, I’m not, I’m not jealous, okay? It’s… Look, the guy, he screamed, he actually screamed at this couple sitting in our seats."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Yeah, and at the end of the play, he, he got up y'know, and he just started like, (claps his hands) banging his hands together!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Okay, fine, fine. You don’t want to believe me? No, that’s fine. (starts to leave)"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "We’re kidding!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Ross, don’t. Ross!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "You don’t want to believe me, I’m Mr. Funny to you. Mr. Funny… (turns around and almost spills his coffee on Tommy)"
+        },
+        {
+          "speaker": "TOMMY",
+          "text": "Whoa!!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Whoa, sorry Tommy."
+        },
+        {
+          "speaker": "TOMMY",
+          "text": "What’s in the cup, Ross?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Umm…"
+        },
+        {
+          "speaker": "TOMMY",
+          "text": "What is in the cup?!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Okay, it’s coffee."
+        },
+        {
+          "speaker": "TOMMY",
+          "text": "Ice coffee? Tell me it’s ice coffee!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "It’s-it’s hot…"
+        },
+        {
+          "speaker": "TOMMY",
+          "text": "Hot coffee!!! You idiot!! You were gonna spill hot coffee all over me, huh?!! What are you just some big, dumb, stupid, doofy idiot, with a doofy idiot hairdo, huh?! Huh?!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(not seeing Ross) What’s your favourite thing about summertime?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Umm, going to the beach. When it stays light real late."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Yeah…"
+        },
+        {
+          "speaker": "TOMMY",
+          "text": "(entering, finished with yelling at Ross, who follows him in shell shocked) (happily) Hey!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Tommyyyy! Say, what’s your favourite thing about summer?"
+        },
+        {
+          "speaker": "TOMMY",
+          "text": "Ooh, I don’t know. Probably the smell of freshly cut grass."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Ohh, that’s a good one."
+        }
+      ],
+      "location": "Central Perk",
+      "subjects": [
+        "CHANDLER",
+        "GUNTHER",
+        "ROSS",
+        "TOMMY",
+        "MONICA",
+        "RACHEL"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Central Perk, Chandler and Monica are sitting on the couch, Rachel is on the\nchair.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "GUNTHER brings Chandler a cup of coffee from a woman at the bar, apologizing for her mistake.",
+          "involved_subjects": [
+            "GUNTHER",
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Ross warns Rachel that he thinks Tommy is mean and advises her to stay away from him.",
+          "involved_subjects": [
+            "ROSS",
+            "RACHEL"
+          ],
+          "start_offset": "00:02:00",
+          "end_offset": "00:02:15"
+        },
+        {
+          "event_description": "Ross expresses concern that Tommy screamed at a couple and got up banging his hands together at the end of a play.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:02:15",
+          "end_offset": "00:02:30"
+        },
+        {
+          "event_description": "Ross nearly spills hot coffee on Tommy, accidentally turning around and almost knocking it over.",
+          "involved_subjects": [
+            "ROSS",
+            "TOMMY"
+          ],
+          "start_offset": "00:03:00",
+          "end_offset": "00:03:10"
+        },
+        {
+          "event_description": "Tommy enters the scene after yelling at Ross, happily greeting Rachel.",
+          "involved_subjects": [
+            "TOMMY",
+            "RACHEL"
+          ],
+          "start_offset": "00:03:20",
+          "end_offset": "00:03:30"
+        },
+        {
+          "event_description": "Rachel asks Tommy about his favorite thing about summer, and he responds that he likes the smell of freshly cut grass.",
+          "involved_subjects": [
+            "RACHEL",
+            "TOMMY"
+          ],
+          "start_offset": "00:03:30",
+          "end_offset": "00:03:50"
+        },
+        {
+          "event_description": "Chandler comments that the smell of freshly cut grass is a good summer thing.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:03:50",
+          "end_offset": "00:03:55"
+        },
+        {
+          "event_description": "Ross, Monica, and Chandler joke about Tommy's dislike of hot coffee, with Monica and Chandler giving Ross a 'come on' look.",
+          "involved_subjects": [
+            "ROSS",
+            "MONICA",
+            "CHANDLER"
+          ],
+          "start_offset": "00:02:45",
+          "end_offset": "00:02:55"
+        },
+        {
+          "event_description": "Rachel mentions that Tommy's coming over for lunch and asks about the time.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:50",
+          "end_offset": "00:00:55"
+        },
+        {
+          "event_description": "Tommy finishes yelling at Ross and enters the scene happily, greeting everyone.",
+          "involved_subjects": [
+            "TOMMY"
+          ],
+          "start_offset": "00:03:20",
+          "end_offset": "00:03:30"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Backstage at Joey’s play, Joey is arriving, late.]",
+      "dialogue": [
+        {
+          "speaker": "JOEY",
+          "text": "Sorry! Sorry, I’m late; sorry, I’m late! My duck and my chick and a fight, it-it was ugly."
+        },
+        {
+          "speaker": "STAGE MANAGER",
+          "text": "Look, we held the curtain for you buddy. Come on, let’s go! Let’s go!"
+        },
+        {
+          "speaker": "LAUREN",
+          "text": "(answering the door) Vic! Where have you been, baby?!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "(surprised it’s Lauren) (hugs her) (whispering) Where’s Kate?"
+        },
+        {
+          "speaker": "LAUREN",
+          "text": "(whispering) She got a job in L.A."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "(stunned) What?!"
+        },
+        {
+          "speaker": "LAUREN",
+          "text": "I’ve been waiting up all night for ya. Where have you been? (Joey doesn’t answer) Where have you been? Vic?!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Oh, ahh, go to the window. I’m wanna run down to the truck and show you something."
+        },
+        {
+          "speaker": "LAUREN",
+          "text": "(at the window, she’s looking down out of the window) What do you got down there, Vic? What do you got under that tarp?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "(grabs the window from the outside and sticks his head in) (whispering) When is she leaving?"
+        },
+        {
+          "speaker": "LAUREN",
+          "text": "(whispering) Tonight. What are you doing?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "(making like he is yelling up to the second floor) I’m coming up!"
+        }
+      ],
+      "location": "Backstage at Joey’s play",
+      "subjects": [
+        "JOEY",
+        "LAUREN",
+        "STAGE MANAGER"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Backstage at Joey’s play, Joey is arriving, late.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Joey arrives backstage late and apologizes for his delay, explaining he was delayed by a fight involving his duck and chick.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:01",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Stage Manager informs Joey that the curtain was held for him and urges him to go.",
+          "involved_subjects": [
+            "STAGE MANAGER"
+          ],
+          "start_offset": "00:00:11",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Lauren answers the door and greets Vic, asking about his whereabouts.",
+          "involved_subjects": [
+            "LAUREN"
+          ],
+          "start_offset": "00:00:16",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Joey, surprised to see Lauren, hugs her and whispers asking about Kate's whereabouts.",
+          "involved_subjects": [
+            "JOEY",
+            "LAUREN"
+          ],
+          "start_offset": "00:00:21",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Lauren whispers to Joey that Kate got a job in L.A.",
+          "involved_subjects": [
+            "LAUREN",
+            "JOEY"
+          ],
+          "start_offset": "00:00:31",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Joey, stunned, asks Lauren about Kate's departure.",
+          "involved_subjects": [
+            "JOEY",
+            "LAUREN"
+          ],
+          "start_offset": "00:00:36",
+          "end_offset": "00:00:40"
+        },
+        {
+          "event_description": "Lauren questions Joey about his whereabouts, implying concern.",
+          "involved_subjects": [
+            "LAUREN",
+            "JOEY"
+          ],
+          "start_offset": "00:00:41",
+          "end_offset": "00:00:45"
+        },
+        {
+          "event_description": "Joey gestures towards the window and suggests he wants to show Lauren something from the truck.",
+          "involved_subjects": [
+            "JOEY",
+            "LAUREN"
+          ],
+          "start_offset": "00:00:46",
+          "end_offset": "00:00:50"
+        },
+        {
+          "event_description": "Lauren looks out the window at what Joey is referring to, asking about the tarp.",
+          "involved_subjects": [
+            "LAUREN"
+          ],
+          "start_offset": "00:00:51",
+          "end_offset": "00:00:55"
+        },
+        {
+          "event_description": "Joey, from outside, whispers and asks when someone is leaving, then makes a gesture as if he is yelling up to the second floor.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:56",
+          "end_offset": "00:01:00"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, Chandler and Ross are in the kitchen, Rachel and Monica\nare sitting in the living room, and Phoebe is, you guessed it, still on hold.]",
+      "dialogue": [
+        {
+          "speaker": "TOMMY",
+          "text": "Hey, mind if I use the phone?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, I… (starts jabbering incoherently)"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Why don’t you use ours across the hall, ‘cause she…has…problems."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "(coming out of the kitchen with a cup of coffee, almost running into Tommy) Oh-ho, whoa! Sorry, Tommy. I almost spilled this hot coffee on you."
+        },
+        {
+          "speaker": "TOMMY",
+          "text": "Yeah, but you didn’t."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "No, but it’s-it’s-it’s hot!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Ross, would you just stop it! It’s getting really old."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "I can’t believe no one believes me!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "I do, I believe you."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "You do Pheebs?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Yeah. But I also believed her (points to the phone) when she said I was next."
+        },
+        {
+          "speaker": "TOMMY",
+          "text": "(noticing the chick) Ooh, hey! Hey, there little fella. (picks up the chick) Mr. Fuzzy-Man, how are you doing? (starts to pet him) Aww. (The chick poops on his hand.) Eww! Oh! Eww! Gross! Idiot!! Stupid little, fuzzy, yellow creature!! Oh look at me, I’m so cute, I’m a little chick who’s disgusting! God, you’re so stupid, how are you not yet extinct!! (the duck wattles behind him and quacks) (to the duck) Quack-quack, quack-quack!! What are you quacking about?! Dumb Donald Doo-Doo!!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Step away from the duck."
+        },
+        {
+          "speaker": "TOMMY",
+          "text": "Ooh, sorry little Mr. Chic-A-Dee, sorry you went doody in my hand! (starts to walk out and stops) (to Rachel) Well, I guess we’re not going out anymore. Whaa!!!"
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "CHANDLER",
+        "ROSS",
+        "TOMMY",
+        "PHOEBE",
+        "RACHEL"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Monica and Rachel's, Chandler and Ross are in the kitchen, Rachel and Monica\nare sitting in the living room, and Phoebe is, you guessed it, still on hold.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Tommy asks Phoebe for permission to use the phone.",
+          "involved_subjects": [
+            "TOMMY",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:01",
+          "end_offset": "00:00:03"
+        },
+        {
+          "event_description": "Phoebe begins incoherent jabbering when Tommy asks to use the phone.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:03",
+          "end_offset": "00:00:04"
+        },
+        {
+          "event_description": "Chandler suggests Phoebe use the phone across the hall because she has problems.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:04",
+          "end_offset": "00:00:06"
+        },
+        {
+          "event_description": "Ross nearly bumps into Tommy while coming out of the kitchen with a cup of coffee.",
+          "involved_subjects": [
+            "ROSS",
+            "TOMMY"
+          ],
+          "start_offset": "00:00:07",
+          "end_offset": "00:00:09"
+        },
+        {
+          "event_description": "Ross warns Tommy about the hot coffee he is holding.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:09",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Rachel tells Ross to stop bothering her about the hot coffee.",
+          "involved_subjects": [
+            "RACHEL",
+            "ROSS"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:12"
+        },
+        {
+          "event_description": "Ross expresses disbelief that no one believes him about the hot coffee.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:12",
+          "end_offset": "00:00:14"
+        },
+        {
+          "event_description": "Phoebe affirms her belief in Ross's concern about the hot coffee.",
+          "involved_subjects": [
+            "PHOEBE",
+            "ROSS"
+          ],
+          "start_offset": "00:00:14",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Phoebe clarifies she believed the phone caller was next in line.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:16"
+        },
+        {
+          "event_description": "Tommy notices and interacts with the chick, petting it and commenting on it.",
+          "involved_subjects": [
+            "TOMMY"
+          ],
+          "start_offset": "00:00:16",
+          "end_offset": "00:00:20"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Backstage at Joey’s play, Joey is changing for the next scene as Kate\narrives, carrying her bags.]",
+      "dialogue": [
+        {
+          "speaker": "KATE",
+          "text": "Joey!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Hey!"
+        },
+        {
+          "speaker": "KATE",
+          "text": "I’m soo glad I caught you, I couldn’t find you before."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Wh-wh-what’s going on? Wh-what’s this about L.A.?"
+        },
+        {
+          "speaker": "KATE",
+          "text": "They still want me for General Hospital ."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "But, but wh-what about us?"
+        },
+        {
+          "speaker": "KATE",
+          "text": "Last night was wonderful. But I-I can’t stay here just for you."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Well, so, stay for the museums!"
+        },
+        {
+          "speaker": "KATE",
+          "text": "I’m sorry."
+        },
+        {
+          "speaker": "STAGE MANAGER",
+          "text": "Joey, onstage!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Well can you at least stay to the end of the play? I mean, I’ll go to the airport with ya, I-I wanna say good bye."
+        },
+        {
+          "speaker": "LAUREN",
+          "text": "(yelling from onstage) Where are you Vic?"
+        },
+        {
+          "speaker": "KATE",
+          "text": "Flight’s in an hour. I-I gotta go."
+        },
+        {
+          "speaker": "LAUREN",
+          "text": "Vic! Vic! Vic !!!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "(to Lauren) In a minute!!"
+        },
+        {
+          "speaker": "LAUREN",
+          "text": "So this is it? Victor?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Yeah, I guess it is. (sees Kate is watching, he turns Lauren so that he can talk directly to Kate, but still look like he is talking to Lauren) Listen, I ah, I gotta say good bye, and-and I gotta say it quick ‘cause this is killing me. One thing you gotta know, is that I will never forget you. But, you’ve got things you have to do now, and so do I. And so… I’m gonna get on this spaceship, (smoke starts pouring in from the ceiling, and a ladder comes down, with flashing, colored lights on the side of it) and I’m gonna go to Blargon 7 in search of alternative fuels. But when I return, 200 years from now, you’ll be long gone. But I won’t have aged at all. (gets on the ladder) So you tell your great-great-granddaughter to look me up, because Adrienne, baby, I’m gonna want to meet her."
+        },
+        {
+          "speaker": "LAUREN",
+          "text": "So long, Vic! (waving good bye as the ladder retracts)"
+        }
+      ],
+      "location": "Backstage at Joey’s play",
+      "subjects": [
+        "JOEY",
+        "KATE",
+        "LAUREN",
+        "STAGE MANAGER"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Backstage at Joey’s play, Joey is changing for the next scene as Kate\narrives, carrying her bags.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Kate arrives backstage carrying her bags and calls out to Joey.",
+          "involved_subjects": [
+            "KATE",
+            "JOEY"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "Joey responds to Kate's greeting.",
+          "involved_subjects": [
+            "JOEY",
+            "KATE"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:07"
+        },
+        {
+          "event_description": "Kate informs Joey that she is glad she caught him and couldn't find him earlier.",
+          "involved_subjects": [
+            "KATE",
+            "JOEY"
+          ],
+          "start_offset": "00:00:07",
+          "end_offset": "00:00:12"
+        },
+        {
+          "event_description": "Joey asks Kate about the situation with Los Angeles and her potential move.",
+          "involved_subjects": [
+            "JOEY",
+            "KATE"
+          ],
+          "start_offset": "00:00:12",
+          "end_offset": "00:00:17"
+        },
+        {
+          "event_description": "Kate tells Joey that they still want her for General Hospital.",
+          "involved_subjects": [
+            "KATE",
+            "JOEY"
+          ],
+          "start_offset": "00:00:17",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Joey expresses concern about their relationship and asks Kate to stay for the museums.",
+          "involved_subjects": [
+            "JOEY",
+            "KATE"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Kate apologizes and states she cannot stay because her flight is in an hour.",
+          "involved_subjects": [
+            "KATE"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Lauren calls out to Vic onstage, prompting Joey to respond.",
+          "involved_subjects": [
+            "LAUREN",
+            "JOEY"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:33"
+        },
+        {
+          "event_description": "Joey tells Lauren to wait a minute while he talks to Kate.",
+          "involved_subjects": [
+            "JOEY",
+            "LAUREN"
+          ],
+          "start_offset": "00:00:33",
+          "end_offset": "00:00:36"
+        },
+        {
+          "event_description": "Joey says goodbye to Lauren, explaining he is going to Blargon 7 to search for alternative fuels, and makes a humorous remark about returning in 200 years.",
+          "involved_subjects": [
+            "JOEY",
+            "LAUREN"
+          ],
+          "start_offset": "00:00:36",
+          "end_offset": "00:00:50"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, the gang, except Joey, is there. Phoebe is, well you\ny'know.]",
+      "dialogue": [
+        {
+          "speaker": "MONICA",
+          "text": "Phoebe, it’s been two days."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Yeah, I know. Oh, good thing it’s one of those 801 numbers. Right?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Phoebe, 800 is toll free, 801 is-is Utah."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "No, no, no, oh no-no-no, it’s has to be 800. (picks up the instruction manual to check the phone number) ‘Cause all those big companies have 800 numbers, every one. (Finds the number) Yeah, every big Utah-based company has one."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Phoe-be!!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Sorry, I’m so sorry, I will pay you back."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "And yet, she’s still not hanging up the phone."
+        },
+        {
+          "speaker": "ALL",
+          "text": "Hang it up! Hang up the phone!!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Fine! Fine! (slams the phone down, breaking it) Oh-oh!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "What?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Well, I think I broke it. But that’s all right, here’s the number you can call."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "(sarcastic) Oh."
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "CHANDLER",
+        "ROSS",
+        "PHOEBE",
+        "MONICA",
+        "RACHEL"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Monica and Rachel's, the gang, except Joey, is there. Phoebe is, well you\ny'know.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Phoebe checks the phone number in the instruction manual to verify if it is an 800 number.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:01:00",
+          "end_offset": "00:01:10"
+        },
+        {
+          "event_description": "Phoebe announces that all big Utah-based companies have 800 numbers.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:01:10",
+          "end_offset": "00:01:15"
+        },
+        {
+          "event_description": "Phoebe refuses to hang up the phone after being told to do so by the group.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:01:15",
+          "end_offset": "00:01:20"
+        },
+        {
+          "event_description": "Phoebe slams the phone down, breaking it.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:01:20",
+          "end_offset": "00:01:25"
+        },
+        {
+          "event_description": "Monica sarcastically comments on Phoebe breaking the phone.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:01:25",
+          "end_offset": "00:01:30"
+        }
+      ]
+    }
+  ]
+}

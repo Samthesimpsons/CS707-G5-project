@@ -1,0 +1,2091 @@
+{
+  "episode": "0303",
+  "title": "The One With the Jam",
+  "scenes": [
+    {
+      "scene_description": "[Scene: Chandler and Joey's, Chandler is sitting reading a book and hears the bed in\nJoey's room creaking, and does a 'Oh no, not again' look on his face.]",
+      "dialogue": [
+        {
+          "speaker": "JOEY",
+          "text": "(from bedroom) WHOAA!!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "(going to the bedroom) See Joe, that's why your parents told you not to jump on the bed."
+        }
+      ],
+      "location": "Chandler and Joey's",
+      "subjects": [
+        "JOEY",
+        "CHANDLER"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Chandler and Joey's, Chandler is sitting reading a book and hears the bed in\nJoey's room creaking, and does a 'Oh no, not again' look on his face.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Joey's bed creaks loudly, indicating someone is jumping on it.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:07"
+        },
+        {
+          "event_description": "Joey exclaims 'WHOAA!!' from his bedroom, reacting to the bed creaking.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:07",
+          "end_offset": "00:00:09"
+        },
+        {
+          "event_description": "Chandler hears the bed creaking and looks towards Joey's room with a worried expression.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:09",
+          "end_offset": "00:00:11"
+        },
+        {
+          "event_description": "Chandler walks from his position to the doorway leading to Joey's bedroom.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:11",
+          "end_offset": "00:00:13"
+        },
+        {
+          "event_description": "Chandler comments to Joey, 'See Joe, that's why your parents told you not to jump on the bed.'",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:13",
+          "end_offset": "00:00:15"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, Ross and Rachel are entering]",
+      "dialogue": [
+        {
+          "speaker": "MONICA",
+          "text": "Hey, look at me. I'm making jam, been at it since 4 o'clock this morning."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Where'd you get fruit at four in the morning?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Went down to the docks. Bet ya didn't know you could get it wholesale."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "I didn't know there were docks."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Hey."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Hey."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Aww, is it broken?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "No, I gotta wear this thing for a couple weeks. (points to the sling he is wearing)"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Did you tell the doctor you did it jumping up and down on your bed?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Nooo. I had a story all worked out but then Chandler sold me out."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Well, I'm sorry Joe. I didn't think the doctor was gonna buy that it just *fell* out of the socket."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "What is this? Fruit?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Monica's making jam."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Whoa, jam! I love jam! (to Chandler) Hey, how come we never have jam at our place?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Because the kids need new shoes."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "I'm going into business people. I'm sick and tired of being depressed about Richard. I needed a plan, a plan to get over my man. What's the opposite of man? Jam. (sees Joey trying some jam from the pot) Oh Joey don't! It's way to hot. (Joey realizes this and spits what he had in his mouth back into the pot.)"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "This will just be my batch."
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "CHANDLER",
+        "ROSS",
+        "MONICA",
+        "RACHEL",
+        "JOEY"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Monica and Rachel's, Ross and Rachel are entering]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Monica announces she has been making jam since 4 a.m. at her and Rachel's apartment.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:01",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "Ross questions where Monica obtained fruit at 4 a.m.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:07"
+        },
+        {
+          "event_description": "Monica explains she went to the docks to buy fruit wholesale.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:07",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Rachel expresses surprise about the existence of docks.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:12"
+        },
+        {
+          "event_description": "Joey notices Joey's arm in a sling and comments on it.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:12",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Joey explains he has to wear a sling for a few weeks.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:17"
+        },
+        {
+          "event_description": "Rachel questions Joey about how he injured himself while jumping on his bed.",
+          "involved_subjects": [
+            "RACHEL",
+            "JOEY"
+          ],
+          "start_offset": "00:00:17",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Joey admits he had a story about his injury but Chandler revealed the truth.",
+          "involved_subjects": [
+            "JOEY",
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:23"
+        },
+        {
+          "event_description": "Chandler explains he didn't think the doctor would believe Joey's story about the injury falling out of the socket.",
+          "involved_subjects": [
+            "CHANDLER",
+            "JOEY"
+          ],
+          "start_offset": "00:00:23",
+          "end_offset": "00:00:27"
+        },
+        {
+          "event_description": "Joey questions if the jam in the pot is fruit, indicating his interest in the jam Monica is making.",
+          "involved_subjects": [
+            "JOEY",
+            "MONICA"
+          ],
+          "start_offset": "00:00:27",
+          "end_offset": "00:00:30"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Street, Phoebe is being followed by some guy, as they pass a flower vendor.\nPhoebe turns around and the guy quickly picks up some flowers and continues following\nher.]",
+      "dialogue": [
+        {
+          "speaker": "PHOEBE",
+          "text": "(turns around) Um, that's it. No. Hey! You! J. Crew guy. Yeah. Why have you been following me? I mean, all week long everywhere I look there's you."
+        },
+        {
+          "speaker": "GUY",
+          "text": "You wouldn't return my calls, you sent back my letters...."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "What?"
+        },
+        {
+          "speaker": "GUY",
+          "text": "One more chance Ursula, please?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oooh. Oh, well this is awkward."
+        },
+        {
+          "speaker": "GUY",
+          "text": "Wh.."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Um, yeah, you want Ursula, and I'm Phoebe. Twin sisters! Seriously."
+        },
+        {
+          "speaker": "GUY",
+          "text": "Oh, that's great. I'm stalking the wrong woman. I am such a dingus!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, you're not a dingus."
+        },
+        {
+          "speaker": "GUY",
+          "text": "I just, I want you to know I didn't used to be like this. Before I meet your sister I was like this normal guy who sold beepers and cellular phones."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Well, I mean look it's, it's not your fault, you know. I mean this is just what, what she does to guys, okay."
+        },
+        {
+          "speaker": "GUY",
+          "text": "Well thanks. (starts to leave)"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Wait, (grabs him) you know what, I got a little story. When I was in Junior High School I went through this period where I thought I was a witch. And there was this guidance counselor who said something to me, that I think will help you a lot. He said okay, 'you're not a witch you're just an average student.' See what I'm saying?"
+        },
+        {
+          "speaker": "GUY",
+          "text": "Not really."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Um, well, get over it. So, I mean you, you just seem to be a really nice guy, you know. Don't be so hard on yourself okay."
+        },
+        {
+          "speaker": "GUY",
+          "text": "Wait. You're right. I know you're right. And, thanks for being so nice. Here (gives her the flowers he bought.)"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, thanks a lot. Do you want to get a cup of coffee?"
+        },
+        {
+          "speaker": "GUY",
+          "text": "Yeah, okay."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Okay. (they start to leave, he is still following her) Okay, you don't have to walk behind me any more."
+        },
+        {
+          "speaker": "GUY",
+          "text": "Sorry."
+        }
+      ],
+      "location": "Street",
+      "subjects": [
+        "PHOEBE",
+        "GUY"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Street, Phoebe is being followed by some guy, as they pass a flower vendor.\nPhoebe turns around and the guy quickly picks up some flowers and continues following\nher.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Phoebe turns around to confront the man following her on the street.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:07"
+        },
+        {
+          "event_description": "The man quickly picks up some flowers from a vendor after Phoebe turns around.",
+          "involved_subjects": [
+            "GUY"
+          ],
+          "start_offset": "00:00:07",
+          "end_offset": "00:00:09"
+        },
+        {
+          "event_description": "Phoebe questions the man about why he has been following her all week.",
+          "involved_subjects": [
+            "PHOEBE",
+            "GUY"
+          ],
+          "start_offset": "00:00:09",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "The man admits he has been trying to contact Phoebe's sister, Ursula, and has been following Phoebe by mistake.",
+          "involved_subjects": [
+            "GUY"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Phoebe clarifies that she is Phoebe, not Ursula, and explains they are twin sisters.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "The man realizes he has been stalking the wrong woman and expresses embarrassment.",
+          "involved_subjects": [
+            "GUY"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Phoebe reassures the man that he is not a dingus and offers him a story from her past to help him feel better.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:40"
+        },
+        {
+          "event_description": "Phoebe shares a humorous story about thinking she was a witch in junior high school and a guidance counselor's comment.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:40",
+          "end_offset": "00:00:50"
+        },
+        {
+          "event_description": "Phoebe encourages the man to get over his obsession and suggests he is a nice guy.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:50",
+          "end_offset": "00:00:55"
+        },
+        {
+          "event_description": "The man thanks Phoebe for her kindness, gives her the flowers he bought, and they agree to get coffee together.",
+          "involved_subjects": [
+            "PHOEBE",
+            "GUY"
+          ],
+          "start_offset": "00:00:55",
+          "end_offset": "00:01:05"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, Ross and Rachel are entering]",
+      "dialogue": [
+        {
+          "speaker": "RACHEL",
+          "text": "Mon?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Mon?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(reading) 'Gone for more jars. Back later. Monica Geller.'"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Wait a minute, look."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "What?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Look, look, look."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "What, what, what?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "It's an empty apartment."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oooh."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "We're all alone in an empty apartment."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Honey, come on, I have to be at work in like ten minutes (Ross starts kissing her neck) Oh, all right, well it's not like I'm employee of the year or anything. (they fall onto the couch)"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "There it is."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh, oh, that's what you're talking about. (to Chandler) Hey."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Hey."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Do I look fat?"
+        },
+        {
+          "speaker": "ROSS AND RACHEL",
+          "text": "Noo."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Okay, I accept that. When Janice asked me and I said no, she took that to mean that I was calling her a cow."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Okay, walk us through it, honey, walk us through it."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Okay, well. Janice said 'Hi, do I look fat today?' And I, I looked at her...."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Whoa, whoa, whoa. You looked at her. You never look. You just answer, it's just a reflex. Do I look fat? Nooo! Is she prettier than I am? Noo! Does size matter?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Nooo!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "And it works both ways."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Okay, so you both just know this stuff?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Well you know, after about thirty or forty fights, you kinda catch on."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Okay, for instance. Let's say, Janice is coming back from a trip and she gives you two options. Option number 1 she'll take a cab home from the airport. Option 2 is you can meet her at baggage claim. Which do you do?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "That's easy, baggage claim."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "(buzzes) Wrong! Now you're single. It's actually secret option number three, you meet her at the gate. That way she knows you love her."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Okay, this is good, this is good. All right listen, I have one. Janice likes to cuddle, at night, which, you know I'm all for. But, uh, you know when you want to go to sleep, you want some space. So, uh, how do I tell her that without, you know, accidentally calling her fat or something."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh honey, I'm sorry we can't help you there, 'cause we're cuddlily sleepers. (Chandler makes an 'Ewww' face) Okay, I'm late for work."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Oh."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "All right are you guys gonna come down?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Uh, yeah, yeah I'll, I'm right behind you."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Good luck Chandler."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Thank you Rachel."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Bye sweetie."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Bye hon."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "(blows her a kiss) Okay the sleeping thing. Very tricky business, but there is something you can do."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Well, I thought you guys were cuddlily sleepers."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Noo! No, not cuddlily, not me, just her. I'm like you, I need the room. Okay, come here. (they sit on the couch and Ross puts his hands on Chandler's shoulder and thigh.) Okay, you're in bed..."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Yeah. (they both notice where his hands are)"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "I'm gonna use the cushion."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Okay, you're in bed. She's over on your side, cuddling. Now you wait for her to drift off, and then you hug her (demonstrates on the cushion) and roll her back over to her side of the bed. And then you rollll a-way. Hug for her! Roll for you."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Okay, the old hug and roll."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Yep."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Okay, one question."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Shoot."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "You're pretending the pillow's a girl right?"
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "CHANDLER",
+        "ROSS",
+        "RACHEL"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Monica and Rachel's, Ross and Rachel are entering]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Ross and Rachel enter Monica and Rachel's apartment and notice it is empty, indicating Monica is not home.",
+          "involved_subjects": [
+            "Ross",
+            "Rachel"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Ross points out to Rachel that the apartment is empty, implying Monica has gone out.",
+          "involved_subjects": [
+            "Ross",
+            "Rachel"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Ross and Rachel discuss their feelings of being alone in the empty apartment.",
+          "involved_subjects": [
+            "Ross",
+            "Rachel"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Rachel prepares to leave for work, and Ross starts kissing her neck as they fall onto the couch.",
+          "involved_subjects": [
+            "Rachel",
+            "Ross"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Chandler asks Ross and Rachel if he looks fat, to which they respond negatively.",
+          "involved_subjects": [
+            "Chandler",
+            "Ross",
+            "Rachel"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:45"
+        },
+        {
+          "event_description": "Chandler recounts a humorous misunderstanding with Janice about calling her a cow when asked if she looks fat.",
+          "involved_subjects": [
+            "Chandler",
+            "Ross",
+            "Rachel"
+          ],
+          "start_offset": "00:00:45",
+          "end_offset": "00:01:00"
+        },
+        {
+          "event_description": "Ross explains to Chandler how to interpret Janice's questions about her appearance and how to respond without causing offense.",
+          "involved_subjects": [
+            "Ross",
+            "Chandler"
+          ],
+          "start_offset": "00:01:00",
+          "end_offset": "00:01:20"
+        },
+        {
+          "event_description": "Ross advises Chandler on how to handle Janice's cuddling preferences by demonstrating the 'hug and roll' technique using a cushion.",
+          "involved_subjects": [
+            "Ross",
+            "Chandler"
+          ],
+          "start_offset": "00:01:20",
+          "end_offset": "00:01:40"
+        },
+        {
+          "event_description": "Chandler asks Ross if he is pretending the pillow is a girl while explaining the 'hug and roll' method.",
+          "involved_subjects": [
+            "Chandler",
+            "Ross"
+          ],
+          "start_offset": "00:01:40",
+          "end_offset": "00:01:50"
+        },
+        {
+          "event_description": "Ross emphasizes that the 'hug and roll' technique involves hugging the pillow when the partner is asleep and then rolling her back over, then away.",
+          "involved_subjects": [
+            "Ross",
+            "Chandler"
+          ],
+          "start_offset": "00:01:50",
+          "end_offset": "00:02:10"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Central Perk, Joey is putting jam on his muffin, lots of jam]",
+      "dialogue": [
+        {
+          "speaker": "JOEY",
+          "text": "Remember when you where a kid and your Mom would drop you off at the movies with a jar of jam and a little spoon?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(Looks at him) You're so pretty."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "(entering) Hi!"
+        },
+        {
+          "speaker": "ALL",
+          "text": "Hey, Phoebe."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Hey, oh, you know that guy who's been following me? I talked to him today."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "(with food in his mouth) You talked to him. Are you crazy?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Okay, first I'm not crazy. And second, say it don't spray it. Anyway his name is Malcom, and he wasn't following me, I mean he was, but 'cause he thought I was Ursula, ick. And, that's why, that's why he couldn't just come up and talk to me. 'Cause of the restraining order."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Umm, not feeling better 'bout Malcom."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Ooh! No, no, no, no, he's not like a kook, no. He's just like this, this very passionate, incredibly romantic guy, that got like a tinsy bit carried away, you know. And we just get along really well, and he's so cute."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Oh my God, you've got a crush on your sister's stalker."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "No, I'm just gonna help him, you know, get 'de-Ursula-ized', like you know, like I did for Joey after he went out with her."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "(with his mouthful) Hey, I didn't stalk her. I mean (he sprays Phoebe with crumbs)"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Okay, I asked for the news, not the weather."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "(entering) Hey guys."
+        },
+        {
+          "speaker": "ALL",
+          "text": "Hey Mon."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Joey, this is for you. (gives him a jar of jam) It's blackberry curin."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Aww. (tastes it) Ohh!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Hey, Joe, I gotta ask. The girl from the Xerox place buck naked (holds up one hand), or, or a big tub of jam. (holds up the other hand)"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Put your hands together."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Joey, take your time with that. That's my last batch."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "No more jam?!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Well, what happened to your jam plan?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "I figured out I need to charge seventeen bucks a jar just to break even. So, I've got a new plan now. Babies."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Well, your gonna need much bigger jars."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "What are you talking about?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "I'm talking about me having a baby."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "What?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Are you serious?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Yeah. The great thing about the jam plan was, I was taking control of my life. So I asked myself, what is the most important thing to me in the world and that's when I came up with the baby plan."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Well, aren't you forgetin' something? What, what, what is uh, what is that guy's name? Dad!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "It took me 28 years to find one man that I wanna spend my life with, if I have to wait another 28 years then, I'll be 56 before I can have a baby, and that's just stupid."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "That, that's what's stupid."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "I don't need an actual man, just a couple of his best swimmers. And there, there are places you can go to get that stuff."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Down at the docks again?"
+        }
+      ],
+      "location": "Central Perk",
+      "subjects": [
+        "CHANDLER",
+        "ROSS",
+        "PHOEBE",
+        "MONICA",
+        "RACHEL",
+        "JOEY"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Central Perk, Joey is putting jam on his muffin, lots of jam]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Joey puts jam on his muffin while talking about childhood experiences with his mother.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Rachel compliments Phoebe, saying she is pretty.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:12"
+        },
+        {
+          "event_description": "Phoebe enters the scene and greets everyone.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:12",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Phoebe shares that a man named Malcom has been following her and explains the situation involving a restraining order.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Chandler expresses skepticism about Phoebe's story regarding Malcom.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Phoebe describes Malcom as a passionate and romantic person who got carried away.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:45"
+        },
+        {
+          "event_description": "Ross comments on Phoebe having a crush on her sister's stalker.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:45",
+          "end_offset": "00:00:50"
+        },
+        {
+          "event_description": "Phoebe states she is trying to help Malcom become 'de-Ursula-ized' and compares it to her past experience with Joey.",
+          "involved_subjects": [
+            "PHOEBE",
+            "JOEY"
+          ],
+          "start_offset": "00:00:50",
+          "end_offset": "00:01:05"
+        },
+        {
+          "event_description": "Monica enters and gives Joey a jar of blackberry jam.",
+          "involved_subjects": [
+            "MONICA",
+            "JOEY"
+          ],
+          "start_offset": "00:01:05",
+          "end_offset": "00:01:10"
+        },
+        {
+          "event_description": "Monica reveals her plan to have a baby and discusses her reasons for it.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:01:10",
+          "end_offset": "00:01:30"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Chandler's bedroom, Janice and him are cuddling]",
+      "dialogue": [
+        {
+          "speaker": "JANICE",
+          "text": "Night-night Bing-a-ling."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Night-night.....Janice. (he starts thinking to him self) 'Look at all that room on her side, you good fit a giant penguin over there. That would be weird though. Okay, hug and roll time. I'm huggin', I'm huggin', your rollin', and....yes! Freedom! (his one arm is still under her) Except for this arm! I'm stuck. Stuck arm! Okay, time for the old table cloth trick, one fluid motion. Quick like a cat, quick like a cat! And 1...2...3!' (Pulls his arm out from under her and she is spun off of the bed.)"
+        }
+      ],
+      "location": "Chandler's bedroom",
+      "subjects": [
+        "CHANDLER",
+        "JANICE"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Chandler's bedroom, Janice and him are cuddling]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Janice says 'Night-night Bing-a-ling' to Chandler before going to sleep.",
+          "involved_subjects": [
+            "JANICE",
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:01",
+          "end_offset": "00:00:03"
+        },
+        {
+          "event_description": "Chandler responds with 'Night-night.....Janice' and begins thinking to himself about the space on Janice's side of the bed.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:04",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Chandler internally considers fitting a giant penguin on Janice's side of the bed.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:11",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Chandler decides to initiate the 'hug and roll' maneuver to turn over in bed.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:16",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Chandler begins the process of rolling over, hugging Janice, and attempting to free his arm.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:21",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Chandler's arm gets stuck under Janice during the rolling process.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:31",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Chandler executes the 'table cloth trick' to free his arm, pulling it out quickly in a fluid motion.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:36",
+          "end_offset": "00:00:40"
+        },
+        {
+          "event_description": "Chandler successfully pulls his arm out, causing Janice to spin off the bed.",
+          "involved_subjects": [
+            "CHANDLER",
+            "JANICE"
+          ],
+          "start_offset": "00:00:41",
+          "end_offset": "00:00:45"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Central Perk, Malcom is giving Phoebe all of his spy stuff]",
+      "dialogue": [
+        {
+          "speaker": "MALCOM",
+          "text": "Here's my binoculars."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, great. Great. You're doing great, you know real strong. Going strong. Keep going."
+        },
+        {
+          "speaker": "MALCOM",
+          "text": "These are my night vision goggles. This is the book I pretend to read when I'm watching her in the park. And these are Mad Lips, they're just for fun."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, yeah. What's this? (picks up a book)"
+        },
+        {
+          "speaker": "MALCOM",
+          "text": "Oh, this is log I kept, recording her every movement. Do you wanna here something from it?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Um, not even a little bit."
+        },
+        {
+          "speaker": "MALCOM",
+          "text": "It's about you."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, okay then."
+        },
+        {
+          "speaker": "MALCOM",
+          "text": "(reading) I met Phoebe today. She was really nice to me eventhough I'm such a loser. And, then when I was walking home I thought about her a lot, it was weird, but kinda cool."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Good. So what were you thinking?"
+        },
+        {
+          "speaker": "MALCOM",
+          "text": "I was thinking what it would be like to kiss you."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Really?"
+        },
+        {
+          "speaker": "MALCOM",
+          "text": "No."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh."
+        },
+        {
+          "speaker": "MALCOM",
+          "text": "See that's just something I said now, so that maybe I could kiss you."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, okay. (he kisses her)"
+        }
+      ],
+      "location": "Central Perk",
+      "subjects": [
+        "PHOEBE",
+        "MALCOM"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Central Perk, Malcom is giving Phoebe all of his spy stuff]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Malcom presents Phoebe with his binoculars, night vision goggles, a book he pretends to read, and Mad Lips game pieces.",
+          "involved_subjects": [
+            "MALCOM",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Malcom shows Phoebe a log he kept recording the woman he is watching in the park.",
+          "involved_subjects": [
+            "MALCOM",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Malcom reads aloud an entry from his log about meeting Phoebe and thinking about her.",
+          "involved_subjects": [
+            "MALCOM",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:45"
+        },
+        {
+          "event_description": "Phoebe asks Malcom what he was thinking about after he reads from his log.",
+          "involved_subjects": [
+            "PHOEBE",
+            "MALCOM"
+          ],
+          "start_offset": "00:00:45",
+          "end_offset": "00:00:50"
+        },
+        {
+          "event_description": "Malcom admits he was thinking about what it would be like to kiss Phoebe.",
+          "involved_subjects": [
+            "MALCOM",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:50",
+          "end_offset": "00:00:55"
+        },
+        {
+          "event_description": "Phoebe expresses surprise at Malcom's statement about kissing her.",
+          "involved_subjects": [
+            "PHOEBE",
+            "MALCOM"
+          ],
+          "start_offset": "00:00:55",
+          "end_offset": "00:00:58"
+        },
+        {
+          "event_description": "Malcom clarifies that his previous statement was an attempt to initiate a kiss.",
+          "involved_subjects": [
+            "MALCOM",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:58",
+          "end_offset": "00:01:05"
+        },
+        {
+          "event_description": "Malcom kisses Phoebe after expressing his desire to do so.",
+          "involved_subjects": [
+            "MALCOM",
+            "PHOEBE"
+          ],
+          "start_offset": "00:01:05",
+          "end_offset": "00:01:07"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, Joey is eating jam straight out of the jar, and Chandler\nis staring at him in amazement. Joey offers him some.]",
+      "dialogue": [
+        {
+          "speaker": "CHANDLER",
+          "text": "No, that's all right. I just had a jar of mustard."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "(entering from her bedroom) Okay, sperm donor number 03815, come on down! Okay, he's 6'2\", 170 pounds, and he describes himself as a male Geena Davis."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "You mean there's more than one of us."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Look, you can't do this Mon. All right, if you do this, I'm, I'm gonna, I'm, I'm gonna....."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "You're gonna what?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "I'm gonna tell Mom."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Honey, I'm sorry, but he's right. I love you, but you're crazy."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Crazy."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "What?! Why? Why is this crazy? So this isn't the ideal way to something...."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "(interrupting her) Oh, it's not the ideal way..."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Lips moving, still talking. I mean it may not be ideal, but I'm so ready. No, I-I-I see the way Ben looks at you. It makes me ache, you know?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Check it out!! Jam crackers!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Okay, all right, how's this? 27. Italian-American guy. He's an actor, born in Queens. Wow, big family, seven sisters, and he's the only....boy. (they all turn and look at Joey) Oh my God,"
+        },
+        {
+          "speaker": "UNDER PERSONAL COMMENTS",
+          "text": "'New York Knicks, rule!'"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Yeah, the Knicks rule!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Joey, this is you!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Let me see. (goes over and looks at the form) Oh, right."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "When did you go to a sperm bank?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Well, right after I did that sex study down at NYU. (to Chandler) Hey, Remember that sweater I gave you for your birthday?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "And that's how you bought it?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Noooo, that's what I was wearing when I donated. I'm kinda surprised there's any of my boys left."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Well, honey, it is pretty competitive. I mean I've got an actual rocket scientist here."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Maybe, I should call this place and get them to put my 'Days of Our Lives' on here. You know, juice this puppy up a little."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "(entering) Hellooo!"
+        },
+        {
+          "speaker": "ALL",
+          "text": "Hey."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "How's the maniac?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, well he's yummy. We did a little kissin'."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Phoebe, what are you doing?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, no, no, no, no. You know what, he's not into that stuff anymore. He quit for me."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Pheebs, this guy has been obsessed with your sister, for God knows how long, okay, you don't just give up something like that."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Look, he gave me his night vision goggles and everything."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "You're taking the word of a guy who has night vision goggles?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "What, he's not still following her. Do you think he is still following her?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Pheebs, wake up and smell the restraining order."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "What are you saying I should do?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "I think, that if you really like this guy, you should just trust him."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Thank you, Monica."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Orrr, you could follow him and see where he goes."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Oh, that's what I would do, forget mine."
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "CHANDLER",
+        "ROSS",
+        "UNDER PERSONAL COMMENTS",
+        "MONICA",
+        "PHOEBE",
+        "RACHEL",
+        "JOEY"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Monica and Rachel's, Joey is eating jam straight out of the jar, and Chandler\nis staring at him in amazement. Joey offers him some.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Joey eats jam straight from the jar.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Chandler refuses Joey's offer of jam, citing he had mustard.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Monica enters and announces details about a sperm donor, describing him as a male Geena Davis.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Ross objects to Monica's plan, threatening to tell their mother.",
+          "involved_subjects": [
+            "ROSS",
+            "MONICA"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Rachel supports Ross's objection, calling Monica crazy.",
+          "involved_subjects": [
+            "RACHEL",
+            "ROSS",
+            "MONICA"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:45"
+        },
+        {
+          "event_description": "Joey describes a sperm donor as an Italian-American actor from Queens with seven sisters.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:45",
+          "end_offset": "00:00:55"
+        },
+        {
+          "event_description": "Joey offers to call the sperm bank to promote his 'Days of Our Lives' image.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:55",
+          "end_offset": "00:01:05"
+        },
+        {
+          "event_description": "Phoebe enters and mentions kissing a man who is 'yummy'.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:01:05",
+          "end_offset": "00:01:10"
+        },
+        {
+          "event_description": "Rachel questions Phoebe about her intentions with the man obsessed with her sister.",
+          "involved_subjects": [
+            "RACHEL",
+            "PHOEBE"
+          ],
+          "start_offset": "00:01:10",
+          "end_offset": "00:01:20"
+        },
+        {
+          "event_description": "Monica advises Phoebe to trust the man if she likes him, while Joey suggests following him to see where he goes.",
+          "involved_subjects": [
+            "MONICA",
+            "PHOEBE",
+            "JOEY"
+          ],
+          "start_offset": "00:01:20",
+          "end_offset": "00:01:30"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Central Perk]",
+      "dialogue": [
+        {
+          "speaker": "RACHEL",
+          "text": "Oh my God, what happened? (points to the cast on Janice's wrist)"
+        },
+        {
+          "speaker": "JANICE",
+          "text": "Oh. God, crazy Chandler. He spun me...off...the...bed!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Wow! Spinning that sounds like fun."
+        },
+        {
+          "speaker": "JANICE",
+          "text": "Oh, (laughs) I wish. No, you know he was just trying Ross's Hug and Roll thing."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(turns around, not amused) Ross's what?"
+        },
+        {
+          "speaker": "JANICE",
+          "text": "You know what, where he hugs you and kinda rolls you away and... Oh... my....God."
+        }
+      ],
+      "location": "Central Perk",
+      "subjects": [
+        "RACHEL",
+        "JANICE"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Central Perk]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Rachel points to the cast on Janice's wrist and asks what happened.",
+          "involved_subjects": [
+            "RACHEL",
+            "JANICE"
+          ],
+          "start_offset": "00:00:01",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "Janice explains that Chandler spun her off the bed.",
+          "involved_subjects": [
+            "JANICE"
+          ],
+          "start_offset": "00:00:06",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Rachel comments that spinning sounds like fun.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:11",
+          "end_offset": "00:00:13"
+        },
+        {
+          "event_description": "Janice states that Chandler was trying Ross's Hug and Roll move.",
+          "involved_subjects": [
+            "JANICE"
+          ],
+          "start_offset": "00:00:14",
+          "end_offset": "00:00:17"
+        },
+        {
+          "event_description": "Rachel turns around, expressing her lack of amusement.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:18",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Janice describes Chandler's attempt to perform Ross's Hug and Roll move.",
+          "involved_subjects": [
+            "JANICE"
+          ],
+          "start_offset": "00:00:21",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Janice exclaims in surprise about Chandler's attempt to do Ross's move.",
+          "involved_subjects": [
+            "JANICE"
+          ],
+          "start_offset": "00:00:26",
+          "end_offset": "00:00:28"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Subway station, Phoebe is following Malcom by finding behind the pillars until\nshe comes up to one with a wire mesh garbage can next to it. Malcom stops and starts\nwalking the other way and passes Phoebe, who quick tries to hide behind the garbage can.\nBut, Malcom sees her.]",
+      "dialogue": [
+        {
+          "speaker": "MALCOM",
+          "text": "Phoebe?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Yes? Yes! Oh."
+        },
+        {
+          "speaker": "MALCOM",
+          "text": "What are you doing?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, I was just here looking for, um, my um, my part of an old sandwich. Oh, here it is! Oh. (picks one up out of the garbage can.)"
+        },
+        {
+          "speaker": "MALCOM",
+          "text": "Were you following me?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Um, perhaps. Yes! Yes, I'm sorry, I'm sorry. I was just afraid that you were still hung up on my sister."
+        },
+        {
+          "speaker": "MALCOM",
+          "text": "So you spied on me. I can't believe you don't trust me. (Ursula walks past, and Malcom finds behind the pillar)"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh well, what do you know, there goes my identical twin sister. Just walkin' along looking like me. What, is this just like a freakish coincidence, or did you know she takes this train?"
+        },
+        {
+          "speaker": "MALCOM",
+          "text": "I'm sorry. I'm sorry. I tried to stop, but I couldn't. I'm so pathetic."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "No, no, it's not your fault. You know it's partly my fault, 'cause I made you quit cold turkey. Sorry, no. Okay, well, I mean, I can't date you anymore, 'cause your, you know (in a high pitched voice) Wow! But um, but I will definitely, definitely help you get over my sister. Okay, stalk me for a while. Huh? Yeah, and, and, and, I'll be like an Ursula patch."
+        },
+        {
+          "speaker": "MALCOM",
+          "text": "Uh-huh, I don't know."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Yeah, just, okay, look I'm going. Um, come on. Op, op, behind the pillar, which way am I gonna go?"
+        }
+      ],
+      "location": "Subway station",
+      "subjects": [
+        "PHOEBE",
+        "MALCOM"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Subway station, Phoebe is following Malcom by finding behind the pillars until\nshe comes up to one with a wire mesh garbage can next to it. Malcom stops and starts\nwalking the other way and passes Phoebe, who quick tries to hide behind the garbage can.\nBut, Malcom sees her.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Phoebe follows Malcolm behind a pillar at the subway station, hiding behind a wire mesh garbage can.",
+          "involved_subjects": [
+            "Phoebe"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Malcolm stops walking and begins to walk in the opposite direction, passing by Phoebe.",
+          "involved_subjects": [
+            "Malcolm"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Phoebe quickly tries to hide behind the garbage can as Malcolm passes by.",
+          "involved_subjects": [
+            "Phoebe"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Malcolm notices Phoebe hiding and calls out to her, asking what she is doing.",
+          "involved_subjects": [
+            "Malcolm",
+            "Phoebe"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Phoebe responds nervously, claiming she is looking for a sandwich part and picks one out of the garbage can.",
+          "involved_subjects": [
+            "Phoebe"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Malcolm questions Phoebe if she was following him, and Phoebe admits to it, apologizing.",
+          "involved_subjects": [
+            "Malcolm",
+            "Phoebe"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:45"
+        },
+        {
+          "event_description": "Phoebe suggests she was spying because she was worried Malcolm was still interested in her sister.",
+          "involved_subjects": [
+            "Phoebe"
+          ],
+          "start_offset": "00:00:45",
+          "end_offset": "00:00:55"
+        },
+        {
+          "event_description": "Malcolm expresses disbelief and frustration, saying Phoebe spied on him and claiming he can't believe she doesn't trust him.",
+          "involved_subjects": [
+            "Malcolm",
+            "Phoebe"
+          ],
+          "start_offset": "00:00:55",
+          "end_offset": "00:01:05"
+        },
+        {
+          "event_description": "Ursula walks past Malcolm, who then finds himself behind a pillar, indicating a change in his position.",
+          "involved_subjects": [
+            "Malcolm",
+            "Ursula"
+          ],
+          "start_offset": "00:01:05",
+          "end_offset": "00:01:15"
+        },
+        {
+          "event_description": "Phoebe comments on her identical twin sister walking by, questioning if Malcolm's knowledge about her takes the train is a coincidence.",
+          "involved_subjects": [
+            "Phoebe"
+          ],
+          "start_offset": "00:01:15",
+          "end_offset": "00:01:25"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, Joey is entering]",
+      "dialogue": [
+        {
+          "speaker": "JOEY",
+          "text": "Hey."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Hey."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Where you going?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "To the bank."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Sperm or regular?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Sperm."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "So you're really doing this, huh?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Oh yeah, picked a guy, 37135."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Sounds nice."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "'Fraid so. Brown hair, green eyes..."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "No kiddin', hmm."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "What?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "No, I-I figured you would've picked a blond guy."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Really? Why?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "I don't know, I just always pictured you ending up with one of those tall, smart blond guys, name like.... Hoyt."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Hoyt?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "It's a name, yeah. I saw you, you know, in this great house with a big pool."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Really, is he a swimmer?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "He's got the body for it."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "I like that. (Joey starts laughing) What?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "You guys ha"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "We do not have one of those signs."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Sure you do, it was a gift from me. Oh! And you have these three great kids."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Two girls and a boy?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Yeah!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "And, and, and they wear those little water wings, you know. And they're, they're running around on the deck. Then Hoyt wraps this big towel around all three of them."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Sure! (Monica gets very depressed) But hey, you know this way sounds good too."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Oh Monica. (goes over and hugs her, then looks at the form and stops hugging her.) Wow, this guy's an astronaut. That would've been cool, (sees Monica) for like a day. (hugs her again)."
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "JOEY",
+        "MONICA"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Monica and Rachel's, Joey is entering]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Joey enters Monica and Rachel's apartment and greets Monica.",
+          "involved_subjects": [
+            "JOEY",
+            "MONICA"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "Joey asks Monica where she is going.",
+          "involved_subjects": [
+            "JOEY",
+            "MONICA"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Monica responds that she is going to the bank.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:12"
+        },
+        {
+          "event_description": "Joey inquires whether Monica is donating sperm or making a regular deposit.",
+          "involved_subjects": [
+            "JOEY",
+            "MONICA"
+          ],
+          "start_offset": "00:00:12",
+          "end_offset": "00:00:17"
+        },
+        {
+          "event_description": "Monica confirms she is donating sperm and provides a donor number.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:17",
+          "end_offset": "00:00:22"
+        },
+        {
+          "event_description": "Joey comments that Monica's choice sounds nice.",
+          "involved_subjects": [
+            "JOEY",
+            "MONICA"
+          ],
+          "start_offset": "00:00:22",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Joey speculates about the physical appearance of Monica's chosen donor, mentioning brown hair and green eyes.",
+          "involved_subjects": [
+            "JOEY",
+            "MONICA"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Joey expresses surprise that Monica didn't choose a blond donor and guesses she preferred tall, smart blond men like Hoyt.",
+          "involved_subjects": [
+            "JOEY",
+            "MONICA"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:40"
+        },
+        {
+          "event_description": "Monica questions Joey about Hoyt, and Joey describes Hoyt as a swimmer with a big house and a pool.",
+          "involved_subjects": [
+            "JOEY",
+            "MONICA"
+          ],
+          "start_offset": "00:00:40",
+          "end_offset": "00:00:50"
+        },
+        {
+          "event_description": "Joey notices Monica's sadness, hugs her, and comments on the donor being an astronaut, imagining it would be cool for a day.",
+          "involved_subjects": [
+            "JOEY",
+            "MONICA"
+          ],
+          "start_offset": "00:00:50",
+          "end_offset": "00:01:00"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, Joey is finishing off the last of the jam]",
+      "dialogue": [
+        {
+          "speaker": "JOEY",
+          "text": "I called the sperm bank today, they haven't sold a single unit of Tribianni. Nobody wants my product. I mean, I-I-I don't get it (tries to drink the rest of the jam out of the jar and gets it all over his face, on his chin, nose, etc.) Maybe if they met me in person."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Honey, you got a little thing on your...(points to her whole face)"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "(wipes a little jam from the corner of his mouth) Did I get it?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "(entering) Hello."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Hello."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "(sees Joey) Hey. (walks into the living room) Uh, Chan, can I uh, can I talk to you for a second?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Sure. What's up?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Just one uh, one additional relationship thought. Probably something your already familiar with, uh, women talk! (smacks Chandler over the head with a magazine)"
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "JOEY",
+        "ROSS",
+        "RACHEL",
+        "CHANDLER"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Monica and Rachel's, Joey is finishing off the last of the jam]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Joey announces to the others that he called the sperm bank and they haven't sold any units of his product, Tribianni.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Joey attempts to drink the rest of the jam from the jar and gets it all over his face.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Rachel points out to Joey that he has jam on his face.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:22"
+        },
+        {
+          "event_description": "Joey wipes a little jam from the corner of his mouth and asks Rachel if he got it.",
+          "involved_subjects": [
+            "JOEY",
+            "RACHEL"
+          ],
+          "start_offset": "00:00:22",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Rachel confirms to Joey that he has jam on his face.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:26"
+        },
+        {
+          "event_description": "Ross enters the scene and greets everyone.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:26",
+          "end_offset": "00:00:28"
+        },
+        {
+          "event_description": "Ross sees Joey and walks into the living room.",
+          "involved_subjects": [
+            "ROSS",
+            "JOEY"
+          ],
+          "start_offset": "00:00:28",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Ross asks Chandler if he can talk to him for a second about a relationship thought.",
+          "involved_subjects": [
+            "ROSS",
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Chandler agrees to talk to Ross about the relationship thought.",
+          "involved_subjects": [
+            "CHANDLER",
+            "ROSS"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:37"
+        },
+        {
+          "event_description": "Ross smacks Chandler over the head with a magazine to emphasize his point about women talking.",
+          "involved_subjects": [
+            "ROSS",
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:37",
+          "end_offset": "00:00:40"
+        }
+      ]
+    }
+  ]
+}

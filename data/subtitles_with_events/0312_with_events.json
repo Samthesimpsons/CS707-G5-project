@@ -1,0 +1,2530 @@
+{
+  "episode": "0312",
+  "title": "The One With All The Jealousy",
+  "scenes": [
+    {
+      "scene_description": "[Scene: Monica and Rachel's, Rachel is getting ready for her first day.]",
+      "dialogue": [
+        {
+          "speaker": "RACHEL",
+          "text": "(running in from her bedroom, wearing only a towel) Okay. Hey. Umm. Does everybody hate these shoes?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Oh yeah, but don't worry. I don't think anybody's gonna focus on that as long as your wearing that towel dress."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(to Ross) Tell him."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "(to Chandler) It's her first day at this new job. Your not supposed to start with her!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "All right, I suppose I can wait a day. Hey, what are you doing Friday?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Why?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "I need you to come to this bachelor party for my weird cousin Albert, y'know he's the botanist."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Oh God. Y'know, botanists are such geeks."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Yeah. Is that a dinosaur tie?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Hmm? Oh, yeah. (he makes a growling sound)"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "(entering, with about 20 purses hanging around her neck) Morning. Rach, I'm here with the purses!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "(to Phoebe) It must take you forever to find your keys."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(running into the living room) Thank you, thank you, thank you, Pheebs."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Your welcome, oh please not the one with the turtles."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "No, no, no, no turtles scare me. I don't need that today."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Honey, just relax, it's gonna be fine. Hey, umm,. why don't I come down there and I'll take you out to lunch?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh honey, thank you, but Mark's taking me out."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Mark is that ah, the same Mark that helped you get the job?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Yeah, it's kinda like a 'good luck on your first day' sort of thing. (to Phoebe) Is this actually a lunchbox?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Umm, no, it's a purse. And there's a thermos in it."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "(to Ross) Hey, so can you make it on Friday?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "What? Oh yeah, yeah I think so. Why am I invited to this again?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Well apparently Albert has no friends. He's very excited about the bachelor party though. I think actually the only reason he's getting married is so he can see a stripper."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "A stripper at a bachelor party, that is so cliché. Why don't you get a magician?!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Well, if the magician can open my beer with his but cheeks, then all right."
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "PHOEBE",
+        "CHANDLER",
+        "ROSS",
+        "RACHEL"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Monica and Rachel's, Rachel is getting ready for her first day.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Rachel runs into the scene wearing only a towel and asks if everyone hates her shoes.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "Chandler comments on Rachel's towel dress and suggests no one will focus on her shoes.",
+          "involved_subjects": [
+            "CHANDLER",
+            "RACHEL"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Rachel asks Ross to confirm if her shoes are hated.",
+          "involved_subjects": [
+            "RACHEL",
+            "ROSS"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:12"
+        },
+        {
+          "event_description": "Ross reminds Chandler that it's Rachel's first day at her new job and he shouldn't tease her.",
+          "involved_subjects": [
+            "ROSS",
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:12",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Chandler invites Ross to a bachelor party for his cousin Albert.",
+          "involved_subjects": [
+            "CHANDLER",
+            "ROSS"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Ross comments that botanists are geeks and notices Chandler's dinosaur tie.",
+          "involved_subjects": [
+            "ROSS",
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Phoebe enters carrying about 20 purses and greets Rachel.",
+          "involved_subjects": [
+            "PHOEBE",
+            "RACHEL"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:40"
+        },
+        {
+          "event_description": "Phoebe mentions she is with the purses and warns Rachel about the turtle purse.",
+          "involved_subjects": [
+            "PHOEBE",
+            "RACHEL"
+          ],
+          "start_offset": "00:00:40",
+          "end_offset": "00:00:45"
+        },
+        {
+          "event_description": "Rachel thanks Phoebe enthusiastically for her purses.",
+          "involved_subjects": [
+            "RACHEL",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:45",
+          "end_offset": "00:00:50"
+        },
+        {
+          "event_description": "Rachel questions if her purse is a lunchbox, and Phoebe clarifies it is a purse with a thermos inside.",
+          "involved_subjects": [
+            "RACHEL",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:50",
+          "end_offset": "00:00:55"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Chandler and Joey's, Ross and Chandler are entering, Joey is on the phone.]",
+      "dialogue": [
+        {
+          "speaker": "ROSS",
+          "text": "She's having lunch with him. She's having lunch with him. And you should of seen the hug she gave him when she got the job. And, and, and, (to Joey) he's really good looking. (Joey gives an enthusiastic thumbs up) What am I gonna do?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Don't do anything. Keep it inside. Learn how to hide your feelings! (pause) Don't cry outloud."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "(hanging up the phone) Yes! Guess who's in an audition for a Broadway musical?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "I want to say you but, that seems like such an easy answer."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "It is me! It's a musical version of Tale of Two Cities . So I think I'm gonna sing New York, New York , and ah, oh I left My Heart in San Francisco ."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Ah Joey, I don't think you get to pick the cities."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "What?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Mr. Dickens gets to pick 'em."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Who?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "I'll get you the Cliff Notes."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "The what?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "The abridgment."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Oh, okay. (to Ross) The what?"
+        }
+      ],
+      "location": "Chandler and Joey's",
+      "subjects": [
+        "CHANDLER",
+        "ROSS",
+        "JOEY"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Chandler and Joey's, Ross and Chandler are entering, Joey is on the phone.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Ross enters Chandler and Joey's apartment with Chandler, while Joey is on the phone.",
+          "involved_subjects": [
+            "ROSS",
+            "CHANDLER",
+            "JOEY"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "Ross tells Chandler about a woman having lunch with a man and describes her affectionate hug when she got a job.",
+          "involved_subjects": [
+            "ROSS",
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Ross comments on the man's good looks and Joey enthusiastically agrees with a thumbs up.",
+          "involved_subjects": [
+            "ROSS",
+            "JOEY"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Ross expresses his concern about his feelings regarding the situation.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Chandler advises Ross to hide his feelings and not to cry out loud.",
+          "involved_subjects": [
+            "CHANDLER",
+            "ROSS"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:40"
+        },
+        {
+          "event_description": "Joey hangs up the phone and announces he has an audition for a Broadway musical.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:40",
+          "end_offset": "00:00:50"
+        },
+        {
+          "event_description": "Chandler responds to Joey's announcement with a teasing remark about the answer being obvious.",
+          "involved_subjects": [
+            "CHANDLER",
+            "JOEY"
+          ],
+          "start_offset": "00:00:50",
+          "end_offset": "00:00:55"
+        },
+        {
+          "event_description": "Joey confirms he is auditioning for a musical adaptation of 'A Tale of Two Cities' and plans to sing specific songs.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:55",
+          "end_offset": "00:01:05"
+        },
+        {
+          "event_description": "Ross comments that Joey does not get to choose the cities in the musical.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:01:05",
+          "end_offset": "00:01:10"
+        },
+        {
+          "event_description": "Chandler offers to get Joey the Cliff Notes to understand the musical's context.",
+          "involved_subjects": [
+            "CHANDLER",
+            "JOEY"
+          ],
+          "start_offset": "00:01:10",
+          "end_offset": "00:01:20"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Rachel's office, Mark is training Rachel.]",
+      "dialogue": [
+        {
+          "speaker": "MARK",
+          "text": "...and the style number, and the invoice number, and the shipping date. Good. Any questions so far?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Yeah. What kind of discount do we get?"
+        },
+        {
+          "speaker": "MARK",
+          "text": "Twenty percent."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh!! I love this job! (her phone rings) Wow! My first call."
+        },
+        {
+          "speaker": "MARK",
+          "text": "Here, let me. (answers phone) Rachel Green's line, how may I help you?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "(on phone) Hi, is Rachel there?"
+        },
+        {
+          "speaker": "MARK",
+          "text": "And who may I say is calling?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "This is Ross?"
+        },
+        {
+          "speaker": "MARK",
+          "text": "Ross of....."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Of Ross and Rachel."
+        },
+        {
+          "speaker": "MARK",
+          "text": "Oh hi. It's, it's Mark."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Oh hey, hey Mark."
+        },
+        {
+          "speaker": "MARK",
+          "text": "Hey, hold on a second."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Okay."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Hi honey!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Hi! What's ah, what's Mark doing answering your phone?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh, he's just goofing around."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Ohhhhh yeah, that's, that's funny. Why ah, why isn't he goofing around in his own office?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh honey, this is his office too. I told you we're Joanna's two assistants."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Why does Joanna need two assistants, how, how lazy is she?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh! Oh my God! What did I just do?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "What?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "I think I just shipped 3,000 bras to personnel. Oh honey, I gotta go. (to Mark) Mark, I need you!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Okay, bye-bye. (starts slamming the receiver down in anger.)"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Ow! Ross!!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Oh, oh, I'm, I'm, I'm sorry sweetie, I was just trying to ah, I'm dialing another number. (hangs up)"
+        }
+      ],
+      "location": "Rachel's office",
+      "subjects": [
+        "ROSS",
+        "RACHEL",
+        "MARK"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Rachel's office, Mark is training Rachel.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Mark explains to Rachel the details needed for a sale, including style number, invoice number, and shipping date.",
+          "involved_subjects": [
+            "MARK",
+            "RACHEL"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Rachel asks Mark about the discount rate, and Mark responds with twenty percent.",
+          "involved_subjects": [
+            "RACHEL",
+            "MARK"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Rachel receives a phone call and exclaims about her first call.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Mark answers Rachel's phone call and identifies himself as Rachel Green's line.",
+          "involved_subjects": [
+            "MARK"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Ross calls Rachel on the phone and asks if she is there.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:40"
+        },
+        {
+          "event_description": "Mark asks Ross who is calling, and Ross identifies himself as Ross of Ross and Rachel.",
+          "involved_subjects": [
+            "MARK",
+            "ROSS"
+          ],
+          "start_offset": "00:00:40",
+          "end_offset": "00:00:50"
+        },
+        {
+          "event_description": "Mark introduces himself to Ross and mentions he is speaking to Rachel.",
+          "involved_subjects": [
+            "MARK",
+            "ROSS"
+          ],
+          "start_offset": "00:00:50",
+          "end_offset": "00:00:55"
+        },
+        {
+          "event_description": "Ross questions why Mark is answering Rachel's phone and comments on the situation.",
+          "involved_subjects": [
+            "ROSS",
+            "MARK"
+          ],
+          "start_offset": "00:00:55",
+          "end_offset": "00:01:05"
+        },
+        {
+          "event_description": "Rachel greets Ross and explains that Mark is just goofing around.",
+          "involved_subjects": [
+            "RACHEL",
+            "ROSS",
+            "MARK"
+          ],
+          "start_offset": "00:01:05",
+          "end_offset": "00:01:10"
+        },
+        {
+          "event_description": "Ross expresses suspicion about Mark answering Rachel's phone and questions her about it.",
+          "involved_subjects": [
+            "ROSS",
+            "RACHEL"
+          ],
+          "start_offset": "00:01:10",
+          "end_offset": "00:01:20"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: The Moondance diner, Monica is cleaning up with one of the waiters, with her\nback turned to him she removes her fake breasts and hides them under her wig.]",
+      "dialogue": [
+        {
+          "speaker": "JEANNINE",
+          "text": "(to Monica) All right, I just got changed in thirty seconds so you can be alone with him. You'd better go for it."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Please, I'm not going for anything."
+        },
+        {
+          "speaker": "JEANNINE",
+          "text": "Well, if you don't, I will."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Would you please go?"
+        },
+        {
+          "speaker": "JEANNINE",
+          "text": "Night Mon. Night Julio."
+        },
+        {
+          "speaker": "JULIO",
+          "text": "(to Jeannine) Adios."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Look Julio, someone left their book here."
+        },
+        {
+          "speaker": "JULIO",
+          "text": "Ah actually, that is mine."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Oh yeah, what are you reading?"
+        },
+        {
+          "speaker": "JULIO",
+          "text": "Flowers of Evil, by Beaudalire. Have you read it?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Have I read it? (pause) No, are you enjoying it?"
+        },
+        {
+          "speaker": "JULIO",
+          "text": "I thought I would, but the translation's no good."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Your a poet and don't know it. (she turns away and makes a face like 'I can't believe I just said that.')"
+        },
+        {
+          "speaker": "JULIO",
+          "text": "Actually I ah, I am a poet."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Oh, then you do know it. (pause) So um what kind of things do you write about?"
+        },
+        {
+          "speaker": "JULIO",
+          "text": "Things that move me. The, the shadow of a tree, a child laughing, or this lip. (points to her lip)"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Mine? (points to her lower lip) Right here?"
+        },
+        {
+          "speaker": "JULIO",
+          "text": "I can write an epic poem about this lip. (grabs her lower lip)"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "How would that go? (they kiss) Well, it didn't rhyme, but I liked it."
+        }
+      ],
+      "location": "The Moondance diner",
+      "subjects": [
+        "JEANNINE",
+        "MONICA",
+        "JULIO"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: The Moondance diner, Monica is cleaning up with one of the waiters, with her\nback turned to him she removes her fake breasts and hides them under her wig.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Jeannine tells Monica that she got changed in thirty seconds so Monica can be alone with Julio.",
+          "involved_subjects": [
+            "JEANNINE",
+            "MONICA"
+          ],
+          "start_offset": "00:00:01",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "Jeannine warns Monica that she will go for Julio if Monica does not.",
+          "involved_subjects": [
+            "JEANNINE",
+            "MONICA"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:09"
+        },
+        {
+          "event_description": "Monica asks Jeannine to leave, requesting her to go.",
+          "involved_subjects": [
+            "MONICA",
+            "JEANNINE"
+          ],
+          "start_offset": "00:00:09",
+          "end_offset": "00:00:12"
+        },
+        {
+          "event_description": "Jeannine says goodnight to Monica and Julio.",
+          "involved_subjects": [
+            "JEANNINE",
+            "MONICA",
+            "JULIO"
+          ],
+          "start_offset": "00:00:12",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Julio responds to Jeannine with 'Adios'.",
+          "involved_subjects": [
+            "JULIO"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:16"
+        },
+        {
+          "event_description": "Monica points out that someone left their book, claiming it is Julio's.",
+          "involved_subjects": [
+            "MONICA",
+            "JULIO"
+          ],
+          "start_offset": "00:00:16",
+          "end_offset": "00:00:19"
+        },
+        {
+          "event_description": "Julio confirms that the book is his and mentions the title 'Flowers of Evil' by Beaudalire.",
+          "involved_subjects": [
+            "JULIO"
+          ],
+          "start_offset": "00:00:19",
+          "end_offset": "00:00:22"
+        },
+        {
+          "event_description": "Monica asks Julio if he is enjoying the book, implying she has not read it.",
+          "involved_subjects": [
+            "MONICA",
+            "JULIO"
+          ],
+          "start_offset": "00:00:22",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Julio comments that he thought he would enjoy the book but criticizes the translation.",
+          "involved_subjects": [
+            "JULIO"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:28"
+        },
+        {
+          "event_description": "Monica makes a playful remark about Julio being a poet and asks what he writes about, then they share a kiss.",
+          "involved_subjects": [
+            "MONICA",
+            "JULIO"
+          ],
+          "start_offset": "00:00:28",
+          "end_offset": "00:00:35"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Joey's audition.]",
+      "dialogue": [
+        {
+          "speaker": "JOEY",
+          "text": "(singing) You've got to pick a pocket or two. Boyyyyssss, (picks a handkerchief from the pianist's pocket) you've got to pick a pocket or two.........."
+        },
+        {
+          "speaker": "DIRECTOR",
+          "text": "Lovely, just lovely."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Really? Thanks."
+        },
+        {
+          "speaker": "DIRECTOR",
+          "text": "Listen Joey, we definitely want to see you for the callback on Saturday."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Excellent, I'll be there."
+        },
+        {
+          "speaker": "DIRECTOR",
+          "text": "Okay, and listen don't forget to bring your jazz shoes for the dance audition."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Ahhh! My ah, my agent said it wasn't a dancing part."
+        },
+        {
+          "speaker": "DIRECTOR",
+          "text": "Joey, all the roles got to dance a little. But believe me with your dance background it'll be a piece of cake."
+        }
+      ],
+      "location": "Joey's audition.",
+      "subjects": [
+        "DIRECTOR",
+        "JOEY"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Joey's audition.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Joey sings a song and picks a handkerchief from the pianist's pocket during his audition.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "The director comments positively on Joey’s singing performance.",
+          "involved_subjects": [
+            "DIRECTOR"
+          ],
+          "start_offset": "00:00:11",
+          "end_offset": "00:00:12"
+        },
+        {
+          "event_description": "Joey expresses gratitude to the director for the compliment.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:13",
+          "end_offset": "00:00:14"
+        },
+        {
+          "event_description": "The director informs Joey that he will be called back for another audition on Saturday.",
+          "involved_subjects": [
+            "DIRECTOR"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:17"
+        },
+        {
+          "event_description": "Joey confirms his attendance for the callback audition.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:18",
+          "end_offset": "00:00:19"
+        },
+        {
+          "event_description": "The director advises Joey to bring his jazz shoes for the dance portion of the audition.",
+          "involved_subjects": [
+            "DIRECTOR"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:22"
+        },
+        {
+          "event_description": "Joey expresses surprise that he was told the role was not a dancing part.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:23",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "The director explains that all roles require some dancing and reassures Joey about his dance background.",
+          "involved_subjects": [
+            "DIRECTOR"
+          ],
+          "start_offset": "00:00:26",
+          "end_offset": "00:00:29"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Chandler and Joey's, Chandler is reading Joey's resume.]",
+      "dialogue": [
+        {
+          "speaker": "CHANDLER",
+          "text": "....three years of modern dance with Twila Tharp! Five years with the American Ballet Theater?!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Hey, everybody lies on their resume, okay. I wasn't one of the Zoom Kids either."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Well, can you dance at all?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Yeah, I can dance, y'know. (starts to dance really, really, really badly)"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Oh no, no, no, no."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "(covering her mouth in shock) What, what is that?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Sure, it looks stupid now, there's no music playing."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "All right, I have to get that, but no-no. (answering phone) Hello? (listens) (happily) Hi! Yeah listen, I'm, I'm in need of a stripper and I was told that you do that. (listens) Let me ask you this, what, what do you do for the extra hundred? (listens) So would I, would I have to provide the grapes?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "(entering) Hi!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, how was last night with Julio, senorita?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "It was soo amazing, he is so sexy, and smart, which makes him even sexier. Oh gosh, I gotta so you this. Last night, we were fooling around and he stops to write a poem."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Get out! I couldn't stop if a meteor hit me."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Okay, we have our stripper. A miss Crystal Chandelier."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Well sure, you name a kid that, what do you expect them to grow up to be?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Anyway um, when he left he forgot to take the poem with him. Now, I am like totally dense about poetry, but I think it's pretty good all right. Check it out. (hands them the poem)"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "(reading) The Empty Vase. Translucent beauty..."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "To yourself. (finishing) Hey-hey-hey, y'know what that's pretty good."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Oh good, I think so too. Pheebs?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh yeah."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Oh, I'm so glad you guys like it. Yay! All right I gotta go to work. (tries to take the poem)"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Whoa, I'm not done."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "All right, just give it back to me when your done. See you guys."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Bye-bye."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh my God, oh my God! Poor Monica!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "What, what, what?!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "What?! He was with her when he wrote this poem. Look, (reading) 'My vessel so empty with nothing inside. Now that I've touched you, you seem emptier still.' He thinks Monica is empty, she is the empty vase!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "You really think that is what he meant?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, totally. Oh, God, oh, she seemed so happy too."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Done."
+        }
+      ],
+      "location": "Chandler and Joey's",
+      "subjects": [
+        "PHOEBE",
+        "CHANDLER",
+        "JOEY",
+        "MONICA"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Chandler and Joey's, Chandler is reading Joey's resume.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Chandler reads Joey's resume aloud, highlighting Joey's claimed experience in modern dance and ballet.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Joey defends his resume by claiming that everyone lies on their resume and mentions he wasn't a Zoom Kid.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:16",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Phoebe questions Joey about his dancing ability.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:26",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Joey demonstrates his dancing skills by starting to dance badly.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:31",
+          "end_offset": "00:00:40"
+        },
+        {
+          "event_description": "Chandler reacts negatively to Joey's dancing and answers a phone call about hiring a stripper, inquiring about additional services.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:41",
+          "end_offset": "00:00:55"
+        },
+        {
+          "event_description": "Monica enters the scene and shares her excitement about her date with Julio, mentioning he wrote a poem.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:56",
+          "end_offset": "00:01:05"
+        },
+        {
+          "event_description": "Monica shows her friends a poem written by Julio, which she believes is good.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:01:06",
+          "end_offset": "00:01:15"
+        },
+        {
+          "event_description": "Joey reads the poem aloud, commenting on its content and quality.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:01:16",
+          "end_offset": "00:01:25"
+        },
+        {
+          "event_description": "Chandler comments that the poem is pretty good, and Monica expresses her happiness about her friends' approval.",
+          "involved_subjects": [
+            "CHANDLER",
+            "MONICA"
+          ],
+          "start_offset": "00:01:26",
+          "end_offset": "00:01:35"
+        },
+        {
+          "event_description": "Phoebe interprets the poem as a metaphor indicating Julio thinks Monica is an 'empty vase', and expresses concern about Monica's happiness.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:01:36",
+          "end_offset": "00:01:50"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Rachel's office, her desk is covered with stuff Ross has sent her.]",
+      "dialogue": [
+        {
+          "speaker": "MARK",
+          "text": "(reaching through the flowers) Do you have the, the Ralph Lauren file?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh, yeah, sure, it's umm... (she picks up this bug and it starts to play the theme from Love Story)"
+        },
+        {
+          "speaker": "MARK",
+          "text": "Wh-what's that?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "It's from Ross, it's a love bug."
+        },
+        {
+          "speaker": "MARK",
+          "text": "Wow! Somebody wants people to know you have a boyfriend."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh no, no-no-no, that's not, not, not, what he is doing. He's just, he's just really romantic."
+        },
+        {
+          "speaker": "MAN",
+          "text": "(to Rachel) Ah, excuse me, are you Rachel Green?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Yes."
+        },
+        {
+          "speaker": "MAN",
+          "text": "(being joined by the rest of the barbershop quartet) One, two, three..."
+        },
+        {
+          "speaker": "QUARTET",
+          "text": "(singing) Congratulations on your first week at your brand new job! It won't be long before your the boss."
+        },
+        {
+          "speaker": "THE BASS BARBER",
+          "text": "Omm-pah, omm-pah, omm-pah."
+        },
+        {
+          "speaker": "QUARTET",
+          "text": "(singing) And you know who will be there to support... you?! Your one and only boyfriend..."
+        },
+        {
+          "speaker": "THE BASS BARBER",
+          "text": "It's nice to have a boyfriend."
+        },
+        {
+          "speaker": "QUARTET",
+          "text": "Your loyal loving boyfriend Ross..... Ross!"
+        }
+      ],
+      "location": "Rachel's office",
+      "subjects": [
+        "THE BASS BARBER",
+        "ROSS",
+        "QUARTET",
+        "MAN",
+        "RACHEL",
+        "MARK"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Rachel's office, her desk is covered with stuff Ross has sent her.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Rachel's desk is shown covered with items sent by Ross.",
+          "involved_subjects": [
+            "Rachel"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "Mark reaches through the flowers to ask Rachel for the Ralph Lauren file.",
+          "involved_subjects": [
+            "Mark",
+            "Rachel"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Rachel picks up a bug that plays the theme from Love Story.",
+          "involved_subjects": [
+            "Rachel"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Mark asks about the bug, and Ross explains it's from him, calling it a love bug.",
+          "involved_subjects": [
+            "Mark",
+            "Ross"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Mark comments that the love bug indicates someone wants others to know Rachel has a boyfriend.",
+          "involved_subjects": [
+            "Mark"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Rachel clarifies that Ross's gesture is romantic, not an indication of her relationship status.",
+          "involved_subjects": [
+            "Rachel"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "A man asks Rachel if she is Rachel Green, confirming her identity.",
+          "involved_subjects": [
+            "Man",
+            "Rachel"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:40"
+        },
+        {
+          "event_description": "The barbershop quartet begins singing a congratulatory song to Rachel about her first week at her new job.",
+          "involved_subjects": [
+            "Quartet",
+            "Rachel"
+          ],
+          "start_offset": "00:00:40",
+          "end_offset": "00:00:50"
+        },
+        {
+          "event_description": "The bass barber hums 'Omm-pah, omm-pah, omm-pah' during the song.",
+          "involved_subjects": [
+            "The Bass Barber"
+          ],
+          "start_offset": "00:00:50",
+          "end_offset": "00:00:55"
+        },
+        {
+          "event_description": "The quartet sings that Ross will be there to support Rachel and calls him her loyal loving boyfriend.",
+          "involved_subjects": [
+            "Quartet",
+            "Rachel",
+            "Ross"
+          ],
+          "start_offset": "00:00:55",
+          "end_offset": "00:01:05"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, Ross and Rachel are entering the living room from her\nbedroom.]",
+      "dialogue": [
+        {
+          "speaker": "ROSS",
+          "text": "I'm hurt! I'm actually hurt, that you would think that I would send you any of those things out of any thing other than love. Hurt! Hurt!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "All right Ross!! I get it!!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "I mean my God..."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "You're hurt!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "...can't, can't a guy send a barbershop quartet to his girlfriend's office anymorrrrre!!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh, please, Ross it was so obvious! It was like you were marking your territory. I mean you might have well have just come in and peed all around my desk!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "I would never do that!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Look, I know what's going on here, okay, Mark explained it all to me. He said this is what you guys do."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Yeah well if, if, if Mark said that, than Mark's an idiot."
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "ROSS",
+        "RACHEL"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Monica and Rachel's, Ross and Rachel are entering the living room from her\nbedroom.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Ross enters the living room and expresses that he is hurt emotionally, insisting he only sent the items out of love.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Rachel responds dismissively, telling Ross she understands and urging him to stop.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Ross laments that he can no longer send a barbershop quartet to his girlfriend's office.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Rachel accuses Ross of marking his territory by sending the items, comparing it to peeing around her desk.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Ross denies that he would behave in such a way.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:40"
+        },
+        {
+          "event_description": "Rachel states that she knows Ross's intentions, claiming Mark explained it to her.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:40",
+          "end_offset": "00:00:50"
+        },
+        {
+          "event_description": "Ross dismisses Mark's explanation, calling Mark an idiot if he said that.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:50",
+          "end_offset": "00:00:55"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Central Perk, Chandler, Ross, Joey are there.]",
+      "dialogue": [
+        {
+          "speaker": "JOEY",
+          "text": "Mark's a genius!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Why?! How?! How is he a genius?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Look, don't you see what's happening here. Instead of hitting on her right away, he's becoming her confidant. Now he's gonna be the guy she goes too to complain about you."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "What am I going to do?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Well, why don't you send her a musical bug, op, no you already did that. All right look, you're going to have to go there yourself now, okay, make a few surprise visits."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "I don't know you guys."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "All right fine, don't do anything, just sit here and talk to us, meanwhile she is talking to him about you. And he's being Mr. Joe Sensitive, and she starts thinking 'Maybe this is the guy for me, because he understands me.'"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "And before you know it, she's with him. And you'll be all, 'Ohh, man!' And he'll be all, 'Yes!' And us, we'll be like, 'Wh-whoa, dude.' And pretty soon you'll be like, (sadly) 'Hhiii,' and, and, and, 'I can't go, Rachel and Mark might be there.' And we'll be like, 'Man get over it, it's been four years!!'"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "He paints quite a picture doesn't he?"
+        }
+      ],
+      "location": "Central Perk",
+      "subjects": [
+        "JOEY",
+        "ROSS",
+        "CHANDLER"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Central Perk, Chandler, Ross, Joey are there.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Joey exclaims that Mark is a genius.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:01",
+          "end_offset": "00:00:02"
+        },
+        {
+          "event_description": "Ross questions Joey about why Mark is a genius.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:02",
+          "end_offset": "00:00:04"
+        },
+        {
+          "event_description": "Chandler explains that Mark is becoming her confidant to get closer to her.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:04",
+          "end_offset": "00:00:09"
+        },
+        {
+          "event_description": "Chandler suggests Ross should make surprise visits to her.",
+          "involved_subjects": [
+            "CHANDLER",
+            "ROSS"
+          ],
+          "start_offset": "00:00:09",
+          "end_offset": "00:00:13"
+        },
+        {
+          "event_description": "Ross expresses uncertainty about taking action.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:13",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Chandler advises Ross to sit and talk to them while she talks to Mark about him.",
+          "involved_subjects": [
+            "CHANDLER",
+            "ROSS"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Chandler describes how she might start thinking Mark is the right guy for her.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:24"
+        },
+        {
+          "event_description": "Joey predicts that she will eventually be with Mark, and Ross will be upset.",
+          "involved_subjects": [
+            "JOEY",
+            "ROSS"
+          ],
+          "start_offset": "00:00:24",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Joey humorously describes Ross's emotional reaction to her being with Mark.",
+          "involved_subjects": [
+            "JOEY",
+            "ROSS"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Chandler comments on Joey's vivid description of the situation.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:36"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Rachel's office.]",
+      "dialogue": [
+        {
+          "speaker": "WOMAN",
+          "text": "(walking up to Mark) Here's the Shelly Siegal stuff from December."
+        },
+        {
+          "speaker": "MARK",
+          "text": "(turning around) And wait, I've got something for you. (kisses her)"
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "Mark!!"
+        },
+        {
+          "speaker": "MARK",
+          "text": "It's okay, Rachel knows."
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "Yeah, but even soo."
+        },
+        {
+          "speaker": "MARK",
+          "text": "I can't help it, I'm just, I'm just crazy about you."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Ohhh! That is soo sweet! (gets up to get herself a cup of coffee)"
+        },
+        {
+          "speaker": "MARK",
+          "text": "Okay, okay look, I know I'm being Mr. Inappropriate today, but it's just so tough, I mean see you walking around and I just wanna touch you and hold you, come on no one's around, just, just kiss me."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "All right that's, that's it!! Get off her!"
+        },
+        {
+          "speaker": "MARK",
+          "text": "What is going on?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "What's going on?! (throws the love bug at him) That's what's going on!!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(now standing behind Ross) Ross!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "I have been down in your store for twenty minutes trying to get a tie! What do I have to do to get some service?! (turns to Rachel) Hi Rach. (He's puts his hand on her shoulder and she knocks it away.)"
+        }
+      ],
+      "location": "Rachel's office.",
+      "subjects": [
+        "ROSS",
+        "RACHEL",
+        "MARK",
+        "WOMAN"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Rachel's office.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Woman walks up to Mark and hands him the Shelly Siegal materials from December.",
+          "involved_subjects": [
+            "WOMAN",
+            "MARK"
+          ],
+          "start_offset": "00:00:01",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "Mark turns around and kisses Woman, indicating a romantic gesture.",
+          "involved_subjects": [
+            "MARK",
+            "WOMAN"
+          ],
+          "start_offset": "00:00:06",
+          "end_offset": "00:00:08"
+        },
+        {
+          "event_description": "Woman expresses surprise and concern about Mark's kiss, saying 'Mark!!'",
+          "involved_subjects": [
+            "WOMAN"
+          ],
+          "start_offset": "00:00:09",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Mark reassures Woman that Rachel knows about their relationship.",
+          "involved_subjects": [
+            "MARK",
+            "WOMAN"
+          ],
+          "start_offset": "00:00:11",
+          "end_offset": "00:00:13"
+        },
+        {
+          "event_description": "Woman comments that it's still inappropriate, expressing her feelings.",
+          "involved_subjects": [
+            "WOMAN"
+          ],
+          "start_offset": "00:00:14",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Mark confesses he is crazy about Woman and cannot help his feelings.",
+          "involved_subjects": [
+            "MARK"
+          ],
+          "start_offset": "00:00:16",
+          "end_offset": "00:00:18"
+        },
+        {
+          "event_description": "Rachel reacts to Mark's declaration by expressing that it is very sweet and gets up to get coffee.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:19",
+          "end_offset": "00:00:21"
+        },
+        {
+          "event_description": "Mark admits to being inappropriate and expresses his desire to kiss Rachel.",
+          "involved_subjects": [
+            "MARK",
+            "RACHEL"
+          ],
+          "start_offset": "00:00:22",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Ross intervenes angrily, telling Mark to get off Rachel.",
+          "involved_subjects": [
+            "ROSS",
+            "MARK"
+          ],
+          "start_offset": "00:00:26",
+          "end_offset": "00:00:28"
+        },
+        {
+          "event_description": "Ross throws a love bug at Mark in frustration.",
+          "involved_subjects": [
+            "ROSS",
+            "MARK"
+          ],
+          "start_offset": "00:00:29",
+          "end_offset": "00:00:30"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Joey's dance audition, Joey is warming up.]",
+      "dialogue": [
+        {
+          "speaker": "DIRECTOR",
+          "text": "Ah Joey. Joey Tribbiani. Listen Joey, I got a problem, I just got a call from my dance captain, he's having a relationship crisis and can't get out of Long Island."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "So, does that mean the audition is off?"
+        },
+        {
+          "speaker": "DIRECTOR",
+          "text": "Listen Joey, seeing as you've got the most experience, I want you to take these dancers and show them the combination."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "What?!"
+        },
+        {
+          "speaker": "DIRECTOR",
+          "text": "Aw come on Joey, it's easy. Y'know, it's hand, hand, head, head, (very quickly, Joey watches stunned) up, pas de bouree, pas de bouree, big turn here, grand sissone, sissone, sissone, slide back, step, step, step, and jazz hands!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "It's ah, step-ity, step and jazz hands."
+        },
+        {
+          "speaker": "DIRECTOR",
+          "text": "Have fun."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Bye. (does the jazz hands)"
+        }
+      ],
+      "location": "Joey's dance audition",
+      "subjects": [
+        "DIRECTOR",
+        "JOEY"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Joey's dance audition, Joey is warming up.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "The Director informs Joey about a problem with the dance captain and requests Joey to take over the dance combination for the audition.",
+          "involved_subjects": [
+            "DIRECTOR",
+            "JOEY"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Joey asks if the audition is canceled due to the dance captain's absence.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "The Director instructs Joey to teach the dancers the dance combination, emphasizing Joey's experience.",
+          "involved_subjects": [
+            "DIRECTOR",
+            "JOEY"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Joey reacts with surprise and confusion to the Director's instructions.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:40"
+        },
+        {
+          "event_description": "The Director demonstrates the dance combination quickly to Joey, listing the steps.",
+          "involved_subjects": [
+            "DIRECTOR"
+          ],
+          "start_offset": "00:00:40",
+          "end_offset": "00:00:50"
+        },
+        {
+          "event_description": "Joey attempts to repeat the dance steps, simplifying the instructions to 'step-ity, step and jazz hands.'",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:50",
+          "end_offset": "00:00:55"
+        },
+        {
+          "event_description": "The Director encourages Joey to have fun as he prepares to teach the dancers.",
+          "involved_subjects": [
+            "DIRECTOR"
+          ],
+          "start_offset": "00:00:55",
+          "end_offset": "00:00:58"
+        },
+        {
+          "event_description": "Joey says goodbye and performs jazz hands as he leaves the scene.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:58",
+          "end_offset": "00:01:00"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, Monica is tying a ribbon to a vase.]",
+      "dialogue": [
+        {
+          "speaker": "PHOEBE",
+          "text": "(entering) Hey!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Hey."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "What are you wrapping?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Oh-ho, look what I got Julio."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Yeah, it's a vase."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Yeah, just like the one in the poem."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Well not exactly like the one in the poem."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "What do you mean?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Remember how you said you were really dense about poetry? Oh. (hugs her)"
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "PHOEBE",
+        "MONICA"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Monica and Rachel's, Monica is tying a ribbon to a vase.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Monica is tying a ribbon to a vase.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Phoebe enters the scene and greets Monica.",
+          "involved_subjects": [
+            "PHOEBE",
+            "MONICA"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Monica responds to Phoebe's greeting.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Phoebe asks Monica what she is wrapping.",
+          "involved_subjects": [
+            "PHOEBE",
+            "MONICA"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Monica shows Phoebe the vase she got for Julio.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Phoebe identifies the object as a vase.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Monica comments that the vase is similar to one in a poem.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:40"
+        },
+        {
+          "event_description": "Phoebe remarks that the vase is not exactly like the one in the poem.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:40",
+          "end_offset": "00:00:45"
+        },
+        {
+          "event_description": "Monica questions Phoebe about her comment on her poetry knowledge.",
+          "involved_subjects": [
+            "MONICA",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:45",
+          "end_offset": "00:00:50"
+        },
+        {
+          "event_description": "Phoebe hugs Monica, indicating a friendly or affectionate gesture.",
+          "involved_subjects": [
+            "PHOEBE",
+            "MONICA"
+          ],
+          "start_offset": "00:00:50",
+          "end_offset": "00:00:55"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: The Moondance Diner.]",
+      "dialogue": [
+        {
+          "speaker": "MONICA",
+          "text": "(to Julio) So! I'm just an empty vase, huh?"
+        },
+        {
+          "speaker": "JULIO",
+          "text": "What?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Y'know, so I don't read as many important books as you do, and I don't write trick poems that seem to be about one thing but are actually about something else. And y'know what, I get excited about stupid stuff, like when I my People magazine comes on Saturday, and the new Hold Everything catalog. Y'know but that does not mean that I'm empty, I care about things. I care about my friends and family. You have no right to make that kind of judgment about me."
+        },
+        {
+          "speaker": "JULIO",
+          "text": "Whoa, whoa, whoa."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "You don't even know me..."
+        },
+        {
+          "speaker": "JULIO",
+          "text": "Whoa, whoa, whoa, the poem is not about you."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "What?"
+        },
+        {
+          "speaker": "JULIO",
+          "text": "The Empty Vase is not about you. My baby, you make me so sad that you would think this."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "I'm sorry, my friend Phoebe..."
+        },
+        {
+          "speaker": "JULIO",
+          "text": "No, it's about all women. Well, all American women. You feel better now?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "(sarcastically) Oh yeah."
+        }
+      ],
+      "location": "The Moondance Diner.",
+      "subjects": [
+        "MONICA",
+        "JULIO"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: The Moondance Diner.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Monica confronts Julio, accusing him of judging her as an 'empty vase'.",
+          "involved_subjects": [
+            "MONICA",
+            "JULIO"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Julio responds with confusion, saying 'What?'",
+          "involved_subjects": [
+            "JULIO"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Monica explains her interests and feelings, asserting she cares about her friends and family.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Julio interrupts Monica, saying 'Whoa, whoa, whoa', indicating a desire to clarify or halt the conversation.",
+          "involved_subjects": [
+            "JULIO"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:40"
+        },
+        {
+          "event_description": "Monica accuses Julio of not knowing her, implying a misunderstanding.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:40",
+          "end_offset": "00:00:45"
+        },
+        {
+          "event_description": "Julio clarifies that the poem 'The Empty Vase' is not about Monica, expressing emotional distress.",
+          "involved_subjects": [
+            "JULIO"
+          ],
+          "start_offset": "00:00:45",
+          "end_offset": "00:00:55"
+        },
+        {
+          "event_description": "Monica reacts with surprise, asking 'What?', upon Julio's clarification.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:55",
+          "end_offset": "00:01:00"
+        },
+        {
+          "event_description": "Julio states that the poem is about all women, specifically American women, and asks if Monica feels better now.",
+          "involved_subjects": [
+            "JULIO"
+          ],
+          "start_offset": "00:01:00",
+          "end_offset": "00:01:10"
+        },
+        {
+          "event_description": "Monica responds sarcastically, indicating frustration or disbelief.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:01:10",
+          "end_offset": "00:01:15"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Joey's audition, the director has returned and wants to see the combination.]",
+      "dialogue": [
+        {
+          "speaker": "DIRECTOR",
+          "text": "All right, let's do it!"
+        },
+        {
+          "speaker": "DIRECTOR",
+          "text": "No, no, no. What was that?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "I know, it was the best I could get out of them."
+        },
+        {
+          "speaker": "DIRECTOR",
+          "text": "Well, people!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "People, people, people."
+        },
+        {
+          "speaker": "DIRECTOR",
+          "text": "Let's try it again, and this time let's watch everybody watch Joey. (to Joey) Show 'em how it's done. (to the pianist) Count it off."
+        }
+      ],
+      "location": "Joey's audition",
+      "subjects": [
+        "DIRECTOR",
+        "JOEY"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Joey's audition, the director has returned and wants to see the combination.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "The director enthusiastically encourages everyone to perform again.",
+          "involved_subjects": [
+            "DIRECTOR"
+          ],
+          "start_offset": "unknown",
+          "end_offset": "unknown"
+        },
+        {
+          "event_description": "The director criticizes Joey for his previous performance.",
+          "involved_subjects": [
+            "DIRECTOR",
+            "JOEY"
+          ],
+          "start_offset": "unknown",
+          "end_offset": "unknown"
+        },
+        {
+          "event_description": "Joey responds to the director, claiming he did his best to get the performance out of the actors.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "unknown",
+          "end_offset": "unknown"
+        },
+        {
+          "event_description": "The director addresses the group, instructing them to watch Joey perform and to observe their reactions.",
+          "involved_subjects": [
+            "DIRECTOR"
+          ],
+          "start_offset": "unknown",
+          "end_offset": "unknown"
+        },
+        {
+          "event_description": "The director instructs Joey to demonstrate how it's done.",
+          "involved_subjects": [
+            "DIRECTOR",
+            "JOEY"
+          ],
+          "start_offset": "unknown",
+          "end_offset": "unknown"
+        },
+        {
+          "event_description": "The director asks the pianist to count off the next performance.",
+          "involved_subjects": [
+            "DIRECTOR"
+          ],
+          "start_offset": "unknown",
+          "end_offset": "unknown"
+        },
+        {
+          "event_description": "Joey prepares to perform again, with the audience watching.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "unknown",
+          "end_offset": "unknown"
+        },
+        {
+          "event_description": "The pianist begins counting off the performance as instructed.",
+          "involved_subjects": [
+            "pianist"
+          ],
+          "start_offset": "unknown",
+          "end_offset": "unknown"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Central Perk, Chandler and Rachel are there.]",
+      "dialogue": [
+        {
+          "speaker": "RACHEL",
+          "text": "So ah, did you have fun at the bachelor party last night?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Oh yeah, yeah! Look what I got, look what I got. (holds up a pen) See, she's fully dressed, right?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Right."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "And then you click it and, uh-oh, she's naked. And then, and then you click it again and she's dressed. She's a business woman, she's walking down the street, she's window shopping, and (clicks pen) whoa-whoa-whoa, sh-she's naked! (Rachel just stares at him.)"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "(entering) Hi."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Hello."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Y'know what, I'm, I'm gonna spend some alone time with the pen."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "(sits down next to her) I'm sorry, I was an idiot."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "A big idiot."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "A big idiot. Just you have to realize is, this whole Mark thing is kinda hard for me."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Honey, why is it hard, I mean we've been together for almost a year now?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Well, I was with Carol for like eight years and I lost her. And now if it's possible I think I love you even more. So, it's hard for me to believe that I'm not gonna, well that someone else is not going to take you away."
+        },
+        {
+          "speaker": "GUNTHER",
+          "text": "Let it be me! Let it be me!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Honey, that's very sweet, it just seems to me though, that if two people love each other and trust each other, like we do, there's no reason to be jealous. (she kisses him)"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "I gotta get going. Bye Chandler."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Oh, okay Ross. Listen, this pen is kinda getting boring, so can you pick me up some porn?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Where ya going?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Oh, I've got to go pick up Ben, we've got a play date this afternoon."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Ohh, with who?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Oh, just this woman that I met last night at the party."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "There was a woman at the... (realizes) The stripper?!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "You have a play date with a stripper?!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Man, I gotta get a kid. (looks at the pen and starts laughing)"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Ah, yeah, yeah. Umm, we started talking after she y'know, did her thing. And it turns out she's got a boy about Ben's age, so we're taking them to a gym-boree class. Why, is that okay?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Sure, is she married?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Ahh, no."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh. (starts shaking the sugar down in a packet really hard.)"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Are you jealous?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Noo, I y'know I don't see why she has to play with you, that's all. I mean doesn't she have any y'know other stripper moms friends of her own?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "You are totally jealous."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "I'm not jealous. All right this is about, umm, people feeling certain things y'know about strippers. And y'know, and um, I..."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Honey, I love you too."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Ugh. Wait, wait, wait."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "What?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Huh."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(to Chandler) Well, there's a kiss that he won't forget for a couple of hours, y'know."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Yeah. Either that, or you just turned him on and sent him off to a stripper."
+        }
+      ],
+      "location": "Central Perk",
+      "subjects": [
+        "GUNTHER",
+        "CHANDLER",
+        "ROSS",
+        "RACHEL"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Central Perk, Chandler and Rachel are there.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Chandler shows Rachel a pen that appears to be a joke, with a naked woman inside that appears when clicked.",
+          "involved_subjects": [
+            "CHANDLER",
+            "RACHEL"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Ross enters Central Perk and greets Rachel.",
+          "involved_subjects": [
+            "ROSS",
+            "RACHEL"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Ross apologizes to Rachel, admitting he was an idiot and expressing difficulty with his feelings about Mark and their relationship.",
+          "involved_subjects": [
+            "ROSS",
+            "RACHEL"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:50"
+        },
+        {
+          "event_description": "Rachel reassures Ross that their nearly year-long relationship should not cause jealousy.",
+          "involved_subjects": [
+            "RACHEL",
+            "ROSS"
+          ],
+          "start_offset": "00:00:50",
+          "end_offset": "00:01:00"
+        },
+        {
+          "event_description": "Gunther expresses his desire to be with Rachel by saying, 'Let it be me!'",
+          "involved_subjects": [
+            "GUNTHER",
+            "RACHEL"
+          ],
+          "start_offset": "00:01:00",
+          "end_offset": "00:01:05"
+        },
+        {
+          "event_description": "Rachel kisses Ross to reassure him about their relationship.",
+          "involved_subjects": [
+            "RACHEL",
+            "ROSS"
+          ],
+          "start_offset": "00:01:05",
+          "end_offset": "00:01:10"
+        },
+        {
+          "event_description": "Ross mentions he is going to pick up Ben and has a play date with a woman he met at the party, revealing she is a stripper.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:01:10",
+          "end_offset": "00:01:20"
+        },
+        {
+          "event_description": "Rachel reacts with surprise and concern upon learning Ross's play date is with a stripper.",
+          "involved_subjects": [
+            "RACHEL",
+            "ROSS"
+          ],
+          "start_offset": "00:01:20",
+          "end_offset": "00:01:30"
+        },
+        {
+          "event_description": "Ross explains that the stripper has a son about Ben’s age and they plan to take the children to a gymboree class.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:01:30",
+          "end_offset": "00:01:40"
+        },
+        {
+          "event_description": "Rachel questions whether the stripper is married, and Ross confirms she is not.",
+          "involved_subjects": [
+            "RACHEL",
+            "ROSS"
+          ],
+          "start_offset": "00:01:40",
+          "end_offset": "00:01:50"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: The Moondance Diner.]",
+      "dialogue": [
+        {
+          "speaker": "MAN",
+          "text": "(entering) Is there a Julio here?"
+        },
+        {
+          "speaker": "JULIO",
+          "text": "(to him) I am Julio."
+        },
+        {
+          "speaker": "MAN",
+          "text": "(singing) Mister Pretensous, (Monica stands up in the background) you think there's no one finer, well but your poems are unpublished, and you work in a diner."
+        },
+        {
+          "speaker": "QUARTET",
+          "text": "Your no God's gift to women, that's all in your headdddd. You are just a buttmunch."
+        },
+        {
+          "speaker": "BASS SINGER",
+          "text": "No one likes a buttmunch."
+        },
+        {
+          "speaker": "QUARTET",
+          "text": "And your also bad in bedd-edd-edd!."
+        }
+      ],
+      "location": "The Moondance Diner.",
+      "subjects": [
+        "QUARTET",
+        "JULIO",
+        "MAN",
+        "BASS SINGER"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: The Moondance Diner.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "The MAN enters the Moondance Diner and asks if Julio is present.",
+          "involved_subjects": [
+            "MAN"
+          ],
+          "start_offset": "00:00:01",
+          "end_offset": "00:00:03"
+        },
+        {
+          "event_description": "JULIO responds to the MAN, identifying himself as Julio.",
+          "involved_subjects": [
+            "JULIO"
+          ],
+          "start_offset": "00:00:04",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "The MAN sings a line criticizing Julio's pretentiousness and unpublished poems.",
+          "involved_subjects": [
+            "MAN"
+          ],
+          "start_offset": "00:00:06",
+          "end_offset": "00:00:08"
+        },
+        {
+          "event_description": "Monica stands up in the background as the MAN sings.",
+          "involved_subjects": [
+            "Monica"
+          ],
+          "start_offset": "00:00:08",
+          "end_offset": "00:00:09"
+        },
+        {
+          "event_description": "QUARTET insults Julio, claiming he is not God's gift to women and calling him a buttmunch.",
+          "involved_subjects": [
+            "QUARTET"
+          ],
+          "start_offset": "00:00:09",
+          "end_offset": "00:00:11"
+        },
+        {
+          "event_description": "BASS SINGER responds to QUARTET, stating that no one likes a buttmunch.",
+          "involved_subjects": [
+            "BASS SINGER"
+          ],
+          "start_offset": "00:00:11",
+          "end_offset": "00:00:12"
+        },
+        {
+          "event_description": "QUARTET continues insulting Julio, claiming he is bad in bed.",
+          "involved_subjects": [
+            "QUARTET"
+          ],
+          "start_offset": "00:00:12",
+          "end_offset": "00:00:14"
+        }
+      ]
+    }
+  ]
+}

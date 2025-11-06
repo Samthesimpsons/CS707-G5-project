@@ -1,0 +1,2385 @@
+{
+  "episode": "0103",
+  "title": "The One With The Thumb",
+  "scenes": [
+    {
+      "scene_description": "Scene: Central Perk, everyone but Phoebe is there.",
+      "dialogue": [
+        {
+          "speaker": "PHOEBE",
+          "text": "(entering) Hi guys!"
+        },
+        {
+          "speaker": "ALL",
+          "text": "Hey, Pheebs! Hi!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Hey. Oh, oh, how'd it go?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Um, not so good. He walked me to the subway and said 'We should do this again!'"
+        },
+        {
+          "speaker": "ALL",
+          "text": "Ohh. Ouch."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "What? He said 'we should do it again', that's good, right?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Uh, no. Loosely translated 'We should do this again' means 'You will never see me naked'."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Since when?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Since always. It's like dating language. Y'know, like 'It's not you' means 'It is you'."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Or 'You're such a nice guy' means 'I'm gonna be dating leather-wearing alcoholics and complaining about them to you'."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Or, or, y'know, um, 'I think we should see other people' means 'Ha, ha, I already am'."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "And everybody knows this?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Yeah. Cushions the blow."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Yeah, it's like when you're a kid, and your parents put your dog to sleep, and they tell you it went off to live on some farm."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "That's funny, that, no, because, uh, our parents actually did, uh, send our dog off to live on a farm."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Uh, Ross."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "What? Wh- hello? The Millners' farm in Connecticut? The Millners, they had this unbelievable farm, they had horses, and, and rabbits that he could chase and it was- it w- .....Oh my God, Chi Chi!"
+        }
+      ],
+      "location": "",
+      "subjects": [
+        "PHOEBE",
+        "ROSS",
+        "JOEY",
+        "RACHEL",
+        "CHANDLER",
+        "MONICA"
+      ],
+      "clip_start": "00:01:00",
+      "clip_end": "00:01:22",
+      "srt_start": "00:00:05,669",
+      "srt_end": "00:01:17,818",
+      "context_label": "0103_scene_000_",
+      "event_description": "Scene: Central Perk, everyone but Phoebe is there.",
+      "events": [
+        {
+          "event_description": "Phoebe enters Central Perk and greets everyone.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "Ross asks Phoebe how her date went.",
+          "involved_subjects": [
+            "ROSS",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Phoebe reports that her date did not go well and that her date said 'We should do this again!'.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Chandler comments on the meaning of 'We should do this again!'.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Rachel questions the positive interpretation of her date's statement.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:22"
+        },
+        {
+          "event_description": "Monica explains the negative connotation of 'We should do this again' to Rachel.",
+          "involved_subjects": [
+            "MONICA",
+            "RACHEL"
+          ],
+          "start_offset": "00:00:22",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Joey explains that dating language often cushions the blow of rejection.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Chandler humorously compares polite rejection to a child's explanation about a dog going to a farm.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Ross shares that his parents actually sent their dog to a farm, confirming the story's plausibility.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:45"
+        },
+        {
+          "event_description": "Ross realizes that the Millners' farm in Connecticut was the actual destination of his family's dog, Chi Chi.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:45",
+          "end_offset": "00:01:00"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Chandler and Joey's, Chandler is helping Joey rehearse for a part.]",
+      "dialogue": [
+        {
+          "speaker": "CHANDLER",
+          "text": "\"So how does it feel knowing you're about to die?\""
+        },
+        {
+          "speaker": "JOEY",
+          "text": "\"Warden, in five minutes my pain will be over. But you'll have to live with the knowledge that you sent an honest man to die.\""
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Hey, that was really good!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Thanks! Let's keep going."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Okay. \"So. Whaddya want from me, Damone, huh?\""
+        },
+        {
+          "speaker": "JOEY",
+          "text": "\"I just wanna go back to my cell. 'Cause in my cell, I can smoke.\""
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "\"Smoke away.\""
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "I think this is probably why Damone smokes in his cell alone."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "What?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Relax your hand!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Not so much!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Whoah!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Hey!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Hey!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Alright, now try taking a puff."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Alright.. okay. No. Give it to me."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "No no no, I am not giving you a cigarette."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "It's fine, it's fine. Look, do you wanna get this part, or not? Here."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Don't think of it as a cigarette. Think of it as the thing that's been missing from your hand. When you're holding it, you feel right. You feel complete."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Y'miss it?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Nah, not so much. Alright, now we smoke. (Takes a puff.) Oh.. my.. God. (He continues to smoke.)"
+        }
+      ],
+      "location": "Chandler and Joey's",
+      "subjects": [
+        "CHANDLER",
+        "JOEY"
+      ],
+      "clip_start": "00:01:26",
+      "clip_end": "00:03:31",
+      "srt_start": "",
+      "srt_end": "",
+      "context_label": "0103_scene_001_Chandler and Joey's",
+      "event_description": "[Scene: Chandler and Joey's, Chandler is helping Joey rehearse for a part.]",
+      "events": [
+        {
+          "event_description": "Chandler asks Joey how it feels knowing he's about to die.",
+          "involved_subjects": [
+            "CHANDLER",
+            "JOEY"
+          ],
+          "start_offset": "00:01:26",
+          "end_offset": "00:01:30"
+        },
+        {
+          "event_description": "Joey responds to Chandler, claiming that in five minutes his pain will be over and that Chandler will have to live with the guilt.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:01:30",
+          "end_offset": "00:01:35"
+        },
+        {
+          "event_description": "Chandler compliments Joey on his performance.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:01:35",
+          "end_offset": "00:01:37"
+        },
+        {
+          "event_description": "Joey expresses willingness to continue rehearsing.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:01:37",
+          "end_offset": "00:01:39"
+        },
+        {
+          "event_description": "Chandler prompts Joey to say a line from the scene, asking 'Whaddya want from me, Damone?'",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:01:39",
+          "end_offset": "00:01:41"
+        },
+        {
+          "event_description": "Joey responds with his line about wanting to go back to his cell to smoke.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:01:41",
+          "end_offset": "00:01:43"
+        },
+        {
+          "event_description": "Chandler encourages Joey to smoke, saying 'Smoke away.'",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:01:43",
+          "end_offset": "00:01:45"
+        },
+        {
+          "event_description": "Chandler comments on why Damone might smoke alone in his cell.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:01:45",
+          "end_offset": "00:01:48"
+        },
+        {
+          "event_description": "Chandler instructs Joey to relax his hand and not to squeeze the cigarette too tightly.",
+          "involved_subjects": [
+            "CHANDLER",
+            "JOEY"
+          ],
+          "start_offset": "00:01:48",
+          "end_offset": "00:01:52"
+        },
+        {
+          "event_description": "Chandler takes a puff from the cigarette, exclaims 'Oh.. my.. God.', and continues to smoke.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:01:52",
+          "end_offset": "00:01:56"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Central Perk, everyone except Phoebe and Rachel is there.]",
+      "dialogue": [
+        {
+          "speaker": "MONICA",
+          "text": "No, no, no. They say it's the same as the distance from the tip of a guy's thumb to the tip of his index finger."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "That's ridiculous!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Can I use.. either thumb?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(carrying a tray of drinks) Alright, don't tell me, don't tell me! (Starts handing them out.) Decaf cappucino for Joey.. Coffee black.. Late.. And an iced tea. I'm getting pretty good at this!"
+        },
+        {
+          "speaker": "ALL",
+          "text": "Yeah. Yeah, excellent."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(leaving to serve others) Good for me!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Y'okay, Phoebe?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Yeah- no- I'm just- it's, I haven't worked- It's my bank."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "What did they do to you?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "It's nothing, it's just- Okay. I'm going through my mail, and I open up their monthly, you know, STATEMENT-"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Easy."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "- and there's five hundred extra dollars in my account."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Oh, Satan's minions at work again..."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Yes, 'cause now I have to go down there, and deal with them."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "What are you talking about? Keep it!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "It's not mine, I didn't earn it, if I kept it, it would be like stealing."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Yeah, but if you spent it, it would be like shopping!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Okay. Okay, let's say I bought a really great pair of shoes. Do you know what I'd hear, with every step I took? 'Not-mine. Not-mine. Not-mine.' And even if I was happy, okay, and, and skipping- 'Not-not-mine, not-not-mine, not-not-mine, not-not-mine'..."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "We're with you. We got it."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Okay. I'd- just- I'd never be able to enjoy it. It would be like this giant karmic debt."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Chandler, what are you doing?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "(puling him up) Hey. Whaddya doing?"
+        },
+        {
+          "speaker": "ALL",
+          "text": "Oh! Oh, God!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "What is this?!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "I'm smoking. I'm smoking, I'm smoking."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, I can't believe you! You've been so good, for three years!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "And this- is my reward!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Hold on a second, alright? Just think about what you went through the last time you quit."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Okay, so this time I won't quit!"
+        },
+        {
+          "speaker": "ALL",
+          "text": "Ohhh! Put it out!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "All right! I'm putting it out, I'm putting it out. (He drops it in Phoebe's coffee.)"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, no! I- I can't drink this now!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Alright. I'm gonna go change, I've got a date."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "This Alan again? How's it goin'?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "'S'going pretty good, y'know? It's nice, and, we're having fun."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "So when do we get to meet the guy?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Let's see, today's Monday... Never."
+        },
+        {
+          "speaker": "ALL",
+          "text": "Oh, come on! Come on!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "No. Not after what happened with Steve."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "What are you talking about? We love Schhteve! Schhteve was schhexy!.. Sorry."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Look, I don't even know how I feel about him yet. Just give me a chance to figure that out."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Well, then can we meet him?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Nope. Schhorry."
+        }
+      ],
+      "location": "Central Perk",
+      "subjects": [
+        "PHOEBE",
+        "ROSS",
+        "JOEY",
+        "RACHEL",
+        "CHANDLER",
+        "MONICA"
+      ],
+      "clip_start": "00:03:32",
+      "clip_end": "00:06:53",
+      "srt_start": "",
+      "srt_end": "",
+      "context_label": "0103_scene_002_Central Perk",
+      "event_description": "[Scene: Central Perk, everyone except Phoebe and Rachel is there.]",
+      "events": [
+        {
+          "event_description": "Monica explains the distance from the tip of a guy's thumb to his index finger as a way to measure something.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:03:32",
+          "end_offset": "00:03:36"
+        },
+        {
+          "event_description": "Joey expresses disbelief at Monica's explanation.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:03:37",
+          "end_offset": "00:03:39"
+        },
+        {
+          "event_description": "Ross asks if he can use either thumb to measure.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:03:40",
+          "end_offset": "00:03:42"
+        },
+        {
+          "event_description": "Rachel carries a tray of drinks and begins serving customers.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:03:43",
+          "end_offset": "00:03:45"
+        },
+        {
+          "event_description": "Phoebe discusses discovering an unexpected five hundred dollars in her bank account.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:03:46",
+          "end_offset": "00:03:50"
+        },
+        {
+          "event_description": "Chandler jokes about Satan's minions being responsible for Phoebe's bank statement discrepancy.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:03:51",
+          "end_offset": "00:03:54"
+        },
+        {
+          "event_description": "Chandler smokes a cigarette and drops it into Phoebe's coffee, causing her concern.",
+          "involved_subjects": [
+            "CHANDLER",
+            "PHOEBE"
+          ],
+          "start_offset": "00:06:50",
+          "end_offset": "00:06:53"
+        },
+        {
+          "event_description": "Monica announces she is going to change clothes because she has a date.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:06:54",
+          "end_offset": "00:06:56"
+        },
+        {
+          "event_description": "Rachel inquires about Monica's date with Alan and comments on her progress.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:06:57",
+          "end_offset": "00:07:00"
+        },
+        {
+          "event_description": "Monica declines to introduce her date to the group, citing past experiences with Steve.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:07:01",
+          "end_offset": "00:07:03"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Iridium, Monica and Paula are at work.]",
+      "dialogue": [
+        {
+          "speaker": "MONICA",
+          "text": "I mean, why should I let them meet him? I mean, I bring a guy home, and within five minutes they're all over him. I mean, they're like- coyotes, picking off the weak members of the herd."
+        },
+        {
+          "speaker": "PAULA",
+          "text": "Listen. As someone who's seen more than her fair share of bad beef,"
+        },
+        {
+          "speaker": "PAULA",
+          "text": "I'LL\nTELL YOU that is not such a terrible thing. I mean, they're your friends, they're just looking out after you."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "I know. I just wish that once, I'd bring a guy home that they actually liked."
+        },
+        {
+          "speaker": "PAULA",
+          "text": "Well, you do realise the odds of that happening are a little slimmer if they never get to meet the guy.."
+        }
+      ],
+      "location": "Iridium",
+      "subjects": [
+        "PAULA",
+        "MONICA"
+      ],
+      "clip_start": "00:06:55",
+      "clip_end": "00:07:36",
+      "srt_start": "00:06:48,669 ",
+      "srt_end": "00:07:17,819",
+      "context_label": "0103_scene_003_Iridium",
+      "event_description": "[Scene: Iridium, Monica and Paula are at work.]",
+      "events": [
+        {
+          "event_description": "Monica questions why she should let her friends meet her date, expressing concern about their behavior.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:06:55",
+          "end_offset": "00:07:00"
+        },
+        {
+          "event_description": "Monica describes her friends as coyotes, metaphorically suggesting they pick off the weak members of the herd.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:07:00",
+          "end_offset": "00:07:05"
+        },
+        {
+          "event_description": "Paula advises Monica that her friends are just looking out for her and implies that meeting her date is not a bad thing.",
+          "involved_subjects": [
+            "PAULA"
+          ],
+          "start_offset": "00:07:05",
+          "end_offset": "00:07:10"
+        },
+        {
+          "event_description": "Monica expresses her wish that her friends would like the guy she brings home.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:07:10",
+          "end_offset": "00:07:15"
+        },
+        {
+          "event_description": "Paula comments that the chances of Monica's friends liking her date are slim if they never meet him.",
+          "involved_subjects": [
+            "PAULA"
+          ],
+          "start_offset": "00:07:15",
+          "end_offset": "00:07:20"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, Chandler is smoking out on the balcony, Phoebe is absent.]",
+      "dialogue": [
+        {
+          "speaker": "JOEY",
+          "text": "Let it go, Ross."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Yeah, well, you didn't know Chi Chi."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Do you all promise?"
+        },
+        {
+          "speaker": "ALL",
+          "text": "Yeah! We promise! We'll be good!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "(shouts to Chandler) Chandler? Do you promise to be good?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "You can come in, but your filter-tipped little buddy has to stay outside!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Hey, Pheebs."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "'Dear Ms. Buffay. Thank you for calling attention to our error. We have credited your account with five hundred dollars. We're sorry for the inconvenience, and hope you'll accept this- (Searches in her purse) - football phone as our free gift.' Do you believe this?! Now I have a thousand dollars, and a football phone!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "What bank is this?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Hey. It's him. (On the intercom) Who is it?"
+        },
+        {
+          "speaker": "ALAN",
+          "text": "(on the intercom) It's Alan."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "(shouting to Chandler) Chandler! He's here!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "(to all) Okay, please be good, please . Just remember how much you all like me."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Hi. Alan, this is everybody. Everybody, this is Alan."
+        },
+        {
+          "speaker": "ALAN",
+          "text": "Hi."
+        },
+        {
+          "speaker": "ALL",
+          "text": "Hi, Alan."
+        },
+        {
+          "speaker": "ALAN",
+          "text": "I've heard schho much about all you guyschh!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "(to Alan) Thanks. I'll call you tomorrow. (Alan exits, to all) Okay. Okay, let's let the Alan-bashing begin. Who's gonna take the first shot, hmm?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "C'mon!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "...I'll go. Let's start with the way he kept picking at- no, I'm sorry, I can't do this, can't do this. We loved him."
+        },
+        {
+          "speaker": "ALL",
+          "text": "Loved him! Yeah! He's great!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Wait a minute! We're talking about someone that I'm going out with?"
+        },
+        {
+          "speaker": "ALL",
+          "text": "Yeah!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "And did you notice...? (She spreads her thumb and index finger.)"
+        },
+        {
+          "speaker": "THE GUYS",
+          "text": "(reluctantly) Yeah."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Know what was great? The way his smile was kinda crooked."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Yes, yes! Like the man in the shoe!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "...What shoe?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "From the nursery rhyme. 'There was a crooked man, Who had a crooked smile, Who lived in a shoe, For a... while...'"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "...So I think Alan will become the yardstick against which all future boyfriends will be measured."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "What future boyfriends? Nono, I th- I think this could be, y'know, it."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Really!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Oh, yeah. I'd marry him just for his David Hasselhof impression alone. You know I'm gonna be doing that at parties, right? (Does the impression)"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "You know what I like most about him, though?"
+        },
+        {
+          "speaker": "ALL",
+          "text": "What?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "The way he makes me feel about myself."
+        },
+        {
+          "speaker": "ALL",
+          "text": "Yeah..."
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "ALAN",
+        "PHOEBE",
+        "ROSS",
+        "JOEY",
+        "RACHEL",
+        "CHANDLER",
+        "MONICA"
+      ],
+      "clip_start": "00:07:37",
+      "clip_end": "00:11:04",
+      "srt_start": "00:07:19,229",
+      "srt_end": "00:10:13,826",
+      "context_label": "0103_scene_004_Monica and Rachel's",
+      "event_description": "[Scene: Monica and Rachel's, Chandler is smoking out on the balcony, Phoebe is absent.]",
+      "events": [
+        {
+          "event_description": "Monica asks all characters to promise they will be good during the visit.",
+          "involved_subjects": [
+            "MONICA",
+            "ROSS",
+            "JOEY",
+            "RACHEL",
+            "CHANDLER"
+          ],
+          "start_offset": "00:07:37",
+          "end_offset": "00:07:44"
+        },
+        {
+          "event_description": "Joey tells Ross to let go of his concerns about Chi Chi.",
+          "involved_subjects": [
+            "JOEY",
+            "ROSS"
+          ],
+          "start_offset": "00:07:44",
+          "end_offset": "00:07:50"
+        },
+        {
+          "event_description": "Phoebe receives a credit of five hundred dollars from her bank after calling attention to an error.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:07:50",
+          "end_offset": "00:07:55"
+        },
+        {
+          "event_description": "Alan arrives at Monica and Rachel's apartment and is announced over the intercom.",
+          "involved_subjects": [
+            "ALAN",
+            "MONICA"
+          ],
+          "start_offset": "00:07:55",
+          "end_offset": "00:08:05"
+        },
+        {
+          "event_description": "Monica introduces Alan to all characters present.",
+          "involved_subjects": [
+            "MONICA",
+            "ALL"
+          ],
+          "start_offset": "00:08:05",
+          "end_offset": "00:08:10"
+        },
+        {
+          "event_description": "Ross expresses that he loved Alan, despite his previous criticisms.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:08:10",
+          "end_offset": "00:08:15"
+        },
+        {
+          "event_description": "The group agrees that Alan is a great person and liked by all.",
+          "involved_subjects": [
+            "ALL"
+          ],
+          "start_offset": "00:08:15",
+          "end_offset": "00:08:20"
+        },
+        {
+          "event_description": "Monica reveals she is dating Alan and questions if she is surprised about it.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:08:20",
+          "end_offset": "00:08:25"
+        },
+        {
+          "event_description": "Chandler jokes about marrying Alan for his David Hasselhof impression and performs the impression.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:08:25",
+          "end_offset": "00:08:35"
+        },
+        {
+          "event_description": "Ross states that he appreciates Alan for how he makes him feel about himself.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:08:35",
+          "end_offset": "00:08:40"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Central Perk, Monica is alone as Ross, Rachel, Chandler, and Joey enter\ndejectedly in softball gear.]",
+      "dialogue": [
+        {
+          "speaker": "MONICA",
+          "text": "Hi.. how was the game?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Well.."
+        },
+        {
+          "speaker": "ALL",
+          "text": "WE WON!! Thank you! Yes!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Fantastic!"
+        },
+        {
+          "speaker": "I HAVE ONE QUESTION",
+          "text": "How is that possible?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Alan."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "He was unbelievable. He was like that-that-that Bugs Bunny cartoon where Bugs is playing all the positions, right, but instead of Bugs it was first base-Alan, second base-Alan, third base-..."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "I mean, it-it was like, it was like he made us into a team."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Yep, we sure showed those Hassidic jewellers a thing or two about softball.."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Can I ask you guys a question? D'you ever think that Alan is maybe.. sometimes.."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "What?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "..I dunno, a little too Alan?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Well, no. That's impossible. You can never be too Alan."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Yeah, it's his, uh, innate Alan-ness that-that-that we adore."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "I personally could have a gallon of Alan."
+        }
+      ],
+      "location": "Central Perk",
+      "subjects": [
+        "I HAVE ONE QUESTION",
+        "ROSS",
+        "JOEY",
+        "RACHEL",
+        "CHANDLER",
+        "MONICA"
+      ],
+      "clip_start": "00:11:46",
+      "clip_end": "00:12:15",
+      "srt_start": "00:10:34,949 ",
+      "srt_end": "00:11:26,825",
+      "context_label": "0103_scene_005_Central Perk",
+      "event_description": "[Scene: Central Perk, Monica is alone as Ross, Rachel, Chandler, and Joey enter\ndejectedly in softball gear.]",
+      "events": [
+        {
+          "event_description": "Ross, Rachel, Chandler, and Joey enter Central Perk wearing softball gear and appear dejected.",
+          "involved_subjects": [
+            "Ross",
+            "Rachel",
+            "Chandler",
+            "Joey"
+          ],
+          "start_offset": "00:11:46",
+          "end_offset": "00:11:50"
+        },
+        {
+          "event_description": "Ross exclaims that they won the game and thanks someone.",
+          "involved_subjects": [
+            "Ross",
+            "Rachel",
+            "Chandler",
+            "Joey"
+          ],
+          "start_offset": "00:11:50",
+          "end_offset": "00:11:55"
+        },
+        {
+          "event_description": "Monica asks the group how the game was.",
+          "involved_subjects": [
+            "Monica",
+            "Ross",
+            "Rachel",
+            "Chandler",
+            "Joey"
+          ],
+          "start_offset": "00:11:55",
+          "end_offset": "00:11:57"
+        },
+        {
+          "event_description": "Ross describes Alan's performance in the game, comparing him to a Bugs Bunny cartoon and explaining he played all positions.",
+          "involved_subjects": [
+            "Ross"
+          ],
+          "start_offset": "00:11:57",
+          "end_offset": "00:12:05"
+        },
+        {
+          "event_description": "Rachel comments that Alan made the team feel unified.",
+          "involved_subjects": [
+            "Rachel"
+          ],
+          "start_offset": "00:12:05",
+          "end_offset": "00:12:08"
+        },
+        {
+          "event_description": "Chandler makes a humorous remark about showing the Hassidic jewelers a thing or two about softball.",
+          "involved_subjects": [
+            "Chandler"
+          ],
+          "start_offset": "00:12:08",
+          "end_offset": "00:12:11"
+        },
+        {
+          "event_description": "Monica questions whether Alan is sometimes 'too Alan'.",
+          "involved_subjects": [
+            "Monica"
+          ],
+          "start_offset": "00:12:11",
+          "end_offset": "00:12:13"
+        },
+        {
+          "event_description": "Rachel responds that it's impossible to be 'too Alan', implying admiration for Alan's qualities.",
+          "involved_subjects": [
+            "Rachel"
+          ],
+          "start_offset": "00:12:13",
+          "end_offset": "00:12:15"
+        },
+        {
+          "event_description": "Ross agrees that Alan's innate qualities are what they adore.",
+          "involved_subjects": [
+            "Ross"
+          ],
+          "start_offset": "00:12:15",
+          "end_offset": "00:12:15"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: A street, Phoebe walks up to a homeless person (Lizzie) she knows.]",
+      "dialogue": [
+        {
+          "speaker": "PHOEBE",
+          "text": "Hey, Lizzie."
+        },
+        {
+          "speaker": "LIZZIE",
+          "text": "Hey, Weird Girl."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "I brought you alphabet soup."
+        },
+        {
+          "speaker": "LIZZIE",
+          "text": "Did you pick out the vowels?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Yes. But I left in the Ys. 'Cause, y'know, \"sometimes y\". Uh, I also have something else for you. (She searches in her purse.)"
+        },
+        {
+          "speaker": "LIZZIE",
+          "text": "Saltines?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "No, but would you like a thousand dollars and a football phone?"
+        },
+        {
+          "speaker": "LIZZIE",
+          "text": "What? (She opens the envelope Phoebe has given her.) Oh my God, there's really money in here."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "I know."
+        },
+        {
+          "speaker": "LIZZIE",
+          "text": "Weird Girl, what are you doing?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "No, I want you to have it. I don't want it."
+        },
+        {
+          "speaker": "LIZZIE",
+          "text": "No, no, I ha-I have to give you something."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, that's fine, no."
+        },
+        {
+          "speaker": "LIZZIE",
+          "text": "Would you like my tin-foil hat?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "No. 'Cause you need that. No, it's okay, thanks."
+        },
+        {
+          "speaker": "LIZZIE",
+          "text": "Please, let me do something."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Okay, alright, you buy me a soda, and then we're even. Okay?"
+        },
+        {
+          "speaker": "LIZZIE",
+          "text": "Okay."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Okay."
+        }
+      ],
+      "location": "A street",
+      "subjects": [
+        "LIZZIE",
+        "PHOEBE"
+      ],
+      "clip_start": "00:12:17",
+      "clip_end": "00:13:08",
+      "srt_start": "00:11:32,589",
+      "srt_end": "00:12:14,942",
+      "context_label": "0103_scene_006_A street",
+      "event_description": "[Scene: A street, Phoebe walks up to a homeless person (Lizzie) she knows.]",
+      "events": [
+        {
+          "event_description": "Phoebe approaches Lizzie on the street and greets her.",
+          "involved_subjects": [
+            "PHOEBE",
+            "LIZZIE"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "Phoebe gives Lizzie a container of alphabet soup.",
+          "involved_subjects": [
+            "PHOEBE",
+            "LIZZIE"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Lizzie asks if Phoebe picked out the vowels from the soup.",
+          "involved_subjects": [
+            "LIZZIE",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Phoebe confirms she left in the Ys and searches her purse for something else.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Phoebe hands Lizzie an envelope containing money and a football phone.",
+          "involved_subjects": [
+            "PHOEBE",
+            "LIZZIE"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Lizzie opens the envelope and realizes it contains money.",
+          "involved_subjects": [
+            "LIZZIE"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Lizzie questions Phoebe about her intentions with the money.",
+          "involved_subjects": [
+            "LIZZIE",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Lizzie offers Phoebe her tin-foil hat as a gift.",
+          "involved_subjects": [
+            "LIZZIE",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:40"
+        },
+        {
+          "event_description": "Phoebe declines Lizzie's offer and explains she needs the hat.",
+          "involved_subjects": [
+            "PHOEBE",
+            "LIZZIE"
+          ],
+          "start_offset": "00:00:40",
+          "end_offset": "00:00:45"
+        },
+        {
+          "event_description": "Lizzie insists on doing something for Phoebe and offers to buy her a soda.",
+          "involved_subjects": [
+            "LIZZIE",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:45",
+          "end_offset": "00:00:50"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: A Street, Phoebe and Lizzie are at a hot dog vendor.]",
+      "dialogue": [
+        {
+          "speaker": "LIZZIE",
+          "text": "Keep the change. (To Phoebe) Sure you don't wanna pretzel?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "No, I'm fine."
+        },
+        {
+          "speaker": "LIZZIE",
+          "text": "(leaves) See ya."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Huh!"
+        }
+      ],
+      "location": "A Street",
+      "subjects": [
+        "LIZZIE",
+        "PHOEBE"
+      ],
+      "clip_start": "00:14:08",
+      "clip_end": "00:14:25",
+      "srt_start": "00:13:16,589",
+      "srt_end": "00:13:24,221",
+      "context_label": "0103_scene_007_A Street",
+      "event_description": "[Scene: A Street, Phoebe and Lizzie are at a hot dog vendor.]",
+      "events": [
+        {
+          "event_description": "Lizzie hands money to the hot dog vendor and receives a hot dog in exchange.",
+          "involved_subjects": [
+            "LIZZIE"
+          ],
+          "start_offset": "00:14:08",
+          "end_offset": "00:14:10"
+        },
+        {
+          "event_description": "Lizzie offers Phoebe a pretzel and asks if she wants one.",
+          "involved_subjects": [
+            "LIZZIE",
+            "PHOEBE"
+          ],
+          "start_offset": "00:14:10",
+          "end_offset": "00:14:12"
+        },
+        {
+          "event_description": "Phoebe declines the pretzel and responds that she is fine.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:14:12",
+          "end_offset": "00:14:14"
+        },
+        {
+          "event_description": "Lizzie leaves the scene after saying goodbye to Phoebe.",
+          "involved_subjects": [
+            "LIZZIE"
+          ],
+          "start_offset": "00:14:14",
+          "end_offset": "00:14:16"
+        },
+        {
+          "event_description": "Phoebe reacts with a ",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:14:16",
+          "end_offset": "00:14:18"
+        },
+        {
+          "event_description": "Lizzie walks away from Phoebe and the hot dog vendor.",
+          "involved_subjects": [
+            "LIZZIE"
+          ],
+          "start_offset": "00:14:18",
+          "end_offset": "00:14:20"
+        },
+        {
+          "event_description": "Phoebe remains standing at the scene after Lizzie leaves.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:14:20",
+          "end_offset": "00:14:22"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Central Perk, Phoebe is telling everyone about her discovery.]",
+      "dialogue": [
+        {
+          "speaker": "ROSS",
+          "text": "A thumb ?!"
+        },
+        {
+          "speaker": "ALL",
+          "text": "Eww!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "I know! I know, I opened it up and there it was, just floating in there, like this tiny little hitch-hiker!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Well, maybe it's a contest, y'know? Like, collect all five?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Does, um, anyone wanna see?"
+        },
+        {
+          "speaker": "ALL",
+          "text": "Nooo!"
+        },
+        {
+          "speaker": "ALL",
+          "text": "Oh, hey, don't do that! Cut it out!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "It's worse than the thumb!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Hey, this is so unfair!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Oh, why is it unfair?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "So I have a flaw! Big deal! Like Joey's constant knuckle-cracking isn't annoying? And Ross, with his over-pronouncing every single word? And Monica, with that snort when she laughs? I mean, what the hell is that thing? ...I accept all those flaws, why can't you accept me for this?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "...Does the knuckle-cracking bother everybody?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Well, I-I could live without it."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Well, is it, like, a little annoying, or is it like when Phoebe chews her hair?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Oh, now, don't listen to him, Pheebs, I think it's endearing."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Oh, (Imitating Ross) \"you do, do you\"?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "You know, there's nothing wrong with speaking correctly."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "\"Indeed there isn't\"... I should really get back to work."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Yeah, 'cause otherwise someone might get what they actually ordered."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Ohh-ho-hooohhh. The hair comes out, and the gloves come on."
+        }
+      ],
+      "location": "Central Perk",
+      "subjects": [
+        "PHOEBE",
+        "ROSS",
+        "JOEY",
+        "RACHEL",
+        "CHANDLER",
+        "MONICA"
+      ],
+      "clip_start": "00:14:26",
+      "clip_end": "00:16:24",
+      "srt_start": "00:13:31,709",
+      "srt_end": "00:15:12,582",
+      "context_label": "0103_scene_008_Central Perk",
+      "event_description": "[Scene: Central Perk, Phoebe is telling everyone about her discovery.]",
+      "events": [
+        {
+          "event_description": "Phoebe announces to the group that she discovered a floating thumb in her discovery.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:14:26",
+          "end_offset": "00:14:40"
+        },
+        {
+          "event_description": "Ross reacts with surprise and exclaims, 'A thumb?!'",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:14:41",
+          "end_offset": "00:14:45"
+        },
+        {
+          "event_description": "The group collectively reacts with disgust, saying 'Eww!'",
+          "involved_subjects": [
+            "ALL"
+          ],
+          "start_offset": "00:14:46",
+          "end_offset": "00:14:50"
+        },
+        {
+          "event_description": "Phoebe describes opening the thumb and finding it floating like a tiny hitch-hiker.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:14:51",
+          "end_offset": "00:15:05"
+        },
+        {
+          "event_description": "Chandler suggests that the thumb might be part of a contest to collect all five.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:15:06",
+          "end_offset": "00:15:15"
+        },
+        {
+          "event_description": "Phoebe offers to show the thumb to the group, who collectively refuse.",
+          "involved_subjects": [
+            "PHOEBE",
+            "ALL"
+          ],
+          "start_offset": "00:15:16",
+          "end_offset": "00:15:25"
+        },
+        {
+          "event_description": "Chandler complains about the unfairness of a flaw, comparing it to other characters' annoying habits.",
+          "involved_subjects": [
+            "CHANDLER",
+            "ROSS",
+            "MONICA",
+            "JOEY",
+            "RACHEL"
+          ],
+          "start_offset": "00:15:26",
+          "end_offset": "00:15:45"
+        },
+        {
+          "event_description": "Joey asks if his knuckle-cracking bothers everyone, seeking validation.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:15:46",
+          "end_offset": "00:15:55"
+        },
+        {
+          "event_description": "Rachel comments that she could live without Joey's knuckle-cracking and mentions returning to work.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:15:56",
+          "end_offset": "00:16:05"
+        },
+        {
+          "event_description": "Rachel humorously remarks about her hair coming out and putting on gloves, implying she is about to leave or prepare for something.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:16:06",
+          "end_offset": "00:16:24"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Iridium, Monica and Paula are working.]",
+      "dialogue": [
+        {
+          "speaker": "MONICA",
+          "text": "Did you ever go out with a guy your friends all really like?"
+        },
+        {
+          "speaker": "PAULA",
+          "text": "No."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Okay.. Well, I'm going out with a guy my friends all really like."
+        },
+        {
+          "speaker": "PAULA",
+          "text": "Waitwait.. we talking about the coyotes here? All right, a cow got through!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Can you believe it? ...Y'know what? I just don't feel the thing . I mean, they feel the thing, I don't feel the thing."
+        },
+        {
+          "speaker": "PAULA",
+          "text": "Honey.. you should always feel the thing . Listen, if that's how you feel about the guy, Monica, dump him!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "I know.. it's gonna be really hard."
+        },
+        {
+          "speaker": "PAULA",
+          "text": "Well, he's a big boy, he'll get over it."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "No, he'll be fine. It's the other five I'm worried about."
+        }
+      ],
+      "location": "Iridium",
+      "subjects": [
+        "PAULA",
+        "MONICA"
+      ],
+      "clip_start": "00:16:25",
+      "clip_end": "00:17:17",
+      "srt_start": "00:15:27,429",
+      "srt_end": "00:16:13,221",
+      "context_label": "0103_scene_009_Iridium",
+      "event_description": "[Scene: Iridium, Monica and Paula are working.]",
+      "events": [
+        {
+          "event_description": "Monica asks Paula if she has ever dated a guy her friends all like.",
+          "involved_subjects": [
+            "MONICA",
+            "PAULA"
+          ],
+          "start_offset": "00:16:25",
+          "end_offset": "00:16:30"
+        },
+        {
+          "event_description": "Paula responds that she has not gone out with such a guy.",
+          "involved_subjects": [
+            "PAULA"
+          ],
+          "start_offset": "00:16:30",
+          "end_offset": "00:16:32"
+        },
+        {
+          "event_description": "Monica reveals she is going out with a guy her friends all like.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:16:32",
+          "end_offset": "00:16:35"
+        },
+        {
+          "event_description": "Paula questions if they are talking about the coyotes, and mentions a cow getting through.",
+          "involved_subjects": [
+            "PAULA",
+            "MONICA"
+          ],
+          "start_offset": "00:16:35",
+          "end_offset": "00:16:40"
+        },
+        {
+          "event_description": "Monica expresses disbelief and states she doesn't feel the connection with the guy.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:16:40",
+          "end_offset": "00:16:45"
+        },
+        {
+          "event_description": "Paula advises Monica to always feel the connection and suggests she should dump the guy if she doesn't feel it.",
+          "involved_subjects": [
+            "PAULA",
+            "MONICA"
+          ],
+          "start_offset": "00:16:45",
+          "end_offset": "00:16:55"
+        },
+        {
+          "event_description": "Monica admits that it will be really hard to end the relationship.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:16:55",
+          "end_offset": "00:16:58"
+        },
+        {
+          "event_description": "Paula reassures Monica that the guy will get over it.",
+          "involved_subjects": [
+            "PAULA",
+            "MONICA"
+          ],
+          "start_offset": "00:16:58",
+          "end_offset": "00:17:02"
+        },
+        {
+          "event_description": "Monica expresses concern about the other five people involved.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:17:02",
+          "end_offset": "00:17:07"
+        },
+        {
+          "event_description": "Paula encourages Monica to follow her feelings and suggests ending the relationship.",
+          "involved_subjects": [
+            "PAULA",
+            "MONICA"
+          ],
+          "start_offset": "00:17:07",
+          "end_offset": "00:17:17"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Cental Perk, Joey and Ross are persecuting Chandler about his smoking.]",
+      "dialogue": [
+        {
+          "speaker": "JOEY",
+          "text": "Do you have any respect for your body?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Don't you realise what you're-you're doing to yourself?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Hey, y'know, I have had it with you guys and your cancer and your emphysema and your heart disease. The bottom line is, smoking is cool, and you know it."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(holding the phone out to Chandler) Chandler? It's Alan, he wants to speak to you."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Really? He does? (taking the phone) Hey, buddy, what's up! Oh, she told you about that, huh. Well, yeah, I have one now and then. Well, yeah, now. Well, it's not that big- ..well, that's true,.. Gee, y'know, no-one- no-one's ever put it like that before. Well, okay, thanks! (He hands the phone back and stubs out his cigarette.)"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(to Ross, who has wandered up) God, he's good."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "If only he were a woman."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Yeah."
+        }
+      ],
+      "location": "Cental Perk",
+      "subjects": [
+        "RACHEL",
+        "CHANDLER",
+        "ROSS",
+        "JOEY"
+      ],
+      "clip_start": "00:17:18",
+      "clip_end": "00:18:27",
+      "srt_start": "00:16:13,989",
+      "srt_end": "00:17:14,068",
+      "context_label": "0103_scene_010_Cental Perk",
+      "event_description": "[Scene: Cental Perk, Joey and Ross are persecuting Chandler about his smoking.]",
+      "events": [
+        {
+          "event_description": "Joey questions Chandler about his respect for his body.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:17:18",
+          "end_offset": "00:17:20"
+        },
+        {
+          "event_description": "Ross confronts Chandler about the health risks of smoking.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:17:20",
+          "end_offset": "00:17:22"
+        },
+        {
+          "event_description": "Chandler dismisses concerns, claims smoking is cool, and mentions health issues humorously.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:17:22",
+          "end_offset": "00:17:27"
+        },
+        {
+          "event_description": "Rachel offers Chandler the phone to speak with Alan, who wants to talk to him.",
+          "involved_subjects": [
+            "RACHEL",
+            "CHANDLER"
+          ],
+          "start_offset": "00:17:27",
+          "end_offset": "00:17:29"
+        },
+        {
+          "event_description": "Chandler takes the phone and has a conversation with Alan about his smoking habit.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:17:29",
+          "end_offset": "00:17:35"
+        },
+        {
+          "event_description": "Chandler hands the phone back to Rachel after the call.",
+          "involved_subjects": [
+            "CHANDLER",
+            "RACHEL"
+          ],
+          "start_offset": "00:17:35",
+          "end_offset": "00:17:36"
+        },
+        {
+          "event_description": "Chandler stubs out his cigarette after the phone call.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:17:36",
+          "end_offset": "00:17:37"
+        },
+        {
+          "event_description": "Rachel comments on Chandler's ability to handle the situation well.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:17:37",
+          "end_offset": "00:17:38"
+        },
+        {
+          "event_description": "Ross comments on Chandler's skills, wishing he were a woman.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:17:38",
+          "end_offset": "00:17:39"
+        },
+        {
+          "event_description": "Rachel agrees with Ross's comment about Chandler.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:17:39",
+          "end_offset": "00:17:40"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, everyond except Monica and Joey is watching Lambchop.]",
+      "dialogue": [
+        {
+          "speaker": "CHANDLER",
+          "text": "Ooh, Lambchop. How old is that sock? If I had a sock on my hand for thirty years it'd be talking too."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Okay. I think it's time to change somebody's nicotine patch. (Does so.)"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "(entering) Hey. Where's Joey?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Joey ate my last stick of gum, so I killed him. Do you think that was wrong?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "I think he's across the hall."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Thanks. (Goes to fetch him.)"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "(finishing changing Chandler's nicotine patch) There y'go."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "(deadpan) Ooh, I'm alive with pleasure now."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Hey Pheebs, you gonna have the rest of that Pop-Tart?.. Pheebs?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Does anyone want the rest of this Pop-Tart?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Hey, I might!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Sorry. ..Y'know, those stupid soda people gave me seven thousand dollars for the thumb."
+        },
+        {
+          "speaker": "ALL",
+          "text": "You're kidding. Oh my God."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "And on my way over here, I stepped in gum. ...What is up with the universe?!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "(dragged in by Monica, he has just gotten out of the shower) What's going on?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Nothing. I just think it's nice when we're all here together."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Even nicer when everyone gets to wear their underwear.."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Uh, Joey.."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Oh, God! (Hurriedly closes his legs.)"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "(turns off the TV) Okay.."
+        },
+        {
+          "speaker": "ALL",
+          "text": "Oh! That was Lambchop!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Please, guys, we have to talk."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Wait, wait, I'm getting a deja vu ...no, I'm not."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Alright, we have to talk."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "There it is!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Okay. It's-it's about Alan. There's something that you should know. I mean, there's really no easy way to say this.. uh.. I've decided to break up with Alan."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Is there somebody else?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "No, nononono.. it's just.. things change. People change."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "We didn't change.."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "So that's it? It's over? Just like that?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "You know.. you let your guard down, you start to really care about someone, and I just- I- (starts chewing her hair)"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Look, I- I could go on pretending-"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Okay!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "-but that wouldn't be fair to me, it wouldn't be fair to Alan- It wouldn't be fair to you!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Who-who wants fair? Y'know, I just want things back. Y'know, the way they were."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "I'm sorry.."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "(sarcastic) Oh, she's sorry! I feel better!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(tearful) I just can't believe this! I mean, with the holidays coming up- I wanted him to meet my family-"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "I'll meet somone else. There'll be other Alans."
+        },
+        {
+          "speaker": "ALL",
+          "text": "Oh, yeah! Right!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Are you guys gonna be okay?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Hey hey, we'll be fine. We're just gonna need a little time."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "(dubious) I understand."
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "PHOEBE",
+        "ROSS",
+        "JOEY",
+        "RACHEL",
+        "CHANDLER",
+        "MONICA"
+      ],
+      "clip_start": "00:18:28",
+      "clip_end": "00:21:50",
+      "srt_start": "00:17:21,109",
+      "srt_end": "00:20:24,027",
+      "context_label": "0103_scene_011_Monica and Rachel's",
+      "event_description": "[Scene: Monica and Rachel's, everyond except Monica and Joey is watching Lambchop.]",
+      "events": [
+        {
+          "event_description": "Chandler comments on Lambchop's age and jokes about having a sock on his hand for thirty years.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:18:28",
+          "end_offset": "00:18:35"
+        },
+        {
+          "event_description": "Ross indicates it's time to change someone's nicotine patch and does so.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:18:36",
+          "end_offset": "00:18:40"
+        },
+        {
+          "event_description": "Monica enters and asks about Joey's whereabouts.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:18:41",
+          "end_offset": "00:18:45"
+        },
+        {
+          "event_description": "Chandler sarcastically questions whether killing Joey for eating his gum was wrong.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:18:46",
+          "end_offset": "00:18:50"
+        },
+        {
+          "event_description": "Rachel informs Monica that Joey is across the hall.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:18:51",
+          "end_offset": "00:18:55"
+        },
+        {
+          "event_description": "Monica goes to fetch Joey.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:18:56",
+          "end_offset": "00:18:58"
+        },
+        {
+          "event_description": "Phoebe offers the rest of her Pop-Tart to others.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:19:02",
+          "end_offset": "00:19:05"
+        },
+        {
+          "event_description": "Phoebe shares that she received seven thousand dollars for her thumb from soda people and laments about stepping in gum.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:19:06",
+          "end_offset": "00:19:15"
+        },
+        {
+          "event_description": "Monica announces she needs to talk about Alan and reveals she has decided to break up with him.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:19:16",
+          "end_offset": "00:19:22"
+        },
+        {
+          "event_description": "Monica explains to the group that she is ending her relationship with Alan because things and people change.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:19:23",
+          "end_offset": "00:19:30"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: A Restaurant, Monica is breaking the news to Alan.]",
+      "dialogue": [
+        {
+          "speaker": "ALAN",
+          "text": "Wow."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "I'm, I'm really sorry."
+        },
+        {
+          "speaker": "ALAN",
+          "text": "Yeah, I'm sorry too. But, I gotta tell you, I am a little relieved."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Relieved?"
+        },
+        {
+          "speaker": "ALAN",
+          "text": "Yeah, well, I had a great time with you.. I just can't stand your friends."
+        }
+      ],
+      "location": "A Restaurant",
+      "subjects": [
+        "MONICA",
+        "ALAN"
+      ],
+      "clip_start": "00:21:51",
+      "clip_end": "00:22:12",
+      "srt_start": "00:20:30,429",
+      "srt_end": "00:20:44,418",
+      "context_label": "0103_scene_012_A Restaurant",
+      "event_description": "[Scene: A Restaurant, Monica is breaking the news to Alan.]",
+      "events": [
+        {
+          "event_description": "Monica begins to break the news to Alan about their relationship or situation.",
+          "involved_subjects": [
+            "MONICA",
+            "ALAN"
+          ],
+          "start_offset": "00:21:51",
+          "end_offset": "00:22:00"
+        },
+        {
+          "event_description": "Alan reacts with surprise or curiosity upon hearing Monica's news.",
+          "involved_subjects": [
+            "ALAN"
+          ],
+          "start_offset": "00:22:00",
+          "end_offset": "00:22:03"
+        },
+        {
+          "event_description": "Monica apologizes to Alan for the situation.",
+          "involved_subjects": [
+            "MONICA",
+            "ALAN"
+          ],
+          "start_offset": "00:22:03",
+          "end_offset": "00:22:07"
+        },
+        {
+          "event_description": "Alan responds by expressing mutual apology and admits feeling relieved.",
+          "involved_subjects": [
+            "ALAN"
+          ],
+          "start_offset": "00:22:07",
+          "end_offset": "00:22:10"
+        },
+        {
+          "event_description": "Alan explains that he had a good time with Monica but dislikes her friends.",
+          "involved_subjects": [
+            "ALAN",
+            "MONICA"
+          ],
+          "start_offset": "00:22:10",
+          "end_offset": "00:22:12"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, everyone is mopping around and eating ice cream.]",
+      "dialogue": [
+        {
+          "speaker": "RACHEL",
+          "text": "Remember when we went to Central Park and rented boats?.. That was fun."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Yeah. He could row like a viking."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "(entering) Hi."
+        },
+        {
+          "speaker": "ALL",
+          "text": "Mmm."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "So how'd it go?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Oh, y'know.."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Did he mention us?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "He said he's really gonna miss you guys. (dubious look)"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "You had a rough day, huh.. c'mere. (She sits down and Ross strokes her forehead.)"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "...That's it. I'm getting cigarettes."
+        },
+        {
+          "speaker": "ALL",
+          "text": "No no no!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "(leaving) I don't care, I don't care! Game's over! I'm weak! I've gotta smoke! I've gotta have the smoke!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "(shouting as he leaves) If you never smoke again I'll give you seven thousand dollars!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "(returns) Yeah, alright."
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "PHOEBE",
+        "ROSS",
+        "RACHEL",
+        "CHANDLER",
+        "MONICA"
+      ],
+      "clip_start": "00:22:13",
+      "clip_end": "00:23:16",
+      "srt_start": "00:20:51,109",
+      "srt_end": "00:21:49,622",
+      "context_label": "0103_scene_013_Monica and Rachel's",
+      "event_description": "[Scene: Monica and Rachel's, everyone is mopping around and eating ice cream.]",
+      "events": [
+        {
+          "event_description": "Rachel reminisces about renting boats in Central Park and describes it as fun.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:22:13",
+          "end_offset": "00:22:15"
+        },
+        {
+          "event_description": "Ross comments that the person could row like a viking.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:22:15",
+          "end_offset": "00:22:17"
+        },
+        {
+          "event_description": "Monica enters the scene and greets everyone.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:22:17",
+          "end_offset": "00:22:18"
+        },
+        {
+          "event_description": "Ross asks Monica how her day went.",
+          "involved_subjects": [
+            "ROSS",
+            "MONICA"
+          ],
+          "start_offset": "00:22:18",
+          "end_offset": "00:22:19"
+        },
+        {
+          "event_description": "Monica responds that her day was okay.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:22:19",
+          "end_offset": "00:22:20"
+        },
+        {
+          "event_description": "Phoebe asks if Monica's date mentioned them.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:22:20",
+          "end_offset": "00:22:21"
+        },
+        {
+          "event_description": "Monica says her date said he would miss the group.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:22:21",
+          "end_offset": "00:22:22"
+        },
+        {
+          "event_description": "Ross comforts Monica by sitting beside her and stroking her forehead.",
+          "involved_subjects": [
+            "ROSS",
+            "MONICA"
+          ],
+          "start_offset": "00:22:22",
+          "end_offset": "00:22:24"
+        },
+        {
+          "event_description": "Chandler announces he is going to get cigarettes and leaves the scene.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:22:24",
+          "end_offset": "00:22:26"
+        },
+        {
+          "event_description": "Phoebe offers Chandler seven thousand dollars if he never smokes again, prompting his return.",
+          "involved_subjects": [
+            "PHOEBE",
+            "CHANDLER"
+          ],
+          "start_offset": "00:22:26",
+          "end_offset": "00:22:28"
+        }
+      ]
+    }
+  ]
+}

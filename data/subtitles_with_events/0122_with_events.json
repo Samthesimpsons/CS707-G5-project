@@ -1,0 +1,2416 @@
+{
+  "episode": "0122",
+  "title": "The One With The Ick Factor",
+  "scenes": [
+    {
+      "scene_description": "Scene: Central Perk. Everyone is there.",
+      "dialogue": [
+        {
+          "speaker": "MONICA",
+          "text": "Tell him."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "No."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Tell him, tell him."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Just...please tell him."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Shut up!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Tell me what?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Look at you, you won't even look at him."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "(sarcastically) Oh, come on tell me. I could use another reason why women won't look at me."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "All right, all right, all right. Last night, I had a dream that, uh, you and I, were..."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Doing it on this table. (points at the table)"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Wow!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Exellent dream score."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Why, why, why would you dream that?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "More importantly, was I any good?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Well, you were pretty damn good."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Interesting, cause in my dreams, I'm allways surprisingly inadequate. (Monica pats him on his lap)"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Well, last night you seemed to know your way around the table."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "I love it, when we share."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "You're okay there?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "I can't belive you two had sex in her dream."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "I'm sorry, it was a one-time-thing. I was very drunk and i was somebody else's subconscious."
+        }
+      ],
+      "location": "Central Perk",
+      "subjects": [
+        "PHOEBE",
+        "ROSS",
+        "JOEY",
+        "RACHEL",
+        "CHANDLER",
+        "MONICA"
+      ],
+      "clip_start": "00:00:02",
+      "clip_end": "00:01:10",
+      "srt_start": "",
+      "srt_end": "",
+      "context_label": "0122_scene_000_Central Perk",
+      "event_description": "Scene: Central Perk. Everyone is there.",
+      "events": [
+        {
+          "event_description": "Rachel refuses to tell Monica what she dreamed about last night.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Phoebe encourages Rachel to tell Monica her dream.",
+          "involved_subjects": [
+            "PHOEBE",
+            "RACHEL"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Rachel admits to having a dream involving Chandler and herself.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Rachel describes her dream of having sex with Chandler on the table.",
+          "involved_subjects": [
+            "RACHEL",
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Chandler reacts with surprise and asks if he was good in the dream.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Rachel responds that Chandler was pretty good in her dream.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:40"
+        },
+        {
+          "event_description": "Chandler comments that in his dreams he is usually inadequate, implying self-doubt.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:40",
+          "end_offset": "00:00:45"
+        },
+        {
+          "event_description": "Monica pats Chandler on his lap, possibly in response to the conversation.",
+          "involved_subjects": [
+            "MONICA",
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:45",
+          "end_offset": "00:00:50"
+        },
+        {
+          "event_description": "Rachel comments that Chandler seemed to know his way around the table in her dream.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:50",
+          "end_offset": "00:00:55"
+        },
+        {
+          "event_description": "Ross expresses his disbelief that Rachel and Chandler had sex in her dream.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:55",
+          "end_offset": "00:01:00"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Central Perk, continued from earlier, Chandler is sitting on the table.]",
+      "dialogue": [
+        {
+          "speaker": "CHANDLER",
+          "text": "Hello Rachel."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Get off."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "(points at Joey's pen) Uh, uh, gimme. Can you see me operating a drill press?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "I don't know. What are you wearing?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Pheebs, why would you want to operate a drill press?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Just for some short-term-work. You know, until I get back some of my massage clients."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Pirates again?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "No, nothing like that. I was just...such a dummie. I taught this \"massage-yourself-at-home-workshop.\" And they are."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Hey, hey, Chan. She could work for you."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "(sarcasticly) Thanks Joey, that's a good idea."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "What... I could, I could do it. What is it?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Well, my secretary is gonna be out for a couple of weeks. She is having one of her boobs redused. (Ross looks at her.) It's a whole big boob story."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "I could be a secretary."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Well, you know Phoebs. I don't know if it's your kinda thing, because it involves a lot of being normal. For a large portion of the day."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "I could do that."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "What are you playing with?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Oh, it's my new beeper."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "What the hell does a paleontologist need a beeper for?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Is it like for dinosaur emergencies. 'Help, come quick, they're still extinct.'"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "No, it's for when Carol goes into labor. She can get me wherever I am. I mean, all she has to do is to dial 55-JIMBO."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "A cool phone number, and a possible name for the kid."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "All right, I'll see you guys later. (raises)"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Off to see young Ethan?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Thank you."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "How young is young Ethan? Young?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "He's... our age."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "When we were?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Okay, he's a senior in college."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "College?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Whoa! And this manchild has no problem with how old you are?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "No, of course not. It's not even an issue. Cause I told him I was 22."
+        },
+        {
+          "speaker": "ALL",
+          "text": "What?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Oh, I can't pass for 22?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Well, maybe 25-26."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "I am 26."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "There you go."
+        }
+      ],
+      "location": "Central Perk",
+      "subjects": [
+        "PHOEBE",
+        "ROSS",
+        "JOEY",
+        "RACHEL",
+        "CHANDLER",
+        "MONICA"
+      ],
+      "clip_start": "00:01:13",
+      "clip_end": "00:03:36",
+      "srt_start": "",
+      "srt_end": "",
+      "context_label": "0122_scene_001_Central Perk",
+      "event_description": "[Scene: Central Perk, continued from earlier, Chandler is sitting on the table.]",
+      "events": [
+        {
+          "event_description": "Chandler greets Rachel and she responds dismissively.",
+          "involved_subjects": [
+            "CHANDLER",
+            "RACHEL"
+          ],
+          "start_offset": "00:01:13",
+          "end_offset": "00:01:15"
+        },
+        {
+          "event_description": "Phoebe points at Joey's pen and asks if she looks like she's operating a drill press.",
+          "involved_subjects": [
+            "PHOEBE",
+            "JOEY"
+          ],
+          "start_offset": "00:01:16",
+          "end_offset": "00:01:20"
+        },
+        {
+          "event_description": "Ross questions Phoebe about her interest in operating a drill press.",
+          "involved_subjects": [
+            "ROSS",
+            "PHOEBE"
+          ],
+          "start_offset": "00:01:21",
+          "end_offset": "00:01:24"
+        },
+        {
+          "event_description": "Phoebe explains she wants to operate a drill press for short-term work to regain massage clients.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:01:25",
+          "end_offset": "00:01:30"
+        },
+        {
+          "event_description": "Chandler sarcastically suggests Phoebe could work for him, referencing her massage workshop.",
+          "involved_subjects": [
+            "CHANDLER",
+            "PHOEBE"
+          ],
+          "start_offset": "00:01:31",
+          "end_offset": "00:01:34"
+        },
+        {
+          "event_description": "Chandler mentions his secretary will be out for a couple of weeks due to breast reduction surgery.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:01:35",
+          "end_offset": "00:01:38"
+        },
+        {
+          "event_description": "Chandler humorously refers to the breast reduction as a 'big boob story'.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:01:39",
+          "end_offset": "00:01:41"
+        },
+        {
+          "event_description": "Phoebe volunteers to be Chandler's secretary.",
+          "involved_subjects": [
+            "PHOEBE",
+            "CHANDLER"
+          ],
+          "start_offset": "00:01:42",
+          "end_offset": "00:01:45"
+        },
+        {
+          "event_description": "Ross explains that his new beeper is for Carol to contact him when she goes into labor.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:01:46",
+          "end_offset": "00:01:50"
+        },
+        {
+          "event_description": "Ross reveals the phone number for his beeper is 55-JIMBO, and Chandler comments on it being a cool number and a possible name for the baby.",
+          "involved_subjects": [
+            "ROSS",
+            "CHANDLER"
+          ],
+          "start_offset": "00:01:51",
+          "end_offset": "00:01:55"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Chandler's office, he and Phoebe are there when the phone starts ringing.]",
+      "dialogue": [
+        {
+          "speaker": "CHANDLER",
+          "text": "Can you hear that?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "(plays with a thumbtack remover) Yeah?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "See that'll stop when you pick up the phone."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh. Uh, I'm on. (picks up the phone)"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "(with a deep voice) Mr. Bing's office. (Listens) No I'm sorry, he's in a meeting right now."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "I'm not in a meeting. I'm right... Whoops."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Will he know what this is in reference to? (Listens) And he has your number? (Listens) All right, I'll see that he gets the message. Bye bye."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "What?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Ross says hi."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Ah!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "This is so fun. All right, what do we do now?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Well, now, I actually have to get to work."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Most likely. (raises and goes toward the door) Okay, I'm gonna be out there."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Okay."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "All right. Bye bye."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Bye bye."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "(answering it) Yes?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Whatcha doin'?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Ooh. (leans against the desk)"
+        }
+      ],
+      "location": "Chandler's office",
+      "subjects": [
+        "CHANDLER",
+        "PHOEBE"
+      ],
+      "clip_start": "00:03:41",
+      "clip_end": "00:04:53",
+      "srt_start": "",
+      "srt_end": "",
+      "context_label": "0122_scene_002_Chandler's office",
+      "event_description": "[Scene: Chandler's office, he and Phoebe are there when the phone starts ringing.]",
+      "events": [
+        {
+          "event_description": "Chandler notices the phone ringing in his office.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:03:41",
+          "end_offset": "00:03:41"
+        },
+        {
+          "event_description": "Phoebe plays with a thumbtack remover while in the office.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:03:41",
+          "end_offset": "00:03:41"
+        },
+        {
+          "event_description": "Phoebe answers the phone with a deep voice, claiming to be Mr. Bing's office.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:03:41",
+          "end_offset": "00:03:45"
+        },
+        {
+          "event_description": "Phoebe listens to the caller and informs that Chandler is in a meeting.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:03:45",
+          "end_offset": "00:03:50"
+        },
+        {
+          "event_description": "Phoebe conveys Ross's greeting to Chandler over the phone.",
+          "involved_subjects": [
+            "PHOEBE",
+            "CHANDLER"
+          ],
+          "start_offset": "00:03:50",
+          "end_offset": "00:03:55"
+        },
+        {
+          "event_description": "Phoebe ends the call and announces she will be out of the office.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:03:55",
+          "end_offset": "00:03:58"
+        },
+        {
+          "event_description": "Phoebe leaves the office, heading towards the door.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:03:58",
+          "end_offset": "00:04:00"
+        },
+        {
+          "event_description": "Chandler responds to Phoebe's departure with a simple 'Okay'.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:04:00",
+          "end_offset": "00:04:01"
+        },
+        {
+          "event_description": "Phoebe says goodbye to Chandler before leaving.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:04:01",
+          "end_offset": "00:04:02"
+        },
+        {
+          "event_description": "Chandler answers the phone and asks 'Whatcha doin?'.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:04:53",
+          "end_offset": "00:04:53"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, Monica and Rachel are there. Monica is just finishing\ncleaning the windows.]",
+      "dialogue": [
+        {
+          "speaker": "MONICA",
+          "text": "Windows are clean, candels are lit. Uh, belt's to tight, gotta change the belt. Did I turn the fish? (goes over to the kitchen to check on the dinner) No, cause I made lasagne. (to Rachel) Am I out of control?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Just a touch. Mon, I don't understand. I mean, you've been dating this guy since like, what... his midterms? I mean, why all the sudden are you so... Oh."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "What?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Could tonight be the Night?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "I don't know. Look he's a great guy and I love being with him but... you know. Things happen, and they happen. You don't plan these things."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "So, did you shave your legs?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "A-ha!"
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "RACHEL",
+        "MONICA"
+      ],
+      "clip_start": "00:04:57",
+      "clip_end": "00:05:48",
+      "srt_start": "",
+      "srt_end": "",
+      "context_label": "0122_scene_003_Monica and Rachel's",
+      "event_description": "[Scene: Monica and Rachel's, Monica and Rachel are there. Monica is just finishing\ncleaning the windows.]",
+      "events": [
+        {
+          "event_description": "Monica finishes cleaning the windows and lights candles in the scene.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:04:57",
+          "end_offset": "00:05:00"
+        },
+        {
+          "event_description": "Monica checks on the dinner to confirm she made lasagne.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:05:00",
+          "end_offset": "00:05:05"
+        },
+        {
+          "event_description": "Monica asks Rachel if she is out of control.",
+          "involved_subjects": [
+            "MONICA",
+            "RACHEL"
+          ],
+          "start_offset": "00:05:05",
+          "end_offset": "00:05:08"
+        },
+        {
+          "event_description": "Rachel questions Monica about her recent dating behavior and suggests tonight might be significant.",
+          "involved_subjects": [
+            "RACHEL",
+            "MONICA"
+          ],
+          "start_offset": "00:05:08",
+          "end_offset": "00:05:20"
+        },
+        {
+          "event_description": "Monica expresses uncertainty about her relationship and mentions that things happen without planning.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:05:20",
+          "end_offset": "00:05:30"
+        },
+        {
+          "event_description": "Rachel asks Monica if she shaved her legs.",
+          "involved_subjects": [
+            "RACHEL",
+            "MONICA"
+          ],
+          "start_offset": "00:05:30",
+          "end_offset": "00:05:35"
+        },
+        {
+          "event_description": "Monica confirms she shaved her legs.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:05:35",
+          "end_offset": "00:05:37"
+        },
+        {
+          "event_description": "Rachel reacts with a surprised expression, saying 'A-ha!'",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:05:37",
+          "end_offset": "00:05:40"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Central Perk. Joey and Ross are there.]",
+      "dialogue": [
+        {
+          "speaker": "JOEY",
+          "text": "Would you let it go Ross. It was just a dream. It doesn't mean..."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Oh, oh. Oh, oh. Oh this is it. Oh my god it's baby time. Baby time."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "All right, relax, relax. Just relax, just relax. Be cool, be cool."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "(on phone) Yeah, hi, I was just beeped. (pause) No, André is not here. (to Joey) Third time today. (on phone) Yes, I'm sure... No, sir. I don't perform those kind of services."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Services? (Ross looks at him) Oh, services."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "(on phone) Yeah, you want 55-JUMBO. Yeah, that's right. That's right, JUMBO with a U, sir. (pause) No, belive me, you don't want me. Judging by his number, I'd be a huge disappointment. (pause) All rightie, bye bye."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Hey, hey. How was the first day?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, exellent. Everyone was so, so nice."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "See, it pays to know the man who wears my shoes. (Joey and Ross wonder what he means) Me."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "No, I didn't tell anybody that I knew you."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Why not?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, because, you know... they don't like you."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "What?!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "I thought you knew that."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Noho. Who doesn't they like me?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Everyone. Except for uh... no everyone."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "What are you talking about?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Don't feel bad. You know they used to like you a lot. But then you got promoted, and, you know, now you're like \"Mr. Boss Man\". You know, Mr. Bing. Mr. Bing, \"Boss Man Bing\"."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "I can't belive it."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Yeah, yeah. They even do you."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "They do me?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "You know like... uh okay... uh... 'Could that report be any later?'"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "I don't sound like that."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Oh, oh Chandler..."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Oh... Yeah, you do."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "'The hills were alive with the sound of music.'"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "(reaches for hi scones) My scones."
+        },
+        {
+          "speaker": "AND ROSS",
+          "text": "' My scones.'"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Okay, I don't sound like that. That is so not true."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "That is so not ... That is so not ... That... Oh, shut up!"
+        }
+      ],
+      "location": "Central Perk. Joey and Ross are there.",
+      "subjects": [
+        "AND ROSS",
+        "PHOEBE",
+        "ROSS",
+        "JOEY",
+        "CHANDLER"
+      ],
+      "clip_start": "00:05:49",
+      "clip_end": "00:08:31",
+      "srt_start": "",
+      "srt_end": "",
+      "context_label": "0122_scene_004_Central Perk. Joey and Ross are there.",
+      "event_description": "[Scene: Central Perk. Joey and Ross are there.]",
+      "events": [
+        {
+          "event_description": "Ross receives a beep on his phone and checks the caller ID.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:05:49",
+          "end_offset": "00:05:55"
+        },
+        {
+          "event_description": "Ross informs Joey that André is not available and clarifies he does not perform certain services.",
+          "involved_subjects": [
+            "ROSS",
+            "JOEY"
+          ],
+          "start_offset": "00:05:55",
+          "end_offset": "00:06:05"
+        },
+        {
+          "event_description": "Ross makes a phone call to a number, specifying the order '55-JUMBO' and joking about being a disappointment.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:06:05",
+          "end_offset": "00:06:20"
+        },
+        {
+          "event_description": "Joey asks Phoebe about her first day at her new job.",
+          "involved_subjects": [
+            "JOEY",
+            "PHOEBE"
+          ],
+          "start_offset": "00:06:20",
+          "end_offset": "00:06:25"
+        },
+        {
+          "event_description": "Phoebe describes her first day as excellent and mentions everyone was nice.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:06:25",
+          "end_offset": "00:06:30"
+        },
+        {
+          "event_description": "Chandler makes a joke implying he knows the man who wears his shoes, hinting at a connection to his workplace.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:06:30",
+          "end_offset": "00:06:35"
+        },
+        {
+          "event_description": "Phoebe reveals she hasn't told anyone that she knows Chandler to avoid negative opinions.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:06:35",
+          "end_offset": "00:06:40"
+        },
+        {
+          "event_description": "Chandler questions why Phoebe's friends dislike him, expressing disbelief.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:06:40",
+          "end_offset": "00:06:45"
+        },
+        {
+          "event_description": "Phoebe explains that Chandler's promotion has made him less liked, calling him 'Mr. Boss Man'.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:06:45",
+          "end_offset": "00:06:50"
+        },
+        {
+          "event_description": "Chandler protests that he doesn't sound like the way Phoebe describes, denying the impression.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:06:50",
+          "end_offset": "00:07:00"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, Monica and Young Ethan are sitting in the couch.]",
+      "dialogue": [
+        {
+          "speaker": "MONICA",
+          "text": "Did not."
+        },
+        {
+          "speaker": "YOUNG ETHAN",
+          "text": "I am telling you, up until I was, like nine, I thought that gunpoint was an actual place where crimes happen."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "How was that possible?"
+        },
+        {
+          "speaker": "YOUNG ETHAN",
+          "text": "Well, think about it. It's always on the news. 'A man is being held up, at gunpoint.' 'Tourists are being terrorised, at gunp"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Okay."
+        },
+        {
+          "speaker": "YOUNG ETHAN",
+          "text": "Okay."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Unless..."
+        },
+        {
+          "speaker": "YOUNG ETHAN",
+          "text": "What?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Uh, ah. Unless you wanna stay over? I mean, I'm going to, so..."
+        },
+        {
+          "speaker": "YOUNG ETHAN",
+          "text": "Yeah, I'd really like that."
+        },
+        {
+          "speaker": "YOUNG ETHAN",
+          "text": "Uuh, before we get into any staying-over-stuff, there is something you should know."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Okay, is this like 'I have an early class tomorrow' or 'I'm secretly married to a goat?'"
+        },
+        {
+          "speaker": "YOUNG ETHAN",
+          "text": "Well it's somewhere in between. You see, in a strictly technical sense, of course, I'm not uh..., well I, I mean I haven't ever uh..."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Ethan?"
+        },
+        {
+          "speaker": "YOUNG ETHAN",
+          "text": "Yeah?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Are you a virgin?"
+        },
+        {
+          "speaker": "YOUNG ETHAN",
+          "text": "Well, if that's what you kids are calling it these days then, yes I am. I uh, I've kinda been waiting for the right person."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Really?"
+        },
+        {
+          "speaker": "YOUNG ETHAN",
+          "text": "Yeah. You do know I was talking about you, right?"
+        },
+        {
+          "speaker": "YOUNG ETHAN",
+          "text": "Wow!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "You keep saying that."
+        },
+        {
+          "speaker": "YOUNG ETHAN",
+          "text": "You know, you read about it, you see it in the movies. Even when you practice it at home, man oh man, it is nothing like that."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Listen, uh, you told me something that was really difficult for you. And I, I-I figured if you could be honest, then I can to."
+        },
+        {
+          "speaker": "YOUNG ETHAN",
+          "text": "Oh god, don't tell me, I did it wrong."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "No-no. Nothing wrong about that."
+        },
+        {
+          "speaker": "YOUNG ETHAN",
+          "text": "Oh."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Um, okay, here it goes. I'm not 22. I'm, I'm 25... and thirteen months."
+        },
+        {
+          "speaker": "YOUNG ETHAN",
+          "text": "Huh!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "But I figured, you know, that shouldn't change anything. I mean, what the hell does it matter how old we are."
+        },
+        {
+          "speaker": "YOUNG ETHAN",
+          "text": "Uh, listen um, as long as we're telling stuff, uh, I have another one for you. I'm a little younger than I said."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "You're not a senior?"
+        },
+        {
+          "speaker": "YOUNG ETHAN",
+          "text": "Oh, I'm a senior... in High School."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Ok...ay."
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "YOUNG ETHAN",
+        "MONICA"
+      ],
+      "clip_start": "00:08:32",
+      "clip_end": "00:10:36",
+      "srt_start": "",
+      "srt_end": "",
+      "context_label": "0122_scene_005_Monica and Rachel's",
+      "event_description": "[Scene: Monica and Rachel's, Monica and Young Ethan are sitting in the couch.]",
+      "events": [
+        {
+          "event_description": "Young Ethan claims he thought 'gunpoint' was a place where crimes happen until he was about nine.",
+          "involved_subjects": [
+            "YOUNG ETHAN"
+          ],
+          "start_offset": "00:08:32",
+          "end_offset": "00:08:40"
+        },
+        {
+          "event_description": "Young Ethan explains that he often hears about 'gunpoint' on the news.",
+          "involved_subjects": [
+            "YOUNG ETHAN"
+          ],
+          "start_offset": "00:08:40",
+          "end_offset": "00:08:50"
+        },
+        {
+          "event_description": "Monica questions how it was possible for Young Ethan to believe that.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:08:50",
+          "end_offset": "00:08:55"
+        },
+        {
+          "event_description": "Young Ethan suggests staying over at Monica and Rachel's apartment.",
+          "involved_subjects": [
+            "YOUNG ETHAN",
+            "MONICA"
+          ],
+          "start_offset": "00:09:00",
+          "end_offset": "00:09:10"
+        },
+        {
+          "event_description": "Young Ethan confesses he hasn't had sex yet and has been waiting for the right person.",
+          "involved_subjects": [
+            "YOUNG ETHAN"
+          ],
+          "start_offset": "00:09:20",
+          "end_offset": "00:09:30"
+        },
+        {
+          "event_description": "Monica reveals she is 25 years and thirteen months old.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:09:40",
+          "end_offset": "00:09:45"
+        },
+        {
+          "event_description": "Young Ethan admits he is younger than he previously stated, being a high school senior.",
+          "involved_subjects": [
+            "YOUNG ETHAN"
+          ],
+          "start_offset": "00:09:50",
+          "end_offset": "00:09:55"
+        },
+        {
+          "event_description": "Monica reacts with surprise to Young Ethan's revelation about his age.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:09:55",
+          "end_offset": "00:10:00"
+        },
+        {
+          "event_description": "Young Ethan expresses that he has been honest about his age and feelings.",
+          "involved_subjects": [
+            "YOUNG ETHAN"
+          ],
+          "start_offset": "00:10:00",
+          "end_offset": "00:10:05"
+        },
+        {
+          "event_description": "Monica and Young Ethan share a moment of mutual honesty about their personal truths.",
+          "involved_subjects": [
+            "MONICA",
+            "YOUNG ETHAN"
+          ],
+          "start_offset": "00:10:05",
+          "end_offset": "00:10:10"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica's Bedroom, continued from earlier.]",
+      "dialogue": [
+        {
+          "speaker": "MONICA",
+          "text": "What we did was wrong. Oh god, I just had sex with somebody that wasn't alive during the Bicentennial."
+        },
+        {
+          "speaker": "YOUNG ETHAN",
+          "text": "I just had sex."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Ethan, focus. How could you not tell me?"
+        },
+        {
+          "speaker": "YOUNG ETHAN",
+          "text": "Well, you never told me how old you were."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Well, that's different. My lie didn't make one of us a felon in 48 states. What were you thinking?"
+        },
+        {
+          "speaker": "YOUNG ETHAN",
+          "text": "I wasn't thinking. I was too busy fallin'..."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Don't say it. (closes Ethan's mouth with her hand)"
+        },
+        {
+          "speaker": "YOUNG ETHAN",
+          "text": "...in love with you."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Really?"
+        },
+        {
+          "speaker": "YOUNG ETHAN",
+          "text": "(nods) Sorry."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Well,fall out of it. You know, you shouldn't even be here, it's a school night. Oh god, oh god. I'm like those women that you see with shiny guys named Chad. I'm Joan Collins."
+        },
+        {
+          "speaker": "YOUNG ETHAN",
+          "text": "Who?"
+        }
+      ],
+      "location": "Monica's Bedroom",
+      "subjects": [
+        "YOUNG ETHAN",
+        "MONICA"
+      ],
+      "clip_start": "00:10:40",
+      "clip_end": "00:13:38",
+      "srt_start": "",
+      "srt_end": "",
+      "context_label": "0122_scene_006_Monica's Bedroom",
+      "event_description": "[Scene: Monica's Bedroom, continued from earlier.]",
+      "events": [
+        {
+          "event_description": "Monica admits that what they did was wrong and comments on having sex with someone from a different era.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:10:40",
+          "end_offset": "00:10:50"
+        },
+        {
+          "event_description": "Ethan states that he just had sex.",
+          "involved_subjects": [
+            "YOUNG ETHAN"
+          ],
+          "start_offset": "00:10:50",
+          "end_offset": "00:10:55"
+        },
+        {
+          "event_description": "Monica questions Ethan about not telling her his age.",
+          "involved_subjects": [
+            "MONICA",
+            "YOUNG ETHAN"
+          ],
+          "start_offset": "00:10:55",
+          "end_offset": "00:11:05"
+        },
+        {
+          "event_description": "Ethan responds that Monica never told him her age.",
+          "involved_subjects": [
+            "YOUNG ETHAN",
+            "MONICA"
+          ],
+          "start_offset": "00:11:05",
+          "end_offset": "00:11:10"
+        },
+        {
+          "event_description": "Monica criticizes Ethan's decision, comparing it to legal issues in multiple states.",
+          "involved_subjects": [
+            "MONICA",
+            "YOUNG ETHAN"
+          ],
+          "start_offset": "00:11:10",
+          "end_offset": "00:11:20"
+        },
+        {
+          "event_description": "Ethan admits he wasn't thinking and was falling in love with Monica.",
+          "involved_subjects": [
+            "YOUNG ETHAN"
+          ],
+          "start_offset": "00:11:20",
+          "end_offset": "00:11:30"
+        },
+        {
+          "event_description": "Monica reacts with surprise to Ethan's declaration of love.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:11:30",
+          "end_offset": "00:11:35"
+        },
+        {
+          "event_description": "Ethan nods to confirm his feelings.",
+          "involved_subjects": [
+            "YOUNG ETHAN"
+          ],
+          "start_offset": "00:11:35",
+          "end_offset": "00:11:40"
+        },
+        {
+          "event_description": "Monica tells Ethan to fall out of love and comments on her own appearance, comparing herself to a stereotypical woman with a shiny guy named Chad.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:11:40",
+          "end_offset": "00:12:00"
+        },
+        {
+          "event_description": "Ethan asks Monica who Joan Collins is.",
+          "involved_subjects": [
+            "YOUNG ETHAN",
+            "MONICA"
+          ],
+          "start_offset": "00:12:00",
+          "end_offset": "00:12:05"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, everyone exept Monica is there.]",
+      "dialogue": [
+        {
+          "speaker": "ROSS",
+          "text": "(on phone) Okay, André should be there in like 45 minutes. All rightie, bye bye. (to Phoebe) Just easier that way."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Oh, come on. You told me about the last dream."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "No, forget it."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Oh, why not. Was I doing anything particularly... saucy?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "All right, fine. Um, you were not the only one there. (Camera fades to Ross, who's listening very carefully) Joey was there too."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "All right. (Moves closer.)"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Was there...uh, huh, huh, huh... andybody, anybody else there."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "No."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "You're sure? Nobody uh, handed out uh, mints or anything?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "No, it was just the three of us."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Huh!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "So, tell me. Was it like you and Chandler, and then you and me, or you and me and Chandler?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(laughs) You know what?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "What?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "There were times when it wasn't even me."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "That is so sweet, you guys. (hugs them)"
+        },
+        {
+          "speaker": "AND PHOEBE",
+          "text": "Hey, Mon."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Mon, Ethan called again. Mon?"
+        },
+        {
+          "speaker": "ALL",
+          "text": "(shouting) Mon!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "What?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Ethan called again."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Oh."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Are you not seeing him anymore?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "No. You know, sometimes just things doesn't work out."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "And this has nothing to do with the fact that he needs a note to get out of gym."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "I, I didn't say any... I sw... I did not say anything, I swear. He stopped by."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Listen, the next time you talk to him, can you ask him which one the strongest Power Ranger is?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Oh, yeah."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Ha,ha, ha, oh my life is just so amusing. Could we drop it now?"
+        },
+        {
+          "speaker": "AND ROSS",
+          "text": "Sorry."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "It's morphin time!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Stegosaurus!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Tyrannosaurus!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Ooh, oh, I've gotta go. (raises) Whoa, oh, head rush. One more, and then I have to go. (sits down, and then raises again) Cool!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Where are you going?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Um, oh, I've got a birthday party, with some work people."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Work people? Nobody told me."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "No, I know. That's a part of the whole, you know, them-not-liking-you-extravaganza."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "You know, I don't get this. A month ago, these people were my friends. You know, just because I'm in charge doesn't mean I'm a different person."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Well, then you should come tonight. You know, just hang out with them. Let them see what a great guy you still are."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "You think I should?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "I really do, yeah."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Okay."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Okay."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Okay."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, but, could we not go together? I,I don't wanna be the geek that invited the boss."
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "AND ROSS",
+        "PHOEBE",
+        "ROSS",
+        "JOEY",
+        "RACHEL",
+        "CHANDLER",
+        "MONICA",
+        "AND PHOEBE"
+      ],
+      "clip_start": "00:13:41",
+      "clip_end": "00:17:27",
+      "srt_start": "",
+      "srt_end": "",
+      "context_label": "0122_scene_007_Monica and Rachel's",
+      "event_description": "[Scene: Monica and Rachel's, everyone exept Monica is there.]",
+      "events": [
+        {
+          "event_description": "Ross talks on the phone about André arriving in 45 minutes.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:13:41",
+          "end_offset": "00:13:50"
+        },
+        {
+          "event_description": "Chandler references Ross's previous dream.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:13:50",
+          "end_offset": "00:13:55"
+        },
+        {
+          "event_description": "Rachel dismisses Chandler's curiosity about her dream.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:13:55",
+          "end_offset": "00:14:00"
+        },
+        {
+          "event_description": "Rachel reveals to Chandler and Joey that she was with Ross in her dream, and Joey was also there.",
+          "involved_subjects": [
+            "RACHEL",
+            "JOEY"
+          ],
+          "start_offset": "00:14:00",
+          "end_offset": "00:14:10"
+        },
+        {
+          "event_description": "Rachel confirms to Ross that only she, Joey, and Chandler were present in her dream.",
+          "involved_subjects": [
+            "RACHEL",
+            "ROSS"
+          ],
+          "start_offset": "00:14:10",
+          "end_offset": "00:14:15"
+        },
+        {
+          "event_description": "Rachel jokes that there were times in her dream when she wasn't even herself.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:14:15",
+          "end_offset": "00:14:20"
+        },
+        {
+          "event_description": "Phoebe expresses admiration for Rachel, Joey, and Chandler's relationship.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:14:20",
+          "end_offset": "00:14:25"
+        },
+        {
+          "event_description": "Rachel informs the group that Ethan called again, prompting everyone to shout for Monica.",
+          "involved_subjects": [
+            "RACHEL",
+            "ALL"
+          ],
+          "start_offset": "00:14:25",
+          "end_offset": "00:14:35"
+        },
+        {
+          "event_description": "Monica acknowledges that Ethan called again and comments on their relationship status.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:14:35",
+          "end_offset": "00:14:40"
+        },
+        {
+          "event_description": "Chandler jokes about needing a note to get out of gym, referencing Ethan.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:14:40",
+          "end_offset": "00:14:45"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Chandler's office, he and Phoebe are taking a break from work.]",
+      "dialogue": [
+        {
+          "speaker": "CHANDLER",
+          "text": "I Think last night was great. You know, the Karaoke thing. Tracy and I doing Ebony and Ivory ."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "You were great. But they still made fun of you."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "What?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "You know, now you're more like, you know like, \"Mr. Caring Boss,\" \"Mr.\", you know, \"I'm one of you, Boss,\" \"Mr., I wanna be your buddy, Boss Man Bing!\""
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Then, I don't get it."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Well, you know what Chandler? I think you've gotta face it. You're like, the guy in the big office, you know. You're the one that hires them, that fires them... They still say you're a great boss."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "They do?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Uh huh. But they're not your friends anymore."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "I just wan't to..."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "No, but you can't."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "But I just wa..."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Uh uh."
+        }
+      ],
+      "location": "Chandler's office",
+      "subjects": [
+        "CHANDLER",
+        "PHOEBE"
+      ],
+      "clip_start": "00:17:27",
+      "clip_end": "00:18:30",
+      "srt_start": "",
+      "srt_end": "",
+      "context_label": "0122_scene_008_Chandler's office",
+      "event_description": "[Scene: Chandler's office, he and Phoebe are taking a break from work.]",
+      "events": [
+        {
+          "event_description": "Chandler expresses that last night's karaoke was great and mentions doing Ebony and Ivory with Tracy.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:17:27",
+          "end_offset": "00:17:30"
+        },
+        {
+          "event_description": "Phoebe compliments Chandler on his karaoke performance.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:17:30",
+          "end_offset": "00:17:32"
+        },
+        {
+          "event_description": "Phoebe comments that people still made fun of Chandler after his karaoke performance.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:17:32",
+          "end_offset": "00:17:34"
+        },
+        {
+          "event_description": "Phoebe describes how Chandler's colleagues now see him as a caring boss and a buddy.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:17:34",
+          "end_offset": "00:17:36"
+        },
+        {
+          "event_description": "Chandler questions the meaning of Phoebe's comments about his colleagues' perceptions.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:17:36",
+          "end_offset": "00:17:38"
+        },
+        {
+          "event_description": "Phoebe advises Chandler that he has to face the fact that his colleagues see him as the boss, not as a friend.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:17:38",
+          "end_offset": "00:17:40"
+        },
+        {
+          "event_description": "Chandler expresses confusion about his colleagues' perceptions.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:17:40",
+          "end_offset": "00:17:42"
+        },
+        {
+          "event_description": "Phoebe insists that Chandler cannot be both the boss and a friend to his colleagues.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:17:42",
+          "end_offset": "00:17:44"
+        },
+        {
+          "event_description": "Chandler begins to respond with an incomplete statement, indicating he wants to say something.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:17:44",
+          "end_offset": "00:17:46"
+        },
+        {
+          "event_description": "Phoebe interrupts Chandler, preventing him from speaking further.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:17:46",
+          "end_offset": "00:17:48"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Central Perk. Everyone exept Phoebe and Chandler is there. Ross's beeper goes\noff and everyone exept him react.]",
+      "dialogue": [
+        {
+          "speaker": "MONICA",
+          "text": "Aren't you gonna..."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Oh, Carol and I have a new system. If she punches in 911, it means she's having a baby, otherwise I just ignore it."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "What about André?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Oh, well this morning he got a call from who I think was our cousin Nathan, and frankly, it was a little more than I needed to know."
+        },
+        {
+          "speaker": "YOUNG ETHAN",
+          "text": "Hey."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "That was gonna be my opener."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(understands that Monica and Ethan wanna be alone) Hey, did you guys check out those new hand-dryers in the bathroom?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "I thought that was just a rumour."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "True story."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "They're here already?"
+        },
+        {
+          "speaker": "YOUNG ETHAN",
+          "text": "All right, look. I've gotta tell you something. I'm not 17. I only said so that you'd think I was cute and vunerable. I'm actually 30, I have a wife, I have a job, I'm your Congressman. Monica, this is ridiculous, we're great together. We can talk, we make each other laugh, and the sex. Oh, man, okay i have no frame of graft, but I thought that was great."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "It was."
+        },
+        {
+          "speaker": "YOUNG ETHAN",
+          "text": "Then, what's the problem?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Ethan, it's um... it's icky."
+        },
+        {
+          "speaker": "YOUNG ETHAN",
+          "text": "Icky? You're actually gonna throw this away because it's icky?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "This isn't easy for me either. I wish things were different, I... If you were a few years older, or if I was a few years younger, or if we lived in biblical times, I would really..."
+        },
+        {
+          "speaker": "YOUNG ETHAN",
+          "text": "No, don't say it. (closes Monica's mouth with his hand)"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "...love you."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Are you're hands still wet?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Uh, moist, yeah."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Let's dry 'em again."
+        }
+      ],
+      "location": "Central Perk. Everyone exept Phoebe and Chandler is there. Ross's beeper goes\noff and everyone exept him react.",
+      "subjects": [
+        "YOUNG ETHAN",
+        "ROSS",
+        "JOEY",
+        "RACHEL",
+        "MONICA"
+      ],
+      "clip_start": "00:18:32",
+      "clip_end": "00:20:24",
+      "srt_start": "",
+      "srt_end": "",
+      "context_label": "0122_scene_009_Central Perk. Everyone exept Phoebe and Chandler is there. Ross's beeper goes\noff and everyone exept him react.",
+      "event_description": "[Scene: Central Perk. Everyone exept Phoebe and Chandler is there. Ross's beeper goes\noff and everyone exept him react.]",
+      "events": [
+        {
+          "event_description": "Ross's beeper goes off, and everyone except Ross reacts to it.",
+          "involved_subjects": [
+            "Ross",
+            "Rachel",
+            "Joey",
+            "Monica",
+            "Young Ethan"
+          ],
+          "start_offset": "00:18:32",
+          "end_offset": "00:20:24"
+        },
+        {
+          "event_description": "Ross explains to the group that he and Carol have a system where she calls 911 to indicate she's having a baby, and he ignores other calls.",
+          "involved_subjects": [
+            "Ross",
+            "Rachel",
+            "Joey",
+            "Monica",
+            "Young Ethan"
+          ],
+          "start_offset": "00:18:32",
+          "end_offset": "00:20:24"
+        },
+        {
+          "event_description": "Joey asks about André, and Ross mentions a call from their cousin Nathan that he found unnecessary.",
+          "involved_subjects": [
+            "Joey",
+            "Ross"
+          ],
+          "start_offset": "00:18:32",
+          "end_offset": "00:20:24"
+        },
+        {
+          "event_description": "Young Ethan reveals to Monica that he is actually 30 years old, married, has a job, and is a Congressman, confessing he lied about being 17.",
+          "involved_subjects": [
+            "Young Ethan",
+            "Monica"
+          ],
+          "start_offset": "00:19:00",
+          "end_offset": "00:19:30"
+        },
+        {
+          "event_description": "Young Ethan declares that he and Monica are great together and expresses his feelings for her.",
+          "involved_subjects": [
+            "Young Ethan",
+            "Monica"
+          ],
+          "start_offset": "00:19:30",
+          "end_offset": "00:19:50"
+        },
+        {
+          "event_description": "Monica responds that their relationship is 'icky' and hesitates about continuing it.",
+          "involved_subjects": [
+            "Monica",
+            "Young Ethan"
+          ],
+          "start_offset": "00:19:50",
+          "end_offset": "00:20:10"
+        },
+        {
+          "event_description": "Young Ethan insists that Monica shouldn't dismiss their relationship because he is 'icky', and confesses he loves her.",
+          "involved_subjects": [
+            "Young Ethan",
+            "Monica"
+          ],
+          "start_offset": "00:20:10",
+          "end_offset": "00:20:24"
+        },
+        {
+          "event_description": "Ross asks if Ethan's hands are still wet, implying a concern about cleanliness or the previous conversation.",
+          "involved_subjects": [
+            "Ross"
+          ],
+          "start_offset": "00:20:00",
+          "end_offset": "00:20:10"
+        },
+        {
+          "event_description": "Joey comments that Ethan's hands are moist, and Rachel suggests drying them again.",
+          "involved_subjects": [
+            "Joey",
+            "Rachel"
+          ],
+          "start_offset": "00:20:10",
+          "end_offset": "00:20:24"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: A hall on the floor where Chandler works. Chandler and Phoebe enters, and\noverhears some employees's conversation. One of them is doing Chandler.]",
+      "dialogue": [
+        {
+          "speaker": "GERSTON",
+          "text": "Uh, like, could these margaritas be any stronger? (They discover that Chandler is listening) Hey, Chandler."
+        },
+        {
+          "speaker": "SANTOS",
+          "text": "Hello, Mr. Bing."
+        },
+        {
+          "speaker": "PETRIE",
+          "text": "Loved your Stevie Wonder last night."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Thanks. Listen, about the weekly numbers, I'm gonna need them on my desk by nine o'clock."
+        },
+        {
+          "speaker": "SANTOS",
+          "text": "Sure."
+        },
+        {
+          "speaker": "GERSTON",
+          "text": "No problem."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "You have to give 'em something, you know. Okay, now that was Gerston, Santos, and who's the guy with the moustache?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Petrie."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Petrie, right, right. Okay, some people gonna be working this weekend."
+        }
+      ],
+      "location": "Chandler's Office Hallway",
+      "subjects": [
+        "PETRIE",
+        "GERSTON",
+        "PHOEBE",
+        "CHANDLER",
+        "SANTOS"
+      ],
+      "clip_start": "00:20:28",
+      "clip_end": "00:21:05",
+      "srt_start": "",
+      "srt_end": "",
+      "context_label": "0122_scene_010_Chandler's Office Hallway",
+      "event_description": "[Scene: A hall on the floor where Chandler works. Chandler and Phoebe enters, and\noverhears some employees's conversation. One of them is doing Chandler.]",
+      "events": [
+        {
+          "event_description": "Gerston comments on the strength of the margaritas.",
+          "involved_subjects": [
+            "GERSTON"
+          ],
+          "start_offset": "00:20:28",
+          "end_offset": "00:20:30"
+        },
+        {
+          "event_description": "Gerston notices Chandler listening and greets him.",
+          "involved_subjects": [
+            "GERSTON",
+            "CHANDLER"
+          ],
+          "start_offset": "00:20:30",
+          "end_offset": "00:20:32"
+        },
+        {
+          "event_description": "Santos greets Chandler.",
+          "involved_subjects": [
+            "SANTOS",
+            "CHANDLER"
+          ],
+          "start_offset": "00:20:32",
+          "end_offset": "00:20:33"
+        },
+        {
+          "event_description": "Petrie is acknowledged by Chandler as the person with the moustache.",
+          "involved_subjects": [
+            "PETRIE",
+            "CHANDLER"
+          ],
+          "start_offset": "00:20:33",
+          "end_offset": "00:20:35"
+        },
+        {
+          "event_description": "Chandler requests the weekly numbers to be on his desk by nine o'clock.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:20:35",
+          "end_offset": "00:20:37"
+        },
+        {
+          "event_description": "Chandler identifies Petrie as the person with the moustache.",
+          "involved_subjects": [
+            "CHANDLER",
+            "PETRIE"
+          ],
+          "start_offset": "00:20:37",
+          "end_offset": "00:20:39"
+        },
+        {
+          "event_description": "Chandler informs that some people will be working this weekend.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:20:39",
+          "end_offset": "00:20:41"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, Ross is watching TV, but turns it off, and Rachel is\nsleeping on the couch. Ross puts a blanket over her.]",
+      "dialogue": [
+        {
+          "speaker": "RACHEL",
+          "text": "(talking in her sleep) Oooooooooh. (Rachel strokes her hand over the pillow. Ross mimicks her silently) Oh, that's nice. Oh, oh. Huh, Ross!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Ross?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "I'm here."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "You are. Well, um... We, we, we were just... Wow!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "What? (his beeper goes off) Great, now I'm having a baby."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "What?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Ooh, Ooh."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "What?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "I'm having... I'm having a baby. (jumps back onto the table again) I'm having a... Where's the phone? The phone?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "I don't know where the phone is."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Ross?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "I'm hurt."
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "RACHEL",
+        "ROSS"
+      ],
+      "clip_start": "00:21:09",
+      "clip_end": "00:22:30",
+      "srt_start": "",
+      "srt_end": "",
+      "context_label": "0122_scene_011_Monica and Rachel's",
+      "event_description": "[Scene: Monica and Rachel's, Ross is watching TV, but turns it off, and Rachel is\nsleeping on the couch. Ross puts a blanket over her.]",
+      "events": [
+        {
+          "event_description": "Rachel is sleeping on the couch and strokes her hand over the pillow while talking in her sleep.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:21:09",
+          "end_offset": "00:21:15"
+        },
+        {
+          "event_description": "Ross silently mimics Rachel’s sleep gesture while she is talking in her sleep.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:21:15",
+          "end_offset": "00:21:17"
+        },
+        {
+          "event_description": "Rachel asks Ross if he is there.",
+          "involved_subjects": [
+            "RACHEL",
+            "ROSS"
+          ],
+          "start_offset": "00:21:17",
+          "end_offset": "00:21:19"
+        },
+        {
+          "event_description": "Ross responds to Rachel, indicating he is present.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:21:19",
+          "end_offset": "00:21:20"
+        },
+        {
+          "event_description": "Rachel and Ross have a brief conversation where Rachel says 'Wow!' and Ross responds with 'What?'",
+          "involved_subjects": [
+            "RACHEL",
+            "ROSS"
+          ],
+          "start_offset": "00:21:20",
+          "end_offset": "00:21:23"
+        },
+        {
+          "event_description": "Ross's beeper goes off, and he exclaims, 'Great, now I'm having a baby.'",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:21:23",
+          "end_offset": "00:21:25"
+        },
+        {
+          "event_description": "Ross repeats 'I'm having... I'm having a baby.' and jumps back onto the table.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:21:25",
+          "end_offset": "00:21:27"
+        },
+        {
+          "event_description": "Ross searches for the phone, asking 'Where's the phone? The phone?'",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:21:27",
+          "end_offset": "00:21:29"
+        },
+        {
+          "event_description": "Rachel responds that she doesn't know where the phone is.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:21:29",
+          "end_offset": "00:21:30"
+        },
+        {
+          "event_description": "Ross exclaims 'I'm hurt.' after expressing concern about the situation.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:21:30",
+          "end_offset": "00:21:31"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: The Hallway, Ross is eagerly waiting for the others to get ready, to go to the\nhospital.]",
+      "dialogue": [
+        {
+          "speaker": "ROSS",
+          "text": "Monica, let's go. Come on now people, woman in labor."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "(doing a little dance) Hey Ross, look what I've got going here."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Yeah, save it for the cab, okay."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "What are you doing? We're going to a hospital."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "What, so I can't lokk nice? There might be doctors there."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Joey, get out of the fridge."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "All right, all right. (he comes out from their apartment with a huge sandwich in his hand)"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "What is that? (refering to the sandwich)"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "For the ride."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Yeah, like in a cab..."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Save it."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Okay, hating this."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Monica, come on now. Let's go, baby coming."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "I can't belive it, I'm gonna be an aunt. I'm gonna have like a nephew."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "That's nice. Get out Let's go, come on."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "All right, I'm going. I'm going."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Here we go, here we go."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Rossy, Rossy."
+        }
+      ],
+      "location": "The Hallway",
+      "subjects": [
+        "ROSS",
+        "JOEY",
+        "RACHEL",
+        "CHANDLER",
+        "MONICA"
+      ],
+      "clip_start": "00:22:33",
+      "clip_end": "00:23:20",
+      "srt_start": "",
+      "srt_end": "",
+      "context_label": "0122_scene_012_The Hallway",
+      "event_description": "[Scene: The Hallway, Ross is eagerly waiting for the others to get ready, to go to the\nhospital.]",
+      "events": [
+        {
+          "event_description": "Ross urges Monica to hurry up and leave for the hospital.",
+          "involved_subjects": [
+            "ROSS",
+            "MONICA"
+          ],
+          "start_offset": "00:22:33",
+          "end_offset": "00:22:35"
+        },
+        {
+          "event_description": "Chandler performs a dance while showing off something he has.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:22:36",
+          "end_offset": "00:22:38"
+        },
+        {
+          "event_description": "Ross tells Chandler to save his dance for the cab.",
+          "involved_subjects": [
+            "ROSS",
+            "CHANDLER"
+          ],
+          "start_offset": "00:22:39",
+          "end_offset": "00:22:41"
+        },
+        {
+          "event_description": "Ross questions Joey about the large sandwich he is holding.",
+          "involved_subjects": [
+            "ROSS",
+            "JOEY"
+          ],
+          "start_offset": "00:22:42",
+          "end_offset": "00:22:44"
+        },
+        {
+          "event_description": "Joey explains that the sandwich is for the ride to the hospital.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:22:45",
+          "end_offset": "00:22:47"
+        },
+        {
+          "event_description": "Ross orders Joey to get out of the fridge.",
+          "involved_subjects": [
+            "ROSS",
+            "JOEY"
+          ],
+          "start_offset": "00:22:48",
+          "end_offset": "00:22:50"
+        },
+        {
+          "event_description": "Joey comes out of the apartment with a sandwich in his hand.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:22:51",
+          "end_offset": "00:22:53"
+        },
+        {
+          "event_description": "Ross tells Joey that the sandwich is inappropriate for the ride.",
+          "involved_subjects": [
+            "ROSS",
+            "JOEY"
+          ],
+          "start_offset": "00:22:54",
+          "end_offset": "00:22:56"
+        },
+        {
+          "event_description": "Monica expresses excitement about becoming an aunt.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:22:57",
+          "end_offset": "00:22:59"
+        },
+        {
+          "event_description": "Ross urges Monica to leave quickly as the baby is coming.",
+          "involved_subjects": [
+            "ROSS",
+            "MONICA"
+          ],
+          "start_offset": "00:23:00",
+          "end_offset": "00:23:02"
+        }
+      ]
+    }
+  ]
+}

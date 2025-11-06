@@ -1,0 +1,2360 @@
+{
+  "episode": "0318",
+  "title": "The One With The Hypnosis Tape",
+  "scenes": [
+    {
+      "scene_description": "[Scene: Central Perk, all but Chandler are there, Joey laughs for no apparent reason.]",
+      "dialogue": [
+        {
+          "speaker": "MONICA",
+          "text": "(to Joey) What’s so funny?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Oh, nothing, no. It’s an acting exercise, I’m practising my fake laugh."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Oh. (she laughs)"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "What-what’s so funny?"
+        },
+        {
+          "speaker": "GUNTHER",
+          "text": "(to Chandler) Oh, no-no, no-no-no, there’s none of that in here."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Oh come on man! At least let me finish this last one."
+        },
+        {
+          "speaker": "GUNTHER",
+          "text": "Okay, but only if you give me a drag."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Okay."
+        },
+        {
+          "speaker": "GUNTHER",
+          "text": "Oh dark mother, once again I suckle at your smokey tit. (hands Chandler back the cigarette.)"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "No-no, why don’t you hang on to that one."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Okay, that’s like the least fun game ever."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Well, I’m really sick of your smoking, so I brought something that is going to help you quit. (hands him an audio cassette)"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Oh. (takes the cassette and puts it on his arm like the stop smoking patch, and it falls off.) Nope, that patch is no good. (Joey and Monica both do their fake laughs.)"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Come on, it’s a hypnosis tape. This woman at work used it for two weeks straight and she hasn’t smoked since."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Pffhah."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(to Ross) What’s your problem?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Nothing, it’s just that hypnosis is beyond crap."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Ross, I watched you get hypnotised in Atlantic City."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Hey, that guy did not hypnotise me! Okay."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh right, ‘cause you always pull your pants down at the count of three and play Wipe-out on your butt cheeks."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "All right, y'know forget hypnosis. The way to quit smoking is you have to dance naked in a field of heather, and then bath in the sweat of six healthy young men."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Or what my Father called Thursday night."
+        }
+      ],
+      "location": "Central Perk",
+      "subjects": [
+        "CHANDLER",
+        "GUNTHER",
+        "ROSS",
+        "MONICA",
+        "PHOEBE",
+        "RACHEL",
+        "JOEY"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Central Perk, all but Chandler are there, Joey laughs for no apparent reason.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Joey laughs for no apparent reason, practicing his fake laugh during the scene.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Monica questions Joey about his laughter.",
+          "involved_subjects": [
+            "MONICA",
+            "JOEY"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Monica laughs at Joey's explanation of his fake laugh.",
+          "involved_subjects": [
+            "MONICA",
+            "JOEY"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Gunther confronts Chandler about smoking in the coffeehouse.",
+          "involved_subjects": [
+            "GUNTHER",
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Chandler agrees to give Gunther a drag of his cigarette.",
+          "involved_subjects": [
+            "CHANDLER",
+            "GUNTHER"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Gunther hands Chandler a cigarette and recites a dark invocation.",
+          "involved_subjects": [
+            "GUNTHER",
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:45"
+        },
+        {
+          "event_description": "Rachel offers Chandler a hypnosis cassette to help him quit smoking.",
+          "involved_subjects": [
+            "RACHEL",
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:45",
+          "end_offset": "00:00:50"
+        },
+        {
+          "event_description": "Chandler attempts to use the cassette as a stop-smoking patch, but it falls off.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:50",
+          "end_offset": "00:00:55"
+        },
+        {
+          "event_description": "Rachel criticizes Ross's skepticism about hypnosis.",
+          "involved_subjects": [
+            "RACHEL",
+            "ROSS"
+          ],
+          "start_offset": "00:00:55",
+          "end_offset": "00:01:05"
+        },
+        {
+          "event_description": "Phoebe suggests an absurd method involving dancing naked in a field of heather to quit smoking.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:01:05",
+          "end_offset": "00:01:15"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Central Perk, continued from earlier, Ross is handing Rachel a cup of coffee.]",
+      "dialogue": [
+        {
+          "speaker": "ROSS",
+          "text": "Here you go."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh, y'know what, I didn’t want cinnamon on this."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Sorry. (To remedy that, Ross scoops the cinnamon off of the top with his hand.)"
+        },
+        {
+          "speaker": "FRANK",
+          "text": "(entering) Hi!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh my God!!"
+        },
+        {
+          "speaker": "FRANK",
+          "text": "Hi!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Frank! Hi!"
+        },
+        {
+          "speaker": "FRANK",
+          "text": "How are you?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "What are you doing here?"
+        },
+        {
+          "speaker": "FRANK",
+          "text": "Oh, well y'know, I would’ve called but I lost your phone number and then ah, my Mom locked me out of the house so I couldn’t find it. And then, I tried to find a pay phone, and ah, the receiver was cut off. So..."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "What happened?"
+        },
+        {
+          "speaker": "FRANK",
+          "text": "Ah, oh, the ah, vandalism."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "But, also, what happened between you and your Mom?"
+        },
+        {
+          "speaker": "FRANK",
+          "text": "Well, we got into a fight ‘cause ah, she said I was to immature to get married."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Your getting married?!"
+        },
+        {
+          "speaker": "FRANK",
+          "text": "Oh, yeah!"
+        },
+        {
+          "speaker": "ALL",
+          "text": "Wow!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "My little brother’s getting married!!"
+        },
+        {
+          "speaker": "FRANK",
+          "text": "Oh, I knew you’d be so cool about this. All right, ah, hey, do you want to meet her?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Do I?"
+        },
+        {
+          "speaker": "FRANK",
+          "text": "Do you?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Yeah, I do, yeah."
+        },
+        {
+          "speaker": "FRANK",
+          "text": "Okay, cool, all right, she just ah, parking the truck. (to Joey) I’m gonna, I’m gonna get my ah, my fiancée man!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Y'know, I would’ve bet good money that he’d be the first one of us to get married."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Yeah, isn’t it fantastic?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Yeah, ah, but Pheebs don’t you think he’s a little young to get married?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "What, he’s 18."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Exactly, it’ll be illegal for him to drink at his own bachelor party."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Yeah, or-or to get a hooker."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Always illegal Joe."
+        },
+        {
+          "speaker": "FRANK",
+          "text": "(entering with his fiancée Alice, who is obviously much, much older than he is) Hey! Hey! This is ah, my fiancée, Mrs. Knight. (he points out Phoebe to her)"
+        },
+        {
+          "speaker": "ALICE",
+          "text": "Y'know it-it’s funny, um, Frank told me so much about you, but your not how I pictured you at all."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Yeah, I’m a big surprise."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "So, um, how-how did you guys meet?"
+        },
+        {
+          "speaker": "FRANK",
+          "text": "Well um, I was in ah Mrs. Knight’s ah, I mean Alice, sorry, Alice, I always do that. I was in her ah, Home Ec class."
+        },
+        {
+          "speaker": "ALICE",
+          "text": "And he was my best student."
+        },
+        {
+          "speaker": "FRANK",
+          "text": "Yeah, she was my best teacher."
+        },
+        {
+          "speaker": "ALICE",
+          "text": "Ohhh. (They embrace in a very passionate kiss.)"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "If that doesn’t keep kids in school, what will?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "And so now you guys are gonna be married?"
+        },
+        {
+          "speaker": "ALICE",
+          "text": "Yeah. Y'know we-we talked about just living together, but um, we want to have kids right away."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh my God!! Great!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Wow, kids. Frank, are you sure you’re ready for that?"
+        },
+        {
+          "speaker": "FRANK",
+          "text": "I mean, how hard can it be? Y'know, I mean, y'know, babies, y'know who doesn’t want babies right? And besides y'know, I never had a Dad around, and ah, now-now I always will, ‘cause y'know, it’ll be me. Right?"
+        },
+        {
+          "speaker": "ALICE",
+          "text": "Y'know, I mean, really we do realise that there’s an age difference between us."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh good! Okay. ‘Cause you were acting like you didn’t."
+        },
+        {
+          "speaker": "ALICE",
+          "text": "Oh no, but when it comes to love, what does age matter?"
+        }
+      ],
+      "location": "Central Perk",
+      "subjects": [
+        "CHANDLER",
+        "ALICE",
+        "ROSS",
+        "FRANK",
+        "PHOEBE",
+        "MONICA",
+        "RACHEL",
+        "JOEY"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Central Perk, continued from earlier, Ross is handing Rachel a cup of coffee.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Ross hands Rachel a cup of coffee.",
+          "involved_subjects": [
+            "ROSS",
+            "RACHEL"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:02"
+        },
+        {
+          "event_description": "Ross scoops the cinnamon off of the coffee with his hand to remove it.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:03",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "Frank enters Central Perk and greets Phoebe.",
+          "involved_subjects": [
+            "FRANK",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:06",
+          "end_offset": "00:00:08"
+        },
+        {
+          "event_description": "Frank explains he couldn't call Phoebe because he lost her phone number and was locked out of his house.",
+          "involved_subjects": [
+            "FRANK"
+          ],
+          "start_offset": "00:00:09",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Frank mentions he tried to find a pay phone but the receiver was cut off.",
+          "involved_subjects": [
+            "FRANK"
+          ],
+          "start_offset": "00:00:16",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Frank announces he is getting married to Alice.",
+          "involved_subjects": [
+            "FRANK",
+            "ALICE"
+          ],
+          "start_offset": "00:00:21",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Frank introduces Alice as his fiancée to Phoebe.",
+          "involved_subjects": [
+            "FRANK",
+            "ALICE",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:26",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Alice and Frank share a passionate kiss after discussing their relationship.",
+          "involved_subjects": [
+            "ALICE",
+            "FRANK"
+          ],
+          "start_offset": "00:00:31",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Alice states she and Frank want to have kids immediately.",
+          "involved_subjects": [
+            "ALICE",
+            "FRANK"
+          ],
+          "start_offset": "00:00:36",
+          "end_offset": "00:00:40"
+        },
+        {
+          "event_description": "Phoebe questions Frank about being ready for having children due to his age and background.",
+          "involved_subjects": [
+            "PHOEBE",
+            "FRANK"
+          ],
+          "start_offset": "00:00:41",
+          "end_offset": "00:00:45"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Chandler’s bedroom, Chandler is listening to the hypnosis tape.]",
+      "dialogue": [
+        {
+          "speaker": "HYPNOSIS TAPE",
+          "text": "You are falling fast asleep. Deeper. Deeper. Deeper. You are now completely asleep. You don’t need to smoke. Cigarettes don’t control you. You are a strong, confident woman, who does not need to smoke. A strong, confident woman."
+        }
+      ],
+      "location": "Chandler’s bedroom",
+      "subjects": [
+        "HYPNOSIS TAPE"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Chandler’s bedroom, Chandler is listening to the hypnosis tape.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Chandler is listening to the hypnosis tape in his bedroom.",
+          "involved_subjects": [
+            "Chandler"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "The hypnosis tape plays a series of commands encouraging relaxation and confidence.",
+          "involved_subjects": [
+            "HYPNOSIS TAPE"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:20"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: The Moondance Diner, Monica is working, Rachel is having lunch.]",
+      "dialogue": [
+        {
+          "speaker": "MONICA",
+          "text": "And y'know what, I just realised, in the last year I’ve only gone out with two guys, Richard and Julio. You gotta help me out here, you gotta set me up, you gotta get me back in the game."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Well, that shouldn’t be a problem. I mean I work in fashion and all I meet are eligible straight men."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "(to a customer) Pete, can I get you something else?"
+        },
+        {
+          "speaker": "PETE",
+          "text": "Yeah, a slice of cheesecake and-and a date if you’re given’ ‘em out."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Haven’t you and I covered that topic?"
+        },
+        {
+          "speaker": "PETE",
+          "text": "Hmm, come on, you just said to her that you…."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Aww, the only reason you want to go out with me because my blond wig, and the big boobs, and the fact that I serve you food."
+        },
+        {
+          "speaker": "PETE",
+          "text": "Well, if that were true, I’d dating my Aunt Ruth. And the two times we went out were just plain awkward. (to Rachel) Come on, you think she should go out with me, don’t you?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(laughs) Well, I mean, are you sure you want to go out with her? I mean that ain’t a pretty picture in the morning, y’know what I mean. That wig all in disarray, and boobs flung over the night stand, y'know."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "I mean really, think about it."
+        },
+        {
+          "speaker": "PETE",
+          "text": "Ho-ho, I will."
+        }
+      ],
+      "location": "The Moondance Diner",
+      "subjects": [
+        "PETE",
+        "MONICA",
+        "RACHEL"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: The Moondance Diner, Monica is working, Rachel is having lunch.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Monica tells Rachel she has only dated two guys in the past year and asks for help to get back in the dating scene.",
+          "involved_subjects": [
+            "MONICA",
+            "RACHEL"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Rachel responds that she works in fashion and mostly meets eligible straight men.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Monica asks Pete if she can get him something else.",
+          "involved_subjects": [
+            "MONICA",
+            "PETE"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Pete jokingly asks for a slice of cheesecake and a date from Monica.",
+          "involved_subjects": [
+            "PETE",
+            "MONICA"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Monica questions Pete about whether he has discussed dating her before.",
+          "involved_subjects": [
+            "MONICA",
+            "PETE"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Pete jokes that Monica only wants to date him because of her wig, big boobs, and serving food.",
+          "involved_subjects": [
+            "PETE",
+            "MONICA"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Pete claims he would be dating his Aunt Ruth if his intentions were superficial, and comments on their past awkward dates.",
+          "involved_subjects": [
+            "PETE"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:45"
+        },
+        {
+          "event_description": "Pete asks Rachel if she thinks Monica should go out with him.",
+          "involved_subjects": [
+            "PETE",
+            "RACHEL"
+          ],
+          "start_offset": "00:00:45",
+          "end_offset": "00:00:50"
+        },
+        {
+          "event_description": "Rachel humorously questions what Monica's mornings would be like if they dated, mentioning her wig and boobs.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:50",
+          "end_offset": "00:00:55"
+        },
+        {
+          "event_description": "Pete responds affirmatively to Rachel's comment, indicating he will consider it.",
+          "involved_subjects": [
+            "PETE"
+          ],
+          "start_offset": "00:00:55",
+          "end_offset": "00:01:00"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Chandler and Joey's, Ross and Joey are being lectured by Phoebe.]",
+      "dialogue": [
+        {
+          "speaker": "PHOEBE",
+          "text": "No, I know, I know, that this is Frank’s life, (walks behind them, they turn around in the leather chairs to face her) y'know. Y'know, I don’t want to be all judgmental, y'know, but this is sick, it’s sick and wrong!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Pheebs, what, is it the age thing?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "No-no, oh, I’m fine with the age thing y'know, until it starts sticking it’s tongue down my little brother’s throat!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Pheebs, he seems to enjoy it."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "But, I mean, do you think he’s gonna enjoy it when he’s up to his elbows in the diapers from all the babies they have to have right away?! This is not fair to Frank, (she walks behind them again, and hey again turn to follow her) and it-it’s not fair to the babies, and y'know what, it’s not good home economics."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Well, have-have you told him how you feel?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Yes. Not out loud."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Pheebs, if you don’t tell him, soon he’s gonna be married, and then you’re gonna hate yourself."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Yeah, but if I do tell him, then he’s gonna hate myself. I mean look at him and his Mom, I can’t. (pause) But, you guys can, please you gotta talk him out of it."
+        },
+        {
+          "speaker": "ROSS AND JOEY",
+          "text": "No-no-no-no-no. (They start to turn away, but Phoebe stops them, and turns them back to face her.)"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Come on, you guys, you have nothing to lose, I have everything to lose. Do you want me to lose everything? Everything?!"
+        },
+        {
+          "speaker": "ROSS AND JOEY",
+          "text": "No."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Okay, I’m gonna go get Frank. (exits)"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "So, we’re walking down the street and I turn to you and I say, “Hey, let’s go hang out at Totally Nude Nudes,” remember? And then, and then, you turn to me and say, “Nah, let’s just hang out at your place.” Well, that was a nice move dumb ass."
+        }
+      ],
+      "location": "Chandler and Joey's",
+      "subjects": [
+        "PHOEBE",
+        "ROSS",
+        "JOEY"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Chandler and Joey's, Ross and Joey are being lectured by Phoebe.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Phoebe walks behind Ross and Joey while they are seated in leather chairs and begins criticizing Frank’s life choices.",
+          "involved_subjects": [
+            "PHOEBE",
+            "ROSS",
+            "JOEY"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Ross asks Phoebe if her concern is related to the age difference between Frank and his partner.",
+          "involved_subjects": [
+            "ROSS",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Phoebe expresses her disapproval of Frank’s relationship, specifically mentioning the physical affection.",
+          "involved_subjects": [
+            "PHOEBE",
+            "ROSS",
+            "JOEY"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Joey comments that Phoebe's brother seems to enjoy the relationship.",
+          "involved_subjects": [
+            "JOEY",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Phoebe worries about the consequences of Frank’s relationship on his future and the babies, and states it’s not good home economics.",
+          "involved_subjects": [
+            "PHOEBE",
+            "ROSS",
+            "JOEY"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:45"
+        },
+        {
+          "event_description": "Phoebe admits she has not openly expressed her feelings to Frank.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:45",
+          "end_offset": "00:00:50"
+        },
+        {
+          "event_description": "Ross advises Phoebe that if she doesn’t tell Frank soon, he might regret it after marriage.",
+          "involved_subjects": [
+            "ROSS",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:50",
+          "end_offset": "00:00:55"
+        },
+        {
+          "event_description": "Phoebe expresses her fear that telling Frank will cause him to hate her, citing his relationship with his mother.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:55",
+          "end_offset": "00:01:05"
+        },
+        {
+          "event_description": "Phoebe decides to go get Frank, indicating her intention to confront him.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:01:05",
+          "end_offset": "00:01:10"
+        },
+        {
+          "event_description": "Joey recounts a humorous story about walking down the street and discussing hanging out at a nude club, ending with a teasing remark to Chandler.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:01:10",
+          "end_offset": "00:01:20"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, Rachel and Monica are entering.]",
+      "dialogue": [
+        {
+          "speaker": "RACHEL",
+          "text": "I think you should definitely go out with this guy."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Nah, he doesn’t do anything for me."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Monica, last Saturday night,"
+        },
+        {
+          "speaker": "WHAT HAPPENED ON WALKER",
+          "text": "Texas Ranger ?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Well, umm, Walker was looking for this big bus load of kids…. (realises) All right, I get your point."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "All right."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "(entering, carrying a briefcase) Hi."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Hey."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Y'know, I forgot the combination to this about a year ago? I just carry it around. Do you have any Chap Stick?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Uh, yeah."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Hey, how are those tapes working out for ya?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Y'know what, pretty good."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Yeah?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Good! I haven’t smoked yet today, I feel great, and-and-and confident, that is a stunning blouse."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Thank you."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Here you go."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Thanks"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Hey Mon, let’s give Pete a chance Come on, he was funny, he seems really nice, and that check thing was adorable."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "What check thing?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "As a joke, this customer at work who has a crush on me gave me a $20,000 tip. His number is on the check, he just did so I’d call him."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "(reading the check) Pete Becker. Pete… (quickly grabs a magazine and opens it up to show her a picture) (pointing to the picture) Is this him?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "That’s Bill Clinton."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Who’s he huggin’?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Oh my God! That’s Pete! But why is Bill huggin’ Pete?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "This guy invented Moss 865! Every office in the world uses that program!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "We use it!!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "There you go!!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh my God, Monica’s gonna go out with a millionaire."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "I’m not gonna go out with him."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh my God, I can’t believe this is a real $20,000 check, oh this is just so exciting."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Or incredibly offensive."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh yeah, sure, that too."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "(to the girls who are staring at him) What?"
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "MONICA",
+        "WHAT HAPPENED ON WALKER",
+        "RACHEL",
+        "CHANDLER"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Monica and Rachel's, Rachel and Monica are entering.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Rachel suggests Monica should go out with a certain guy.",
+          "involved_subjects": [
+            "RACHEL",
+            "MONICA"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Monica declines the invitation, saying the guy doesn’t do anything for her.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Rachel mentions last Saturday night and references 'Walker, Texas Ranger'.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Monica explains that Walker was looking for a busload of kids, then realizes Rachel's point.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Chandler enters the scene carrying a briefcase and greets Monica and Rachel.",
+          "involved_subjects": [
+            "CHANDLER",
+            "MONICA",
+            "RACHEL"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Chandler mentions he forgot the combination to his briefcase and asks Monica for Chap Stick.",
+          "involved_subjects": [
+            "CHANDLER",
+            "MONICA"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:45"
+        },
+        {
+          "event_description": "Rachel asks Chandler about the tapes he is using, and Chandler responds positively.",
+          "involved_subjects": [
+            "RACHEL",
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:45",
+          "end_offset": "00:00:55"
+        },
+        {
+          "event_description": "Chandler comments on feeling confident and compliments Rachel’s blouse.",
+          "involved_subjects": [
+            "CHANDLER",
+            "RACHEL"
+          ],
+          "start_offset": "00:00:55",
+          "end_offset": "00:01:05"
+        },
+        {
+          "event_description": "Rachel suggests giving Pete a chance, citing his humor and kindness, and the check he gave as a joke.",
+          "involved_subjects": [
+            "RACHEL",
+            "MONICA"
+          ],
+          "start_offset": "00:01:05",
+          "end_offset": "00:01:15"
+        },
+        {
+          "event_description": "Chandler notices the check and identifies Pete Becker, showing a picture of Bill Clinton and questioning who he is hugging.",
+          "involved_subjects": [
+            "CHANDLER",
+            "MONICA"
+          ],
+          "start_offset": "00:01:15",
+          "end_offset": "00:01:30"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Chandler and Joey's, Ross and Joey are talking to Frank.]",
+      "dialogue": [
+        {
+          "speaker": "ROSS",
+          "text": "All we’re saying is don’t rush into anything."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Yeah, come on, think about it. You’re 18, okay, she’s 44, when you’re 36, she’s gonna be 88."
+        },
+        {
+          "speaker": "FRANK",
+          "text": "What, you don’t think I know that?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Look, the point is, there’s a lot of women out there you haven’t even had sex with yet!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Yeah, he-he’s right, he’s right. This is your time y'know, yeah, you’re young, you’re-you’re weird, chicks dig that."
+        },
+        {
+          "speaker": "FRANK",
+          "text": "Okay, but isn’t sex better when it’s with one person that you really, really care about."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Yeah, in a poem maybe."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "No the man’s right, that’s what I had with Rachel."
+        },
+        {
+          "speaker": "FRANK",
+          "text": "You don’t have it anymore?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "No, I ah, I slept with someone else."
+        },
+        {
+          "speaker": "FRANK",
+          "text": "Okay, so wait, all right, so how does that make things better?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "It didn’t."
+        },
+        {
+          "speaker": "FRANK",
+          "text": "Okay, so what you used to have with Rachel, is what I’ve got with Alice."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Now, wh-what, what is that like?"
+        },
+        {
+          "speaker": "FRANK",
+          "text": "It’s so cool man, it’s so, it’s just ‘cause being with her is so much better than like not being with her."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Yeah, yeah."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "(to Ross) Why can’t I find that?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Don’t ask me, I had it and I blew it!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Well, I want it!"
+        },
+        {
+          "speaker": "FRANK",
+          "text": "You can have it!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "I don’t know, maybe I can’t. I mean, maybe there’s something wrong with me."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Oh, no! No!"
+        },
+        {
+          "speaker": "FRANK",
+          "text": "It’s out there man! I’ve seen it! I got it!!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Then you hold on to it!!"
+        },
+        {
+          "speaker": "FRANK",
+          "text": "All right, man!!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "All right, congratulations you lucky bastard! (hugs him)"
+        }
+      ],
+      "location": "Chandler and Joey's",
+      "subjects": [
+        "JOEY",
+        "ROSS",
+        "FRANK"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Chandler and Joey's, Ross and Joey are talking to Frank.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Ross advises Joey not to rush into a relationship.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Joey argues that Ross's age difference with his girlfriend is problematic.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:11",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Frank questions whether sex is better with someone he cares about.",
+          "involved_subjects": [
+            "FRANK"
+          ],
+          "start_offset": "00:00:21",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Ross admits to sleeping with someone else after his relationship with Rachel.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:26",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Frank compares his relationship with Alice to Ross's past with Rachel.",
+          "involved_subjects": [
+            "FRANK",
+            "ROSS"
+          ],
+          "start_offset": "00:00:36",
+          "end_offset": "00:00:45"
+        },
+        {
+          "event_description": "Joey expresses his desire to find a meaningful relationship.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:46",
+          "end_offset": "00:00:50"
+        },
+        {
+          "event_description": "Ross encourages Joey to hold on to love when he finds it.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:51",
+          "end_offset": "00:00:55"
+        },
+        {
+          "event_description": "Frank assures Joey that love and a good relationship are out there for him.",
+          "involved_subjects": [
+            "FRANK"
+          ],
+          "start_offset": "00:00:56",
+          "end_offset": "00:01:00"
+        },
+        {
+          "event_description": "Joey expresses his frustration and desire to find love.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:01:01",
+          "end_offset": "00:01:05"
+        },
+        {
+          "event_description": "Joey hugs Frank in celebration of his relationship advice.",
+          "involved_subjects": [
+            "JOEY",
+            "FRANK"
+          ],
+          "start_offset": "00:01:06",
+          "end_offset": "00:01:10"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Chandler and Joey's, it’s after Ross and Joey’s talk with Frank, and\nPhoebe’s is finding out what happened.]",
+      "dialogue": [
+        {
+          "speaker": "PHOEBE",
+          "text": "(to Joey) You’re Frank’s best man?!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "I couldn’t help it, there love is so pure."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Well then, (to Ross) what about you?! Huh?!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "I’m the ring bearer."
+        }
+      ],
+      "location": "Chandler and Joey's",
+      "subjects": [
+        "PHOEBE",
+        "JOEY",
+        "ROSS"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Chandler and Joey's, it’s after Ross and Joey’s talk with Frank, and\nPhoebe’s is finding out what happened.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Phoebe questions Joey about him being Frank's best man.",
+          "involved_subjects": [
+            "PHOEBE",
+            "JOEY"
+          ],
+          "start_offset": "00:00:01",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "Joey responds that he couldn't help it because their love is pure.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Phoebe asks Ross about his role in the wedding.",
+          "involved_subjects": [
+            "PHOEBE",
+            "ROSS"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:12"
+        },
+        {
+          "event_description": "Ross states that he is the ring bearer.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:12",
+          "end_offset": "00:00:15"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Phoebe’s, Phoebe is opening the door.]",
+      "dialogue": [
+        {
+          "speaker": "PHOEBE",
+          "text": "Hi! Oh, Alice, hi! Thanks. I’m so glad you could come, ‘cause I’ve got a real umm, Home Ec emergency. (Points to the table cloth, which has a huge mustard stain on it.)"
+        },
+        {
+          "speaker": "ALICE",
+          "text": "Oh my God, who died on this?!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Yeah, I know. It’s a real mustard-tastrophe. Can you help me?"
+        },
+        {
+          "speaker": "ALICE",
+          "text": "Absolutely. Okay, first we’ll start with a little club soda and salt, and then if that doesn’t work we can go back to…"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Y'know what, forget it. It’s ruined."
+        },
+        {
+          "speaker": "ALICE",
+          "text": "Oh no-no, never say that. If we can’t get it out then we can cut around the stain, add a little lace, you make a stylish throw."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Or instead, maybe you could just not marry my brother Frank."
+        }
+      ],
+      "location": "Phoebe’s",
+      "subjects": [
+        "PHOEBE",
+        "ALICE"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Phoebe’s, Phoebe is opening the door.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Phoebe opens the door to welcome Alice into her home.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "Phoebe greets Alice and expresses relief that she could come.",
+          "involved_subjects": [
+            "PHOEBE",
+            "ALICE"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Phoebe points to the tablecloth with a large mustard stain and explains the emergency.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Alice reacts with surprise and comments on the stain, calling it a 'mustard-tastrophe'.",
+          "involved_subjects": [
+            "ALICE"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Alice suggests using club soda and salt to remove the stain.",
+          "involved_subjects": [
+            "ALICE"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Phoebe dismisses the stain as ruined and gives up on cleaning it.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Alice proposes cutting around the stain and adding lace to make a stylish throw.",
+          "involved_subjects": [
+            "ALICE"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Phoebe sarcastically suggests Alice could not marry her brother Frank as an alternative solution.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:40"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Pete’s office, he is participating in a conference call with three other\nemployees, each of whom are on a different TV screen that he controls with a remote.]",
+      "dialogue": [
+        {
+          "speaker": "PETE",
+          "text": "Okay, that’s great, but can we make it smaller? Can we make it fit on the head of a pin? I love when we make things fit on the head of a pin."
+        },
+        {
+          "speaker": "ALL",
+          "text": "Got it. Yeah all right. Yeah, okay."
+        },
+        {
+          "speaker": "SECRETARY",
+          "text": "You have a Miss Monica Geller here."
+        },
+        {
+          "speaker": "PETE",
+          "text": "Uh, absolutely, yeah, sEnd her in. (Monica enters) Hi."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "What the hell is this? (holding up the check)"
+        },
+        {
+          "speaker": "PETE",
+          "text": "Hang on a second. (to the employees) I’ll-I’ll talk to you in the morning. (turns two of the three off) I’m sorry what?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Seriously, what is this supposed to mean?"
+        },
+        {
+          "speaker": "PETE",
+          "text": "Well, y’know, I never know how much to tip."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "You’re supposed to double the tax. Not double the tax of Romania. I mean, what’s-what’s the deal? Are you, are you trying to buy me? Is this the way you get girls to go out with you?"
+        },
+        {
+          "speaker": "EMPLOYEE",
+          "text": "Umm, I’m still here."
+        },
+        {
+          "speaker": "PETE",
+          "text": "(turns off the TV) You’re taking this all wrong. Because, if I didn’t leave you that tip, you wouldn’t of come down here, we wouldn’t be having this argument, and there wouldn’t be this ah, heat between us."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "What?!"
+        },
+        {
+          "speaker": "PETE",
+          "text": "Come on, you gotta admit that our relationship is ah, is hitting a new level now. ‘Cause you used to be like the chef, and I was the customer, and now we’re like this-this couple that fights."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Okay, umm, you’re a loon."
+        },
+        {
+          "speaker": "PETE",
+          "text": "Look, forget the check, okay. (rips up the check) I like you. I think you’re great. Come on, what do you say?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "I don’t know."
+        },
+        {
+          "speaker": "PETE",
+          "text": "Why not?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "‘Cause I don’t want to encourage this kind of behaviour."
+        },
+        {
+          "speaker": "PETE",
+          "text": "One meal! That’s all I’m asking for. Please? We go out, we eat, and if you don’t have a good time, I give you ten grand, we call it even."
+        }
+      ],
+      "location": "Pete’s office",
+      "subjects": [
+        "PETE",
+        "MONICA",
+        "SECRETARY",
+        "EMPLOYEE"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Pete’s office, he is participating in a conference call with three other\nemployees, each of whom are on a different TV screen that he controls with a remote.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Pete participates in a conference call with three employees on different TV screens in his office.",
+          "involved_subjects": [
+            "PETE",
+            "EMPLOYEE"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Pete asks the employees if they can make the content smaller to fit on the head of a pin.",
+          "involved_subjects": [
+            "PETE",
+            "EMPLOYEE"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Secretary informs Pete that Monica Geller is waiting to see him.",
+          "involved_subjects": [
+            "SECRETARY",
+            "PETE"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Monica enters Pete's office holding up a check, questioning its meaning.",
+          "involved_subjects": [
+            "MONICA",
+            "PETE"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Pete turns off two of the three TV screens during the conversation with Monica.",
+          "involved_subjects": [
+            "PETE"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Pete explains to Monica that he left a tip to ensure she came down to talk to him.",
+          "involved_subjects": [
+            "PETE",
+            "MONICA"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:45"
+        },
+        {
+          "event_description": "Pete suggests that their relationship is evolving into a more confrontational dynamic, comparing it to a couple fighting.",
+          "involved_subjects": [
+            "PETE",
+            "MONICA"
+          ],
+          "start_offset": "00:00:45",
+          "end_offset": "00:00:55"
+        },
+        {
+          "event_description": "Pete rips up the check and confesses his feelings to Monica, expressing admiration.",
+          "involved_subjects": [
+            "PETE",
+            "MONICA"
+          ],
+          "start_offset": "00:00:55",
+          "end_offset": "00:01:05"
+        },
+        {
+          "event_description": "Monica hesitates, expressing concern about encouraging Pete's behavior.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:01:05",
+          "end_offset": "00:01:10"
+        },
+        {
+          "event_description": "Pete pleads with Monica to go out for a meal, offering money if she doesn't enjoy it.",
+          "involved_subjects": [
+            "PETE",
+            "MONICA"
+          ],
+          "start_offset": "00:01:10",
+          "end_offset": "00:01:20"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Phoebe’s, she is coming home. She turns on the lights, and sits down on\nthe couch.]",
+      "dialogue": [
+        {
+          "speaker": "FRANK",
+          "text": "(hiding under a pile of clothes) Hi. (She jumps up screaming.) Wait, no! Just put the mail down. It’s-it’s me!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Okay. Whoa, sorry. Why were you just like all in the dark?"
+        },
+        {
+          "speaker": "FRANK",
+          "text": "Oh well, um, your, your laundry just smelled so good, that I thought I’d curl up in it. Is that all right?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, yeah, sure. So, how was your day?"
+        },
+        {
+          "speaker": "FRANK",
+          "text": "Oh, well just probably the worst one since I’ve been alive."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "What umm, what happened?"
+        },
+        {
+          "speaker": "FRANK",
+          "text": "Umm, Alice ah, she ah, called it off."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh no. Did umm, did she say why?"
+        },
+        {
+          "speaker": "FRANK",
+          "text": "Uh, no, not really, just that I was too young, y'know, but I don’t see how I could all of the sudden be too young, ‘cause I’m older than I was when we first got together."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Yeah, yeah, no, I don’t, I don’t know. But, y'know what, maybe it’s just all for the best?"
+        },
+        {
+          "speaker": "FRANK",
+          "text": "Yeah, if the best is like unbelievable pain!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, sweetie, oh. (hugs him)"
+        },
+        {
+          "speaker": "FRANK",
+          "text": "Y'know, I just was finally happy y'know. For the first time in my life! After my Dad left me, and then, and then getting arrested for stealing those birds, and then, and then the whole punctured lung thing! I can, it’s still really hard to take deep breaths in cold weather, but with Alice all that stuff kinda went away. And now it’s, and now it’s gone and I don’t know why!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Uh, well I can tell you why. It’s, it’s because of me. But, y'know what, I only did it because I love you. Okay?"
+        },
+        {
+          "speaker": "FRANK",
+          "text": "What?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Umm, well I, I kinda had a little chat with Alice, and I sort of made her see why you two shouldn’t be together, y'know. And you’re gonna see it to, one day, you really, really will."
+        },
+        {
+          "speaker": "FRANK",
+          "text": "Wait a minute, wait, this is because of you?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Okay."
+        },
+        {
+          "speaker": "FRANK",
+          "text": "Well, you, wait no, my Mother didn’t want us to be together, but the worst thing she ever did was tie me to the porch."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Okay, but."
+        },
+        {
+          "speaker": "FRANK",
+          "text": "Wait, y'know what, I-I came to you because I thought you’d understand! Oh no!! Y'know, I would storm out of here right now if-if I had some money, or a place to go…"
+        }
+      ],
+      "location": "Phoebe’s",
+      "subjects": [
+        "PHOEBE",
+        "FRANK"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Phoebe’s, she is coming home. She turns on the lights, and sits down on\nthe couch.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Phoebe turns on the lights and sits down on the couch at her home.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "Frank, hiding under a pile of clothes, greets Phoebe and asks her to put down the mail.",
+          "involved_subjects": [
+            "FRANK",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Phoebe jumps up screaming upon seeing Frank hiding under the clothes.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Frank explains he was in the laundry because it smelled good and asks if that's okay.",
+          "involved_subjects": [
+            "FRANK",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Frank reveals that his day was the worst since he’s been alive, due to Alice calling off their relationship.",
+          "involved_subjects": [
+            "FRANK",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:45"
+        },
+        {
+          "event_description": "Frank states that Alice said he was too young to be with her, despite being older than when they first got together.",
+          "involved_subjects": [
+            "FRANK",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:45",
+          "end_offset": "00:01:00"
+        },
+        {
+          "event_description": "Phoebe suggests that perhaps the breakup is for the best.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:01:00",
+          "end_offset": "00:01:05"
+        },
+        {
+          "event_description": "Frank expresses his pain and recounts past hardships, feeling finally happy before the breakup.",
+          "involved_subjects": [
+            "FRANK"
+          ],
+          "start_offset": "00:01:05",
+          "end_offset": "00:01:20"
+        },
+        {
+          "event_description": "Phoebe admits she caused the breakup because she loves Frank and talked to Alice to end their relationship.",
+          "involved_subjects": [
+            "PHOEBE",
+            "FRANK"
+          ],
+          "start_offset": "00:01:20",
+          "end_offset": "00:01:35"
+        },
+        {
+          "event_description": "Frank reacts with surprise and frustration, feeling betrayed and wishing he had money or a place to go.",
+          "involved_subjects": [
+            "FRANK"
+          ],
+          "start_offset": "00:01:35",
+          "end_offset": "00:01:50"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, Rachel is getting Monica ready for her date. The guys are\nalso there. The door buzzes.]",
+      "dialogue": [
+        {
+          "speaker": "RACHEL",
+          "text": "Oh my God! The millionaire’s here!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "(in a feminine way) Oh my God! (and he jumps all around)"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Guys, please, I’m just gonna have dinner with him. Okay?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Okay, okay, just because he buys you dinner, does not mean you owe him anything."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "I know!!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Okay, then get the lobster!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "(opening the door) (to Pete) Hey!"
+        },
+        {
+          "speaker": "PETE",
+          "text": "Hi."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Hi!!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Hey!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Hi!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Hey, how much cash do you got in your pocket right now?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "And that’s why, I’m not inviting you in for a drink. (starts to leave) Bye."
+        },
+        {
+          "speaker": "ALL",
+          "text": "Oh-no-no-no-no…."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Just one drink?!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "(in the hallway) So, where do you want to go?"
+        },
+        {
+          "speaker": "PETE",
+          "text": "Hey, you like pizza?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Oh, that’s sounds great."
+        },
+        {
+          "speaker": "PETE",
+          "text": "I know a great little place."
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "CHANDLER",
+        "PETE",
+        "ROSS",
+        "MONICA",
+        "RACHEL",
+        "JOEY"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Monica and Rachel's, Rachel is getting Monica ready for her date. The guys are\nalso there. The door buzzes.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Rachel exclaims that the millionaire is here.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:01",
+          "end_offset": "00:00:02"
+        },
+        {
+          "event_description": "Chandler reacts in a feminine way and jumps around upon hearing the news.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:02",
+          "end_offset": "00:00:04"
+        },
+        {
+          "event_description": "Monica requests the guys to let her prepare for her date.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:04",
+          "end_offset": "00:00:07"
+        },
+        {
+          "event_description": "Chandler comments that just because the guy buys dinner, Monica doesn't owe him anything.",
+          "involved_subjects": [
+            "CHANDLER",
+            "MONICA"
+          ],
+          "start_offset": "00:00:07",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Monica responds that she knows she doesn't owe him anything.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:12"
+        },
+        {
+          "event_description": "Chandler jokes about getting lobster for Monica.",
+          "involved_subjects": [
+            "CHANDLER",
+            "MONICA"
+          ],
+          "start_offset": "00:00:12",
+          "end_offset": "00:00:14"
+        },
+        {
+          "event_description": "Monica opens the door and greets Pete.",
+          "involved_subjects": [
+            "MONICA",
+            "PETE"
+          ],
+          "start_offset": "00:00:14",
+          "end_offset": "00:00:16"
+        },
+        {
+          "event_description": "Rachel, Joey, and Ross greet Pete as he arrives.",
+          "involved_subjects": [
+            "RACHEL",
+            "JOEY",
+            "ROSS",
+            "PETE"
+          ],
+          "start_offset": "00:00:16",
+          "end_offset": "00:00:18"
+        },
+        {
+          "event_description": "Joey asks Pete how much cash he has in his pocket.",
+          "involved_subjects": [
+            "JOEY",
+            "PETE"
+          ],
+          "start_offset": "00:00:18",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Monica decides not to invite Joey in for a drink and starts to leave.",
+          "involved_subjects": [
+            "MONICA",
+            "JOEY"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:22"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: A restaurant in Rome, Monica is paying for the pizza.]",
+      "dialogue": [
+        {
+          "speaker": "PETE",
+          "text": "You’re, hey, you’re not paying for the pizza!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Oh come on, it’s only fair, you paid for the flight. Now is, is that enough lire?"
+        },
+        {
+          "speaker": "PETE",
+          "text": "Ahh, I’d throw another thousand on that."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Why, how much is that?"
+        },
+        {
+          "speaker": "PETE",
+          "text": "That’s about 60 cents."
+        }
+      ],
+      "location": "A restaurant in Rome",
+      "subjects": [
+        "PETE",
+        "MONICA"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: A restaurant in Rome, Monica is paying for the pizza.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Monica begins paying for the pizza at the restaurant in Rome.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "Pete protests that Monica is not paying for the pizza.",
+          "involved_subjects": [
+            "PETE",
+            "MONICA"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Monica insists she should pay because Pete paid for the flight.",
+          "involved_subjects": [
+            "MONICA",
+            "PETE"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Pete offers to add an additional thousand lire to the payment.",
+          "involved_subjects": [
+            "PETE",
+            "MONICA"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Monica asks Pete how much the additional amount is.",
+          "involved_subjects": [
+            "MONICA",
+            "PETE"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Pete states that the additional amount is about 60 cents.",
+          "involved_subjects": [
+            "PETE",
+            "MONICA"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:30"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Chandler and Joey's, it’s the middle of the night. Joey is walking into\nthe living room, and runs into the entertainment centre.]",
+      "dialogue": [
+        {
+          "speaker": "JOEY",
+          "text": "Every night!!"
+        },
+        {
+          "speaker": "HYPNOSIS TAPE",
+          "text": "You do not need to smoke. Cigarettes don’t control you. You are a strong, confident woman, who does not need to smoke. A strong, confident woman, who does not need to smoke. (Joey walks out smiling to himself.)"
+        }
+      ],
+      "location": "Chandler and Joey's",
+      "subjects": [
+        "JOEY",
+        "HYPNOSIS TAPE"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Chandler and Joey's, it’s the middle of the night. Joey is walking into\nthe living room, and runs into the entertainment centre.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Joey walks into the living room and runs into the entertainment centre.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "unknown",
+          "end_offset": "unknown"
+        },
+        {
+          "event_description": "Joey exclaims 'Every night!!'",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "unknown",
+          "end_offset": "unknown"
+        },
+        {
+          "event_description": "Hypnosis tape plays a recording encouraging a woman to not smoke and to feel confident.",
+          "involved_subjects": [
+            "HYPNOSIS TAPE"
+          ],
+          "start_offset": "unknown",
+          "end_offset": "unknown"
+        },
+        {
+          "event_description": "Joey walks out of the scene smiling to himself after listening to the hypnosis tape.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "unknown",
+          "end_offset": "unknown"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Phoebe’s, Frank is watching TV, and he’s very depressed as Phoebe\nenters.]",
+      "dialogue": [
+        {
+          "speaker": "PHOEBE",
+          "text": "Hey, Frank. Look, okay, I know that you think I did like this totally evil thing, but I so didn’t. There’s someone here who can explain this better than I can."
+        },
+        {
+          "speaker": "ALICE",
+          "text": "Hi Frank."
+        },
+        {
+          "speaker": "FRANK",
+          "text": "Hi, Mrs. Knight."
+        },
+        {
+          "speaker": "ALICE",
+          "text": "Phoebe’s right Frank. I know it’s hard to hear, but it would’ve been wrong to go through with it. I-I-I was being selfish, even though we, we want the same things now, in the future we may not. (to Phoebe) Is that it, is that what it is?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Yeah, but not just that."
+        },
+        {
+          "speaker": "ALICE",
+          "text": "Right, not just that. Umm, even though we love each other as much as we do, none the less…"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "None the less."
+        },
+        {
+          "speaker": "ALICE",
+          "text": "None the less. Umm, you’re too young to, to really know what you want. (They embrace in a passionate kiss.)"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "That’s right, exactly. (sees them) All right, it’s a good bye kiss, that’s good. (Frank picks Alice up and they move to the couch) Bye-bye. (They both lie down on the couch and start to make out.) Okay, no, the important thing is that you see what I’m saying, y'know, just y'know, this is clearly wrong. (They ignore her) Okay, I’ve decided I’m gonna let this happen! Okay, can I just get my purse? (She reaches in and Alice moans) Okay, all right, good. (leaves)."
+        }
+      ],
+      "location": "Phoebe’s",
+      "subjects": [
+        "PHOEBE",
+        "ALICE",
+        "FRANK"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Phoebe’s, Frank is watching TV, and he’s very depressed as Phoebe\nenters.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Phoebe enters the scene at Phoebe's, where Frank is watching TV and appears depressed.",
+          "involved_subjects": [
+            "PHOEBE",
+            "FRANK"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "Phoebe attempts to explain to Frank that she did not do something evil, and mentions someone who can clarify the situation.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Alice greets Frank and acknowledges Phoebe's perspective, suggesting it was wrong to proceed with a certain action.",
+          "involved_subjects": [
+            "ALICE",
+            "FRANK"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Alice admits she was being selfish and questions whether Phoebe's feelings are justified, implying a discussion about a past decision.",
+          "involved_subjects": [
+            "ALICE",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Alice and Phoebe discuss the nature of their love and Phoebe's youth, leading to Alice and Phoebe embracing in a passionate kiss.",
+          "involved_subjects": [
+            "ALICE",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:50"
+        },
+        {
+          "event_description": "Phoebe observes Alice and Frank embracing and comments that it is a goodbye kiss, then Frank and Alice move to the couch and start making out.",
+          "involved_subjects": [
+            "PHOEBE",
+            "ALICE",
+            "FRANK"
+          ],
+          "start_offset": "00:00:50",
+          "end_offset": "00:01:05"
+        },
+        {
+          "event_description": "Phoebe asserts that the situation is clearly wrong and decides to let it happen, then attempts to retrieve her purse.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:01:05",
+          "end_offset": "00:01:15"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Chandler’s bedroom, he’s listening to the hypnosis tape again.]",
+      "dialogue": [
+        {
+          "speaker": "HYPNOSIS TAPE",
+          "text": "Cigarette’s don’t control you. You are a strong, confident woman, who does not need to smoke."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "(He’s recorded his voice on the tape) Joey’s your best friEnd. You want to make him a cheese sandwich everyday. (he laughs) And you also want to buy him hundreds of dollars worth of pants."
+        }
+      ],
+      "location": "Chandler’s bedroom",
+      "subjects": [
+        "JOEY",
+        "HYPNOSIS TAPE"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Chandler’s bedroom, he’s listening to the hypnosis tape again.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Chandler listens to the hypnosis tape in his bedroom.",
+          "involved_subjects": [
+            "Chandler"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "HYPNOSIS TAPE plays a suggestion that cigarettes don't control the listener and that she is a confident woman who doesn't need to smoke.",
+          "involved_subjects": [
+            "HYPNOSIS TAPE"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Joey records his voice on the hypnosis tape, stating that she is Joey's best friend and wants to make him a cheese sandwich every day.",
+          "involved_subjects": [
+            "Joey"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Joey laughs while recording his voice on the tape, mentioning buying him hundreds of dollars worth of pants.",
+          "involved_subjects": [
+            "Joey"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:30"
+        }
+      ]
+    }
+  ]
+}

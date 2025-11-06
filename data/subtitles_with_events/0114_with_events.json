@@ -1,0 +1,2137 @@
+{
+  "episode": "0114",
+  "title": "The One With the Candy Hearts",
+  "scenes": [
+    {
+      "scene_description": "[Scene: Central Perk, Ross is eyeing a beautiful woman at the counter, and Joey and\nChandler are egging him on to go talk to her. No pun intended. I mean it.]",
+      "dialogue": [
+        {
+          "speaker": "JOEY",
+          "text": "I'm tellin' you Ross, she wants you."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "She barely knows me. We just live in the same building."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Any contact?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "She lent me an egg once."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "You're in!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Aw, right."
+        },
+        {
+          "speaker": "WOMAN",
+          "text": "Hi, Ross."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Hey. (stutters something incoherent)"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Come on, Ross, you gotta get back in the game here, ok? The Rachel thing's not happening, your ex-wife is a lesbian—I don't think we need a third..."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Excuse me, could we get an egg over here, still in the shell? Thanks."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "An egg?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Yeah, you're gonna go up to her and say, \"Here's your egg back, I'm returning your egg.\""
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "I think it's winning."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "I think it's insane."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "She'll love it. Go with the egg, my friend."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Think it'll work?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "No, it's suicide. The man's got an egg."
+        }
+      ],
+      "location": "Central Perk",
+      "subjects": [
+        "CHANDLER",
+        "WOMAN",
+        "ROSS",
+        "JOEY"
+      ],
+      "clip_start": "00:02:00",
+      "clip_end": "00:01:05",
+      "srt_start": "",
+      "srt_end": "",
+      "context_label": "0114_scene_000_Central Perk",
+      "event_description": "[Scene: Central Perk, Ross is eyeing a beautiful woman at the counter, and Joey and\nChandler are egging him on to go talk to her. No pun intended. I mean it.]",
+      "events": [
+        {
+          "event_description": "Ross notices a woman at the counter in Central Perk.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Joey encourages Ross to talk to the woman, claiming she wants him.",
+          "involved_subjects": [
+            "JOEY",
+            "ROSS"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Ross expresses doubt about the woman's interest, mentioning they live in the same building and she lent him an egg.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Joey declares that Ross is 'in' to talk to the woman.",
+          "involved_subjects": [
+            "JOEY",
+            "ROSS"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Chandler asks if Ross has had any contact with the woman, and Ross mentions she lent him an egg.",
+          "involved_subjects": [
+            "CHANDLER",
+            "ROSS"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:40"
+        },
+        {
+          "event_description": "Chandler suggests Ross should get back in the dating game, implying the previous attempts have failed.",
+          "involved_subjects": [
+            "CHANDLER",
+            "ROSS"
+          ],
+          "start_offset": "00:00:40",
+          "end_offset": "00:00:50"
+        },
+        {
+          "event_description": "Joey requests an egg in its shell from the waitress, indicating his plan to return the egg to the woman.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:50",
+          "end_offset": "00:00:55"
+        },
+        {
+          "event_description": "Joey explains his plan to Ross to return the egg to the woman as a way to initiate conversation.",
+          "involved_subjects": [
+            "JOEY",
+            "ROSS"
+          ],
+          "start_offset": "00:00:55",
+          "end_offset": "00:01:05"
+        },
+        {
+          "event_description": "Chandler comments that Joey's plan is 'winning', implying it might succeed.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:01:05",
+          "end_offset": "00:01:10"
+        },
+        {
+          "event_description": "Chandler warns that Joey's plan is 'suicide' and comments on the absurdity of the situation.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:01:10",
+          "end_offset": "00:01:15"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Central Perk, Monica, Rachel, Phoebe, Joey, Chandler are there. Ross is still\ntalking to the beautiful woman.]",
+      "dialogue": [
+        {
+          "speaker": "MONICA",
+          "text": "You can not do this."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Do what, do what?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Roger wants to take her out tomorrow night."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "No! Phoebes! Don't you remember why you dumped the guy?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "'Cause he was creepy, and mean, and a little frightening... alright, still, it's nice to have a date on Valentine's Day!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "But Phoebe, you can go out with a creepy guy any night of the year. I know I do."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Well, what are you guys doing tomorrow night?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Actually, tomorrow night kinda depends on how tonight goes."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Oh, uh, listen, about tonight..."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "No, no, no, don't you dare bail on me. The only reason she's goin' out with me is because I said I could bring a friend for her friend."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Yes, I know, but her friend sounds like such a..."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Pathetic mess? I know, but—come on, man, she's needy, she's vulnerable. I'm thinkin', cha-ching! (Rachel throws a roll at Joey. He picks it up and eats it.) Thanks. Look, you have not been out with a woman since Janice. You're doin' this."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Hi. She said yes."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Yes! Way to go, man! (Chandler and Ross hug. Something crunches in Ross' shirt pocket.) Still got the egg, huh?"
+        }
+      ],
+      "location": "Central Perk",
+      "subjects": [
+        "PHOEBE",
+        "ROSS",
+        "JOEY",
+        "RACHEL",
+        "CHANDLER",
+        "MONICA"
+      ],
+      "clip_start": "00:01:07",
+      "clip_end": "00:02:24",
+      "srt_start": "",
+      "srt_end": "",
+      "context_label": "0114_scene_001_Central Perk",
+      "event_description": "[Scene: Central Perk, Monica, Rachel, Phoebe, Joey, Chandler are there. Ross is still\ntalking to the beautiful woman.]",
+      "events": [
+        {
+          "event_description": "Monica confronts Rachel about Roger wanting to take someone out tomorrow night.",
+          "involved_subjects": [
+            "MONICA",
+            "RACHEL"
+          ],
+          "start_offset": "00:01:07",
+          "end_offset": "00:01:10"
+        },
+        {
+          "event_description": "Rachel questions Phoebe about remembering why she dumped her last boyfriend.",
+          "involved_subjects": [
+            "RACHEL",
+            "PHOEBE"
+          ],
+          "start_offset": "00:01:10",
+          "end_offset": "00:01:15"
+        },
+        {
+          "event_description": "Phoebe explains her reasons for dumping her last boyfriend, describing him as creepy, mean, and frightening.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:01:15",
+          "end_offset": "00:01:20"
+        },
+        {
+          "event_description": "Monica criticizes Phoebe for going out with a creepy guy any night of the year.",
+          "involved_subjects": [
+            "MONICA",
+            "PHOEBE"
+          ],
+          "start_offset": "00:01:20",
+          "end_offset": "00:01:25"
+        },
+        {
+          "event_description": "Rachel asks the group about their plans for the next night.",
+          "involved_subjects": [
+            "RACHEL",
+            "MONICA",
+            "PHOEBE",
+            "JOEY",
+            "CHANDLER"
+          ],
+          "start_offset": "00:01:25",
+          "end_offset": "00:01:30"
+        },
+        {
+          "event_description": "Joey states that his plans for tomorrow depend on how tonight goes.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:01:30",
+          "end_offset": "00:01:35"
+        },
+        {
+          "event_description": "Chandler begins to talk about tonight, but Joey interrupts.",
+          "involved_subjects": [
+            "CHANDLER",
+            "JOEY"
+          ],
+          "start_offset": "00:01:35",
+          "end_offset": "00:01:40"
+        },
+        {
+          "event_description": "Joey insists that Chandler not bail on him because he promised to bring a friend for his date.",
+          "involved_subjects": [
+            "JOEY",
+            "CHANDLER"
+          ],
+          "start_offset": "00:01:40",
+          "end_offset": "00:01:45"
+        },
+        {
+          "event_description": "Chandler comments that the friend's description sounds pathetic, and Joey defends her.",
+          "involved_subjects": [
+            "CHANDLER",
+            "JOEY"
+          ],
+          "start_offset": "00:01:45",
+          "end_offset": "00:01:50"
+        },
+        {
+          "event_description": "Ross announces that a woman agreed to go out with him.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:02:20",
+          "end_offset": "00:02:22"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: A Restaurant, Joey and Chandler are there, waiting for their dates to show up.]",
+      "dialogue": [
+        {
+          "speaker": "JOEY",
+          "text": "(Looking at himself in the reflection on a knife) How do I look?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Oh, uh, I... don't... care. (Joey's date shows up) Ok, now, remember, no trading. You get the pretty one, I get the mess."
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "Hi, Joey. Well well, look what you brought. Very nice."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "...And what did you bring?"
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "She's checking the coats. Joey, I'm gonna go wash the cab smell off my hands. Will you get me a white Zinfandel, and a glass of red for Janice."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Janice?"
+        },
+        {
+          "speaker": "JANICE",
+          "text": "Oh.... my.... God."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "(angrily) Hey, it's Janice."
+        }
+      ],
+      "location": "A Restaurant",
+      "subjects": [
+        "CHANDLER",
+        "JANICE",
+        "LORRAINE",
+        "JOEY"
+      ],
+      "clip_start": "00:02:28",
+      "clip_end": "00:03:33",
+      "srt_start": "",
+      "srt_end": "",
+      "context_label": "0114_scene_002_A Restaurant",
+      "event_description": "[Scene: A Restaurant, Joey and Chandler are there, waiting for their dates to show up.]",
+      "events": [
+        {
+          "event_description": "Joey looks at his reflection in a knife to assess his appearance.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:02:28",
+          "end_offset": "00:02:30"
+        },
+        {
+          "event_description": "Chandler dismisses Joey's concern about his appearance.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:02:30",
+          "end_offset": "00:02:32"
+        },
+        {
+          "event_description": "Joey's date arrives at the scene.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:02:32",
+          "end_offset": "00:02:33"
+        },
+        {
+          "event_description": "Chandler makes a joke about Joey's date and his own date, referencing their appearances.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:02:33",
+          "end_offset": "00:02:35"
+        },
+        {
+          "event_description": "LORRAINE greets Joey and comments on his choice of date.",
+          "involved_subjects": [
+            "LORRAINE",
+            "JOEY"
+          ],
+          "start_offset": "00:02:35",
+          "end_offset": "00:02:37"
+        },
+        {
+          "event_description": "Chandler questions what Lorraine has brought to the restaurant.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:02:37",
+          "end_offset": "00:02:39"
+        },
+        {
+          "event_description": "LORRAINE informs Joey she is going to wash off the cab smell and requests drinks for Janice and herself.",
+          "involved_subjects": [
+            "LORRAINE",
+            "JOEY"
+          ],
+          "start_offset": "00:02:39",
+          "end_offset": "00:02:42"
+        },
+        {
+          "event_description": "Chandler recognizes Janice and reacts with surprise and irritation.",
+          "involved_subjects": [
+            "CHANDLER",
+            "JANICE"
+          ],
+          "start_offset": "00:02:42",
+          "end_offset": "00:02:44"
+        },
+        {
+          "event_description": "Chandler explicitly states his recognition of Janice with an angry remark.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:02:44",
+          "end_offset": "00:02:45"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: The bathroom at the restaurant, Chandler and Joey are talking.]",
+      "dialogue": [
+        {
+          "speaker": "CHANDLER",
+          "text": "Ok, I'm makin' a break for it, I'm goin' out the window."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "No, no, no, don't! I've been waitin' for like, forever to go out with Lorraine. Just calm down."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Calm down? Calm down? You set me up with the woman that I've dumped twice in the last five months!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "(at the urinal) Can you stop yellin'? You're makin' me nervous, and I can't go when I'm nervous."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "I'm sorry, I'm sorry, you're right. (gets up right behind Joey and yells in his ear) Come on, do it, do it, go, come on!!!"
+        }
+      ],
+      "location": "The bathroom at the restaurant",
+      "subjects": [
+        "CHANDLER",
+        "JOEY"
+      ],
+      "clip_start": "00:03:35",
+      "clip_end": "00:04:14",
+      "srt_start": "",
+      "srt_end": "",
+      "context_label": "0114_scene_003_The bathroom at the restaurant",
+      "event_description": "[Scene: The bathroom at the restaurant, Chandler and Joey are talking.]",
+      "events": [
+        {
+          "event_description": "Chandler plans to escape by going out the window.",
+          "involved_subjects": [
+            "Chandler"
+          ],
+          "start_offset": "00:03:35",
+          "end_offset": "00:03:36"
+        },
+        {
+          "event_description": "Joey urges Chandler not to leave because he has been waiting to go out with Lorraine.",
+          "involved_subjects": [
+            "Joey"
+          ],
+          "start_offset": "00:03:36",
+          "end_offset": "00:03:37"
+        },
+        {
+          "event_description": "Chandler expresses frustration about being set up with Lorraine, whom he has dumped twice.",
+          "involved_subjects": [
+            "Chandler"
+          ],
+          "start_offset": "00:03:37",
+          "end_offset": "00:03:38"
+        },
+        {
+          "event_description": "Joey, at the urinal, asks Chandler to stop yelling because it makes him nervous and affects his ability to urinate.",
+          "involved_subjects": [
+            "Joey"
+          ],
+          "start_offset": "00:03:38",
+          "end_offset": "00:03:39"
+        },
+        {
+          "event_description": "Chandler apologizes and agrees to calm down.",
+          "involved_subjects": [
+            "Chandler"
+          ],
+          "start_offset": "00:03:39",
+          "end_offset": "00:03:40"
+        },
+        {
+          "event_description": "Chandler gets up behind Joey and yells in his ear, encouraging him to go out with Lorraine.",
+          "involved_subjects": [
+            "Chandler",
+            "Joey"
+          ],
+          "start_offset": "00:03:40",
+          "end_offset": "00:04:14"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, the girls are all there, discussing their bad luck with\nmen.]",
+      "dialogue": [
+        {
+          "speaker": "RACHEL",
+          "text": "Ok, ok, Roger was creepy, but he was nothing compared to Pete Carney."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Which one was Pete Carney?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Pete the Weeper? Remember that guy who used to cry every time we had sex. (imitating) \"Was it good for you?\""
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Yeah, well, I'll take a little crying any day over Howard-the-\"I-win\"-guy. (imitating) \"I win! I win!\" I went out with the guy for two months—I didn't get to win once."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "How did we end up with these jerks? We're good people!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "I don't know. Maybe we're some kinda magnets."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "I know I am. That's why I can't wear a digital watch."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "There's more beer, right?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh! You know my friend Abby who shaves her head? She said that if you want to break the bad boyfriend cycle, you can do like a cleansing ritual."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Pheebes, this woman is voluntarily bald."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Yeah. So, we can do it tomorrow night, you guys. It's Valentine's Day. It's perfect."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Ok, well, what kind of ritual?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Ok. We can, um, we can burn the stuff they gave us."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Or?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Or...or we can chant and dance around naked, you know, with sticks."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Burning's good."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Burning's good. Yeah, I got stuff to burn."
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "RACHEL",
+        "PHOEBE",
+        "MONICA"
+      ],
+      "clip_start": "00:04:15",
+      "clip_end": "00:05:49",
+      "srt_start": "",
+      "srt_end": "",
+      "context_label": "0114_scene_004_Monica and Rachel's",
+      "event_description": "[Scene: Monica and Rachel's, the girls are all there, discussing their bad luck with\nmen.]",
+      "events": [
+        {
+          "event_description": "Rachel compares Roger to Pete Carney, describing Pete as a crier during sex.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:04:15",
+          "end_offset": "00:04:20"
+        },
+        {
+          "event_description": "Monica asks Rachel which Pete Carney was.",
+          "involved_subjects": [
+            "MONICA",
+            "RACHEL"
+          ],
+          "start_offset": "00:04:20",
+          "end_offset": "00:04:22"
+        },
+        {
+          "event_description": "Rachel imitates Pete Carney crying during sex and questions if he was good for her.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:04:22",
+          "end_offset": "00:04:27"
+        },
+        {
+          "event_description": "Monica compares her past boyfriend Howard to other jerks, implying she preferred crying over his 'I-win' attitude.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:04:27",
+          "end_offset": "00:04:33"
+        },
+        {
+          "event_description": "Rachel questions why they end up with such jerks, expressing their frustration.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:04:33",
+          "end_offset": "00:04:36"
+        },
+        {
+          "event_description": "Monica suggests they might be magnets for bad guys.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:04:36",
+          "end_offset": "00:04:38"
+        },
+        {
+          "event_description": "Phoebe states she is a magnet for bad relationships and mentions her reason for not wearing a digital watch.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:04:38",
+          "end_offset": "00:04:43"
+        },
+        {
+          "event_description": "Phoebe proposes doing a cleansing ritual to break the bad boyfriend cycle, referencing her friend Abby who shaves her head.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:04:43",
+          "end_offset": "00:04:50"
+        },
+        {
+          "event_description": "Rachel questions the practicality of the cleansing ritual, noting that Abby is voluntarily bald.",
+          "involved_subjects": [
+            "RACHEL",
+            "PHOEBE"
+          ],
+          "start_offset": "00:04:50",
+          "end_offset": "00:04:55"
+        },
+        {
+          "event_description": "Phoebe suggests doing the ritual on Valentine's Day, either burning items or chanting and dancing naked with sticks.",
+          "involved_subjects": [
+            "PHOEBE",
+            "RACHEL",
+            "MONICA"
+          ],
+          "start_offset": "00:04:55",
+          "end_offset": "00:05:49"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: The Restaurant, Joey, Lorraine, Chandler, and Janice are at the table. Joey and\nLorraine are seated very close, Chandler and Janice have backed their chairs away from one\nanother.]",
+      "dialogue": [
+        {
+          "speaker": "LORRAINE",
+          "text": "You know, ever since I was little, I've been able to pick up quarters with my toes."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Good for you. (jumps suddenly) Uh, quarters or rolls of quarters?"
+        },
+        {
+          "speaker": "JANICE",
+          "text": "By the way, Chandler. I cut you out of all my pictures. So if you want, I have a bag with just your heads."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "That's OK."
+        },
+        {
+          "speaker": "JANICE",
+          "text": "Oh, are you sure? Really? Because you know, you could make little puppets out of them, and you could use them in your theater of cruelty."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "(to Lorraine) We can't do that."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "(disgusted) What? What can't you do?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Uh, can I talk to you for a second, over there?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Uh, we might be leaving now."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Tell me it's \"you and me\" we."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "She said she wants to slather my body with stuff and then lick it off. I'm not even sure what slathering is, but I definitely want to be a part of it."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Ok, you can not do this to me."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "You're right, I'm sorry. You're right."
+        },
+        {
+          "speaker": "LORRAINE",
+          "text": "(to waiter) Uh, can we have three chocolate mousses to go please?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "I'm outta here. Here's my credit card. Dinner's on me. I'm sorry, Chandler."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "I hope she throws up on you."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "So..."
+        },
+        {
+          "speaker": "JANICE",
+          "text": "Just us."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Oh, what a crappy night!"
+        },
+        {
+          "speaker": "JANICE",
+          "text": "Although, I have enjoyed the fact that, uh your shirt's been stickin' outta your zipper ever since you came back from the bathroom."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Excuse me. (gets up, jumps up and down while he zips his zipper up... other patrons look at him) How ya doin'?"
+        },
+        {
+          "speaker": "JANICE",
+          "text": "So, do we have the best friends or what?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Joey's not a friend. He's...a stupid man who left us his credit card. Another drink? Some dessert? A big screen TV?"
+        },
+        {
+          "speaker": "JANICE",
+          "text": "I will go for that drink."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "You got it. Good woman! (the waiter turns around, it's a man) Could we get a bottle of your most overpriced champagne?"
+        },
+        {
+          "speaker": "JANICE",
+          "text": "Each."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "That's right, each. Oh, and a uh Rob Roy. (to Janice) I've always wanted to know..."
+        }
+      ],
+      "location": "The Restaurant",
+      "subjects": [
+        "CHANDLER",
+        "JANICE",
+        "LORRAINE",
+        "JOEY"
+      ],
+      "clip_start": "00:05:51",
+      "clip_end": "00:08:48",
+      "srt_start": "",
+      "srt_end": "",
+      "context_label": "0114_scene_005_The Restaurant",
+      "event_description": "[Scene: The Restaurant, Joey, Lorraine, Chandler, and Janice are at the table. Joey and\nLorraine are seated very close, Chandler and Janice have backed their chairs away from one\nanother.]",
+      "events": [
+        {
+          "event_description": "Lorraine states she can pick up quarters with her toes.",
+          "involved_subjects": [
+            "LORRAINE"
+          ],
+          "start_offset": "00:05:51",
+          "end_offset": "00:05:55"
+        },
+        {
+          "event_description": "Joey questions whether Lorraine is talking about quarters or rolls of quarters.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:05:55",
+          "end_offset": "00:05:58"
+        },
+        {
+          "event_description": "Janice informs Chandler that she has cut him out of all her pictures and has a bag with just his heads.",
+          "involved_subjects": [
+            "JANICE",
+            "CHANDLER"
+          ],
+          "start_offset": "00:05:58",
+          "end_offset": "00:06:05"
+        },
+        {
+          "event_description": "Chandler declines Janice's offer to see the pictures with his heads.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:06:05",
+          "end_offset": "00:06:07"
+        },
+        {
+          "event_description": "Janice suggests Chandler could make puppets out of his heads for her theater of cruelty.",
+          "involved_subjects": [
+            "JANICE",
+            "CHANDLER"
+          ],
+          "start_offset": "00:06:07",
+          "end_offset": "00:06:12"
+        },
+        {
+          "event_description": "Joey tells Lorraine that they can't do whatever she is planning involving slathering his body and licking it off.",
+          "involved_subjects": [
+            "JOEY",
+            "LORRAINE"
+          ],
+          "start_offset": "00:06:12",
+          "end_offset": "00:06:17"
+        },
+        {
+          "event_description": "Joey informs Chandler that he might be leaving now and hands him his credit card.",
+          "involved_subjects": [
+            "JOEY",
+            "CHANDLER"
+          ],
+          "start_offset": "00:06:17",
+          "end_offset": "00:06:22"
+        },
+        {
+          "event_description": "Joey expresses regret to Chandler about leaving and mentions that dinner is on him.",
+          "involved_subjects": [
+            "JOEY",
+            "CHANDLER"
+          ],
+          "start_offset": "00:06:22",
+          "end_offset": "00:06:25"
+        },
+        {
+          "event_description": "Chandler wishes that Lorraine throws up on Joey.",
+          "involved_subjects": [
+            "CHANDLER",
+            "JOEY"
+          ],
+          "start_offset": "00:06:25",
+          "end_offset": "00:06:27"
+        },
+        {
+          "event_description": "Chandler notices his shirt sticking out of his zipper and gets up to zip it up, drawing attention from other patrons.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:06:27",
+          "end_offset": "00:06:33"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Chandler's bedroom, Chandler wakes up, and finds someone else's hand on his\nchest. He rolls over and is shocked to see Janice there.]",
+      "dialogue": [
+        {
+          "speaker": "JANICE",
+          "text": "Happy Valentine's Day!"
+        }
+      ],
+      "location": "Chandler's bedroom",
+      "subjects": [
+        "JANICE"
+      ],
+      "clip_start": "00:08:56",
+      "clip_end": "00:09:14",
+      "srt_start": "",
+      "srt_end": "",
+      "context_label": "0114_scene_006_Chandler's bedroom",
+      "event_description": "[Scene: Chandler's bedroom, Chandler wakes up, and finds someone else's hand on his\nchest. He rolls over and is shocked to see Janice there.]",
+      "events": [
+        {
+          "event_description": "Chandler wakes up in his bedroom.",
+          "involved_subjects": [
+            "Chandler"
+          ],
+          "start_offset": "00:08:56",
+          "end_offset": "00:08:58"
+        },
+        {
+          "event_description": "Chandler feels a hand on his chest while sleeping.",
+          "involved_subjects": [
+            "Chandler"
+          ],
+          "start_offset": "00:08:58",
+          "end_offset": "00:09:00"
+        },
+        {
+          "event_description": "Chandler rolls over to look at his surroundings.",
+          "involved_subjects": [
+            "Chandler"
+          ],
+          "start_offset": "00:09:00",
+          "end_offset": "00:09:02"
+        },
+        {
+          "event_description": "Chandler is shocked to see Janice in his bed.",
+          "involved_subjects": [
+            "Chandler",
+            "Janice"
+          ],
+          "start_offset": "00:09:02",
+          "end_offset": "00:09:10"
+        },
+        {
+          "event_description": "Janice greets Chandler with 'Happy Valentine's Day!'",
+          "involved_subjects": [
+            "Janice"
+          ],
+          "start_offset": "00:09:10",
+          "end_offset": "00:09:14"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: The Hallway, Chandler is trying to get Janice out of his apartment.]",
+      "dialogue": [
+        {
+          "speaker": "JANICE",
+          "text": "Oh, I miss you already. Can you believe this happened?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "No... no! And yet it did. Good-bye, Janice."
+        },
+        {
+          "speaker": "JANICE",
+          "text": "Kiss me!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Oh, Chandler, sorry."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Ohhh, Chandler, sorry! Hey, Janice."
+        },
+        {
+          "speaker": "JANICE",
+          "text": "Hi, Monica."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Ok, well, this was very special."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Rach, come see who's out here!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh my god. Janice, hi!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Janice is gonna go away now."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "I'll be right back."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh, Joey, look who it is."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "(in disbelief) Whoa."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Oh, good, Joey's home now."
+        },
+        {
+          "speaker": "JANICE",
+          "text": "This is so fun. This is like a reunion in the hall."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Oh, hi, Ross. Yeah. There's someone I want you to say hi to. (to Chandler) He just happened to call."
+        },
+        {
+          "speaker": "JANICE",
+          "text": "Hi, Ross. Yes, it's me. How did you know? (she laughs obnoxiously)"
+        }
+      ],
+      "location": "The Hallway",
+      "subjects": [
+        "JOEY",
+        "RACHEL",
+        "CHANDLER",
+        "MONICA",
+        "JANICE"
+      ],
+      "clip_start": "00:09:17",
+      "clip_end": "00:10:45",
+      "srt_start": "",
+      "srt_end": "",
+      "context_label": "0114_scene_007_The Hallway",
+      "event_description": "[Scene: The Hallway, Chandler is trying to get Janice out of his apartment.]",
+      "events": [
+        {
+          "event_description": "Chandler attempts to get Janice out of his apartment in the hallway.",
+          "involved_subjects": [
+            "Chandler",
+            "Janice"
+          ],
+          "start_offset": "00:09:17",
+          "end_offset": "00:10:45"
+        },
+        {
+          "event_description": "Janice expresses her feelings by saying she misses Chandler and asks him to kiss her.",
+          "involved_subjects": [
+            "Janice"
+          ],
+          "start_offset": "00:09:17",
+          "end_offset": "00:10:45"
+        },
+        {
+          "event_description": "Chandler responds to Janice by saying goodbye and refusing her request to kiss.",
+          "involved_subjects": [
+            "Chandler",
+            "Janice"
+          ],
+          "start_offset": "00:09:17",
+          "end_offset": "00:10:45"
+        },
+        {
+          "event_description": "Monica apologizes to Chandler for Janice's behavior.",
+          "involved_subjects": [
+            "Monica",
+            "Chandler"
+          ],
+          "start_offset": "00:09:17",
+          "end_offset": "00:10:45"
+        },
+        {
+          "event_description": "Monica calls out to Rachel to see who is outside the apartment.",
+          "involved_subjects": [
+            "Monica",
+            "Rachel"
+          ],
+          "start_offset": "00:09:17",
+          "end_offset": "00:10:45"
+        },
+        {
+          "event_description": "Rachel reacts with surprise upon seeing Janice outside.",
+          "involved_subjects": [
+            "Rachel"
+          ],
+          "start_offset": "00:09:17",
+          "end_offset": "00:10:45"
+        },
+        {
+          "event_description": "Joey expresses disbelief upon seeing Janice outside.",
+          "involved_subjects": [
+            "Joey"
+          ],
+          "start_offset": "00:09:17",
+          "end_offset": "00:10:45"
+        },
+        {
+          "event_description": "Chandler comments that Joey is now home, indicating Joey has arrived.",
+          "involved_subjects": [
+            "Chandler",
+            "Joey"
+          ],
+          "start_offset": "00:09:17",
+          "end_offset": "00:10:45"
+        },
+        {
+          "event_description": "Janice remarks that the scene feels like a reunion in the hallway.",
+          "involved_subjects": [
+            "Janice"
+          ],
+          "start_offset": "00:09:17",
+          "end_offset": "00:10:45"
+        },
+        {
+          "event_description": "Monica introduces Ross to Janice, indicating Ross is nearby.",
+          "involved_subjects": [
+            "Monica",
+            "Ross",
+            "Janice"
+          ],
+          "start_offset": "00:09:17",
+          "end_offset": "00:10:45"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: A Chinese Restaurant, Ross is there with his date.]",
+      "dialogue": [
+        {
+          "speaker": "ROSS",
+          "text": "I'm just sayin' if dogs do experience jet lag, then, because of the whole um, seven dog years to one human year thing, then, when a dog flies from New York to Los Angeles, he doesn't just lose three hours, he loses like a week and a half."
+        },
+        {
+          "speaker": "KRISTIN",
+          "text": "That's funny. Who are they?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "The blond woman is my ex-wife, and the woman touching her is her... close, personal friend."
+        },
+        {
+          "speaker": "KRISTIN",
+          "text": "You mean they're lovers."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "If you wanna put a label on it."
+        },
+        {
+          "speaker": "KRISTIN",
+          "text": "Wow, uh, anything else I should know?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Nope, nope, that's it."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Oh, and she's pregnant with my baby. I always forget that part. (to Carol and Susan) Helloo!"
+        }
+      ],
+      "location": "A Chinese Restaurant",
+      "subjects": [
+        "KRISTIN",
+        "ROSS"
+      ],
+      "clip_start": "00:10:47",
+      "clip_end": "00:12:14",
+      "srt_start": "",
+      "srt_end": "",
+      "context_label": "0114_scene_008_A Chinese Restaurant",
+      "event_description": "[Scene: A Chinese Restaurant, Ross is there with his date.]",
+      "events": [
+        {
+          "event_description": "Ross makes a joke about dogs experiencing jet lag and the effect of dog years on travel time.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:10:47",
+          "end_offset": "00:10:55"
+        },
+        {
+          "event_description": "Kristin responds by asking who the dogs are.",
+          "involved_subjects": [
+            "KRISTIN"
+          ],
+          "start_offset": "00:10:55",
+          "end_offset": "00:10:58"
+        },
+        {
+          "event_description": "Ross identifies the blond woman as his ex-wife and the woman touching her as her close friend.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:10:58",
+          "end_offset": "00:11:05"
+        },
+        {
+          "event_description": "Kristin infers that the two women are lovers.",
+          "involved_subjects": [
+            "KRISTIN"
+          ],
+          "start_offset": "00:11:05",
+          "end_offset": "00:11:08"
+        },
+        {
+          "event_description": "Ross confirms Kristin's inference and comments on the label, if any, to describe their relationship.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:11:08",
+          "end_offset": "00:11:12"
+        },
+        {
+          "event_description": "Kristin asks Ross if there is anything else she should know about his situation.",
+          "involved_subjects": [
+            "KRISTIN"
+          ],
+          "start_offset": "00:11:12",
+          "end_offset": "00:11:15"
+        },
+        {
+          "event_description": "Ross states that there is nothing else to know.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:11:15",
+          "end_offset": "00:11:17"
+        },
+        {
+          "event_description": "Ross mentions that the woman is pregnant with his baby and greets Carol and Susan.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:11:17",
+          "end_offset": "00:12:14"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, the girls are holding their boyfriend bonfire.]",
+      "dialogue": [
+        {
+          "speaker": "PHOEBE",
+          "text": "Ok, so now we need, um sage branches and the sacramental wine."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "All I have is, is oregano and a Fresca ."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Um, that's ok! (throws it in fire) Ok. All right. Now we need the semen of a righteous man."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Ok, Pheebs, you know what, if we had that, we wouldn't be doing the ritual in the first place."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Can we just start throwing things in?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Ok, yeah, ok. (she throws the directions in) Oh, OK."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(tossing things in the fire) Ok, Barry's letters. Adam Ritter's boxer shorts."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Ok, and I have the, uh receipt for my dinner with Nokululu Oon Ah Ah."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Look, here's a picture of Scotty Jared naked."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(looking at picture) Hey he's wearing a sweater."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "No."
+        },
+        {
+          "speaker": "RACHEL AND PHOEBE",
+          "text": "Eww!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "And here we have the last of Paulo's grappa."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Hey, Rachel, isn't that stuff almost pure..."
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "RACHEL",
+        "PHOEBE",
+        "MONICA"
+      ],
+      "clip_start": "00:12:16",
+      "clip_end": "00:13:40",
+      "srt_start": "",
+      "srt_end": "",
+      "context_label": "0114_scene_009_Monica and Rachel's",
+      "event_description": "[Scene: Monica and Rachel's, the girls are holding their boyfriend bonfire.]",
+      "events": [
+        {
+          "event_description": "Phoebe suggests they need sage branches and sacramental wine for the ritual.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:12:16",
+          "end_offset": "00:12:20"
+        },
+        {
+          "event_description": "Monica offers oregano and a Fresca as substitutes for ritual ingredients.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:12:20",
+          "end_offset": "00:12:23"
+        },
+        {
+          "event_description": "Phoebe throws oregano and a Fresca into the fire.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:12:23",
+          "end_offset": "00:12:25"
+        },
+        {
+          "event_description": "Phoebe states they now need semen of a righteous man for the ritual.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:12:25",
+          "end_offset": "00:12:27"
+        },
+        {
+          "event_description": "Rachel sarcastically comments that if they had semen of a righteous man, they wouldn't be doing the ritual.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:12:27",
+          "end_offset": "00:12:30"
+        },
+        {
+          "event_description": "Monica asks to start throwing items into the fire.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:12:30",
+          "end_offset": "00:12:32"
+        },
+        {
+          "event_description": "Rachel tosses Barry's letters and Adam Ritter's boxer shorts into the fire.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:12:32",
+          "end_offset": "00:12:35"
+        },
+        {
+          "event_description": "Phoebe throws the receipt for her dinner with Nokululu Oon Ah Ah into the fire.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:12:35",
+          "end_offset": "00:12:37"
+        },
+        {
+          "event_description": "Monica shows a picture of Scotty Jared naked to the others.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:12:37",
+          "end_offset": "00:12:39"
+        },
+        {
+          "event_description": "Rachel looks at the picture and comments that Scotty Jared is wearing a sweater.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:12:39",
+          "end_offset": "00:12:41"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Central Perk, Chandler and Joey are there. Chandler is preparing to dump Janice\nagain.]",
+      "dialogue": [
+        {
+          "speaker": "CHANDLER",
+          "text": "How can I dump this woman on Valentine's day?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "I don't know. You dumped her on New Year's."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Oh, man. In my next life, I'm coming back as a toilet brush."
+        },
+        {
+          "speaker": "JANICE",
+          "text": "Hello, funny Valentine."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Hi, Just Janice."
+        },
+        {
+          "speaker": "JANICE",
+          "text": "Hello, Joey, our little matchmaker. I could just kiss you all over, and I'm gonna!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "(to Chandler) If you don't do it, I will."
+        }
+      ],
+      "location": "Central Perk",
+      "subjects": [
+        "CHANDLER",
+        "JANICE",
+        "JOEY"
+      ],
+      "clip_start": "00:13:42",
+      "clip_end": "00:14:18",
+      "srt_start": "",
+      "srt_end": "",
+      "context_label": "0114_scene_010_Central Perk",
+      "event_description": "[Scene: Central Perk, Chandler and Joey are there. Chandler is preparing to dump Janice\nagain.]",
+      "events": [
+        {
+          "event_description": "Chandler questions how he can dump Janice on Valentine's Day.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:13:42",
+          "end_offset": "00:13:45"
+        },
+        {
+          "event_description": "Joey reminds Chandler that he dumped Janice on New Year's.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:13:45",
+          "end_offset": "00:13:48"
+        },
+        {
+          "event_description": "Chandler expresses frustration about his recurring breakups, wishing to come back as a toilet brush in his next life.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:13:48",
+          "end_offset": "00:13:52"
+        },
+        {
+          "event_description": "Janice greets Chandler with a playful remark, calling him 'funny Valentine'.",
+          "involved_subjects": [
+            "JANICE"
+          ],
+          "start_offset": "00:13:52",
+          "end_offset": "00:13:55"
+        },
+        {
+          "event_description": "Chandler responds to Janice with a dismissive greeting, calling her 'Just Janice'.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:13:55",
+          "end_offset": "00:13:58"
+        },
+        {
+          "event_description": "Janice playfully addresses Joey, calling him 'our little matchmaker' and expressing her affection.",
+          "involved_subjects": [
+            "JANICE",
+            "JOEY"
+          ],
+          "start_offset": "00:13:58",
+          "end_offset": "00:14:02"
+        },
+        {
+          "event_description": "Janice declares her intention to kiss Joey all over.",
+          "involved_subjects": [
+            "JANICE"
+          ],
+          "start_offset": "00:14:02",
+          "end_offset": "00:14:05"
+        },
+        {
+          "event_description": "Joey warns Chandler that he will break up with Janice if Chandler does not do it himself.",
+          "involved_subjects": [
+            "JOEY",
+            "CHANDLER"
+          ],
+          "start_offset": "00:14:05",
+          "end_offset": "00:14:09"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: The Chinese Restaurant.]",
+      "dialogue": [
+        {
+          "speaker": "ROSS",
+          "text": "So, um, what do you do for a living?"
+        },
+        {
+          "speaker": "KRISTIN",
+          "text": "Well, um, for the past few years I've been working..(Ross is watching Carol and Susan, not listening to Kristin. Susan gets up, and has to go. Carol is left stranded)...which is funny because, that wasn't even my major."
+        },
+        {
+          "speaker": "CAROL",
+          "text": "Oh no. I thought you said they could shoot the spot without you."
+        },
+        {
+          "speaker": "SUSAN",
+          "text": "I thought they could...I'll try to get back as soon as I can. I'm sorry. (Ross realizes Kristin was expecting him to laugh, so he starts to laugh hysterically.)"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Now that is funny. Hey, do you think...would it be too weird if I invited Carol over to join us? 'Cause she's, she's alone now, and pregnant, and, and sad."
+        },
+        {
+          "speaker": "KRISTIN",
+          "text": "(reluctantly) I guess."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Are you sure? Great. Carol? Wanna come over and join us?"
+        },
+        {
+          "speaker": "CAROL",
+          "text": "Oh, no no no. I'm fine. I'm fine."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Come on. These people'll scooch down. You guys'll scooch, won't you? Let's try scooching! Come on. Come on. Uh, Kristen Riggs, this is Carol Willick. Carol, Kristin. Uh, Carol teaches sixth grade. And, Kristin, Kristin...(struggling)...does something that, funnily enough, wasn't even her major!"
+        }
+      ],
+      "location": "The Chinese Restaurant.",
+      "subjects": [
+        "CAROL",
+        "KRISTIN",
+        "ROSS",
+        "SUSAN"
+      ],
+      "clip_start": "00:14:19",
+      "clip_end": "00:16:25",
+      "srt_start": "",
+      "srt_end": "",
+      "context_label": "0114_scene_011_The Chinese Restaurant.",
+      "event_description": "[Scene: The Chinese Restaurant.]",
+      "events": [
+        {
+          "event_description": "Kristin explains her recent work history and mentions her major was different from her current job.",
+          "involved_subjects": [
+            "KRISTIN"
+          ],
+          "start_offset": "00:14:19",
+          "end_offset": "00:14:40"
+        },
+        {
+          "event_description": "Susan gets up and leaves the scene, indicating she has to go.",
+          "involved_subjects": [
+            "SUSAN"
+          ],
+          "start_offset": "00:14:40",
+          "end_offset": "00:14:50"
+        },
+        {
+          "event_description": "Ross realizes Kristin was expecting him to laugh at her story and begins to laugh hysterically.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:14:50",
+          "end_offset": "00:15:00"
+        },
+        {
+          "event_description": "Ross invites Carol to join the group, suggesting she is alone, pregnant, and sad.",
+          "involved_subjects": [
+            "ROSS",
+            "CAROL"
+          ],
+          "start_offset": "00:15:00",
+          "end_offset": "00:15:10"
+        },
+        {
+          "event_description": "Carol initially refuses Ross's invitation to join the group.",
+          "involved_subjects": [
+            "CAROL"
+          ],
+          "start_offset": "00:15:10",
+          "end_offset": "00:15:15"
+        },
+        {
+          "event_description": "Ross encourages Carol to join by suggesting the others will scooch down to make room.",
+          "involved_subjects": [
+            "ROSS",
+            "CAROL"
+          ],
+          "start_offset": "00:15:15",
+          "end_offset": "00:15:25"
+        },
+        {
+          "event_description": "Ross introduces Kristin and Carol to each other, describing their professions and majors.",
+          "involved_subjects": [
+            "ROSS",
+            "KRISTIN",
+            "CAROL"
+          ],
+          "start_offset": "00:15:25",
+          "end_offset": "00:15:40"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, firemen are there to handle the bonfire that got out of\ncontrol.]",
+      "dialogue": [
+        {
+          "speaker": "RACHEL",
+          "text": "A PIECE OF SOMETHING boxer shorts, greeting cards, and what looks like a half-charred picture—Wow, that guy's hairier than the Chief!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "You know, it's a really funny story how this happened."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Really?"
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "RACHEL",
+        "MONICA"
+      ],
+      "clip_start": "00:16:26",
+      "clip_end": "00:17:36",
+      "srt_start": "",
+      "srt_end": "",
+      "context_label": "0114_scene_012_Monica and Rachel's",
+      "event_description": "[Scene: Monica and Rachel's, firemen are there to handle the bonfire that got out of\ncontrol.]",
+      "events": [
+        {
+          "event_description": "Rachel examines a collection of burned items, including boxer shorts, greeting cards, and a half-charred picture, and comments on a man's hairiness.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:16:26",
+          "end_offset": "00:16:30"
+        },
+        {
+          "event_description": "Rachel comments on the man's hairiness compared to the Chief.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:16:30",
+          "end_offset": "00:16:33"
+        },
+        {
+          "event_description": "Monica begins to tell a funny story about how the fire incident happened.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:16:33",
+          "end_offset": "00:16:36"
+        },
+        {
+          "event_description": "Rachel expresses interest by asking 'Really?'",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:16:36",
+          "end_offset": "00:16:37"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Central Perk.]",
+      "dialogue": [
+        {
+          "speaker": "JANICE",
+          "text": "I brought you something."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Is it loaded? Oh, little candy hearts. (reading the candy) Chan and Jan Forever."
+        },
+        {
+          "speaker": "JANICE",
+          "text": "I had them made special."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Ok, Janice. Janice. Hey, Janice. Look, there's no way for me to tell you this. At least there's no new way for me to tell you this. I just don't things are gonna work out."
+        },
+        {
+          "speaker": "JANICE",
+          "text": "That's fine."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "(surprised) It is?"
+        },
+        {
+          "speaker": "JANICE",
+          "text": "Mmm-hmm. Because I know that this isn't the end."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Oh no, you see, actually it is."
+        },
+        {
+          "speaker": "JANICE",
+          "text": "No, it isn't, because you won't let that happen. Don't you know it yet? You love me, Chandler Bing."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Oh, no I don't."
+        },
+        {
+          "speaker": "JANICE",
+          "text": "Well then ask yourself this. Why do you think we keep ending up together? New Year's? Who invited who? Valentine's? Who asked who into whose bed?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "I did, but..."
+        },
+        {
+          "speaker": "JANICE",
+          "text": "You seek me out. Something deep in your soul calls out to me like a foghorn. Janice, Janice. You want me. You need me. You can't live without me. And you know it. You just don't know you know it. See ya."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Call me!"
+        }
+      ],
+      "location": "Central Perk.",
+      "subjects": [
+        "CHANDLER",
+        "JANICE"
+      ],
+      "clip_start": "00:17:37",
+      "clip_end": "00:19:50",
+      "srt_start": "",
+      "srt_end": "",
+      "context_label": "0114_scene_013_Central Perk.",
+      "event_description": "[Scene: Central Perk.]",
+      "events": [
+        {
+          "event_description": "Janice presents Chandler with a gift of candy hearts that read 'Chan and Jan Forever.'",
+          "involved_subjects": [
+            "JANICE",
+            "CHANDLER"
+          ],
+          "start_offset": "00:17:37",
+          "end_offset": "00:17:50"
+        },
+        {
+          "event_description": "Chandler reads the message on the candy hearts and comments on it.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:17:50",
+          "end_offset": "00:17:55"
+        },
+        {
+          "event_description": "Chandler expresses doubt about the future of their relationship.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:17:55",
+          "end_offset": "00:18:05"
+        },
+        {
+          "event_description": "Janice reassures Chandler that she believes their relationship isn't over.",
+          "involved_subjects": [
+            "JANICE"
+          ],
+          "start_offset": "00:18:05",
+          "end_offset": "00:18:10"
+        },
+        {
+          "event_description": "Chandler states that their relationship is indeed over.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:18:10",
+          "end_offset": "00:18:15"
+        },
+        {
+          "event_description": "Janice insists that Chandler loves her and that they keep ending up together.",
+          "involved_subjects": [
+            "JANICE"
+          ],
+          "start_offset": "00:18:15",
+          "end_offset": "00:18:25"
+        },
+        {
+          "event_description": "Chandler denies that he loves Janice.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:18:25",
+          "end_offset": "00:18:30"
+        },
+        {
+          "event_description": "Janice argues that Chandler seeks her out and claims he needs her.",
+          "involved_subjects": [
+            "JANICE"
+          ],
+          "start_offset": "00:18:30",
+          "end_offset": "00:18:40"
+        },
+        {
+          "event_description": "Janice asserts that Chandler cannot live without her and implies he is aware of this.",
+          "involved_subjects": [
+            "JANICE"
+          ],
+          "start_offset": "00:18:40",
+          "end_offset": "00:18:50"
+        },
+        {
+          "event_description": "Janice leaves the scene, telling Chandler to call her.",
+          "involved_subjects": [
+            "JANICE",
+            "CHANDLER"
+          ],
+          "start_offset": "00:18:50",
+          "end_offset": "00:19:00"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: The Chinese Restaurant, Ross and Carol are talking. Kristin is not there.]",
+      "dialogue": [
+        {
+          "speaker": "CAROL",
+          "text": "It's not true. I never called your mother a wolverine."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "You did so. I swear, I swear—(noticing Kristin's absence) How long has she been in the bathroom?"
+        },
+        {
+          "speaker": "CAROL",
+          "text": "Uh, I don't think she's in the bathroom. Her coat is gone."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Well maybe it's cold in there. Or maybe I screwed up the first date I had in 9 years."
+        },
+        {
+          "speaker": "CAROL",
+          "text": "That could be it."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Oh, god. (He puts his head down on the grill) You know, this is still pretty hot. (He picks his head up, and a mushroom sticks to his head. Carol picks it off and eats it.)"
+        },
+        {
+          "speaker": "CAROL",
+          "text": "Mushroom. Smile. They won't all be like this. Some women might even stay through dinner. Sorry, that's not funny"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "No, it's just...you know the whole \"getting on with your life\" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it. And um, and then I'm here talkin' to you, and, and it's easy, and it's fun, and, and I don't, I don't have to...You know, here's a wacky thought. Um, what's say you and I give it another shot? No no no, I know what you're gonna say, you're a lesbian. But what do you say we just put that aside for now you know? Let's just stick a pin in it, ok? Because, we're great together, you know. You can't deny it. Besides, you're carrying my baby. I mean, how perfect is that? But see, you know, you keep sayin' that, but there's somethin' right here. I love you."
+        },
+        {
+          "speaker": "CAROL",
+          "text": "Oh, I love you too. But..."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "No but, no but."
+        },
+        {
+          "speaker": "CAROL",
+          "text": "You know that thing you put over here with the pin in it? It's time to take the pin out. You'll find someone, I know you will. The right woman is just waiting for you."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "That's easy for you to say, you found one already."
+        },
+        {
+          "speaker": "CAROL",
+          "text": "All you need is a woman who likes men and you'll be set."
+        },
+        {
+          "speaker": "CAROL",
+          "text": "Not her."
+        }
+      ],
+      "location": "The Chinese Restaurant",
+      "subjects": [
+        "CAROL",
+        "ROSS"
+      ],
+      "clip_start": "00:19:51",
+      "clip_end": "00:22:55",
+      "srt_start": "",
+      "srt_end": "",
+      "context_label": "0114_scene_014_The Chinese Restaurant",
+      "event_description": "[Scene: The Chinese Restaurant, Ross and Carol are talking. Kristin is not there.]",
+      "events": [
+        {
+          "event_description": "Ross notices Kristin is not in the bathroom and comments on her absence.",
+          "involved_subjects": [
+            "Ross"
+          ],
+          "start_offset": "00:20:00",
+          "end_offset": "00:20:05"
+        },
+        {
+          "event_description": "Carol observes that Kristin's coat is missing, suggesting she is not in the bathroom.",
+          "involved_subjects": [
+            "Carol"
+          ],
+          "start_offset": "00:20:05",
+          "end_offset": "00:20:10"
+        },
+        {
+          "event_description": "Ross and Carol discuss the possibility that Kristin is in the bathroom or that Ross made a mistake on his date.",
+          "involved_subjects": [
+            "Ross",
+            "Carol"
+          ],
+          "start_offset": "00:20:10",
+          "end_offset": "00:20:20"
+        },
+        {
+          "event_description": "Ross puts his head down on the grill in frustration.",
+          "involved_subjects": [
+            "Ross"
+          ],
+          "start_offset": "00:20:20",
+          "end_offset": "00:20:25"
+        },
+        {
+          "event_description": "A mushroom sticks to Ross's head, and Carol picks it off and eats it.",
+          "involved_subjects": [
+            "Ross",
+            "Carol"
+          ],
+          "start_offset": "00:20:25",
+          "end_offset": "00:20:30"
+        },
+        {
+          "event_description": "Ross confesses his feelings to Carol, suggesting they give their relationship another shot.",
+          "involved_subjects": [
+            "Ross",
+            "Carol"
+          ],
+          "start_offset": "00:20:30",
+          "end_offset": "00:21:00"
+        },
+        {
+          "event_description": "Ross tells Carol that she is carrying his baby and declares his love for her.",
+          "involved_subjects": [
+            "Ross",
+            "Carol"
+          ],
+          "start_offset": "00:21:00",
+          "end_offset": "00:21:10"
+        },
+        {
+          "event_description": "Carol responds to Ross's declaration by expressing love but indicating there are unresolved issues.",
+          "involved_subjects": [
+            "Carol"
+          ],
+          "start_offset": "00:21:10",
+          "end_offset": "00:21:15"
+        },
+        {
+          "event_description": "Carol advises Ross to remove the pin from the metaphorical 'thing' he is holding onto, implying he should move on.",
+          "involved_subjects": [
+            "Carol"
+          ],
+          "start_offset": "00:21:15",
+          "end_offset": "00:21:25"
+        },
+        {
+          "event_description": "Carol encourages Ross to find a woman who likes men, implying he should pursue a new relationship.",
+          "involved_subjects": [
+            "Carol"
+          ],
+          "start_offset": "00:21:25",
+          "end_offset": "00:21:30"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, The girls are talking with the firemen.]",
+      "dialogue": [
+        {
+          "speaker": "RACHEL",
+          "text": "So, um, will you bring the truck?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh, my god."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "See, there you go, the cleansing works!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "They're nice guys."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh, they're firemen guys."
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "RACHEL",
+        "PHOEBE",
+        "MONICA"
+      ],
+      "clip_start": "00:23:00",
+      "clip_end": "00:24:13",
+      "srt_start": "",
+      "srt_end": "",
+      "context_label": "0114_scene_015_Monica and Rachel's",
+      "event_description": "[Scene: Monica and Rachel's, The girls are talking with the firemen.]",
+      "events": [
+        {
+          "event_description": "Rachel asks the firemen if they will bring the truck.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:23:00",
+          "end_offset": "00:23:05"
+        },
+        {
+          "event_description": "Rachel exclaims 'Oh, my god.'",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:23:05",
+          "end_offset": "00:23:07"
+        },
+        {
+          "event_description": "Phoebe comments that the cleansing works.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:23:07",
+          "end_offset": "00:23:10"
+        },
+        {
+          "event_description": "Monica states that the firemen are nice guys.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:23:10",
+          "end_offset": "00:23:12"
+        },
+        {
+          "event_description": "Rachel remarks that the firemen are 'firemen guys'.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:23:12",
+          "end_offset": "00:23:13"
+        }
+      ]
+    }
+  ]
+}

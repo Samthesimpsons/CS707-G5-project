@@ -1,0 +1,2488 @@
+{
+  "episode": "0313",
+  "title": "The One Where Monica and Richard Are Friends",
+  "scenes": [
+    {
+      "scene_description": "[Scene: A Video Store, Monica is running in to return a video.]",
+      "dialogue": [
+        {
+          "speaker": "MONICA",
+          "text": "(to clerk) Hi."
+        },
+        {
+          "speaker": "CLERK",
+          "text": "Six dollars, please."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Six? I just had it for one night. It’s three."
+        },
+        {
+          "speaker": "CLERK",
+          "text": "Eight o’clock is the cut-off and, (looks at his watch) aww, it’s 8:02."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Y'know in a weird way, you have too much power. Look, you’re gonna have to help me out here, ‘cause I only have three."
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "(standing behind her, without his moustache) I can help with that."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Oh my God. Richard? (turns around) Hi!"
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "Hi!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Wow! Your lip went bald. (Richard pays the clerk) Hey, thanks."
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "So, you look great."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Right."
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "No you do. You... just..."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "What?"
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "You’ve got panties stuck to your leg."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "(removes them) That’s because I-I was just grabbing some things out of the dryer, and it’s static cling. Or maybe it’s just that God knew I’d be running into you and saw an opportunity."
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "It’s good to see you."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "It’s good to see you too."
+        }
+      ],
+      "location": "A Video Store",
+      "subjects": [
+        "MONICA",
+        "RICHARD",
+        "CLERK"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: A Video Store, Monica is running in to return a video.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Monica enters the video store to return a video.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "Clerk informs Monica that the rental fee is six dollars.",
+          "involved_subjects": [
+            "CLERK"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Monica disputes the fee, stating it should be three dollars for one night.",
+          "involved_subjects": [
+            "MONICA",
+            "CLERK"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Clerk explains that the cutoff time is 8:00, and it is now 8:02, so the fee is higher.",
+          "involved_subjects": [
+            "CLERK"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Richard, standing behind Monica, offers to help with the payment.",
+          "involved_subjects": [
+            "RICHARD"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Monica recognizes Richard and greets him.",
+          "involved_subjects": [
+            "MONICA",
+            "RICHARD"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Richard comments on Monica's appearance and pays the clerk.",
+          "involved_subjects": [
+            "RICHARD",
+            "MONICA",
+            "CLERK"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Richard comments that Monica has panties stuck to her leg.",
+          "involved_subjects": [
+            "RICHARD",
+            "MONICA"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:40"
+        },
+        {
+          "event_description": "Monica removes the panties, explaining it is static cling or a coincidence.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:40",
+          "end_offset": "00:00:45"
+        },
+        {
+          "event_description": "Richard expresses that it is good to see Monica, and she responds positively.",
+          "involved_subjects": [
+            "RICHARD",
+            "MONICA"
+          ],
+          "start_offset": "00:00:45",
+          "end_offset": "00:00:50"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: continued from earlier.]",
+      "dialogue": [
+        {
+          "speaker": "MONICA",
+          "text": "You see that guy? He’s in classics now, but y'know as soon as we leave he’s going straight to the porn."
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "He’s gonna go up to the counter with Citizen Kane , Vertigo , and Clockwork Orgy. (they both laugh) This is nice."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "I missed this."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Me too."
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "So, you wanna get a hamburger or something?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Oh, um, I don’t know if that’s a good idea."
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "Oh. Look, just friends, I won’t grope you. I promise."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "No, I just I think that it’s too soon."
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "No it’s not too soon, I had lunch at a eleven."
+        }
+      ],
+      "location": "continued from earlier.",
+      "subjects": [
+        "MONICA",
+        "RICHARD"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: continued from earlier.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Monica points out a guy in the scene and comments on his behavior after class.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:01",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "Richard jokes about the movies the guy will buy after leaving.",
+          "involved_subjects": [
+            "RICHARD"
+          ],
+          "start_offset": "00:00:06",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Monica and Richard laugh together about the joke.",
+          "involved_subjects": [
+            "MONICA",
+            "RICHARD"
+          ],
+          "start_offset": "00:00:11",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Richard expresses that he misses the current moment with Monica.",
+          "involved_subjects": [
+            "RICHARD"
+          ],
+          "start_offset": "00:00:16",
+          "end_offset": "00:00:18"
+        },
+        {
+          "event_description": "Monica agrees that she misses the moment.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:19",
+          "end_offset": "00:00:21"
+        },
+        {
+          "event_description": "Richard asks Monica if she wants to get a hamburger.",
+          "involved_subjects": [
+            "RICHARD",
+            "MONICA"
+          ],
+          "start_offset": "00:00:22",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Monica hesitates and says she doesn't think it's a good idea to get a hamburger.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:26",
+          "end_offset": "00:00:29"
+        },
+        {
+          "event_description": "Richard reassures Monica that they are just friends and he won't grop her.",
+          "involved_subjects": [
+            "RICHARD",
+            "MONICA"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:33"
+        },
+        {
+          "event_description": "Monica declines Richard's invitation, citing that it's too soon.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:34",
+          "end_offset": "00:00:36"
+        },
+        {
+          "event_description": "Richard states he had lunch at eleven, implying he considers it an appropriate time for eating.",
+          "involved_subjects": [
+            "RICHARD"
+          ],
+          "start_offset": "00:00:37",
+          "end_offset": "00:00:40"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, Chandler, Ross. Joey, and Rachel are eating breakfast.\nChandler is holding a bottle of Hersey’s Syrup .]",
+      "dialogue": [
+        {
+          "speaker": "CHANDLER",
+          "text": "Yeah, baby!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "What are you doing?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Making chocolate milk. Do you want some?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "No thanks. I’m 29."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(looking at her watch) Oh my God, I gotta go to work!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Oh sweetie, when do you think you’re going to get off tonight?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh I don’t know honey. It’s gonna be really late."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Oh come on, not again."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "I know. I’m sorry. Look, I’ll make a deal with you all right? Okay?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Hmm."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "For every night that you’re asleep before I get home from work..."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "I will wake you up in a way that’s proved very popular in the past."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Now, if you need to stay late, I want to be supportive of that."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Right."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "(entering, holding a pair of Roller Blades) Hi."
+        },
+        {
+          "speaker": "ALL",
+          "text": "Hey."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "(to Phoebe) Look at you. Since when do you roller blade?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh! Since tomorrow. I met this really cute guy in the park and he like y'know, jogs, and blades, and swims, and so y'know we made a deal that’s he’s going to teach me all sorts of jock stuff."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "And what are you going to do for him?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "I’m going to let him."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Okay."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Cool."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "(entering from her bedroom) Morning."
+        },
+        {
+          "speaker": "ALL",
+          "text": "Hey."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Somebody got in late last night."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Yeah well, I ran into Richard."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "When did this happen?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Oh, um, around 8:02. We ah, talked for a little while, and then um, we went out for an innocent burger."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, there’s no such thing as an innocent burger."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "So, are you gonna see him again?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Tomorrow night."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Monica, what are you doing?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Well, she spent the last six months getting over him, and now she’s celebrating that by going on a date with him."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "It’s not a date, okay. I’m just gonna teach him how to make lasagne for some pot luck dinner he has."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Well, you might wanna make a little extra, y'know you’ll probably be hungry after the sex."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "We’re not gonna have sex! Okay, nothing’s changed here. He still doesn’t want children and I still do, so that’s why we’re just gonna be friends."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Naked friends."
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "CHANDLER",
+        "ROSS",
+        "PHOEBE",
+        "MONICA",
+        "RACHEL",
+        "JOEY"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Monica and Rachel's, Chandler, Ross. Joey, and Rachel are eating breakfast.\nChandler is holding a bottle of Hersey’s Syrup .]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Chandler holds a bottle of Hershey's Syrup and makes a comment about making chocolate milk.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "Ross questions Chandler about his activity.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:07"
+        },
+        {
+          "event_description": "Chandler offers to share chocolate milk with Ross.",
+          "involved_subjects": [
+            "CHANDLER",
+            "ROSS"
+          ],
+          "start_offset": "00:00:07",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Rachel announces she has to leave for work and looks at her watch.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:13"
+        },
+        {
+          "event_description": "Rachel discusses her late work hours with Ross and makes a deal to wake him up in a special way if he sleeps before she returns.",
+          "involved_subjects": [
+            "RACHEL",
+            "ROSS"
+          ],
+          "start_offset": "00:00:13",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Phoebe enters holding roller blades and mentions she will learn to roller blade from a new acquaintance.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Ross questions Phoebe about what she will do for her new acquaintance.",
+          "involved_subjects": [
+            "ROSS",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Monica enters and mentions she ran into Richard and went out for a burger with him.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:40"
+        },
+        {
+          "event_description": "Rachel questions Monica about her meeting with Richard.",
+          "involved_subjects": [
+            "RACHEL",
+            "MONICA"
+          ],
+          "start_offset": "00:00:40",
+          "end_offset": "00:00:45"
+        },
+        {
+          "event_description": "Monica reveals she will see Richard again tomorrow night and clarifies she is not on a date with him.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:45",
+          "end_offset": "00:00:50"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Chandler and Joey's, Joey is watching TV.]",
+      "dialogue": [
+        {
+          "speaker": "RACHEL",
+          "text": "(entering) Hey."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Hey."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Do you have any ice?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Check the freezer. If there’s none in there, then we’re probably out. Are you just getting in from work? It’s late."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Yeah, I know. I had the greatest day though, I got to sit in on the meeting with the reps from Calvin Klien . I told my boss I liked this line of lingerie, she ordered a ton of it. How was your day?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "I discovered I’m able to count all of my teeth using just my tongue."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Hmm. (she opens the freezer) Umm, why do you have a copy of The Shining in your freezer?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Oh, I was reading it last night, and I got scared, so."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "But ah, you’re safe from it if it’s in the freezer?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Well, safer. Y'know, I mean I never start reading The Shining , without making sure we’ve got plenty of room in the freezer, y'know."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "How often do you read it?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Haven’t you ever read the same book over and over again?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Well, umm, I guess I read Little Women more than once. But I mean that’s a classic, what’s so great about The Shining ?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "The question should be Rach, what is not so great about The Shining . Okay?"
+        },
+        {
+          "speaker": "AND THE ANSWER WOULD BE",
+          "text": "nothing. All right? This is like the scariest book ever. I bet it’s way better than that classic of yours."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Okay. Ah, well we’ll just see about that, okay. I will read The Shining , (she tries to take the book away from him but he doesn’t want to let it go) and you will read Little Women ."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "All right, you got it."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "All right."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Okay."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Okay."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Ah, now Rach, these ah, these little women."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "How little are they? I mean, are they like scary little?"
+        }
+      ],
+      "location": "Chandler and Joey's",
+      "subjects": [
+        "JOEY",
+        "RACHEL",
+        "AND THE ANSWER WOULD BE"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Chandler and Joey's, Joey is watching TV.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Rachel enters Chandler and Joey's apartment and greets Joey.",
+          "involved_subjects": [
+            "RACHEL",
+            "JOEY"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "Joey responds to Rachel with a greeting.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:07"
+        },
+        {
+          "event_description": "Rachel asks Joey if he has any ice.",
+          "involved_subjects": [
+            "RACHEL",
+            "JOEY"
+          ],
+          "start_offset": "00:00:07",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Joey instructs Rachel to check the freezer for ice and comments on their ice supply.",
+          "involved_subjects": [
+            "JOEY",
+            "RACHEL"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Rachel opens the freezer and notices a copy of The Shining inside.",
+          "involved_subjects": [
+            "RACHEL",
+            "JOEY"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Joey explains that he was reading The Shining last night and got scared, so he put it in the freezer.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Rachel questions Joey about the safety of having The Shining in the freezer.",
+          "involved_subjects": [
+            "RACHEL",
+            "JOEY"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:40"
+        },
+        {
+          "event_description": "Joey claims that having the book in the freezer makes him safer from its scares.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:40",
+          "end_offset": "00:00:50"
+        },
+        {
+          "event_description": "Rachel asks Joey how often he reads The Shining.",
+          "involved_subjects": [
+            "RACHEL",
+            "JOEY"
+          ],
+          "start_offset": "00:00:50",
+          "end_offset": "00:00:55"
+        },
+        {
+          "event_description": "Joey responds that he has read Little Women multiple times and defends The Shining as a great book.",
+          "involved_subjects": [
+            "JOEY",
+            "RACHEL"
+          ],
+          "start_offset": "00:00:55",
+          "end_offset": "00:01:10"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Central Perk, Chandler and Ross are there, Phoebe is entering with her date\nRobert.]",
+      "dialogue": [
+        {
+          "speaker": "PHOEBE",
+          "text": "Um, Chandler, Ross, this is Robert."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Oh, hey."
+        },
+        {
+          "speaker": "ROBERT",
+          "text": "Hi."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Hey."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "(to Robert) You’ve have lipstick right here (points to her cheek). That’s okay, it’s mine, we just kissed."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Oh."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "(to Robert) So ah, isn’t a bit cold out for shorts?"
+        },
+        {
+          "speaker": "ROBERT",
+          "text": "Well, I’m from California."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Right, right. Sometimes you guys just burst into flames."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "(standing up) I’m up! I’m up, I’ve gotten up now! Anybody ah, want anything?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "I’ll have coffee."
+        },
+        {
+          "speaker": "ROBERT",
+          "text": "Yeah, me too."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Yeah, make that three."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Okay Ross, why don’t you come with me?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Okay. (goes over to the counter) (to Chandler) What ah, what is the matter with you? What’s going on?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Robert’s coming out."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "What, what do you mean, what? Is he gay?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "No. He.....he’s coming out of his shorts."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "What?!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "The man is showing brain."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Are you sure? ("
+        },
+        {
+          "speaker": "CHANDLER NODS",
+          "text": "Yes!) Hold on. (walks over behind the couch) I’m sorry you guys, that was a coffee and a...."
+        },
+        {
+          "speaker": "ROBERT",
+          "text": "Coffee."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Okay."
+        },
+        {
+          "speaker": "ROBERT",
+          "text": "We could write it down for you?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "No, no, that won’t be ah, that won’t be necessary (leans down and looks up Robert’s shorts, seeing Robert’s package.)"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "(to Ross) Wellll?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Yeah, yeah, yeah!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "What do we do? What do we do?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Well, I suppose we just try to not look directly at it."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Like an eclipse."
+        }
+      ],
+      "location": "Central Perk",
+      "subjects": [
+        "CHANDLER",
+        "CHANDLER NODS",
+        "ROSS",
+        "PHOEBE",
+        "ROBERT"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Central Perk, Chandler and Ross are there, Phoebe is entering with her date\nRobert.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Phoebe introduces Robert to Chandler and Ross at Central Perk.",
+          "involved_subjects": [
+            "PHOEBE",
+            "CHANDLER",
+            "ROSS",
+            "ROBERT"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "Chandler greets Robert with a casual 'Oh, hey.'",
+          "involved_subjects": [
+            "CHANDLER",
+            "ROBERT"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:07"
+        },
+        {
+          "event_description": "Robert responds with a greeting to Chandler and Ross.",
+          "involved_subjects": [
+            "ROBERT",
+            "CHANDLER",
+            "ROSS"
+          ],
+          "start_offset": "00:00:07",
+          "end_offset": "00:00:09"
+        },
+        {
+          "event_description": "Phoebe points out lipstick on her cheek and explains she and Robert kissed.",
+          "involved_subjects": [
+            "PHOEBE",
+            "ROBERT"
+          ],
+          "start_offset": "00:00:09",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Chandler comments on Robert wearing shorts in cold weather.",
+          "involved_subjects": [
+            "CHANDLER",
+            "ROBERT"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Chandler stands up and offers to get drinks for everyone.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Chandler asks Ross to accompany him to the counter.",
+          "involved_subjects": [
+            "CHANDLER",
+            "ROSS"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:27"
+        },
+        {
+          "event_description": "Chandler and Ross go to the counter, and Ross questions Chandler about Robert's behavior.",
+          "involved_subjects": [
+            "CHANDLER",
+            "ROSS"
+          ],
+          "start_offset": "00:00:27",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Chandler reveals that Robert is coming out of his shorts, implying he is revealing his genital area.",
+          "involved_subjects": [
+            "CHANDLER",
+            "ROSS"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:40"
+        },
+        {
+          "event_description": "Ross looks at Robert's shorts and reacts to the situation, prompting Chandler and Ross to discuss how to handle the view.",
+          "involved_subjects": [
+            "ROSS",
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:40",
+          "end_offset": "00:00:50"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, Monica is teaching Richard how to make lasagne.]",
+      "dialogue": [
+        {
+          "speaker": "RICHARD",
+          "text": "So when people complement me on my cooking should I, what do I say?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "You say ‘Thank you very much,’ and then you buy me something pretty. Come on, we’re gonna put are hands in this bowl, and we’re gonna start squishing the tomatoes."
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "Ew, this feels very weird."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "You touch people’s eyeballs every day and this feels weird."
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "Yeah, well, sure I touch them, but I spent years learning not to squish them. (Monica grabs his hand in the tomatoes.) That’s my hand."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Oops."
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "Okay."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Gotta keep squishing."
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "Tomatoes are squishing."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Okay."
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "Op."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Oh, gosh, you got some on your shirt."
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Hold on a second, just put a little club soda on it (does so) and it should umm, be....."
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "What?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Umm, you’ve got some on your pants."
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "I’ll just throw them out."
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "MONICA",
+        "RICHARD"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Monica and Rachel's, Monica is teaching Richard how to make lasagne.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Monica begins teaching Richard how to make lasagne by instructing him to squish tomatoes in a bowl.",
+          "involved_subjects": [
+            "MONICA",
+            "RICHARD"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Richard expresses discomfort about squishing tomatoes.",
+          "involved_subjects": [
+            "RICHARD"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Monica compares squishing tomatoes to touching people's eyeballs to justify the activity.",
+          "involved_subjects": [
+            "MONICA",
+            "RICHARD"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Richard comments on the difficulty of not squishing people's eyeballs after touching them for years.",
+          "involved_subjects": [
+            "RICHARD"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Monica grabs Richard's hand to help him squish the tomatoes.",
+          "involved_subjects": [
+            "MONICA",
+            "RICHARD"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Richard notices some tomato on his shirt and comments on it.",
+          "involved_subjects": [
+            "RICHARD"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Monica applies club soda to Richard’s shirt to remove the stain.",
+          "involved_subjects": [
+            "MONICA",
+            "RICHARD"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:40"
+        },
+        {
+          "event_description": "Monica points out that Richard has tomato on his pants.",
+          "involved_subjects": [
+            "MONICA",
+            "RICHARD"
+          ],
+          "start_offset": "00:00:40",
+          "end_offset": "00:00:45"
+        },
+        {
+          "event_description": "Richard decides to throw out his tomato-stained pants.",
+          "involved_subjects": [
+            "RICHARD"
+          ],
+          "start_offset": "00:00:45",
+          "end_offset": "00:00:50"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Central Perk, Chandler is watching Joey read Little Women , Ross is also\nthere.]",
+      "dialogue": [
+        {
+          "speaker": "JOEY",
+          "text": "These little women. Wow!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Your liking it, huh?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Oh yeah! Amy just burned Jo’s manuscript. I don’t see how he could ever forgive her."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Umm, Jo’s a girl, it’s short for Josephine."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "But Jo’s got a crush on Laurie. (Ross nods his head) Oh. You mean it’s like a girl-girl thing? ‘Cause that is the one thing missing from The Shining ."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "No, actually Laurie’s a boy."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "No wonder Rachel had to read this so many times."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Hey!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Hey."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Hey! How’d the ah, basketball go?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, okay, I learned how to shoot a lay-up, a foul shot, and a twenty-three pointer."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "You mean a three pointer?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Oh, I get more because I’m dainty."
+        },
+        {
+          "speaker": "ROBERT",
+          "text": "So um, is there a phone here, I can check my messages?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Yeah, in the back. You want a quarter?"
+        },
+        {
+          "speaker": "ROBERT",
+          "text": "Oh, no thanks. I always carry one in my sock."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "(noticing Chandler) What are you doing? (he pushes Chandler back to his side of the couch) Get back over on your side of the... (sees Robert in all his glory) Hello!! (to Robert) Hi, I’m Joey, we haven’t met."
+        },
+        {
+          "speaker": "ROBERT",
+          "text": "Ah, good to meet you. Robert."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "What? (the guys keep laughing.) What? You guys, what is going on? You not like Robert? (the guys keep laughing.) Why are you laughing?!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Calm down. There’s no reason to get testy."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "You guys!! Come on!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "I’m sorry, I’m sorry, it just seems that Robert isn’t as concealed in the shorts area, as ah, one may have hoped."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "What do you mean?"
+        },
+        {
+          "speaker": "ROBERT",
+          "text": "Hey. (sits down)"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Hey."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Hey Robert, could you ah, ha, pass me those cookies?"
+        },
+        {
+          "speaker": "ROBERT",
+          "text": "Sure."
+        }
+      ],
+      "location": "Central Perk",
+      "subjects": [
+        "CHANDLER",
+        "ROSS",
+        "PHOEBE",
+        "ROBERT",
+        "JOEY"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Central Perk, Chandler is watching Joey read Little Women , Ross is also\nthere.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Joey exclaims that he is impressed with Little Women.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:07"
+        },
+        {
+          "event_description": "Chandler comments on Joey's liking of Little Women.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:07",
+          "end_offset": "00:00:09"
+        },
+        {
+          "event_description": "Joey states that Amy burned Jo's manuscript and questions how he could forgive her.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:09",
+          "end_offset": "00:00:13"
+        },
+        {
+          "event_description": "Ross explains that Jo is a girl, short for Josephine.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:13",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Joey comments that Jo has a crush on Laurie and relates it to The Shining.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Chandler clarifies that Laurie is a boy.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:22"
+        },
+        {
+          "event_description": "Joey remarks that Rachel had to read Little Women multiple times because of Jo's relationship with Laurie.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:22",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Phoebe states she learned to shoot a lay-up, foul shot, and three-pointer during basketball practice.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Chandler corrects Phoebe, asking if she meant a three-pointer.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:32"
+        },
+        {
+          "event_description": "Phoebe claims she gets more points because she is dainty.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:32",
+          "end_offset": "00:00:35"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, Monica is talking to Richard on the phone.]",
+      "dialogue": [
+        {
+          "speaker": "MONICA",
+          "text": "So, how’d the lasagne go over? (listens) Really?! Good. So you owe me three pretty things. (listens) Yeah, I’ve been thinking a lot about you too. (listens) I know. It’s hard this whole platonic thing. (listens) It’s a word!"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Yeah, I do think it’s better this way. (listens) Yeah, we’re being smart. (gets up to answer the door) (listens) Yes, I’m sure.(she opens the door and it’s Richard)"
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "You really sure?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "I’ll call you back. (starts kissing him)"
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "MONICA",
+        "RICHARD"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Monica and Rachel's, Monica is talking to Richard on the phone.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Monica receives a phone call and begins talking to Richard about the lasagne he made.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:01",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Monica listens to Richard and comments on the lasagne's success, implying he owes her three pretty things.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:11",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Monica expresses her feelings about the platonic relationship during the phone call.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:21",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Monica decides that ending the phone call is better and gets up to answer the door.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:31",
+          "end_offset": "00:00:40"
+        },
+        {
+          "event_description": "Monica opens the door and finds Richard standing there.",
+          "involved_subjects": [
+            "MONICA",
+            "RICHARD"
+          ],
+          "start_offset": "00:00:41",
+          "end_offset": "00:00:45"
+        },
+        {
+          "event_description": "Richard asks Monica if she is really sure about something, implying a question about their relationship.",
+          "involved_subjects": [
+            "RICHARD",
+            "MONICA"
+          ],
+          "start_offset": "00:00:46",
+          "end_offset": "00:00:50"
+        },
+        {
+          "event_description": "Monica confirms her decision and begins kissing Richard.",
+          "involved_subjects": [
+            "MONICA",
+            "RICHARD"
+          ],
+          "start_offset": "00:00:51",
+          "end_offset": "00:00:55"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica’s bedroom, she’s in bed with Richard.]",
+      "dialogue": [
+        {
+          "speaker": "MONICA",
+          "text": "So we can be friends who sleep together."
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "Absolutely, this will just be something we do, like racquetball."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Sounds smart and healthy to me. So um, just out of curiosity, um, do you currently have any other racquetball buddies?"
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "Just your dad. (pause) Although that’s actually racquetball. You know I-I do have a blind date with my sister’s neighbour next Tuesday."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Oh."
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "You want me to cancel it?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "No! (pushes him) No!"
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "Okay."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "‘Cause if you do that means you’d be cancelling it for me, and we’re just friends."
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "Exactly. (pushes her back)"
+        }
+      ],
+      "location": "Monica’s bedroom",
+      "subjects": [
+        "MONICA",
+        "RICHARD"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Monica’s bedroom, she’s in bed with Richard.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Monica proposes that they can be friends who sleep together.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:01",
+          "end_offset": "00:00:03"
+        },
+        {
+          "event_description": "Richard agrees that their arrangement will be just something they do, like racquetball.",
+          "involved_subjects": [
+            "RICHARD"
+          ],
+          "start_offset": "00:00:04",
+          "end_offset": "00:00:07"
+        },
+        {
+          "event_description": "Monica asks Richard if he has other racquetball buddies.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:08",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Richard responds that his only other racquetball buddy is her dad.",
+          "involved_subjects": [
+            "RICHARD"
+          ],
+          "start_offset": "00:00:11",
+          "end_offset": "00:00:13"
+        },
+        {
+          "event_description": "Richard mentions he has a blind date with his sister’s neighbor scheduled for next Tuesday.",
+          "involved_subjects": [
+            "RICHARD"
+          ],
+          "start_offset": "00:00:14",
+          "end_offset": "00:00:17"
+        },
+        {
+          "event_description": "Monica reacts with an 'Oh' upon hearing about Richard's upcoming blind date.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:18",
+          "end_offset": "00:00:19"
+        },
+        {
+          "event_description": "Monica pushes Richard to indicate she does not want him to cancel his blind date.",
+          "involved_subjects": [
+            "MONICA",
+            "RICHARD"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:22"
+        },
+        {
+          "event_description": "Richard asks if he should cancel his blind date, implying he is willing to do so.",
+          "involved_subjects": [
+            "RICHARD"
+          ],
+          "start_offset": "00:00:23",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Monica insists she does not want him to cancel the blind date, emphasizing their friendship.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:26",
+          "end_offset": "00:00:28"
+        },
+        {
+          "event_description": "Richard agrees that canceling would mean canceling for Monica, and they reaffirm their friendship through physical pushback.",
+          "involved_subjects": [
+            "RICHARD",
+            "MONICA"
+          ],
+          "start_offset": "00:00:29",
+          "end_offset": "00:00:31"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Central Perk, Robert is picking up Phoebe for a date.]",
+      "dialogue": [
+        {
+          "speaker": "ROBERT",
+          "text": "Hey."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Hey. Ooh! Don’t sit down!"
+        },
+        {
+          "speaker": "ROBERT",
+          "text": "You ready to go to the batting cage?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Yeah. And, first here’s a gift."
+        },
+        {
+          "speaker": "ROBERT",
+          "text": "Oh! Wow! Hey!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Stretchy pants! Why, those are the greatest things in the world! If I were you I would wear them every day, every day!"
+        },
+        {
+          "speaker": "ROBERT",
+          "text": "Jeez, thank you really that is so nice. But um, to be honest, I don’t think I can wear these, they’re so tight, I feel like I’m on display. I’m sorry."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "That’s all right, that’s well, I figured.... (they start to leave as Joey enters.)"
+        },
+        {
+          "speaker": "ROBERT",
+          "text": "(to Joey) Hey!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Hey! (starts to laugh.) How’s it going?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Good."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Hey, Rach, how you doing with The Shining ?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh, Danny just went into room 217."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Oooh, the next part’s the best, when that dead lady in the bathtub..."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Oh, no, meh-nah-nah-nah, come on you’re gonna ruin it!"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "All right I’ll talk in code. (to Ross and Chandler) Remember when the kid sees those two blanks in the hallway?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Hmmm, that’s very cool."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Oh, all blank, and no blank, make’s blank a blank blank. Oh no-no-no, no, the end when Jack almost kills them all with that blank, but then at last second they get away. Aww!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Joey! I can’t believe you just did that!"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "I can’t believe she cracked your code!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "All right, okay, Laurie proposes to Jo, and she says no, even though she’s still in love with him, and then he ends up marring Amy."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Hey! Mine was by accident! All right, the boiler explodes and destroys the hotel, and kills the dad."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Eh. Beth dies."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Beth, Beth dies?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Um-hmm."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Is that true? If I keep reading is Beth gonna die?"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "No, Beth doesn’t die, she doesn’t die. Does she Rachel?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "What?!"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Joey’s asking if you’ve just ruined the first book he’s ever loved that didn’t star Jack Nicholson?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "No. She doesn’t die."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Then why would you say that?!"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Because, I wanted to hurt you."
+        },
+        {
+          "speaker": "ROBERT",
+          "text": "(running in) Oh, there they are! I-I dropped my keys."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(gasps) Oh my...."
+        },
+        {
+          "speaker": "ROBERT",
+          "text": "Got ‘em."
+        }
+      ],
+      "location": "Central Perk",
+      "subjects": [
+        "CHANDLER",
+        "ROSS",
+        "PHOEBE",
+        "ROBERT",
+        "RACHEL",
+        "JOEY"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Central Perk, Robert is picking up Phoebe for a date.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Phoebe offers Robert a gift before he leaves for a date.",
+          "involved_subjects": [
+            "PHOEBE",
+            "ROBERT"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Chandler comments on Robert's stretchy pants, praising them enthusiastically.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:15",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Robert expresses gratitude for Phoebe's gift but declines to wear the tight pants, explaining he feels on display.",
+          "involved_subjects": [
+            "ROBERT"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Joey enters the scene and greets Robert, asking how things are going.",
+          "involved_subjects": [
+            "JOEY",
+            "ROBERT"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:45"
+        },
+        {
+          "event_description": "Joey asks Rachel about her progress with watching 'The Shining'.",
+          "involved_subjects": [
+            "JOEY",
+            "RACHEL"
+          ],
+          "start_offset": "00:00:45",
+          "end_offset": "00:00:55"
+        },
+        {
+          "event_description": "Joey begins to describe the plot of 'The Shining' in code, revealing key plot points humorously.",
+          "involved_subjects": [
+            "JOEY",
+            "ROSS",
+            "CHANDLER",
+            "RACHEL"
+          ],
+          "start_offset": "00:00:55",
+          "end_offset": "00:01:15"
+        },
+        {
+          "event_description": "Rachel reacts angrily to Joey's coded description, accusing him of ruining the story.",
+          "involved_subjects": [
+            "RACHEL",
+            "JOEY"
+          ],
+          "start_offset": "00:01:15",
+          "end_offset": "00:01:25"
+        },
+        {
+          "event_description": "Rachel explains the plot point about Laurie proposing to Jo and her feelings, revealing she still loves him.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:01:25",
+          "end_offset": "00:01:35"
+        },
+        {
+          "event_description": "Joey claims his previous story was accidental and describes a hotel explosion and a character's death.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:01:35",
+          "end_offset": "00:01:45"
+        },
+        {
+          "event_description": "Rachel confirms that Beth dies in the story, and Joey questions if reading further would result in her death.",
+          "involved_subjects": [
+            "RACHEL",
+            "JOEY"
+          ],
+          "start_offset": "00:01:45",
+          "end_offset": "00:01:55"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, Rachel is reading The Shining , as Monica enters.]",
+      "dialogue": [
+        {
+          "speaker": "MONICA",
+          "text": "Hi."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "(screams and grabs a potato masher to defend herself) Sorry. I’m sorry."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "You would not believe my day! I had to work two shifts, and then to top it off, I lost one of my fake boobs, (opens her coat revealing a large burn mark over her left breast.) in a grill fire."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "What are you smiling at?"
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "I’m sorry, I was just thinking you’re day could still pick up."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Yeah, right."
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "Hello."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "I love this friend thing!"
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "MONICA",
+        "RICHARD",
+        "RACHEL"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Monica and Rachel's, Rachel is reading The Shining , as Monica enters.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Rachel screams and grabs a potato masher to defend herself upon entering the scene.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:07"
+        },
+        {
+          "event_description": "Monica announces she had to work two shifts and shows her burn mark over her left breast caused by a grill fire.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:08",
+          "end_offset": "00:00:15"
+        },
+        {
+          "event_description": "Monica questions Rachel about what she is smiling at.",
+          "involved_subjects": [
+            "MONICA",
+            "RACHEL"
+          ],
+          "start_offset": "00:00:16",
+          "end_offset": "00:00:18"
+        },
+        {
+          "event_description": "Rachel responds that she thinks Monica's day could still improve.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:19",
+          "end_offset": "00:00:21"
+        },
+        {
+          "event_description": "Monica dismisses Rachel's comment with a sarcastic remark.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:22",
+          "end_offset": "00:00:23"
+        },
+        {
+          "event_description": "Richard enters the scene and greets Monica and Rachel.",
+          "involved_subjects": [
+            "RICHARD"
+          ],
+          "start_offset": "00:00:24",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Monica expresses her affection for her friends by saying, 'I love this friend thing!'",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:26",
+          "end_offset": "00:00:27"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Central Perk, Phoebe, Chandler, and Ross are there.]",
+      "dialogue": [
+        {
+          "speaker": "PHOEBE",
+          "text": "Listen, Robert’s gonna be here any second so, will one of you just tell him?"
+        },
+        {
+          "speaker": "ROSS",
+          "text": "Oh."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Please, right now, no, every time I see him it’s like ‘Is it on the lose?’ ‘Is it watching me?’"
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "We can’t tell him, you can’t go up to a guy you barely know and talk about his.... stuff."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "He’s right, even if it’s to say something complementary. (He stops and thinks about what he just said.)"
+        },
+        {
+          "speaker": "ROBERT",
+          "text": "(entering) Hey!"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Hey."
+        },
+        {
+          "speaker": "ROBERT",
+          "text": "(to Phoebe) So are ready for the gym? They’ve got this new rock climbing wall, we can spot each other."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "No, I can spot you from here."
+        },
+        {
+          "speaker": "ROBERT",
+          "text": "What?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Okay, listen Robert..."
+        },
+        {
+          "speaker": "ROSS",
+          "text": "(to Chandler) Hey, don’t we have to..."
+        },
+        {
+          "speaker": "CHANDLER",
+          "text": "Yeah, we got, um-hmm."
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "Umm, I think you’re really, really great..."
+        },
+        {
+          "speaker": "ROBERT",
+          "text": "Oh God! Here we go again. Why does this keep happening to me? (spreads his legs) Is it something I’m putting out there? Is this my fault? Or am I just nuts?"
+        },
+        {
+          "speaker": "PHOEBE",
+          "text": "I-I-I-I-I don’t know, I don’t know what to say."
+        },
+        {
+          "speaker": "GUNTHER",
+          "text": "(cleaning up the table) (to Robert) Hey buddy, this is a family place, put the mouse back in the house."
+        }
+      ],
+      "location": "Central Perk",
+      "subjects": [
+        "CHANDLER",
+        "GUNTHER",
+        "ROSS",
+        "PHOEBE",
+        "ROBERT"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Central Perk, Phoebe, Chandler, and Ross are there.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Phoebe informs Chandler and Ross that Robert will arrive soon and asks one of them to tell him about her feelings.",
+          "involved_subjects": [
+            "PHOEBE",
+            "CHANDLER",
+            "ROSS"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:10"
+        },
+        {
+          "event_description": "Ross reacts with an 'Oh' upon hearing Phoebe's request.",
+          "involved_subjects": [
+            "ROSS"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:12"
+        },
+        {
+          "event_description": "Phoebe expresses her anxiety about seeing Robert, describing her feelings of paranoia.",
+          "involved_subjects": [
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:12",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Chandler refuses to tell Robert about Phoebe's feelings, citing discomfort with discussing personal topics.",
+          "involved_subjects": [
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:30"
+        },
+        {
+          "event_description": "Ross agrees with Chandler, stating that even offering a compliment to Robert would be inappropriate.",
+          "involved_subjects": [
+            "ROSS",
+            "CHANDLER"
+          ],
+          "start_offset": "00:00:30",
+          "end_offset": "00:00:40"
+        },
+        {
+          "event_description": "Robert enters the scene and greets Phoebe.",
+          "involved_subjects": [
+            "ROBERT",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:40",
+          "end_offset": "00:00:45"
+        },
+        {
+          "event_description": "Robert asks Phoebe if she is ready for the gym and mentions the new rock climbing wall.",
+          "involved_subjects": [
+            "ROBERT",
+            "PHOEBE"
+          ],
+          "start_offset": "00:00:45",
+          "end_offset": "00:00:55"
+        },
+        {
+          "event_description": "Phoebe declines to work out with Robert, stating she can spot him from where she is.",
+          "involved_subjects": [
+            "PHOEBE",
+            "ROBERT"
+          ],
+          "start_offset": "00:00:55",
+          "end_offset": "00:01:05"
+        },
+        {
+          "event_description": "Robert questions Phoebe's statement, expressing confusion or surprise.",
+          "involved_subjects": [
+            "ROBERT",
+            "PHOEBE"
+          ],
+          "start_offset": "00:01:05",
+          "end_offset": "00:01:10"
+        },
+        {
+          "event_description": "Phoebe begins to compliment Robert, saying he is really great, indicating a moment of emotional expression.",
+          "involved_subjects": [
+            "PHOEBE",
+            "ROBERT"
+          ],
+          "start_offset": "00:01:10",
+          "end_offset": "00:01:20"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Richard’s bedroom, Monica has covered it in rose pedals and candles. We\nhear Richard come in to the apartment, and Monica frantically throws the rest of the\npedals on the bed, and jumps onto the bed and puts a rose in her mouth, and bites a\nthorn.]",
+      "dialogue": [
+        {
+          "speaker": "MONICA",
+          "text": "Ow!"
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "(outside the bedroom) Really?! Well, it’s just like everyone else’s apartment. It’s got rooms, walls, and ceilings."
+        },
+        {
+          "speaker": "S DATE",
+          "text": "Well, I just wanted to see where you lived. Now, give me the tour."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Oh my God! Oh my God! (She frantically tries to clean up the bedroom as Richard starts the tour.)"
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "Ah well, this is the living room."
+        },
+        {
+          "speaker": "S DATE",
+          "text": "Impressive."
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "All right. This is the kitchen."
+        },
+        {
+          "speaker": "S DATE",
+          "text": "Oh, that’s real pretty. Wait a minute, don’t I get to see the bedroom?"
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "The bedroom. Well it’s pretty much your typical... (opens the door as Monica hides under the covers, and quickly closes the door before his date can see the room.) bedroom."
+        },
+        {
+          "speaker": "S DATE",
+          "text": "We’re still on this side of the door."
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "Um-hmm."
+        },
+        {
+          "speaker": "S DATE",
+          "text": "Yeah, but I didn’t get to see it."
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "Oh shoot! Maybe next time. (yawns) Thanks for a lovely evening. (shows her out)"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "(still hiding under the blankets) So um, who was she?"
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "Oh, (laughs) that was the blind date that I told you about, she called and switched it to today."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "(still hiding under the blankets) Did you like her? And I’m just asking as a friend, because I am totally fine with this."
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "Well, you seem fine."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "(gets up) Okay, y'know what, I’m not fine, I’m not. I mean how can I be fine, hearing you come in with her, she wants to see your bedroom.... (pause) Y'know what, what if we’re friends who don’t see other people?"
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "You mean like exclusive friends?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Why not?! I mean this has been the most amazing week. Would it be so terrible? Even if we were friends who lived together. Or, maybe someday friends who stood up in front of their other friends, and vowed to be friends forever."
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "Wow. Y'know we’re back where we were. Honey, I would love to do all that, but nothing’s changed."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "That’s not true, you don’t have a moustache."
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "Okay, okay, one thing’s changed. But we still want different things and we know how this is gonna end."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Y'know what, I’ve got to walk out of here right now, ‘cause getting over you is the hardest thing that I have ever had to do. I don’t think I could do it again."
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "I know I couldn’t. So...."
+        },
+        {
+          "speaker": "MONICA",
+          "text": "How ‘bout one last game of racquetball?"
+        },
+        {
+          "speaker": "MONICA",
+          "text": "Watch the thorns!"
+        },
+        {
+          "speaker": "RICHARD",
+          "text": "(lying down) Ow!!"
+        }
+      ],
+      "location": "Richard’s bedroom",
+      "subjects": [
+        "MONICA",
+        "RICHARD",
+        "S DATE"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Richard’s bedroom, Monica has covered it in rose pedals and candles. We\nhear Richard come in to the apartment, and Monica frantically throws the rest of the\npedals on the bed, and jumps onto the bed and puts a rose in her mouth, and bites a\nthorn.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Monica frantically throws rose pedals onto the bed and jumps onto it, placing a rose in her mouth and biting a thorn.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:00:10",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Richard enters the apartment and comments on the apartment's appearance, comparing it to others.",
+          "involved_subjects": [
+            "RICHARD"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:25"
+        },
+        {
+          "event_description": "Monica tries to hide the bedroom from Richard and his date as he begins the tour.",
+          "involved_subjects": [
+            "MONICA",
+            "RICHARD"
+          ],
+          "start_offset": "00:00:25",
+          "end_offset": "00:00:35"
+        },
+        {
+          "event_description": "Richard shows the living room to his date.",
+          "involved_subjects": [
+            "RICHARD",
+            "S DATE"
+          ],
+          "start_offset": "00:00:35",
+          "end_offset": "00:00:45"
+        },
+        {
+          "event_description": "Richard begins the kitchen tour for his date.",
+          "involved_subjects": [
+            "RICHARD",
+            "S DATE"
+          ],
+          "start_offset": "00:00:45",
+          "end_offset": "00:00:55"
+        },
+        {
+          "event_description": "Richard quickly closes the bedroom door before his date can see it.",
+          "involved_subjects": [
+            "RICHARD"
+          ],
+          "start_offset": "00:00:55",
+          "end_offset": "00:00:58"
+        },
+        {
+          "event_description": "Monica expresses her concern about Richard’s date wanting to see the bedroom.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:01:10",
+          "end_offset": "00:01:15"
+        },
+        {
+          "event_description": "Monica suggests they become exclusive friends to avoid seeing other people.",
+          "involved_subjects": [
+            "MONICA",
+            "RICHARD"
+          ],
+          "start_offset": "00:01:30",
+          "end_offset": "00:01:45"
+        },
+        {
+          "event_description": "Richard declines the idea of being exclusive friends, citing that nothing has changed and they want different things.",
+          "involved_subjects": [
+            "RICHARD",
+            "MONICA"
+          ],
+          "start_offset": "00:01:45",
+          "end_offset": "00:02:00"
+        },
+        {
+          "event_description": "Monica decides to leave the apartment, expressing her difficulty in getting over Richard.",
+          "involved_subjects": [
+            "MONICA"
+          ],
+          "start_offset": "00:02:00",
+          "end_offset": "00:02:10"
+        }
+      ]
+    },
+    {
+      "scene_description": "[Scene: Monica and Rachel's, Joey is entering, and he’s very dejected.]",
+      "dialogue": [
+        {
+          "speaker": "RACHEL",
+          "text": "What?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Beth is really, really sick."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Awwww."
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Jo’s there, but I don’t think there’s anything she could do."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Joey?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Do you want to put the book in the freezer?"
+        },
+        {
+          "speaker": "JOEY",
+          "text": "(nodding his head) Okay."
+        },
+        {
+          "speaker": "RACHEL",
+          "text": "Okay."
+        }
+      ],
+      "location": "Monica and Rachel's",
+      "subjects": [
+        "JOEY",
+        "RACHEL"
+      ],
+      "clip_start": "",
+      "clip_end": "",
+      "context_label": "",
+      "event_description": "[Scene: Monica and Rachel's, Joey is entering, and he’s very dejected.]",
+      "srt_start": "",
+      "srt_end": "",
+      "events": [
+        {
+          "event_description": "Joey enters Monica and Rachel's apartment looking very dejected.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:00",
+          "end_offset": "00:00:05"
+        },
+        {
+          "event_description": "Rachel asks Joey, 'What?'",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:05",
+          "end_offset": "00:00:07"
+        },
+        {
+          "event_description": "Joey informs Rachel that Beth is really, really sick.",
+          "involved_subjects": [
+            "JOEY",
+            "RACHEL"
+          ],
+          "start_offset": "00:00:07",
+          "end_offset": "00:00:12"
+        },
+        {
+          "event_description": "Rachel reacts with sympathy, saying 'Awwww.'",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:12",
+          "end_offset": "00:00:14"
+        },
+        {
+          "event_description": "Joey states that Jo is present but believes there is nothing she can do.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:14",
+          "end_offset": "00:00:20"
+        },
+        {
+          "event_description": "Rachel asks Joey if he wants to put the book in the freezer.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:20",
+          "end_offset": "00:00:22"
+        },
+        {
+          "event_description": "Joey nods his head in agreement to Rachel's suggestion.",
+          "involved_subjects": [
+            "JOEY"
+          ],
+          "start_offset": "00:00:22",
+          "end_offset": "00:00:23"
+        },
+        {
+          "event_description": "Rachel confirms the decision to put the book in the freezer.",
+          "involved_subjects": [
+            "RACHEL"
+          ],
+          "start_offset": "00:00:23",
+          "end_offset": "00:00:25"
+        }
+      ]
+    }
+  ]
+}

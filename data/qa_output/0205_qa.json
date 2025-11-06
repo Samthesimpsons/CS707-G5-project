@@ -1,0 +1,1046 @@
+{
+  "episode": "0205",
+  "title": "The One With Five Steaks and an Eggplant",
+  "qa_dataset": [
+    {
+      "question_id": "Q_0205_17096",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did chandler answers the phone and attempts to screen calls to avoid answering when he has a social life. when Chandler were present?",
+      "options": [
+        "Unknown location 1",
+        "At Chandler and Joey's. Ross and Chandler are there. Ross is watching\nwrestling.",
+        "Unknown location 2",
+        "Unknown location 3"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_000"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17097",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at At Chandler and Joey's. Ross and Chandler are there. Ross is watching\nwrestling. when chandler answers the phone and attempts to screen calls to avoid answering when he has a social life.?",
+      "options": [
+        "Jade",
+        "Chandler",
+        "Chandler, Jade",
+        "Chandler, Ross"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_000"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17098",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at At Chandler and Joey's. Ross and Chandler are there. Ross is watching\nwrestling. when Chandler were together?",
+      "options": [
+        "Jade calls Bob and confesses she is thinking about reconnecting with him after three years, while drunk and naked.",
+        "Chandler, pretending to be Bob, arranges to meet Jade at Central Perk the next day.",
+        "Chandler reveals to Ross that he has been pretending to be Bob to Jade, planning to deceive her about his identity.",
+        "Chandler answers the phone and attempts to screen calls to avoid answering when he has a social life."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_000"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17099",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did jade calls bob and confesses she is thinking about reconnecting with him after three years, while drunk and naked. when Jade were present?",
+      "options": [
+        "Unknown location 1",
+        "Unknown location 2",
+        "At Chandler and Joey's. Ross and Chandler are there. Ross is watching\nwrestling.",
+        "Unknown location 3"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_001"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17100",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at At Chandler and Joey's. Ross and Chandler are there. Ross is watching\nwrestling. when jade calls bob and confesses she is thinking about reconnecting with him after three years, while drunk and naked.?",
+      "options": [
+        "Chandler",
+        "Jade",
+        "Chandler, Jade",
+        "Chandler, Ross"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_001"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17101",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at At Chandler and Joey's. Ross and Chandler are there. Ross is watching\nwrestling. when Jade were together?",
+      "options": [
+        "Chandler answers the phone and attempts to screen calls to avoid answering when he has a social life.",
+        "Chandler, pretending to be Bob, arranges to meet Jade at Central Perk the next day.",
+        "Jade calls Bob and confesses she is thinking about reconnecting with him after three years, while drunk and naked.",
+        "Chandler reveals to Ross that he has been pretending to be Bob to Jade, planning to deceive her about his identity."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_001"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17102",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did chandler, pretending to be bob, arranges to meet jade at central perk the next day. when Chandler and Jade were present?",
+      "options": [
+        "At Chandler and Joey's. Ross and Chandler are there. Ross is watching\nwrestling.",
+        "Unknown location 1",
+        "Unknown location 2",
+        "Unknown location 3"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_002"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17103",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at At Chandler and Joey's. Ross and Chandler are there. Ross is watching\nwrestling. when chandler, pretending to be bob, arranges to meet jade at central perk the next day.?",
+      "options": [
+        "Chandler",
+        "Chandler, Jade",
+        "Jade",
+        "Chandler, Ross"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_002"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17104",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at At Chandler and Joey's. Ross and Chandler are there. Ross is watching\nwrestling. when Chandler and Jade were together?",
+      "options": [
+        "Chandler answers the phone and attempts to screen calls to avoid answering when he has a social life.",
+        "Jade calls Bob and confesses she is thinking about reconnecting with him after three years, while drunk and naked.",
+        "Chandler reveals to Ross that he has been pretending to be Bob to Jade, planning to deceive her about his identity.",
+        "Chandler, pretending to be Bob, arranges to meet Jade at Central Perk the next day."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_002"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17105",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did chandler reveals to ross that he has been pretending to be bob to jade, planning to deceive her about his identity. when Chandler and Ross were present?",
+      "options": [
+        "Unknown location 1",
+        "Unknown location 2",
+        "Unknown location 3",
+        "At Chandler and Joey's. Ross and Chandler are there. Ross is watching\nwrestling."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_003"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17106",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at At Chandler and Joey's. Ross and Chandler are there. Ross is watching\nwrestling. when chandler reveals to ross that he has been pretending to be bob to jade, planning to deceive her about his identity.?",
+      "options": [
+        "Chandler",
+        "Jade",
+        "Chandler, Ross",
+        "Chandler, Jade"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_003"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17107",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at At Chandler and Joey's. Ross and Chandler are there. Ross is watching\nwrestling. when Chandler and Ross were together?",
+      "options": [
+        "Chandler answers the phone and attempts to screen calls to avoid answering when he has a social life.",
+        "Chandler reveals to Ross that he has been pretending to be Bob to Jade, planning to deceive her about his identity.",
+        "Jade calls Bob and confesses she is thinking about reconnecting with him after three years, while drunk and naked.",
+        "Chandler, pretending to be Bob, arranges to meet Jade at Central Perk the next day."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_003"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17108",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did ross advises chandler to tell jade the truth, but chandler decides to go through with the deception. when Ross and Chandler were present?",
+      "options": [
+        "Unknown location 1",
+        "Unknown location 2",
+        "Unknown location 3",
+        "At Chandler and Joey's. Ross and Chandler are there. Ross is watching\nwrestling."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_004"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17109",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at At Chandler and Joey's. Ross and Chandler are there. Ross is watching\nwrestling. when ross advises chandler to tell jade the truth, but chandler decides to go through with the deception.?",
+      "options": [
+        "Chandler",
+        "Chandler, Ross",
+        "Jade",
+        "Chandler, Jade"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_004"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17110",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at At Chandler and Joey's. Ross and Chandler are there. Ross is watching\nwrestling. when Ross and Chandler were together?",
+      "options": [
+        "Chandler answers the phone and attempts to screen calls to avoid answering when he has a social life.",
+        "Jade calls Bob and confesses she is thinking about reconnecting with him after three years, while drunk and naked.",
+        "Ross advises Chandler to tell Jade the truth, but Chandler decides to go through with the deception.",
+        "Chandler, pretending to be Bob, arranges to meet Jade at Central Perk the next day."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_004"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17111",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did chandler, on the phone, confesses to jade that whoever stood her up is a jerk, and admits he is the one who stood her up. when Chandler and Jade were present?",
+      "options": [
+        "Unknown location 1",
+        "Unknown location 2",
+        "Unknown location 3",
+        "At Chandler and Joey's. Ross and Chandler are there. Ross is watching\nwrestling."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_005"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17112",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at At Chandler and Joey's. Ross and Chandler are there. Ross is watching\nwrestling. when chandler, on the phone, confesses to jade that whoever stood her up is a jerk, and admits he is the one who stood her up.?",
+      "options": [
+        "Chandler",
+        "Jade",
+        "Chandler",
+        "Chandler, Jade"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_005"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17113",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at At Chandler and Joey's. Ross and Chandler are there. Ross is watching\nwrestling. when Chandler and Jade were together?",
+      "options": [
+        "Chandler answers the phone and attempts to screen calls to avoid answering when he has a social life.",
+        "Chandler, on the phone, confesses to Jade that whoever stood her up is a jerk, and admits he is the one who stood her up.",
+        "Jade calls Bob and confesses she is thinking about reconnecting with him after three years, while drunk and naked.",
+        "Chandler, pretending to be Bob, arranges to meet Jade at Central Perk the next day."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_005"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17114",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did chandler, after confessing, tells jade that he had sex with someone else two hours prior, implying he is not bob. when Chandler and Jade were present?",
+      "options": [
+        "At Chandler and Joey's. Ross and Chandler are there. Ross is watching\nwrestling.",
+        "Unknown location 1",
+        "Unknown location 2",
+        "Unknown location 3"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_006"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17115",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at At Chandler and Joey's. Ross and Chandler are there. Ross is watching\nwrestling. when chandler, after confessing, tells jade that he had sex with someone else two hours prior, implying he is not bob.?",
+      "options": [
+        "Chandler, Jade",
+        "Chandler",
+        "Jade",
+        "Chandler"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_006"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17116",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at At Chandler and Joey's. Ross and Chandler are there. Ross is watching\nwrestling. when Chandler and Jade were together?",
+      "options": [
+        "Chandler answers the phone and attempts to screen calls to avoid answering when he has a social life.",
+        "Jade calls Bob and confesses she is thinking about reconnecting with him after three years, while drunk and naked.",
+        "Chandler, pretending to be Bob, arranges to meet Jade at Central Perk the next day.",
+        "Chandler, after confessing, tells Jade that he had sex with someone else two hours prior, implying he is not Bob."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_006"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17117",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did chandler and ross toast chandler's sister monica for her new job as head of purchasing and lunch chef. when Chandler and Ross and Monica were present?",
+      "options": [
+        "Unknown location 1",
+        "Unknown location 2",
+        "Unknown location 3",
+        "At Chandler and Joey's. Ross and Chandler are there. Ross is watching\nwrestling."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_007"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17118",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at At Chandler and Joey's. Ross and Chandler are there. Ross is watching\nwrestling. when chandler and ross toast chandler's sister monica for her new job as head of purchasing and lunch chef.?",
+      "options": [
+        "Chandler",
+        "Jade",
+        "Chandler, Monica, Ross",
+        "Chandler, Jade"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_007"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17119",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at At Chandler and Joey's. Ross and Chandler are there. Ross is watching\nwrestling. when Chandler and Ross and Monica were together?",
+      "options": [
+        "Chandler and Ross toast Chandler's sister Monica for her new job as head of purchasing and lunch chef.",
+        "Chandler answers the phone and attempts to screen calls to avoid answering when he has a social life.",
+        "Jade calls Bob and confesses she is thinking about reconnecting with him after three years, while drunk and naked.",
+        "Chandler, pretending to be Bob, arranges to meet Jade at Central Perk the next day."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_007"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17120",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did the group discusses the cost of their dinner and the financial disparity between them and chandler and joey. when Rachel and Phoebe and Joey and Chandler were present?",
+      "options": [
+        "Unknown location 1",
+        "At Chandler and Joey's. Ross and Chandler are there. Ross is watching\nwrestling.",
+        "Unknown location 2",
+        "Unknown location 3"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_008"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17121",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at At Chandler and Joey's. Ross and Chandler are there. Ross is watching\nwrestling. when the group discusses the cost of their dinner and the financial disparity between them and chandler and joey.?",
+      "options": [
+        "Chandler, Joey, Phoebe, Rachel",
+        "Chandler",
+        "Jade",
+        "Chandler, Jade"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_008"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17122",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at At Chandler and Joey's. Ross and Chandler are there. Ross is watching\nwrestling. when Rachel and Phoebe and Joey and Chandler were together?",
+      "options": [
+        "Chandler answers the phone and attempts to screen calls to avoid answering when he has a social life.",
+        "Jade calls Bob and confesses she is thinking about reconnecting with him after three years, while drunk and naked.",
+        "Chandler, pretending to be Bob, arranges to meet Jade at Central Perk the next day.",
+        "The group discusses the cost of their dinner and the financial disparity between them and Chandler and Joey."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_008"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17123",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did monica reveals she was fired from her job and was promoted to head of purchasing, suggesting she is celebrating her new position. when Monica were present?",
+      "options": [
+        "Unknown location 1",
+        "At Chandler and Joey's. Ross and Chandler are there. Ross is watching\nwrestling.",
+        "Unknown location 2",
+        "Unknown location 3"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_009"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17124",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at At Chandler and Joey's. Ross and Chandler are there. Ross is watching\nwrestling. when monica reveals she was fired from her job and was promoted to head of purchasing, suggesting she is celebrating her new position.?",
+      "options": [
+        "Monica",
+        "Chandler",
+        "Jade",
+        "Chandler, Jade"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_009"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17125",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at At Chandler and Joey's. Ross and Chandler are there. Ross is watching\nwrestling. when Monica were together?",
+      "options": [
+        "Chandler answers the phone and attempts to screen calls to avoid answering when he has a social life.",
+        "Jade calls Bob and confesses she is thinking about reconnecting with him after three years, while drunk and naked.",
+        "Monica reveals she was fired from her job and was promoted to head of purchasing, suggesting she is celebrating her new position.",
+        "Chandler, pretending to be Bob, arranges to meet Jade at Central Perk the next day."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_009"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17126",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was Phoebe present when monica reveals she was fired from her job and was promoted to head of purchasing, suggesting she is celebrating her new position.?",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "Phoebe was not present during this event.",
+      "related_events": [
+        "0205_scene_000_event_009"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17127",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was Joey present when ross advises chandler to tell jade the truth, but chandler decides to go through with the deception.?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "Joey was not present during this event.",
+      "related_events": [
+        "0205_scene_000_event_004"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17128",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (1-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before chandler reveals to ross that he has been pretending to be bob to jade, planning to deceive her about his identity.?",
+      "options": [
+        "Jade calls Bob and confesses she is thinking about reconnecting with him after three years, while drunk and naked.",
+        "Chandler, pretending to be Bob, arranges to meet Jade at Central Perk the next day.",
+        "Ross advises Chandler to tell Jade the truth, but Chandler decides to go through with the deception.",
+        "Chandler answers the phone and attempts to screen calls to avoid answering when he has a social life."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_000",
+        "0205_scene_000_event_003"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17129",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (1-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before chandler and ross toast chandler's sister monica for her new job as head of purchasing and lunch chef.?",
+      "options": [
+        "Chandler answers the phone and attempts to screen calls to avoid answering when he has a social life.",
+        "Jade calls Bob and confesses she is thinking about reconnecting with him after three years, while drunk and naked.",
+        "Chandler reveals to Ross that he has been pretending to be Bob to Jade, planning to deceive her about his identity.",
+        "Chandler, pretending to be Bob, arranges to meet Jade at Central Perk the next day."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_003",
+        "0205_scene_000_event_007"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17130",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (2-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before ross demonstrates fossils showing evolution to phoebe, asserting evolution as scientific fact.?",
+      "options": [
+        "Chandler describes Joan's large sneezes causing bats to fly out.",
+        "Joey shares a story about dating a woman with a large Adam's apple.",
+        "Ross corrects Joey, stating women do not have Adam's apples.",
+        "Chandler announces he broke up with Joan."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0203_scene_000_event_000",
+        "0203_scene_000_event_006"
+      ],
+      "episode_span": [
+        "0203"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17131",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (2-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before chandler reveals to ross that he has been pretending to be bob to jade, planning to deceive her about his identity.?",
+      "options": [
+        "Ross demonstrates fossils showing evolution to Phoebe, asserting evolution as scientific fact.",
+        "Chandler announces he broke up with Joan.",
+        "Chandler describes Joan's large sneezes causing bats to fly out.",
+        "Joey shares a story about dating a woman with a large Adam's apple."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0203_scene_000_event_006",
+        "0205_scene_000_event_003"
+      ],
+      "episode_span": [
+        "0203",
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17132",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (3-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before carol drops off ben at monica and rachel's apartment for ross to watch.?",
+      "options": [
+        "Phoebe notices the Nike shoes and comments on them, addressing Ben and joking about the phrase 'Just do it'.",
+        "Ben starts to cry after Phoebe's comment, prompting Phoebe to question if she applied too much pressure.",
+        "Susan asks if Ben is hungry, and Carol begins to breastfeed Ben.",
+        "Monica enters carrying a pair of expensive Nike shoes and comments on their cost and likelihood of outgrowing them quickly."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0202_scene_000_event_000",
+        "0202_scene_005_event_000"
+      ],
+      "episode_span": [
+        "0202"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17133",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (3-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before rachel begins to cry, expressing her feelings of betrayal and loss due to julie's involvement with monica.?",
+      "options": [
+        "Monica enters carrying a pair of expensive Nike shoes and comments on their cost and likelihood of outgrowing them quickly.",
+        "Phoebe notices the Nike shoes and comments on them, addressing Ben and joking about the phrase 'Just do it'.",
+        "Ben starts to cry after Phoebe's comment, prompting Phoebe to question if she applied too much pressure.",
+        "Carol drops off Ben at Monica and Rachel's apartment for Ross to watch."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0202_scene_005_event_000",
+        "0202_scene_010_event_006"
+      ],
+      "episode_span": [
+        "0202"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17134",
+      "question_type": "temporal: latest event retrieval",
+      "subcategory": "location-based latest event",
+      "cues": "",
+      "target": "",
+      "question": "What was the last event that happened at At Chandler and Joey's. Ross and Chandler are there. Ross is watching\nwrestling. in this episode?",
+      "options": [
+        "Monica reveals she was fired from her job and was promoted to head of purchasing, suggesting she is celebrating her new position.",
+        "Chandler, after confessing, tells Jade that he had sex with someone else two hours prior, implying he is not Bob.",
+        "Chandler and Ross toast Chandler's sister Monica for her new job as head of purchasing and lunch chef.",
+        "The group discusses the cost of their dinner and the financial disparity between them and Chandler and Joey."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_009"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17135",
+      "question_type": "temporal: latest event retrieval",
+      "subcategory": "episode-wide latest event",
+      "cues": "",
+      "target": "",
+      "question": "What was the most recent event that occurred in the episode?",
+      "options": [
+        "Chandler, after confessing, tells Jade that he had sex with someone else two hours prior, implying he is not Bob.",
+        "Chandler and Ross toast Chandler's sister Monica for her new job as head of purchasing and lunch chef.",
+        "The group discusses the cost of their dinner and the financial disparity between them and Chandler and Joey.",
+        "Monica reveals she was fired from her job and was promoted to head of purchasing, suggesting she is celebrating her new position."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_009"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": []
+    },
+    {
+      "question_id": "Q_0205_17136",
+      "question_type": "temporal: single cue retrieval",
+      "subcategory": "event sequence (location-based)",
+      "cues": "L",
+      "target": "Temporal",
+      "question": "Here are a series of 4 events. Arrange them in the correct temporal order in which they occurred at **At Chandler and Joey's. Ross and Chandler are there. Ross is watching\nwrestling.**.\n\n\"event_1\": Chandler, after confessing, tells Jade that he had sex with someone else two hours prior, implying he is not Bob.\n\"event_2\": Chandler reveals to Ross that he has been pretending to be Bob to Jade, planning to deceive her about his identity.\n\"event_3\": Chandler, pretending to be Bob, arranges to meet Jade at Central Perk the next day.\n\"event_4\": Monica reveals she was fired from her job and was promoted to head of purchasing, suggesting she is celebrating her new position.",
+      "options": [
+        "A. event_1, event_3, event_2, event_4",
+        "B. event_3, event_2, event_1, event_4",
+        "C. event_4, event_3, event_1, event_2",
+        "D. event_4, event_2, event_3, event_1"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0205_scene_000_event_006",
+        "0205_scene_000_event_003",
+        "0205_scene_000_event_002",
+        "0205_scene_000_event_009"
+      ],
+      "episode_span": [
+        "0205"
+      ],
+      "clip_span": [
+        "scene_000"
+      ]
+    }
+  ],
+  "statistics": {
+    "total_questions": 41,
+    "question_type_distribution": {
+      "single target recall": 30,
+      "boolean": 2,
+      "temporal: chronological ordering": 6,
+      "temporal: latest event retrieval": 2,
+      "temporal: single cue retrieval": 1
+    },
+    "subcategory_distribution": {
+      "location recall (event + subject)": 10,
+      "subject recall (location + event)": 10,
+      "event recall (location + subject)": 10,
+      "subject verification": 2,
+      "event sequence (1-episode span)": 2,
+      "event sequence (2-episode span)": 2,
+      "event sequence (3-episode span)": 2,
+      "location-based latest event": 1,
+      "episode-wide latest event": 1,
+      "event sequence (location-based)": 1
+    },
+    "cue_distribution": {
+      "E+S → L": 10,
+      "L+E → S": 10,
+      "L+S → E": 10,
+      "L → Temporal": 1
+    },
+    "target_distribution": {
+      "L": 10,
+      "S": 10,
+      "E": 10,
+      "Boolean": 2,
+      "Temporal": 9
+    },
+    "episode_span_distribution": {
+      "1 episode(s)": 40,
+      "2 episode(s)": 1
+    },
+    "clip_span_distribution": {
+      "1 clip(s)": 1
+    },
+    "answer_distribution": {
+      "B": 11,
+      "D": 14,
+      "C": 7,
+      "A": 9
+    }
+  }
+}

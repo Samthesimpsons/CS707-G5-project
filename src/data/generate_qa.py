@@ -373,11 +373,25 @@ class QuestionGenerator:
         episode_id = episode_data["episode"]
 
         events = []
-        for scene in episode_data["scenes"]:
+        for scene_idx, scene in enumerate(episode_data["scenes"]):
+            scene_location = scene.get("location", "Unknown")
+            scene_context = scene.get("context_label", f"{episode_id}_scene_{scene_idx:03d}")
+
             scene_events = scene.get("events", [])
-            for e in scene_events:
+            for event_idx, e in enumerate(scene_events):
                 if isinstance(e, dict):
-                    events.append(Event(**e))
+                    event_id = f"{episode_id}_scene_{scene_idx:03d}_event_{event_idx:03d}"
+                    timestamp = f"{e.get('start_offset', '')} - {e.get('end_offset', '')}"
+
+                    event = Event(
+                        event_id=event_id,
+                        event_description=e.get("event_description", ""),
+                        involved_subjects=e.get("involved_subjects", []),
+                        location=scene_location,
+                        timestamp=timestamp,
+                        episode_clip=scene_context
+                    )
+                    events.append(event)
                 else:
                     events.append(e)
 
@@ -1273,7 +1287,8 @@ async def _async_process_directory(
     """
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    json_files = sorted(input_dir.glob("*.json"))
+    # Filter out batch metadata files (batch_info_*.json, batch_metadata_*.json, batch_requests_*.jsonl)
+    json_files = sorted([f for f in input_dir.glob("*.json") if not f.name.startswith("batch")])
 
     if max_files:
         json_files = json_files[:max_files]
@@ -1294,9 +1309,26 @@ async def _async_process_directory(
         episodes_data[episode_id] = episode_data
 
         events = []
-        for scene in episode_data["scenes"]:
-            for e in scene.get("events", []):
-                events.append(Event(**e) if isinstance(e, dict) else e)
+        for scene_idx, scene in enumerate(episode_data["scenes"]):
+            scene_location = scene.get("location", "Unknown")
+            scene_context = scene.get("context_label", f"{episode_id}_scene_{scene_idx:03d}")
+
+            for event_idx, e in enumerate(scene.get("events", [])):
+                if isinstance(e, dict):
+                    event_id = f"{episode_id}_scene_{scene_idx:03d}_event_{event_idx:03d}"
+                    timestamp = f"{e.get('start_offset', '')} - {e.get('end_offset', '')}"
+
+                    event = Event(
+                        event_id=event_id,
+                        event_description=e.get("event_description", ""),
+                        involved_subjects=e.get("involved_subjects", []),
+                        location=scene_location,
+                        timestamp=timestamp,
+                        episode_clip=scene_context
+                    )
+                    events.append(event)
+                else:
+                    events.append(e)
         events_by_episode[episode_id] = events
 
     print(f"Loaded {len(episodes_data)} episodes\n")
