@@ -1,0 +1,6403 @@
+{
+  "episode": "0102",
+  "title": "The One With The Sonogram at the End",
+  "qa_dataset": [
+    {
+      "question_id": "Q_0102_001",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did monica explains the importance of kissing in a relationship. when MONICA were present?",
+      "options": [
+        "Central Perk",
+        "Monica and Rachel's apartment",
+        "Central Park",
+        "Carol's OB/GYN"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_000_event_001"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_002",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Perk when monica explains the importance of kissing in a relationship.?",
+      "options": [
+        "MONICA",
+        "JOEY",
+        "PHOEBE",
+        "RACHEL"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_000_event_001"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_003",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Perk when MONICA were together?",
+      "options": [
+        "Monica explains the importance of kissing in a relationship.",
+        "Joey expresses skepticism about Monica's statement.",
+        "Phoebe agrees with Monica's statement about kissing.",
+        "Rachel states that everything you need to know is in the first kiss."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_000_event_001"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_004",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did joey expresses skepticism about monica's statement. when JOEY were present?",
+      "options": [
+        "Monica and Rachel's apartment",
+        "Monica and Rachel's",
+        "Carol's OB/GYN",
+        "Central Perk"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_000_event_002"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_005",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Perk when joey expresses skepticism about monica's statement.?",
+      "options": [
+        "MONICA",
+        "JOEY",
+        "PHOEBE",
+        "RACHEL"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_000_event_002"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_006",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Perk when JOEY were together?",
+      "options": [
+        "Monica explains the importance of kissing in a relationship.",
+        "Joey expresses skepticism about Monica's statement.",
+        "Phoebe agrees with Monica's statement about kissing.",
+        "Rachel states that everything you need to know is in the first kiss."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_000_event_002"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_007",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did phoebe agrees with monica's statement about kissing. when PHOEBE were present?",
+      "options": [
+        "Central Perk",
+        "Monica and Rachel's apartment",
+        "Central Park",
+        "Barry's office"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_000_event_003"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_008",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Perk when phoebe agrees with monica's statement about kissing.?",
+      "options": [
+        "MONICA",
+        "JOEY",
+        "RACHEL",
+        "PHOEBE"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_000_event_003"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_009",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Perk when PHOEBE were together?",
+      "options": [
+        "Monica explains the importance of kissing in a relationship.",
+        "Joey expresses skepticism about Monica's statement.",
+        "Phoebe agrees with Monica's statement about kissing.",
+        "Rachel states that everything you need to know is in the first kiss."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_000_event_003"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_010",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did rachel states that everything you need to know is in the first kiss. when RACHEL were present?",
+      "options": [
+        "Monica and Rachel's",
+        "Central Perk",
+        "Monica and Rachel's apartment",
+        "Carol's OB/GYN"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_000_event_004"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_011",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Perk when rachel states that everything you need to know is in the first kiss.?",
+      "options": [
+        "MONICA",
+        "JOEY",
+        "RACHEL",
+        "PHOEBE"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_000_event_004"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_012",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Perk when RACHEL were together?",
+      "options": [
+        "Monica explains the importance of kissing in a relationship.",
+        "Joey expresses skepticism about Monica's statement.",
+        "Rachel states that everything you need to know is in the first kiss.",
+        "Phoebe agrees with Monica's statement about kissing."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_000_event_004"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_013",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did monica reaffirms her point about the importance of kissing. when MONICA were present?",
+      "options": [
+        "Museum of Prehistoric History",
+        "Central Park",
+        "Monica and Rachel's",
+        "Central Perk"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_000_event_005"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_014",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Perk when monica reaffirms her point about the importance of kissing.?",
+      "options": [
+        "JOEY",
+        "MONICA",
+        "PHOEBE",
+        "Unknown subjects 3"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_000_event_005"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_015",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Perk when MONICA were together?",
+      "options": [
+        "Monica explains the importance of kissing in a relationship.",
+        "Joey expresses skepticism about Monica's statement.",
+        "Phoebe agrees with Monica's statement about kissing.",
+        "Monica reaffirms her point about the importance of kissing."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_000_event_005"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_016",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did chandler compares kissing to a stand-up comedian before pink floyd. when CHANDLER were present?",
+      "options": [
+        "Central Perk",
+        "Monica and Rachel's",
+        "Barry's office",
+        "Museum of Prehistoric History"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_000_event_006"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_017",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Perk when chandler compares kissing to a stand-up comedian before pink floyd.?",
+      "options": [
+        "CHANDLER",
+        "MONICA",
+        "JOEY",
+        "PHOEBE"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_000_event_006"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_018",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Perk when CHANDLER were together?",
+      "options": [
+        "Monica explains the importance of kissing in a relationship.",
+        "Joey expresses skepticism about Monica's statement.",
+        "Phoebe agrees with Monica's statement about kissing.",
+        "Chandler compares kissing to a stand-up comedian before Pink Floyd."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_000_event_006"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_019",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did ross agrees with chandler's metaphor, emphasizing the main attraction. when ROSS were present?",
+      "options": [
+        "Monica and Rachel's",
+        "Central Perk",
+        "Museum of Prehistoric History",
+        "Monica and Rachel's apartment"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_000_event_007"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_020",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Perk when ross agrees with chandler's metaphor, emphasizing the main attraction.?",
+      "options": [
+        "MONICA",
+        "ROSS",
+        "JOEY",
+        "PHOEBE"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_000_event_007"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_021",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Perk when ROSS were together?",
+      "options": [
+        "Monica explains the importance of kissing in a relationship.",
+        "Joey expresses skepticism about Monica's statement.",
+        "Ross agrees with Chandler's metaphor, emphasizing the main attraction.",
+        "Phoebe agrees with Monica's statement about kissing."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_000_event_007"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_022",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did chandler explains the problem of always seeking the comedian after the main act. when CHANDLER were present?",
+      "options": [
+        "Carol's OB/GYN",
+        "Central Park",
+        "Central Perk",
+        "Monica and Rachel's"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_000_event_008"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_023",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Perk when chandler explains the problem of always seeking the comedian after the main act.?",
+      "options": [
+        "MONICA",
+        "JOEY",
+        "PHOEBE",
+        "CHANDLER"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_000_event_008"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_024",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Perk when CHANDLER were together?",
+      "options": [
+        "Monica explains the importance of kissing in a relationship.",
+        "Chandler explains the problem of always seeking the comedian after the main act.",
+        "Joey expresses skepticism about Monica's statement.",
+        "Phoebe agrees with Monica's statement about kissing."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_000_event_008"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_025",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did rachel advises the group to bring back the comedian to avoid being alone. when RACHEL were present?",
+      "options": [
+        "Monica and Rachel's apartment",
+        "Museum of Prehistoric History",
+        "Monica and Rachel's",
+        "Central Perk"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_000_event_009"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_026",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Perk when rachel advises the group to bring back the comedian to avoid being alone.?",
+      "options": [
+        "MONICA",
+        "JOEY",
+        "PHOEBE",
+        "RACHEL"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_000_event_009"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_027",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Perk when RACHEL were together?",
+      "options": [
+        "Monica explains the importance of kissing in a relationship.",
+        "Joey expresses skepticism about Monica's statement.",
+        "Rachel advises the group to bring back the comedian to avoid being alone.",
+        "Phoebe agrees with Monica's statement about kissing."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_000_event_009"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_028",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did joey questions if the conversation is about sex. when JOEY were present?",
+      "options": [
+        "Central Perk",
+        "Barry's office",
+        "Carol's OB/GYN",
+        "Museum of Prehistoric History"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_000_event_010"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_029",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Perk when joey questions if the conversation is about sex.?",
+      "options": [
+        "MONICA",
+        "PHOEBE",
+        "JOEY",
+        "Unknown subjects 3"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_000_event_010"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_030",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Perk when JOEY were together?",
+      "options": [
+        "Monica explains the importance of kissing in a relationship.",
+        "Joey questions if the conversation is about sex.",
+        "Joey expresses skepticism about Monica's statement.",
+        "Phoebe agrees with Monica's statement about kissing."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_000_event_010"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_031",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did ross and marsha are setting up an exhibit with mannequins of cave people. when ROSS and MARSHA were present?",
+      "options": [
+        "Central Perk",
+        "Monica and Rachel's",
+        "Carol's OB/GYN",
+        "Museum of Prehistoric History"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_001_event_001"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0102_032",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Museum of Prehistoric History when ross and marsha are setting up an exhibit with mannequins of cave people.?",
+      "options": [
+        "ROSS",
+        "CAROL, ROSS",
+        "ROSS",
+        "MARSHA, ROSS"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_001_event_001"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0102_033",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Museum of Prehistoric History when ROSS and MARSHA were together?",
+      "options": [
+        "Ross and Marsha are setting up an exhibit with mannequins of cave people.",
+        "Marsha points out that one of the mannequins resembles Carol.",
+        "Ross acknowledges that the mannequin resembles his ex-wife, Carol.",
+        "Carol arrives and greets Ross."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_001_event_001"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0102_034",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did marsha points out that one of the mannequins resembles carol. when MARSHA and ROSS were present?",
+      "options": [
+        "Carol's OB/GYN",
+        "Monica and Rachel's apartment",
+        "Monica and Rachel's",
+        "Museum of Prehistoric History"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_001_event_002"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0102_035",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Museum of Prehistoric History when marsha points out that one of the mannequins resembles carol.?",
+      "options": [
+        "MARSHA, ROSS",
+        "ROSS",
+        "CAROL, ROSS",
+        "MARSHA"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_001_event_002"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0102_036",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Museum of Prehistoric History when MARSHA and ROSS were together?",
+      "options": [
+        "Ross and Marsha are setting up an exhibit with mannequins of cave people.",
+        "Marsha points out that one of the mannequins resembles Carol.",
+        "Ross acknowledges that the mannequin resembles his ex-wife, Carol.",
+        "Carol arrives and greets Ross."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_001_event_002"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0102_037",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did ross acknowledges that the mannequin resembles his ex-wife, carol. when ROSS were present?",
+      "options": [
+        "Central Perk",
+        "Museum of Prehistoric History",
+        "Barry's office",
+        "Carol's OB/GYN"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_001_event_003"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0102_038",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Museum of Prehistoric History when ross acknowledges that the mannequin resembles his ex-wife, carol.?",
+      "options": [
+        "MARSHA, ROSS",
+        "MARSHA, ROSS",
+        "ROSS",
+        "CAROL, ROSS"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_001_event_003"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0102_039",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Museum of Prehistoric History when ROSS were together?",
+      "options": [
+        "Ross and Marsha are setting up an exhibit with mannequins of cave people.",
+        "Marsha points out that one of the mannequins resembles Carol.",
+        "Ross acknowledges that the mannequin resembles his ex-wife, Carol.",
+        "Carol arrives and greets Ross."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_001_event_003"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0102_040",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did carol arrives and greets ross. when CAROL and ROSS were present?",
+      "options": [
+        "Monica and Rachel's apartment",
+        "Monica and Rachel's",
+        "Museum of Prehistoric History",
+        "Central Park"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_001_event_004"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0102_041",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Museum of Prehistoric History when carol arrives and greets ross.?",
+      "options": [
+        "MARSHA, ROSS",
+        "CAROL, ROSS",
+        "MARSHA, ROSS",
+        "ROSS"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_001_event_004"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0102_042",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Museum of Prehistoric History when CAROL and ROSS were together?",
+      "options": [
+        "Carol arrives and greets Ross.",
+        "Ross and Marsha are setting up an exhibit with mannequins of cave people.",
+        "Marsha points out that one of the mannequins resembles Carol.",
+        "Ross acknowledges that the mannequin resembles his ex-wife, Carol."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_001_event_004"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0102_043",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did carol reveals that she is pregnant. when CAROL were present?",
+      "options": [
+        "Monica and Rachel's",
+        "Central Park",
+        "Barry's office",
+        "Museum of Prehistoric History"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_001_event_005"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0102_044",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Museum of Prehistoric History when carol reveals that she is pregnant.?",
+      "options": [
+        "MARSHA, ROSS",
+        "CAROL",
+        "MARSHA, ROSS",
+        "ROSS"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_001_event_005"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0102_045",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Museum of Prehistoric History when CAROL were together?",
+      "options": [
+        "Ross and Marsha are setting up an exhibit with mannequins of cave people.",
+        "Marsha points out that one of the mannequins resembles Carol.",
+        "Ross acknowledges that the mannequin resembles his ex-wife, Carol.",
+        "Carol reveals that she is pregnant."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_001_event_005"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0102_046",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did chandler mentions an episode of three's company, leading phoebe to turn off the tv. when CHANDLER and PHOEBE were present?",
+      "options": [
+        "Museum of Prehistoric History",
+        "Central Park",
+        "Monica and Rachel's",
+        "Central Perk"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_002_event_001"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0102_047",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's when chandler mentions an episode of three's company, leading phoebe to turn off the tv.?",
+      "options": [
+        "JOEY, MONICA",
+        "CHANDLER, PHOEBE",
+        "CHANDLER, MONICA",
+        "MONICA, PHOEBE"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_002_event_001"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0102_048",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's when CHANDLER and PHOEBE were together?",
+      "options": [
+        "Chandler mentions an episode of Three's Company, leading Phoebe to turn off the TV.",
+        "Monica takes a drink from Joey.",
+        "Monica confronts Chandler about a ball of paper, which he claims is his.",
+        "Phoebe attempts to comfort Monica but is met with a glare."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_002_event_001"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0102_049",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did monica takes a drink from joey. when MONICA and JOEY were present?",
+      "options": [
+        "Monica and Rachel's",
+        "Monica and Rachel's apartment",
+        "Barry's office",
+        "Carol's OB/GYN"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_002_event_002"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0102_050",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's when monica takes a drink from joey.?",
+      "options": [
+        "JOEY, MONICA",
+        "CHANDLER, PHOEBE",
+        "CHANDLER, MONICA",
+        "MONICA, PHOEBE"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_002_event_002"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0102_051",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's when MONICA and JOEY were together?",
+      "options": [
+        "Chandler mentions an episode of Three's Company, leading Phoebe to turn off the TV.",
+        "Monica takes a drink from Joey.",
+        "Monica confronts Chandler about a ball of paper, which he claims is his.",
+        "Phoebe attempts to comfort Monica but is met with a glare."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_002_event_002"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0102_052",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did monica confronts chandler about a ball of paper, which he claims is his. when MONICA and CHANDLER were present?",
+      "options": [
+        "Monica and Rachel's",
+        "Monica and Rachel's apartment",
+        "Barry's office",
+        "Museum of Prehistoric History"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_002_event_003"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0102_053",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's when monica confronts chandler about a ball of paper, which he claims is his.?",
+      "options": [
+        "CHANDLER, PHOEBE",
+        "JOEY, MONICA",
+        "MONICA, PHOEBE",
+        "CHANDLER, MONICA"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_002_event_003"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0102_054",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's when MONICA and CHANDLER were together?",
+      "options": [
+        "Chandler mentions an episode of Three's Company, leading Phoebe to turn off the TV.",
+        "Monica takes a drink from Joey.",
+        "Monica confronts Chandler about a ball of paper, which he claims is his.",
+        "Phoebe attempts to comfort Monica but is met with a glare."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_002_event_003"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0102_055",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did phoebe attempts to comfort monica but is met with a glare. when PHOEBE and MONICA were present?",
+      "options": [
+        "Central Park",
+        "Museum of Prehistoric History",
+        "Monica and Rachel's",
+        "Monica and Rachel's apartment"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_002_event_004"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0102_056",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's when phoebe attempts to comfort monica but is met with a glare.?",
+      "options": [
+        "MONICA, PHOEBE",
+        "CHANDLER, PHOEBE",
+        "JOEY, MONICA",
+        "CHANDLER, MONICA"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_002_event_004"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0102_057",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's when PHOEBE and MONICA were together?",
+      "options": [
+        "Chandler mentions an episode of Three's Company, leading Phoebe to turn off the TV.",
+        "Monica takes a drink from Joey.",
+        "Monica confronts Chandler about a ball of paper, which he claims is his.",
+        "Phoebe attempts to comfort Monica but is met with a glare."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_002_event_004"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0102_058",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did monica expresses concern about giving her parents more ammunition. when MONICA were present?",
+      "options": [
+        "Central Park",
+        "Monica and Rachel's",
+        "Museum of Prehistoric History",
+        "Monica and Rachel's apartment"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_002_event_005"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0102_059",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's when monica expresses concern about giving her parents more ammunition.?",
+      "options": [
+        "CHANDLER, PHOEBE",
+        "MONICA",
+        "JOEY, MONICA",
+        "CHANDLER, MONICA"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_002_event_005"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0102_060",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's when MONICA were together?",
+      "options": [
+        "Chandler mentions an episode of Three's Company, leading Phoebe to turn off the TV.",
+        "Monica takes a drink from Joey.",
+        "Monica expresses concern about giving her parents more ammunition.",
+        "Monica confronts Chandler about a ball of paper, which he claims is his."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_002_event_005"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0102_061",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did chandler comments on the cruelty of parents regarding a child's pillow. when CHANDLER were present?",
+      "options": [
+        "Central Perk",
+        "Monica and Rachel's",
+        "Monica and Rachel's apartment",
+        "Central Park"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_002_event_006"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0102_062",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's when chandler comments on the cruelty of parents regarding a child's pillow.?",
+      "options": [
+        "CHANDLER",
+        "CHANDLER, PHOEBE",
+        "JOEY, MONICA",
+        "CHANDLER, MONICA"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_002_event_006"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0102_063",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's when CHANDLER were together?",
+      "options": [
+        "Chandler mentions an episode of Three's Company, leading Phoebe to turn off the TV.",
+        "Chandler comments on the cruelty of parents regarding a child's pillow.",
+        "Monica takes a drink from Joey.",
+        "Monica confronts Chandler about a ball of paper, which he claims is his."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_002_event_006"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0102_064",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did chandler reacts to seeing the ugly naked guy with a thighmaster. when CHANDLER were present?",
+      "options": [
+        "Carol's OB/GYN",
+        "Barry's office",
+        "Monica and Rachel's",
+        "Monica and Rachel's apartment"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_002_event_007"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0102_065",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's when chandler reacts to seeing the ugly naked guy with a thighmaster.?",
+      "options": [
+        "CHANDLER, PHOEBE",
+        "JOEY, MONICA",
+        "CHANDLER, MONICA",
+        "CHANDLER"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_002_event_007"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0102_066",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's when CHANDLER were together?",
+      "options": [
+        "Chandler mentions an episode of Three's Company, leading Phoebe to turn off the TV.",
+        "Chandler reacts to seeing the Ugly Naked Guy with a Thighmaster.",
+        "Monica takes a drink from Joey.",
+        "Monica confronts Chandler about a ball of paper, which he claims is his."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_002_event_007"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0102_067",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did rachel panics about losing her engagement ring. when RACHEL were present?",
+      "options": [
+        "Central Park",
+        "Monica and Rachel's",
+        "Central Perk",
+        "Barry's office"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_002_event_008"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0102_068",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's when rachel panics about losing her engagement ring.?",
+      "options": [
+        "CHANDLER, PHOEBE",
+        "JOEY, MONICA",
+        "CHANDLER, MONICA",
+        "RACHEL"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_002_event_008"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0102_069",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's when RACHEL were together?",
+      "options": [
+        "Chandler mentions an episode of Three's Company, leading Phoebe to turn off the TV.",
+        "Monica takes a drink from Joey.",
+        "Rachel panics about losing her engagement ring.",
+        "Monica confronts Chandler about a ball of paper, which he claims is his."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_002_event_008"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0102_070",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did phoebe tries to calm rachel down about the engagement ring. when PHOEBE and RACHEL were present?",
+      "options": [
+        "Museum of Prehistoric History",
+        "Monica and Rachel's",
+        "Central Park",
+        "Monica and Rachel's apartment"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_002_event_009"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0102_071",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's when phoebe tries to calm rachel down about the engagement ring.?",
+      "options": [
+        "PHOEBE, RACHEL",
+        "CHANDLER, PHOEBE",
+        "JOEY, MONICA",
+        "CHANDLER, MONICA"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_002_event_009"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0102_072",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's when PHOEBE and RACHEL were together?",
+      "options": [
+        "Phoebe tries to calm Rachel down about the engagement ring.",
+        "Chandler mentions an episode of Three's Company, leading Phoebe to turn off the TV.",
+        "Monica takes a drink from Joey.",
+        "Monica confronts Chandler about a ball of paper, which he claims is his."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_002_event_009"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0102_073",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did monica assures rachel they'll find the ring, with chandler and joey supporting her. when MONICA and RACHEL and CHANDLER and JOEY were present?",
+      "options": [
+        "Central Park",
+        "Monica and Rachel's",
+        "Barry's office",
+        "Museum of Prehistoric History"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_002_event_010"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0102_074",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's when monica assures rachel they'll find the ring, with chandler and joey supporting her.?",
+      "options": [
+        "CHANDLER, JOEY, MONICA, RACHEL",
+        "CHANDLER, PHOEBE",
+        "JOEY, MONICA",
+        "CHANDLER, MONICA"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_002_event_010"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0102_075",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's when MONICA and RACHEL and CHANDLER and JOEY were together?",
+      "options": [
+        "Monica assures Rachel they'll find the ring, with Chandler and Joey supporting her.",
+        "Chandler mentions an episode of Three's Company, leading Phoebe to turn off the TV.",
+        "Monica takes a drink from Joey.",
+        "Monica confronts Chandler about a ball of paper, which he claims is his."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_002_event_010"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0102_076",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did ross expresses pride in his parents' professionalism. when ROSS were present?",
+      "options": [
+        "Monica and Rachel's",
+        "Central Park",
+        "Barry's office",
+        "Monica and Rachel's apartment"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_003_event_001"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0102_077",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Park when ross expresses pride in his parents' professionalism.?",
+      "options": [
+        "MONICA",
+        "PHOEBE",
+        "ROSS",
+        "Unknown subjects 3"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_003_event_001"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0102_078",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Park when ROSS were together?",
+      "options": [
+        "Ross expresses pride in his parents' professionalism.",
+        "Monica expresses her dislike for Ross's parents.",
+        "Ross leaves to use the restroom.",
+        "Phoebe mentions that being twins makes the situation worse."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_003_event_001"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0102_079",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did monica expresses her dislike for ross's parents. when MONICA were present?",
+      "options": [
+        "Central Perk",
+        "Monica and Rachel's apartment",
+        "Museum of Prehistoric History",
+        "Central Park"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_003_event_002"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0102_080",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Park when monica expresses her dislike for ross's parents.?",
+      "options": [
+        "ROSS",
+        "ROSS",
+        "MONICA",
+        "PHOEBE"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_003_event_002"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0102_081",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Park when MONICA were together?",
+      "options": [
+        "Ross expresses pride in his parents' professionalism.",
+        "Ross leaves to use the restroom.",
+        "Monica expresses her dislike for Ross's parents.",
+        "Phoebe mentions that being twins makes the situation worse."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_003_event_002"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0102_082",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did ross leaves to use the restroom. when ROSS were present?",
+      "options": [
+        "Carol's OB/GYN",
+        "Central Park",
+        "Barry's office",
+        "Monica and Rachel's apartment"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_003_event_003"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0102_083",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Park when ross leaves to use the restroom.?",
+      "options": [
+        "MONICA",
+        "PHOEBE",
+        "ROSS",
+        "Unknown subjects 3"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_003_event_003"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0102_084",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Park when ROSS were together?",
+      "options": [
+        "Ross leaves to use the restroom.",
+        "Ross expresses pride in his parents' professionalism.",
+        "Monica expresses her dislike for Ross's parents.",
+        "Phoebe mentions that being twins makes the situation worse."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_003_event_003"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0102_085",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did phoebe mentions that being twins makes the situation worse. when PHOEBE were present?",
+      "options": [
+        "Museum of Prehistoric History",
+        "Carol's OB/GYN",
+        "Barry's office",
+        "Central Park"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_003_event_004"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0102_086",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Park when phoebe mentions that being twins makes the situation worse.?",
+      "options": [
+        "ROSS",
+        "MONICA",
+        "PHOEBE",
+        "ROSS"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_003_event_004"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0102_087",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Park when PHOEBE were together?",
+      "options": [
+        "Phoebe mentions that being twins makes the situation worse.",
+        "Ross expresses pride in his parents' professionalism.",
+        "Monica expresses her dislike for Ross's parents.",
+        "Ross leaves to use the restroom."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_003_event_004"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0102_088",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did rachel reacts to phoebe's statement about twins. when RACHEL were present?",
+      "options": [
+        "Central Perk",
+        "Museum of Prehistoric History",
+        "Carol's OB/GYN",
+        "Central Park"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_003_event_005"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0102_089",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Park when rachel reacts to phoebe's statement about twins.?",
+      "options": [
+        "RACHEL",
+        "ROSS",
+        "MONICA",
+        "ROSS"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_003_event_005"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0102_090",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Park when RACHEL were together?",
+      "options": [
+        "Ross expresses pride in his parents' professionalism.",
+        "Monica expresses her dislike for Ross's parents.",
+        "Ross leaves to use the restroom.",
+        "Rachel reacts to Phoebe's statement about twins."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_003_event_005"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0102_091",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did phoebe explains her sister's career as a waitress. when PHOEBE were present?",
+      "options": [
+        "Barry's office",
+        "Museum of Prehistoric History",
+        "Central Park",
+        "Central Perk"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_003_event_006"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0102_092",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Park when phoebe explains her sister's career as a waitress.?",
+      "options": [
+        "PHOEBE",
+        "ROSS",
+        "MONICA",
+        "ROSS"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_003_event_006"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0102_093",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Park when PHOEBE were together?",
+      "options": [
+        "Ross expresses pride in his parents' professionalism.",
+        "Monica expresses her dislike for Ross's parents.",
+        "Ross leaves to use the restroom.",
+        "Phoebe explains her sister's career as a waitress."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_003_event_006"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0102_094",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did rachel announces she needs to clean up, prompting others to leave. when RACHEL were present?",
+      "options": [
+        "Central Park",
+        "Museum of Prehistoric History",
+        "Barry's office",
+        "Monica and Rachel's apartment"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_003_event_007"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0102_095",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Park when rachel announces she needs to clean up, prompting others to leave.?",
+      "options": [
+        "ROSS",
+        "MONICA",
+        "ROSS",
+        "RACHEL"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_003_event_007"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0102_096",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Park when RACHEL were together?",
+      "options": [
+        "Ross expresses pride in his parents' professionalism.",
+        "Monica expresses her dislike for Ross's parents.",
+        "Ross leaves to use the restroom.",
+        "Rachel announces she needs to clean up, prompting others to leave."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_003_event_007"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0102_097",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did monica discusses chandler's lack of siblings. when MONICA and CHANDLER were present?",
+      "options": [
+        "Monica and Rachel's",
+        "Central Perk",
+        "Central Park",
+        "Monica and Rachel's apartment"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_003_event_008"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0102_098",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Park when monica discusses chandler's lack of siblings.?",
+      "options": [
+        "ROSS",
+        "CHANDLER, MONICA",
+        "MONICA",
+        "ROSS"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_003_event_008"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0102_099",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Park when MONICA and CHANDLER were together?",
+      "options": [
+        "Ross expresses pride in his parents' professionalism.",
+        "Monica discusses Chandler's lack of siblings.",
+        "Monica expresses her dislike for Ross's parents.",
+        "Ross leaves to use the restroom."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_003_event_008"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0102_100",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did chandler mentions having an imaginary friend preferred by his parents. when CHANDLER were present?",
+      "options": [
+        "Carol's OB/GYN",
+        "Central Park",
+        "Museum of Prehistoric History",
+        "Barry's office"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_003_event_009"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0102_101",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Park when chandler mentions having an imaginary friend preferred by his parents.?",
+      "options": [
+        "ROSS",
+        "CHANDLER",
+        "MONICA",
+        "ROSS"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_003_event_009"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0102_102",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Park when CHANDLER were together?",
+      "options": [
+        "Ross expresses pride in his parents' professionalism.",
+        "Monica expresses her dislike for Ross's parents.",
+        "Ross leaves to use the restroom.",
+        "Chandler mentions having an imaginary friend preferred by his parents."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_003_event_009"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0102_103",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did rachel asks ross for advice on her upcoming meeting with barry. when RACHEL and ROSS were present?",
+      "options": [
+        "Monica and Rachel's apartment",
+        "Monica and Rachel's",
+        "Carol's OB/GYN",
+        "Central Park"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_003_event_010"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0102_104",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Park when rachel asks ross for advice on her upcoming meeting with barry.?",
+      "options": [
+        "ROSS",
+        "RACHEL, ROSS",
+        "MONICA",
+        "ROSS"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_003_event_010"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0102_105",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Park when RACHEL and ROSS were together?",
+      "options": [
+        "Ross expresses pride in his parents' professionalism.",
+        "Monica expresses her dislike for Ross's parents.",
+        "Ross leaves to use the restroom.",
+        "Rachel asks Ross for advice on her upcoming meeting with Barry."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_003_event_010"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0102_106",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did ross enters the ob/gyn office and apologizes for being late. when ROSS were present?",
+      "options": [
+        "Monica and Rachel's apartment",
+        "Carol's OB/GYN",
+        "Monica and Rachel's",
+        "Barry's office"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_004_event_001"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0102_107",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Carol's OB/GYN when ross enters the ob/gyn office and apologizes for being late.?",
+      "options": [
+        "ROSS",
+        "ROSS, SUSAN",
+        "CAROL, ROSS",
+        "BERNICE"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_004_event_001"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0102_108",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Carol's OB/GYN when ROSS were together?",
+      "options": [
+        "Ross enters the OB/GYN office and apologizes for being late.",
+        "Ross and Susan shake hands after being introduced by Carol.",
+        "Ross uses a surgical instrument to mime a duck, which Carol stops.",
+        "Bernice calls Dr. Farber via intercom about a gagging patient."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_004_event_001"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0102_109",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did ross and susan shake hands after being introduced by carol. when ROSS and SUSAN were present?",
+      "options": [
+        "Carol's OB/GYN",
+        "Central Perk",
+        "Barry's office",
+        "Monica and Rachel's apartment"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_004_event_002"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0102_110",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Carol's OB/GYN when ross and susan shake hands after being introduced by carol.?",
+      "options": [
+        "ROSS, SUSAN",
+        "ROSS",
+        "CAROL, ROSS",
+        "BERNICE"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_004_event_002"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0102_111",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Carol's OB/GYN when ROSS and SUSAN were together?",
+      "options": [
+        "Ross and Susan shake hands after being introduced by Carol.",
+        "Ross enters the OB/GYN office and apologizes for being late.",
+        "Ross uses a surgical instrument to mime a duck, which Carol stops.",
+        "Bernice calls Dr. Farber via intercom about a gagging patient."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_004_event_002"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0102_112",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did ross uses a surgical instrument to mime a duck, which carol stops. when ROSS and CAROL were present?",
+      "options": [
+        "Barry's office",
+        "Central Park",
+        "Carol's OB/GYN",
+        "Monica and Rachel's apartment"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_004_event_003"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0102_113",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Carol's OB/GYN when ross uses a surgical instrument to mime a duck, which carol stops.?",
+      "options": [
+        "CAROL, ROSS",
+        "ROSS",
+        "ROSS, SUSAN",
+        "BERNICE"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_004_event_003"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0102_114",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Carol's OB/GYN when ROSS and CAROL were together?",
+      "options": [
+        "Ross enters the OB/GYN office and apologizes for being late.",
+        "Ross and Susan shake hands after being introduced by Carol.",
+        "Bernice calls Dr. Farber via intercom about a gagging patient.",
+        "Ross uses a surgical instrument to mime a duck, which Carol stops."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_004_event_003"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0102_115",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did bernice calls dr. farber via intercom about a gagging patient. when BERNICE were present?",
+      "options": [
+        "Carol's OB/GYN",
+        "Monica and Rachel's apartment",
+        "Barry's office",
+        "Central Perk"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_004_event_004"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0102_116",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Carol's OB/GYN when bernice calls dr. farber via intercom about a gagging patient.?",
+      "options": [
+        "ROSS",
+        "BERNICE",
+        "ROSS, SUSAN",
+        "CAROL, ROSS"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_004_event_004"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0102_117",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Carol's OB/GYN when BERNICE were together?",
+      "options": [
+        "Ross enters the OB/GYN office and apologizes for being late.",
+        "Ross and Susan shake hands after being introduced by Carol.",
+        "Ross uses a surgical instrument to mime a duck, which Carol stops.",
+        "Bernice calls Dr. Farber via intercom about a gagging patient."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_004_event_004"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0102_118",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did barry answers the intercom and leaves the room to attend to the patient. when BARRY were present?",
+      "options": [
+        "Central Park",
+        "Carol's OB/GYN",
+        "Monica and Rachel's",
+        "Monica and Rachel's apartment"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_004_event_005"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0102_119",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Carol's OB/GYN when barry answers the intercom and leaves the room to attend to the patient.?",
+      "options": [
+        "BARRY",
+        "ROSS",
+        "ROSS, SUSAN",
+        "CAROL, ROSS"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_004_event_005"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0102_120",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Carol's OB/GYN when BARRY were together?",
+      "options": [
+        "Ross enters the OB/GYN office and apologizes for being late.",
+        "Ross and Susan shake hands after being introduced by Carol.",
+        "Barry answers the intercom and leaves the room to attend to the patient.",
+        "Ross uses a surgical instrument to mime a duck, which Carol stops."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_004_event_005"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0102_121",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did rachel hesitates before entering the room and later dumps robbie. when RACHEL and ROBBIE were present?",
+      "options": [
+        "Carol's OB/GYN",
+        "Monica and Rachel's apartment",
+        "Central Park",
+        "Museum of Prehistoric History"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_004_event_006"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0102_122",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Carol's OB/GYN when rachel hesitates before entering the room and later dumps robbie.?",
+      "options": [
+        "ROSS",
+        "ROSS, SUSAN",
+        "RACHEL, ROBBIE",
+        "CAROL, ROSS"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_004_event_006"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0102_123",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Carol's OB/GYN when RACHEL and ROBBIE were together?",
+      "options": [
+        "Ross enters the OB/GYN office and apologizes for being late.",
+        "Rachel hesitates before entering the room and later dumps Robbie.",
+        "Ross and Susan shake hands after being introduced by Carol.",
+        "Ross uses a surgical instrument to mime a duck, which Carol stops."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_004_event_006"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0102_124",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did ross asks carol how important decisions will be made in their relationship. when ROSS and CAROL were present?",
+      "options": [
+        "Carol's OB/GYN",
+        "Central Park",
+        "Barry's office",
+        "Central Perk"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_005_event_001"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0102_125",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Carol's OB/GYN when ross asks carol how important decisions will be made in their relationship.?",
+      "options": [
+        "ROSS",
+        "ROSS, SUSAN",
+        "CAROL, ROSS",
+        "ROSS"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_005_event_001"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0102_126",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Carol's OB/GYN when ROSS and CAROL were together?",
+      "options": [
+        "Ross enters the OB/GYN office and apologizes for being late.",
+        "Ross asks Carol how important decisions will be made in their relationship.",
+        "Ross and Susan shake hands after being introduced by Carol.",
+        "Ross uses a surgical instrument to mime a duck, which Carol stops."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_005_event_001"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0102_127",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did carol suggests the name marlon for a boy and minnie for a girl if it's a girl. when CAROL were present?",
+      "options": [
+        "Central Perk",
+        "Monica and Rachel's apartment",
+        "Carol's OB/GYN",
+        "Monica and Rachel's"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_005_event_002"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0102_128",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Carol's OB/GYN when carol suggests the name marlon for a boy and minnie for a girl if it's a girl.?",
+      "options": [
+        "ROSS",
+        "ROSS, SUSAN",
+        "CAROL, ROSS",
+        "CAROL"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_005_event_002"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0102_129",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Carol's OB/GYN when CAROL were together?",
+      "options": [
+        "Carol suggests the name Marlon for a boy and Minnie for a girl if it's a girl.",
+        "Ross enters the OB/GYN office and apologizes for being late.",
+        "Ross and Susan shake hands after being introduced by Carol.",
+        "Ross uses a surgical instrument to mime a duck, which Carol stops."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_005_event_002"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0102_130",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did ross expresses surprise and confusion about the name minnie, associating it with 'mouse'. when ROSS were present?",
+      "options": [
+        "Barry's office",
+        "Carol's OB/GYN",
+        "Monica and Rachel's apartment",
+        "Museum of Prehistoric History"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_005_event_003"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0102_131",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Carol's OB/GYN when ross expresses surprise and confusion about the name minnie, associating it with 'mouse'.?",
+      "options": [
+        "ROSS, SUSAN",
+        "CAROL, ROSS",
+        "ROSS",
+        "Unknown subjects 3"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_005_event_003"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0102_132",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Carol's OB/GYN when ROSS were together?",
+      "options": [
+        "Ross expresses surprise and confusion about the name Minnie, associating it with 'Mouse'.",
+        "Ross enters the OB/GYN office and apologizes for being late.",
+        "Ross and Susan shake hands after being introduced by Carol.",
+        "Ross uses a surgical instrument to mime a duck, which Carol stops."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_005_event_003"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0102_133",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did susan interjects to confirm that they agreed on the name minnie. when SUSAN were present?",
+      "options": [
+        "Museum of Prehistoric History",
+        "Carol's OB/GYN",
+        "Monica and Rachel's apartment",
+        "Barry's office"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_005_event_004"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0102_134",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Carol's OB/GYN when susan interjects to confirm that they agreed on the name minnie.?",
+      "options": [
+        "SUSAN",
+        "ROSS",
+        "ROSS, SUSAN",
+        "CAROL, ROSS"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_005_event_004"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0102_135",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Carol's OB/GYN when SUSAN were together?",
+      "options": [
+        "Ross enters the OB/GYN office and apologizes for being late.",
+        "Susan interjects to confirm that they agreed on the name Minnie.",
+        "Ross and Susan shake hands after being introduced by Carol.",
+        "Ross uses a surgical instrument to mime a duck, which Carol stops."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_005_event_004"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0102_136",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did ross humorously suggests the name julia, referencing the table, as a compromise. when ROSS were present?",
+      "options": [
+        "Museum of Prehistoric History",
+        "Carol's OB/GYN",
+        "Barry's office",
+        "Central Park"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_005_event_005"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0102_137",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Carol's OB/GYN when ross humorously suggests the name julia, referencing the table, as a compromise.?",
+      "options": [
+        "ROSS",
+        "ROSS, SUSAN",
+        "CAROL, ROSS",
+        "Unknown subjects 3"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_005_event_005"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0102_138",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Carol's OB/GYN when ROSS were together?",
+      "options": [
+        "Ross enters the OB/GYN office and apologizes for being late.",
+        "Ross and Susan shake hands after being introduced by Carol.",
+        "Ross uses a surgical instrument to mime a duck, which Carol stops.",
+        "Ross humorously suggests the name Julia, referencing the table, as a compromise."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_005_event_005"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0102_139",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did carol considers the name julia, showing hesitation. when CAROL were present?",
+      "options": [
+        "Museum of Prehistoric History",
+        "Monica and Rachel's",
+        "Monica and Rachel's apartment",
+        "Carol's OB/GYN"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_005_event_006"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0102_140",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Carol's OB/GYN when carol considers the name julia, showing hesitation.?",
+      "options": [
+        "ROSS",
+        "ROSS, SUSAN",
+        "CAROL",
+        "CAROL, ROSS"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_005_event_006"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0102_141",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Carol's OB/GYN when CAROL were together?",
+      "options": [
+        "Ross enters the OB/GYN office and apologizes for being late.",
+        "Ross and Susan shake hands after being introduced by Carol.",
+        "Carol considers the name Julia, showing hesitation.",
+        "Ross uses a surgical instrument to mime a duck, which Carol stops."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_005_event_006"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0102_142",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did ross questions the stability of their agreement to spend the rest of their lives together. when ROSS were present?",
+      "options": [
+        "Central Perk",
+        "Museum of Prehistoric History",
+        "Carol's OB/GYN",
+        "Monica and Rachel's apartment"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_005_event_007"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0102_143",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Carol's OB/GYN when ross questions the stability of their agreement to spend the rest of their lives together.?",
+      "options": [
+        "ROSS, SUSAN",
+        "ROSS",
+        "CAROL, ROSS",
+        "Unknown subjects 3"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_005_event_007"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0102_144",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Carol's OB/GYN when ROSS were together?",
+      "options": [
+        "Ross enters the OB/GYN office and apologizes for being late.",
+        "Ross questions the stability of their agreement to spend the rest of their lives together.",
+        "Ross and Susan shake hands after being introduced by Carol.",
+        "Ross uses a surgical instrument to mime a duck, which Carol stops."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_005_event_007"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0102_145",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did rachel tells barry that she got a job. when RACHEL and BARRY were present?",
+      "options": [
+        "Barry's office",
+        "Central Park",
+        "Central Perk",
+        "Museum of Prehistoric History"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_006_event_001"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_006"
+      ]
+    },
+    {
+      "question_id": "Q_0102_146",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Barry's office when rachel tells barry that she got a job.?",
+      "options": [
+        "RACHEL",
+        "RACHEL",
+        "BARRY, RACHEL",
+        "Unknown subjects 3"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_006_event_001"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_006"
+      ]
+    },
+    {
+      "question_id": "Q_0102_147",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Barry's office when RACHEL and BARRY were together?",
+      "options": [
+        "Barry reveals he went to Aruba with Mindy.",
+        "Rachel reacts with shock and disgust upon hearing about Barry's trip with Mindy.",
+        "Barry admits he wanted to hurt Rachel but found happiness with Mindy.",
+        "Rachel tells Barry that she got a job."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_006_event_001"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_006"
+      ]
+    },
+    {
+      "question_id": "Q_0102_148",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did barry reveals he went to aruba with mindy. when BARRY and RACHEL were present?",
+      "options": [
+        "Monica and Rachel's apartment",
+        "Carol's OB/GYN",
+        "Barry's office",
+        "Central Park"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_006_event_002"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_006"
+      ]
+    },
+    {
+      "question_id": "Q_0102_149",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Barry's office when barry reveals he went to aruba with mindy.?",
+      "options": [
+        "RACHEL",
+        "BARRY, RACHEL",
+        "BARRY",
+        "Unknown subjects 3"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_006_event_002"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_006"
+      ]
+    },
+    {
+      "question_id": "Q_0102_150",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Barry's office when BARRY and RACHEL were together?",
+      "options": [
+        "Barry reveals he went to Aruba with Mindy.",
+        "Rachel tells Barry that she got a job.",
+        "Rachel reacts with shock and disgust upon hearing about Barry's trip with Mindy.",
+        "Barry admits he wanted to hurt Rachel but found happiness with Mindy."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_006_event_002"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_006"
+      ]
+    },
+    {
+      "question_id": "Q_0102_151",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did rachel reacts with shock and disgust upon hearing about barry's trip with mindy. when RACHEL were present?",
+      "options": [
+        "Carol's OB/GYN",
+        "Barry's office",
+        "Central Perk",
+        "Monica and Rachel's apartment"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_006_event_003"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_006"
+      ]
+    },
+    {
+      "question_id": "Q_0102_152",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Barry's office when rachel reacts with shock and disgust upon hearing about barry's trip with mindy.?",
+      "options": [
+        "BARRY, RACHEL",
+        "BARRY, RACHEL",
+        "BARRY, RACHEL",
+        "RACHEL"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_006_event_003"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_006"
+      ]
+    },
+    {
+      "question_id": "Q_0102_153",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Barry's office when RACHEL were together?",
+      "options": [
+        "Rachel tells Barry that she got a job.",
+        "Barry reveals he went to Aruba with Mindy.",
+        "Rachel reacts with shock and disgust upon hearing about Barry's trip with Mindy.",
+        "Barry admits he wanted to hurt Rachel but found happiness with Mindy."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_006_event_003"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_006"
+      ]
+    },
+    {
+      "question_id": "Q_0102_154",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did barry admits he wanted to hurt rachel but found happiness with mindy. when BARRY and RACHEL were present?",
+      "options": [
+        "Central Perk",
+        "Barry's office",
+        "Monica and Rachel's",
+        "Central Park"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_006_event_004"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_006"
+      ]
+    },
+    {
+      "question_id": "Q_0102_155",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Barry's office when barry admits he wanted to hurt rachel but found happiness with mindy.?",
+      "options": [
+        "RACHEL",
+        "BARRY, RACHEL",
+        "BARRY",
+        "Unknown subjects 3"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_006_event_004"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_006"
+      ]
+    },
+    {
+      "question_id": "Q_0102_156",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Barry's office when BARRY and RACHEL were together?",
+      "options": [
+        "Barry admits he wanted to hurt Rachel but found happiness with Mindy.",
+        "Rachel tells Barry that she got a job.",
+        "Barry reveals he went to Aruba with Mindy.",
+        "Rachel reacts with shock and disgust upon hearing about Barry's trip with Mindy."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_006_event_004"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_006"
+      ]
+    },
+    {
+      "question_id": "Q_0102_157",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did rachel gives barry back the ring he had given her. when RACHEL and BARRY were present?",
+      "options": [
+        "Museum of Prehistoric History",
+        "Central Perk",
+        "Monica and Rachel's apartment",
+        "Barry's office"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_006_event_005"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_006"
+      ]
+    },
+    {
+      "question_id": "Q_0102_158",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Barry's office when rachel gives barry back the ring he had given her.?",
+      "options": [
+        "RACHEL",
+        "BARRY, RACHEL",
+        "RACHEL",
+        "Unknown subjects 3"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_006_event_005"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_006"
+      ]
+    },
+    {
+      "question_id": "Q_0102_159",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Barry's office when RACHEL and BARRY were together?",
+      "options": [
+        "Rachel tells Barry that she got a job.",
+        "Barry reveals he went to Aruba with Mindy.",
+        "Rachel reacts with shock and disgust upon hearing about Barry's trip with Mindy.",
+        "Rachel gives Barry back the ring he had given her."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_006_event_005"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_006"
+      ]
+    },
+    {
+      "question_id": "Q_0102_160",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did robbie spits in reaction to the conversation. when ROBBIE were present?",
+      "options": [
+        "Monica and Rachel's",
+        "Barry's office",
+        "Carol's OB/GYN",
+        "Museum of Prehistoric History"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_006_event_006"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_006"
+      ]
+    },
+    {
+      "question_id": "Q_0102_161",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Barry's office when robbie spits in reaction to the conversation.?",
+      "options": [
+        "BARRY, RACHEL",
+        "BARRY, RACHEL",
+        "ROBBIE",
+        "RACHEL"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_006_event_006"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_006"
+      ]
+    },
+    {
+      "question_id": "Q_0102_162",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Barry's office when ROBBIE were together?",
+      "options": [
+        "Rachel tells Barry that she got a job.",
+        "Robbie spits in reaction to the conversation.",
+        "Barry reveals he went to Aruba with Mindy.",
+        "Rachel reacts with shock and disgust upon hearing about Barry's trip with Mindy."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_006_event_006"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_006"
+      ]
+    },
+    {
+      "question_id": "Q_0102_163",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did barry thanks rachel for returning the ring. when BARRY and RACHEL were present?",
+      "options": [
+        "Carol's OB/GYN",
+        "Museum of Prehistoric History",
+        "Monica and Rachel's",
+        "Barry's office"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_006_event_007"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_006"
+      ]
+    },
+    {
+      "question_id": "Q_0102_164",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Barry's office when barry thanks rachel for returning the ring.?",
+      "options": [
+        "BARRY, RACHEL",
+        "RACHEL",
+        "BARRY",
+        "Unknown subjects 3"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_006_event_007"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_006"
+      ]
+    },
+    {
+      "question_id": "Q_0102_165",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Barry's office when BARRY and RACHEL were together?",
+      "options": [
+        "Rachel tells Barry that she got a job.",
+        "Barry reveals he went to Aruba with Mindy.",
+        "Barry thanks Rachel for returning the ring.",
+        "Rachel reacts with shock and disgust upon hearing about Barry's trip with Mindy."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_006_event_007"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_006"
+      ]
+    },
+    {
+      "question_id": "Q_0102_166",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did robbie says 'hello?!' reacting to the situation. when ROBBIE were present?",
+      "options": [
+        "Museum of Prehistoric History",
+        "Central Park",
+        "Monica and Rachel's",
+        "Barry's office"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_006_event_008"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_006"
+      ]
+    },
+    {
+      "question_id": "Q_0102_167",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Barry's office when robbie says 'hello?!' reacting to the situation.?",
+      "options": [
+        "BARRY, RACHEL",
+        "ROBBIE",
+        "BARRY, RACHEL",
+        "RACHEL"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_006_event_008"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_006"
+      ]
+    },
+    {
+      "question_id": "Q_0102_168",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Barry's office when ROBBIE were together?",
+      "options": [
+        "Rachel tells Barry that she got a job.",
+        "Barry reveals he went to Aruba with Mindy.",
+        "Robbie says 'Hello?!' reacting to the situation.",
+        "Rachel reacts with shock and disgust upon hearing about Barry's trip with Mindy."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_006_event_008"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_006"
+      ]
+    },
+    {
+      "question_id": "Q_0102_169",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did susan suggests the name helen for the baby. when SUSAN were present?",
+      "options": [
+        "Monica and Rachel's",
+        "Carol's OB/GYN",
+        "Central Perk",
+        "Central Park"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_007_event_001"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_170",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Carol's OB/GYN when susan suggests the name helen for the baby.?",
+      "options": [
+        "ROSS",
+        "SUSAN",
+        "ROSS, SUSAN",
+        "CAROL, ROSS"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_007_event_001"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_171",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Carol's OB/GYN when SUSAN were together?",
+      "options": [
+        "Susan suggests the name Helen for the baby.",
+        "Ross enters the OB/GYN office and apologizes for being late.",
+        "Ross and Susan shake hands after being introduced by Carol.",
+        "Ross uses a surgical instrument to mime a duck, which Carol stops."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_007_event_001"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_172",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did ross objects to the name helen geller. when ROSS were present?",
+      "options": [
+        "Museum of Prehistoric History",
+        "Central Park",
+        "Barry's office",
+        "Carol's OB/GYN"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_007_event_002"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_173",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Carol's OB/GYN when ross objects to the name helen geller.?",
+      "options": [
+        "ROSS, SUSAN",
+        "ROSS",
+        "CAROL, ROSS",
+        "Unknown subjects 3"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_007_event_002"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_174",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Carol's OB/GYN when ROSS were together?",
+      "options": [
+        "Ross enters the OB/GYN office and apologizes for being late.",
+        "Ross and Susan shake hands after being introduced by Carol.",
+        "Ross uses a surgical instrument to mime a duck, which Carol stops.",
+        "Ross objects to the name Helen Geller."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_007_event_002"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_175",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did carol clarifies that the baby's last name won't be geller. when CAROL were present?",
+      "options": [
+        "Central Park",
+        "Carol's OB/GYN",
+        "Barry's office",
+        "Central Perk"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_007_event_003"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_176",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Carol's OB/GYN when carol clarifies that the baby's last name won't be geller.?",
+      "options": [
+        "ROSS",
+        "CAROL",
+        "ROSS, SUSAN",
+        "CAROL, ROSS"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_007_event_003"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_177",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Carol's OB/GYN when CAROL were together?",
+      "options": [
+        "Carol clarifies that the baby's last name won't be Geller.",
+        "Ross enters the OB/GYN office and apologizes for being late.",
+        "Ross and Susan shake hands after being introduced by Carol.",
+        "Ross uses a surgical instrument to mime a duck, which Carol stops."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_007_event_003"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_178",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did ross sarcastically thanks carol for her input. when ROSS were present?",
+      "options": [
+        "Museum of Prehistoric History",
+        "Monica and Rachel's",
+        "Carol's OB/GYN",
+        "Central Park"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_007_event_004"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_179",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Carol's OB/GYN when ross sarcastically thanks carol for her input.?",
+      "options": [
+        "ROSS, SUSAN",
+        "CAROL, ROSS",
+        "Unknown subjects 3",
+        "ROSS"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_007_event_004"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_180",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Carol's OB/GYN when ROSS were together?",
+      "options": [
+        "Ross sarcastically thanks Carol for her input.",
+        "Ross enters the OB/GYN office and apologizes for being late.",
+        "Ross and Susan shake hands after being introduced by Carol.",
+        "Ross uses a surgical instrument to mime a duck, which Carol stops."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_007_event_004"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_181",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did susan argues that the baby is also her child. when SUSAN were present?",
+      "options": [
+        "Central Park",
+        "Carol's OB/GYN",
+        "Barry's office",
+        "Monica and Rachel's"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_007_event_005"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_182",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Carol's OB/GYN when susan argues that the baby is also her child.?",
+      "options": [
+        "ROSS",
+        "SUSAN",
+        "ROSS, SUSAN",
+        "CAROL, ROSS"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_007_event_005"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_183",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Carol's OB/GYN when SUSAN were together?",
+      "options": [
+        "Ross enters the OB/GYN office and apologizes for being late.",
+        "Susan argues that the baby is also her child.",
+        "Ross and Susan shake hands after being introduced by Carol.",
+        "Ross uses a surgical instrument to mime a duck, which Carol stops."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_007_event_005"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_184",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did ross humorously remarks on susan's contribution to the baby's conception. when ROSS were present?",
+      "options": [
+        "Barry's office",
+        "Central Park",
+        "Carol's OB/GYN",
+        "Monica and Rachel's apartment"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_007_event_006"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_185",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Carol's OB/GYN when ross humorously remarks on susan's contribution to the baby's conception.?",
+      "options": [
+        "ROSS, SUSAN",
+        "ROSS",
+        "CAROL, ROSS",
+        "Unknown subjects 3"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_007_event_006"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_186",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Carol's OB/GYN when ROSS were together?",
+      "options": [
+        "Ross enters the OB/GYN office and apologizes for being late.",
+        "Ross humorously remarks on Susan's contribution to the baby's conception.",
+        "Ross and Susan shake hands after being introduced by Carol.",
+        "Ross uses a surgical instrument to mime a duck, which Carol stops."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_007_event_006"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_187",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did carol intervenes to stop the argument between ross and susan. when CAROL were present?",
+      "options": [
+        "Carol's OB/GYN",
+        "Monica and Rachel's apartment",
+        "Barry's office",
+        "Monica and Rachel's"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_007_event_007"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_188",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Carol's OB/GYN when carol intervenes to stop the argument between ross and susan.?",
+      "options": [
+        "CAROL",
+        "ROSS",
+        "ROSS, SUSAN",
+        "CAROL, ROSS"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_007_event_007"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_189",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Carol's OB/GYN when CAROL were together?",
+      "options": [
+        "Ross enters the OB/GYN office and apologizes for being late.",
+        "Ross and Susan shake hands after being introduced by Carol.",
+        "Ross uses a surgical instrument to mime a duck, which Carol stops.",
+        "Carol intervenes to stop the argument between Ross and Susan."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_007_event_007"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_190",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did ross suggests a combined last name for the baby, which carol finds excessive. when ROSS were present?",
+      "options": [
+        "Carol's OB/GYN",
+        "Central Perk",
+        "Museum of Prehistoric History",
+        "Barry's office"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_007_event_008"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_191",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Carol's OB/GYN when ross suggests a combined last name for the baby, which carol finds excessive.?",
+      "options": [
+        "ROSS, SUSAN",
+        "ROSS",
+        "CAROL, ROSS",
+        "Unknown subjects 3"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_007_event_008"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_192",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Carol's OB/GYN when ROSS were together?",
+      "options": [
+        "Ross enters the OB/GYN office and apologizes for being late.",
+        "Ross and Susan shake hands after being introduced by Carol.",
+        "Ross uses a surgical instrument to mime a duck, which Carol stops.",
+        "Ross suggests a combined last name for the baby, which Carol finds excessive."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_007_event_008"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_193",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did susan accuses ross of trying to manipulate the name choice. when SUSAN were present?",
+      "options": [
+        "Carol's OB/GYN",
+        "Museum of Prehistoric History",
+        "Monica and Rachel's apartment",
+        "Central Park"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_007_event_009"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_194",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Carol's OB/GYN when susan accuses ross of trying to manipulate the name choice.?",
+      "options": [
+        "SUSAN",
+        "ROSS",
+        "ROSS, SUSAN",
+        "CAROL, ROSS"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_007_event_009"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_195",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Carol's OB/GYN when SUSAN were together?",
+      "options": [
+        "Susan accuses Ross of trying to manipulate the name choice.",
+        "Ross enters the OB/GYN office and apologizes for being late.",
+        "Ross and Susan shake hands after being introduced by Carol.",
+        "Ross uses a surgical instrument to mime a duck, which Carol stops."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_007_event_009"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_196",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did ross becomes overwhelmed and decides to leave the room. when ROSS were present?",
+      "options": [
+        "Central Park",
+        "Carol's OB/GYN",
+        "Museum of Prehistoric History",
+        "Central Perk"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_007_event_010"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_197",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Carol's OB/GYN when ross becomes overwhelmed and decides to leave the room.?",
+      "options": [
+        "ROSS, SUSAN",
+        "CAROL, ROSS",
+        "Unknown subjects 3",
+        "ROSS"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_007_event_010"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_198",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Carol's OB/GYN when ROSS were together?",
+      "options": [
+        "Ross enters the OB/GYN office and apologizes for being late.",
+        "Ross and Susan shake hands after being introduced by Carol.",
+        "Ross becomes overwhelmed and decides to leave the room.",
+        "Ross uses a surgical instrument to mime a duck, which Carol stops."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_007_event_010"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_199",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did ross asks monica her opinion on the sonogram tape, leading to her emotional response. when ROSS and MONICA were present?",
+      "options": [
+        "Carol's OB/GYN",
+        "Monica and Rachel's",
+        "Monica and Rachel's apartment",
+        "Central Perk"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_008_event_001"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_008"
+      ]
+    },
+    {
+      "question_id": "Q_0102_200",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's apartment when ross asks monica her opinion on the sonogram tape, leading to her emotional response.?",
+      "options": [
+        "MONICA, ROSS",
+        "MONICA",
+        "RACHEL",
+        "RACHEL"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_008_event_001"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_008"
+      ]
+    },
+    {
+      "question_id": "Q_0102_201",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's apartment when ROSS and MONICA were together?",
+      "options": [
+        "Ross asks Monica her opinion on the sonogram tape, leading to her emotional response.",
+        "Monica starts crying after Ross teases her about being an aunt.",
+        "Rachel is on the phone, talking to Mindy about her feelings regarding Barry's marriage.",
+        "Rachel slams the phone down after expressing her hopes for Mindy and Barry's future children."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_008_event_001"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_008"
+      ]
+    },
+    {
+      "question_id": "Q_0102_202",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did monica starts crying after ross teases her about being an aunt. when MONICA were present?",
+      "options": [
+        "Monica and Rachel's",
+        "Central Park",
+        "Museum of Prehistoric History",
+        "Monica and Rachel's apartment"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_008_event_002"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_008"
+      ]
+    },
+    {
+      "question_id": "Q_0102_203",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's apartment when monica starts crying after ross teases her about being an aunt.?",
+      "options": [
+        "MONICA",
+        "MONICA, ROSS",
+        "RACHEL",
+        "RACHEL"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_008_event_002"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_008"
+      ]
+    },
+    {
+      "question_id": "Q_0102_204",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's apartment when MONICA were together?",
+      "options": [
+        "Ross asks Monica her opinion on the sonogram tape, leading to her emotional response.",
+        "Rachel is on the phone, talking to Mindy about her feelings regarding Barry's marriage.",
+        "Rachel slams the phone down after expressing her hopes for Mindy and Barry's future children.",
+        "Monica starts crying after Ross teases her about being an aunt."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_008_event_002"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_008"
+      ]
+    },
+    {
+      "question_id": "Q_0102_205",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did rachel is on the phone, talking to mindy about her feelings regarding barry's marriage. when RACHEL were present?",
+      "options": [
+        "Barry's office",
+        "Central Park",
+        "Monica and Rachel's apartment",
+        "Central Perk"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_008_event_003"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_008"
+      ]
+    },
+    {
+      "question_id": "Q_0102_206",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's apartment when rachel is on the phone, talking to mindy about her feelings regarding barry's marriage.?",
+      "options": [
+        "MONICA, ROSS",
+        "MONICA",
+        "RACHEL",
+        "Unknown subjects 3"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_008_event_003"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_008"
+      ]
+    },
+    {
+      "question_id": "Q_0102_207",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's apartment when RACHEL were together?",
+      "options": [
+        "Ross asks Monica her opinion on the sonogram tape, leading to her emotional response.",
+        "Monica starts crying after Ross teases her about being an aunt.",
+        "Rachel slams the phone down after expressing her hopes for Mindy and Barry's future children.",
+        "Rachel is on the phone, talking to Mindy about her feelings regarding Barry's marriage."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_008_event_003"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_008"
+      ]
+    },
+    {
+      "question_id": "Q_0102_208",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did rachel slams the phone down after expressing her hopes for mindy and barry's future children. when RACHEL were present?",
+      "options": [
+        "Central Perk",
+        "Central Park",
+        "Monica and Rachel's apartment",
+        "Monica and Rachel's"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_008_event_004"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_008"
+      ]
+    },
+    {
+      "question_id": "Q_0102_209",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's apartment when rachel slams the phone down after expressing her hopes for mindy and barry's future children.?",
+      "options": [
+        "MONICA, ROSS",
+        "RACHEL",
+        "MONICA",
+        "Unknown subjects 3"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_008_event_004"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_008"
+      ]
+    },
+    {
+      "question_id": "Q_0102_210",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's apartment when RACHEL were together?",
+      "options": [
+        "Rachel slams the phone down after expressing her hopes for Mindy and Barry's future children.",
+        "Ross asks Monica her opinion on the sonogram tape, leading to her emotional response.",
+        "Monica starts crying after Ross teases her about being an aunt.",
+        "Rachel is on the phone, talking to Mindy about her feelings regarding Barry's marriage."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_008_event_004"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_008"
+      ]
+    },
+    {
+      "question_id": "Q_0102_211",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did rachel addresses the group, expressing her relief after her emotional outburst. when RACHEL were present?",
+      "options": [
+        "Barry's office",
+        "Central Park",
+        "Monica and Rachel's apartment",
+        "Museum of Prehistoric History"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_008_event_005"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_008"
+      ]
+    },
+    {
+      "question_id": "Q_0102_212",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's apartment when rachel addresses the group, expressing her relief after her emotional outburst.?",
+      "options": [
+        "RACHEL",
+        "MONICA, ROSS",
+        "MONICA",
+        "Unknown subjects 3"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_008_event_005"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_008"
+      ]
+    },
+    {
+      "question_id": "Q_0102_213",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's apartment when RACHEL were together?",
+      "options": [
+        "Ross asks Monica her opinion on the sonogram tape, leading to her emotional response.",
+        "Monica starts crying after Ross teases her about being an aunt.",
+        "Rachel is on the phone, talking to Mindy about her feelings regarding Barry's marriage.",
+        "Rachel addresses the group, expressing her relief after her emotional outburst."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_008_event_005"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_008"
+      ]
+    },
+    {
+      "question_id": "Q_0102_214",
+      "question_type": "boolean",
+      "subcategory": "location verification",
+      "cues": "",
+      "target": "",
+      "question": "Did ross humorously remarks on susan's contribution to the baby's conception. at Monica and Rachel's?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "Ross humorously remarks on Susan's contribution to the baby's conception. occurred at Carol's OB/GYN, not Monica and Rachel's.",
+      "related_events": [
+        "0102_scene_007_event_006"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_215",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was MONICA present when ross humorously remarks on susan's contribution to the baby's conception.?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "MONICA was not present during this event.",
+      "related_events": [
+        "0102_scene_007_event_006"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_216",
+      "question_type": "boolean",
+      "subcategory": "location verification",
+      "cues": "",
+      "target": "",
+      "question": "Did rachel reacts with shock and disgust upon hearing about barry's trip with mindy. at Central Perk?",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "Rachel reacts with shock and disgust upon hearing about Barry's trip with Mindy. occurred at Barry's office, not Central Perk.",
+      "related_events": [
+        "0102_scene_006_event_003"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_006"
+      ]
+    },
+    {
+      "question_id": "Q_0102_217",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was MONICA present when rachel reacts with shock and disgust upon hearing about barry's trip with mindy.?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "MONICA was not present during this event.",
+      "related_events": [
+        "0102_scene_006_event_003"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_006"
+      ]
+    },
+    {
+      "question_id": "Q_0102_218",
+      "question_type": "boolean",
+      "subcategory": "location verification",
+      "cues": "",
+      "target": "",
+      "question": "Did ross expresses surprise and confusion about the name minnie, associating it with 'mouse'. at Central Park?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "Ross expresses surprise and confusion about the name Minnie, associating it with 'Mouse'. occurred at Carol's OB/GYN, not Central Park.",
+      "related_events": [
+        "0102_scene_005_event_003"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0102_219",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was BARRY present when ross expresses surprise and confusion about the name minnie, associating it with 'mouse'.?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "BARRY was not present during this event.",
+      "related_events": [
+        "0102_scene_005_event_003"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0102_220",
+      "question_type": "boolean",
+      "subcategory": "location verification",
+      "cues": "",
+      "target": "",
+      "question": "Did robbie says 'hello?!' reacting to the situation. at Carol's OB/GYN?",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "Robbie says 'Hello?!' reacting to the situation. occurred at Barry's office, not Carol's OB/GYN.",
+      "related_events": [
+        "0102_scene_006_event_008"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_006"
+      ]
+    },
+    {
+      "question_id": "Q_0102_221",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was BARRY present when robbie says 'hello?!' reacting to the situation.?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "BARRY was not present during this event.",
+      "related_events": [
+        "0102_scene_006_event_008"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_006"
+      ]
+    },
+    {
+      "question_id": "Q_0102_222",
+      "question_type": "boolean",
+      "subcategory": "location verification",
+      "cues": "",
+      "target": "",
+      "question": "Did rachel advises the group to bring back the comedian to avoid being alone. at Monica and Rachel's apartment?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "Rachel advises the group to bring back the comedian to avoid being alone. occurred at Central Perk, not Monica and Rachel's apartment.",
+      "related_events": [
+        "0102_scene_000_event_009"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_223",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was JOEY present when rachel advises the group to bring back the comedian to avoid being alone.?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "JOEY was not present during this event.",
+      "related_events": [
+        "0102_scene_000_event_009"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_224",
+      "question_type": "boolean",
+      "subcategory": "location verification",
+      "cues": "",
+      "target": "",
+      "question": "Did ross sarcastically thanks carol for her input. at Barry's office?",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "Ross sarcastically thanks Carol for her input. occurred at Carol's OB/GYN, not Barry's office.",
+      "related_events": [
+        "0102_scene_007_event_004"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_225",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was CAROL present when ross sarcastically thanks carol for her input.?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "CAROL was not present during this event.",
+      "related_events": [
+        "0102_scene_007_event_004"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_226",
+      "question_type": "boolean",
+      "subcategory": "location verification",
+      "cues": "",
+      "target": "",
+      "question": "Did susan interjects to confirm that they agreed on the name minnie. at Monica and Rachel's apartment?",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "Susan interjects to confirm that they agreed on the name Minnie. occurred at Carol's OB/GYN, not Monica and Rachel's apartment.",
+      "related_events": [
+        "0102_scene_005_event_004"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0102_227",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was MARSHA present when susan interjects to confirm that they agreed on the name minnie.?",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "MARSHA was not present during this event.",
+      "related_events": [
+        "0102_scene_005_event_004"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0102_228",
+      "question_type": "boolean",
+      "subcategory": "location verification",
+      "cues": "",
+      "target": "",
+      "question": "Did ross asks carol how important decisions will be made in their relationship. at Monica and Rachel's apartment?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "Ross asks Carol how important decisions will be made in their relationship. occurred at Carol's OB/GYN, not Monica and Rachel's apartment.",
+      "related_events": [
+        "0102_scene_005_event_001"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0102_229",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was PHOEBE present when ross asks carol how important decisions will be made in their relationship.?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "PHOEBE was not present during this event.",
+      "related_events": [
+        "0102_scene_005_event_001"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0102_230",
+      "question_type": "boolean",
+      "subcategory": "location verification",
+      "cues": "",
+      "target": "",
+      "question": "Did chandler explains the problem of always seeking the comedian after the main act. at Monica and Rachel's?",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "Chandler explains the problem of always seeking the comedian after the main act. occurred at Central Perk, not Monica and Rachel's.",
+      "related_events": [
+        "0102_scene_000_event_008"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_231",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was SUSAN present when chandler explains the problem of always seeking the comedian after the main act.?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "SUSAN was not present during this event.",
+      "related_events": [
+        "0102_scene_000_event_008"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_232",
+      "question_type": "boolean",
+      "subcategory": "location verification",
+      "cues": "",
+      "target": "",
+      "question": "Did ross objects to the name helen geller. at Central Perk?",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "Ross objects to the name Helen Geller. occurred at Carol's OB/GYN, not Central Perk.",
+      "related_events": [
+        "0102_scene_007_event_002"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_233",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was JOEY present when ross objects to the name helen geller.?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "JOEY was not present during this event.",
+      "related_events": [
+        "0102_scene_007_event_002"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_007"
+      ]
+    },
+    {
+      "question_id": "Q_0102_234",
+      "question_type": "boolean",
+      "subcategory": "location verification",
+      "cues": "",
+      "target": "",
+      "question": "Did ross and marsha are setting up an exhibit with mannequins of cave people. at Central Perk?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "Ross and Marsha are setting up an exhibit with mannequins of cave people. occurred at Museum of Prehistoric History, not Central Perk.",
+      "related_events": [
+        "0102_scene_001_event_001"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0102_235",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was CAROL present when ross and marsha are setting up an exhibit with mannequins of cave people.?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "CAROL was not present during this event.",
+      "related_events": [
+        "0102_scene_001_event_001"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0102_236",
+      "question_type": "boolean",
+      "subcategory": "location verification",
+      "cues": "",
+      "target": "",
+      "question": "Did carol reveals that she is pregnant. at Monica and Rachel's apartment?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "Carol reveals that she is pregnant. occurred at Museum of Prehistoric History, not Monica and Rachel's apartment.",
+      "related_events": [
+        "0102_scene_001_event_005"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0102_237",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was PHOEBE present when carol reveals that she is pregnant.?",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "PHOEBE was not present during this event.",
+      "related_events": [
+        "0102_scene_001_event_005"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0102_238",
+      "question_type": "boolean",
+      "subcategory": "location verification",
+      "cues": "",
+      "target": "",
+      "question": "Did ross humorously suggests the name julia, referencing the table, as a compromise. at Monica and Rachel's?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "Ross humorously suggests the name Julia, referencing the table, as a compromise. occurred at Carol's OB/GYN, not Monica and Rachel's.",
+      "related_events": [
+        "0102_scene_005_event_005"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0102_239",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was JOEY present when ross humorously suggests the name julia, referencing the table, as a compromise.?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "JOEY was not present during this event.",
+      "related_events": [
+        "0102_scene_005_event_005"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0102_240",
+      "question_type": "boolean",
+      "subcategory": "location verification",
+      "cues": "",
+      "target": "",
+      "question": "Did joey questions if the conversation is about sex. at Barry's office?",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "Joey questions if the conversation is about sex. occurred at Central Perk, not Barry's office.",
+      "related_events": [
+        "0102_scene_000_event_010"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_241",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was BERNICE present when joey questions if the conversation is about sex.?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "BERNICE was not present during this event.",
+      "related_events": [
+        "0102_scene_000_event_010"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_242",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (1-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before phoebe tries to calm rachel down about the engagement ring.?",
+      "options": [
+        "Joey expresses skepticism about Monica's statement.",
+        "Monica explains the importance of kissing in a relationship.",
+        "Phoebe agrees with Monica's statement about kissing.",
+        "Rachel states that everything you need to know is in the first kiss."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_000_event_001",
+        "0102_scene_002_event_009"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000",
+        "0102_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0102_243",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (1-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before ross questions the stability of their agreement to spend the rest of their lives together.?",
+      "options": [
+        "Monica explains the importance of kissing in a relationship.",
+        "Phoebe tries to calm Rachel down about the engagement ring.",
+        "Joey expresses skepticism about Monica's statement.",
+        "Phoebe agrees with Monica's statement about kissing."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_002_event_009",
+        "0102_scene_005_event_007"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_002",
+        "0102_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0102_244",
+      "question_type": "temporal: latest event retrieval",
+      "subcategory": "location-based latest event",
+      "cues": "",
+      "target": "",
+      "question": "What was the last event that happened at Central Perk in this episode?",
+      "options": [
+        "Joey questions if the conversation is about sex.",
+        "Ross agrees with Chandler's metaphor, emphasizing the main attraction.",
+        "Chandler explains the problem of always seeking the comedian after the main act.",
+        "Rachel advises the group to bring back the comedian to avoid being alone."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_000_event_010"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0102_245",
+      "question_type": "temporal: latest event retrieval",
+      "subcategory": "episode-wide latest event",
+      "cues": "",
+      "target": "",
+      "question": "What was the most recent event that occurred in the episode?",
+      "options": [
+        "Rachel addresses the group, expressing her relief after her emotional outburst.",
+        "Monica starts crying after Ross teases her about being an aunt.",
+        "Rachel is on the phone, talking to Mindy about her feelings regarding Barry's marriage.",
+        "Rachel slams the phone down after expressing her hopes for Mindy and Barry's future children."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_008_event_005"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "0102_scene_008"
+      ]
+    },
+    {
+      "question_id": "Q_0102_246",
+      "question_type": "temporal: single cue retrieval",
+      "subcategory": "event sequence (location-based)",
+      "cues": "L",
+      "target": "Temporal",
+      "question": "Here are a series of 4 events. Arrange them in the correct temporal order in which they occurred at **Carol's OB/GYN**.\n\n\"event_1\": Carol considers the name Julia, showing hesitation.\n\"event_2\": Carol intervenes to stop the argument between Ross and Susan.\n\"event_3\": Barry answers the intercom and leaves the room to attend to the patient.\n\"event_4\": Ross suggests a combined last name for the baby, which Carol finds excessive.",
+      "options": [
+        "A. event_3, event_1, event_2, event_4",
+        "B. event_1, event_4, event_2, event_3",
+        "C. event_4, event_2, event_1, event_3",
+        "D. event_2, event_4, event_3, event_1"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0102_scene_005_event_006",
+        "0102_scene_007_event_007",
+        "0102_scene_004_event_005",
+        "0102_scene_007_event_008"
+      ],
+      "episode_span": [
+        "0102"
+      ],
+      "clip_span": [
+        "scene_007",
+        "scene_004",
+        "scene_005"
+      ]
+    }
+  ],
+  "statistics": {
+    "total_questions": 246,
+    "question_type_distribution": {
+      "single target recall": 213,
+      "boolean": 28,
+      "temporal: chronological ordering": 2,
+      "temporal: latest event retrieval": 2,
+      "temporal: single cue retrieval": 1
+    },
+    "subcategory_distribution": {
+      "location recall (event + subject)": 71,
+      "subject recall (location + event)": 71,
+      "event recall (location + subject)": 71,
+      "location verification": 14,
+      "subject verification": 14,
+      "event sequence (1-episode span)": 2,
+      "location-based latest event": 1,
+      "episode-wide latest event": 1,
+      "event sequence (location-based)": 1
+    },
+    "cue_distribution": {
+      "E+S → L": 71,
+      "L+E → S": 71,
+      "L+S → E": 71,
+      "L → Temporal": 1
+    },
+    "target_distribution": {
+      "L": 71,
+      "S": 71,
+      "E": 71,
+      "Boolean": 28,
+      "Temporal": 5
+    },
+    "episode_span_distribution": {
+      "1 episode(s)": 246
+    },
+    "clip_span_distribution": {
+      "1 clip(s)": 243,
+      "2 clip(s)": 2,
+      "3 clip(s)": 1
+    },
+    "answer_distribution": {
+      "A": 70,
+      "D": 48,
+      "B": 82,
+      "C": 46
+    }
+  }
+}

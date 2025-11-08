@@ -29,12 +29,15 @@ class EpisodicInference:
     def __init__ (
         self, 
         model, 
-        episodic_tuples_dir, # input path to the episodic tuples
-        qa_pairs_dir, # input path to the QA pairs
-        video_dir, # input path to the videos
-        output_path: str, # output path to save the response
-        with_subs: bool, # to include subs or not
-        all_subs: bool # to extract subs for full episode (True) or event-specific
+        episodic_tuples_dir,        # input path to the episodic tuples
+        qa_pairs_dir,               # input path to the QA pairs
+        video_dir,                  # input path to the videos
+        output_path: str,           # output path to save the response
+        with_subs: bool,            # to include subs or not
+        all_subs: bool,             # to extract subs for full episode (True) or event-specific
+        with_context: bool,         # whether to include Friends context in the instruction prompt
+        run_id: str,                # run_id
+        run_datetime: str           # datetime when run is initiated
     ):
         self.episodic_tuples_dir = episodic_tuples_dir
         self.qa_pairs_dir = qa_pairs_dir
@@ -44,7 +47,10 @@ class EpisodicInference:
         self.output_path = output_path
         self.with_subs = with_subs
         self.all_subs = all_subs
+        self.with_context = with_context
         self.responses = []
+        self.run_id = run_id
+        self.run_datetime = run_datetime
 
     
     ### ==========================================
@@ -154,16 +160,38 @@ class EpisodicInference:
         """
         prompt_parts = []
         model_name = self.model.model_path.split("/")[-1]
-        instruction = "Respond only with the number of the correct multiple-choice answer option (e.g., 1)."
+        instruction = "Respond only with the number of the correct multiple-choice answer option (e.g., A)."
         
         if self.with_subs:
             subs = self.extract_subtitles(qa_json, episode_id)
             subs_text = str(subs)
 
-        # Generate questions and answers
+        # Generate the options in the form of A. B. C. D.
+        def clean_options_text(qa_json: dict):
+            # Get the list of options
+            options = qa_json.get("options", [])
+            assert options is not []
+            cleaned_options = []
+            for opt in options:
+                # Remove any existing prefixes like 'A.', 'B.', '1.', '2.', etc.
+                cleaned = opt.strip()
+                cleaned = cleaned.lstrip("ABCD1234").lstrip(". ").strip()
+                cleaned_options.append(cleaned)
+            # Add A, B, C, D prefixes
+            labels = ["A", "B", "C", "D"]
+            options_text = "\n".join(f"{labels[i]}. {opt}" for i, opt in enumerate(cleaned_options))
+            return options_text
+
         question = qa_json.get("question", "")
         question_id = qa_json.get("question_id", "")
-        options_text = "\n".join(f"{i + 1}. {place}" for i, place in enumerate(qa_json.get("options", [])))
+
+        ### Add context that the video clip is from Friends
+        if self.with_context == True:
+            question = f"""
+                This is an episode from the American television sitcom Friends created by David Crane and Marta Kauffman. Answer the following questions regarding this episode of Friends. \n{question}
+            """
+        # options_text = "\n".join(f"{i + 1}. {place}" for i, place in enumerate(qa_json.get("options", [])))
+        options_text = clean_options_text(qa_json)
 
         if self.with_subs:
             prompt_parts.append(
@@ -201,9 +229,11 @@ class EpisodicInference:
         results = []
         model_name = self.model.model_path.split("/")[-1]
         
-        for idx, qa_json in enumerate(tqdm(self.qa_pairs, desc="EpisodicInference Batch Run")):
+        for idx, qa_json in enumerate(tqdm(self.qa_pairs, desc="Episodic Inference Batch Run")):
             episode_id = qa_json.get("episode")
+            print(f"\n{'='*80}")
             print(f"Generating Batch Inference - Index: {idx} --- Episode: {episode_id}")
+            print(f"{'='*80}\n")
             qa_dataset = qa_json.get("qa_dataset", [])
 
             for idx, qa_data in enumerate(tqdm(qa_dataset, desc=f"Running QA Dataset - {episode_id}")):
@@ -221,6 +251,9 @@ class EpisodicInference:
                     "ground_truth_answer": qa_data["answer"],
                     "options_text": options_text,
                     "model_response": "",
+                    "with_context": str(self.with_context),
+                    "with_subs": str(self.with_subs),
+                    "all_subs": str(self.all_subs),
                     "execution_time": "",
                     "video_clips": "",
                     "error": "",
@@ -244,9 +277,9 @@ class EpisodicInference:
                 results.append(qa_data)
 
             # Save the results
-            output_path = Path(self.output_path) / model_name
-            output_path.mkdir(exist_ok=True)
-            save_path = output_path / f"results_{Path(self.qa_pairs_dir).name}_{now_str}.json"
+            output_path = Path(self.output_path) / model_name / f"{self.run_datetime}" / f"run_{self.run_id}"
+            output_path.mkdir(exist_ok=True, parents=True)
+            save_path = output_path / f"results_{Path(self.qa_pairs_dir).name}_{episode_id}_{now_str}.json"
             
             with open(save_path, "w", encoding="utf-8") as f:
                 json.dump(results, f, indent=4)

@@ -2,44 +2,90 @@ import torch
 import numpy as np
 import av 
 import time
+import tomllib
 
+from pathlib import Path
 from transformers import (
     AutoTokenizer, 
-    AutoProcessor, 
+    AutoProcessor,
+    AutoModelForCausalLM,
+    AutoModel,
+    AutoImageProcessor,
+    Qwen2VLForConditionalGeneration,
     Qwen2_5_VLForConditionalGeneration, 
     VideoLlavaForConditionalGeneration, 
     VideoLlavaProcessor
 )
 from qwen_vl_utils import process_vision_info
-from videollama2 import model_init, mm_infer
-from videollama2.utils import disable_torch_init
+from google import genai
+from google.genai import types
+
+# from videollama2 import model_init, mm_infer
+# from videollama2.utils import disable_torch_init
+
+
+
+
 
 ### ======================= Qwen2.5-VL-7B-Instruct =======================
 class QwenVL:
-    def __init__ (self, model_path: str):
+    def __init__ (self, model_path: str, config_path: str = "./models/config.toml"):
         self.model_path = model_path
-        self.fps = 2.0
-        self.max_pixels = 128 * 28 * 28
-        self.min_pixels = 64 * 28 * 28
+        self.config_path = config_path
+        
+        # Load configuration
+        config = self.load_config()
+        cfg = config.get("qwen-vl-25", {})
+
+        # Assign configuration values with defaults
+        self.fps = float(cfg.get("fps", 2.0))
+        self.max_channels = int(cfg.get("max_channels", 64))
+        self.min_channels = int(cfg.get("min_channels", 64))
+        self.width = int(cfg.get("width", 28))
+        self.height = int(cfg.get("height", 28))
+
+        # Derived parameters
+        self.max_pixels = self.max_channels * self.width * self.height
+        self.min_pixels = self.min_channels * self.width * self.height
+        # self.fps = 2.0
+        # self.max_pixels = 64 * 28 * 28
+        # self.min_pixels = 64 * 28 * 28
+        
+        # Configure processor parameters
         self.device = "cuda" if torch.cuda.is_available() else "cpu"
-        # self.device = "cpu"
         self.model = self.load_model()
         self.processor = self.load_processor()
 
 
+    def load_config(self):
+        if not Path(self.config_path).exists():
+            raise FileNotFoundError(f"Config file not found: {self.config_path}")
+        with open(self.config_path, "rb") as f:
+            return tomllib.load(f)
+
+        
     def load_model(self):
-        model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
-            self.model_path, 
-            torch_dtype=torch.bfloat16, 
-            # device_map="auto"
-        ).to(self.device)
+        if "Qwen2.5".lower() in str(self.model_path).lower():
+            print("Loading Qwen2.5-VL from pretrained")
+            model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
+                self.model_path, 
+                torch_dtype=torch.bfloat16, 
+                # device_map="auto"
+            ).to(self.device)
+        else:
+            print("Loading Qwen2-VL from pretrained")
+            model = Qwen2VLForConditionalGeneration.from_pretrained(
+                self.model_path, 
+                torch_dtype=torch.bfloat16, 
+                # device_map="auto"
+            ).to(self.device)
         return model
 
 
     def load_processor(self):
         processor = AutoProcessor.from_pretrained(
             self.model_path, 
-            max_pixels = self.min_pixels,
+            max_pixels = self.max_pixels,
             do_rescale = False
         )
         return processor
@@ -124,8 +170,15 @@ class QwenVL:
 
 ### ======================= LanguageBind/Video-LLaVA-7B-hf =======================
 class VideoLlava:
-    def __init__ (self, model_path: str):
+    def __init__ (self, model_path: str, config_path: str = "./models/config.toml"):
         self.model_path = model_path
+        self.config_path = config_path
+        
+        # Load configuration
+        config = self.load_config()
+        cfg = config.get("video-llava", {})
+
+        # Configure parameters
         self.fps = 8
         self.num_frames = 8 # used for sampling the number of frames
         self.max_pixels = ""
@@ -135,11 +188,18 @@ class VideoLlava:
         self.processor = self.load_processor()
     
 
+    def load_config(self):
+        if not Path(self.config_path).exists():
+            raise FileNotFoundError(f"Config file not found: {self.config_path}")
+        with open(self.config_path, "rb") as f:
+            return tomllib.load(f)
+
     def load_model(self):
         model = VideoLlavaForConditionalGeneration.from_pretrained(
             self.model_path, 
             torch_dtype=torch.float16, 
-            # device_map="auto"
+            # device_map="auto",
+            # attn_implementation="flash_attention_2"
         ).to(self.device)
         return model
 
@@ -238,7 +298,7 @@ class VideoLlava:
         ### Run Generation of Inputs
         print("Inference Start")
         start = time.perf_counter()
-        with torch.no_grad():
+        with torch.no_grad(), torch.autocast("cuda", dtype=torch.bfloat16):
             generated_ids = self.model.generate(**inputs, max_new_tokens=max_new_tokens)
         generated_ids_trimmed = [
             out_ids[len(in_ids) :] for in_ids, out_ids in zip(inputs.input_ids, generated_ids)
@@ -260,21 +320,111 @@ class VideoLlava:
         return output_text, f"{elapsed_time:.4f}"
 
 
-### ======================= DAMO-NLP-SG/VideoLLaMA2.1-7B-AV =======================
-class VideoLLama2:
-    def __init__ (self, model_path: str):
-        self.model_path = model_path
-        self.fps = 8
-        self.num_frames = 8 # used for sampling the number of frames
-        self.max_pixels = ""
-        self.min_pixels = ""
-        self.device = "cuda" if torch.cuda.is_available() else "cpu"
-        self.model, self.processor, self.tokenizer  = self.init_model()
+### ======================= DAMO-NLP-SG/VideoLLaMA2.1-7B-16F-Base =======================
+# class VideoLLama2:
+#     def __init__ (self, model_path: str):
+#         self.model_path = model_path
+#         self.fps = 8
+#         self.num_frames = 8 # used for sampling the number of frames
+#         self.max_pixels = ""
+#         self.min_pixels = ""
+#         self.device = "cuda" if torch.cuda.is_available() else "cpu"
+#         self.model, self.processor, self.tokenizer  = self.init_model()
 
-    def init_model(self):
-        model, processor, tokenizer = model_init(self.model_path)
-        return model, processor, tokenizer
+#     def init_model(self):
+#         model, processor, tokenizer = model_init(self.model_path)
+#         return model, processor, tokenizer
         
+
+#     def generate_prompt_message(self, text_prompt, video_paths) -> str:
+#         content = []
+#         pass
+
+
+#     ### Video Inference Only -- No Audio Inference
+#     def run_inference(self, text_prompt: str, video_paths: list[str], max_new_tokens: int = 128, modality: str = "video"):
+        
+#         if video_paths.isinstance(list):
+#             assert len(video_paths) == 1
+#             video_path = video_paths[0]
+        
+#         ### Prepare for Inference
+#         # preprocess = self.processor[modality]
+#         # inputs = preprocess(video_path)
+#         inputs = self.processor[modality](self.modal_path)
+
+#         ### Run Generation of Inputs
+#         print("Inference Start")
+#         start = time.perf_counter()
+        
+#         output_text = mm_infer(
+#             inputs,
+#             text_prompt, 
+#             model=self.model, 
+#             tokenizer=self.tokenizer, 
+#             do_sample=False, 
+#             modal=modality
+#         )
+
+#         print(f"Model response: {output_text}")
+#         end = time.perf_counter()
+#         print("Inference End")
+
+#         # Free memory manually
+#         del inputs
+#         torch.cuda.empty_cache()
+#         elapsed_time = end - start
+
+#         return output_text, f"{elapsed_time:.4f}"
+    
+
+### ======================= DAMO-NLP-SG/VideoLLaMA3-7B =======================
+class VideoLLama3:
+    def __init__ (self, model_path: str, config_path: str = "./models/config.toml"):
+        self.model_path = model_path
+        self.config_path = config_path
+        
+        # Load configuration
+        config = self.load_config()
+        cfg = config.get("video-llama-3", {})
+
+        # Assign configuration values with defaults
+        # https://github.com/DAMO-NLP-SG/VideoLLaMA3/blob/main/videollama3/mm_utils.py
+        self.fps = float(cfg.get("fps", 1.0))
+        self.max_frames = int(cfg.get("max_frames", 150))
+        self.target_short_side = int(cfg.get("target_short_side", 64))
+
+        # Configure processor parameters
+        self.device = "cuda" if torch.cuda.is_available() else "cpu"
+        self.model = self.load_model()
+        self.processor = self.load_processor()
+
+    
+    def load_config(self):
+        if not Path(self.config_path).exists():
+            raise FileNotFoundError(f"Config file not found: {self.config_path}")
+        with open(self.config_path, "rb") as f:
+            return tomllib.load(f)
+
+            
+    def load_model(self):
+        model = AutoModelForCausalLM.from_pretrained(
+            self.model_path,
+            trust_remote_code=True,
+            # device_map="auto",
+            torch_dtype=torch.bfloat16,
+            # attn_implementation="flash_attention_2",
+        ).to(self.device)
+        return model
+    
+    
+    def load_processor(self):
+        processor = AutoProcessor.from_pretrained(
+            self.model_path, 
+            trust_remote_code=True
+        )
+        return processor
+    
 
     def generate_prompt_message(self, text_prompt, video_paths) -> str:
         content = []
@@ -282,48 +432,79 @@ class VideoLLama2:
             content.append(
                 {
                     "type": "video",
-                    "video": vpath,
-                    "fps": self.fps,
+                    "video": {
+                        "video_path": vpath,
+                        "fps": self.fps,
+                        "max_frames": self.max_frames,
+                        "size": self.target_short_side
+                    }
                 }
             )
         content.append({"type": "text", "text": text_prompt})
         messages = [
+            {"role": "system", "content": "You are a video answering assistant."},
             {
                 "role": "user",
                 "content": content,
             }
         ]
         return messages
-    
 
-    ### Video Inference Only -- No Audio Inference
-    def run_inference(self, text_prompt: str, video_paths: list[str], max_new_tokens: int = 128):
-        if video_paths.isinstance(list):
-            assert len(video_paths) == 1
-            video_path = video_paths[0]
-        
+
+    def run_inference(self, text_prompt: str, video_paths: list[str], max_new_tokens: int=128):
         ### Prepare for Inference
-        preprocess = self.processor["video"]
-        audio_video_tensor = preprocess(video_path, va=False)
+        messages = self.generate_prompt_message(text_prompt, video_paths)
+        inputs = self.processor(conversation=messages, return_tensors="pt")
+        inputs = {k: v.cuda() if isinstance(v, torch.Tensor) else v for k, v in inputs.items()}
+        if "pixel_values" in inputs:
+            inputs["pixel_values"] = inputs["pixel_values"].to(torch.bfloat16)
 
         ### Run Generation of Inputs
         print("Inference Start")
         start = time.perf_counter()
-        output_text = mm_infer(
-            audio_video_tensor,
-            text_prompt,
-            model=self.model,
-            tokenizer=self.tokenizer,
-            modal='video',
-            do_sample=False,
-        )
+        with torch.no_grad(), torch.autocast("cuda", dtype=torch.bfloat16):
+            generated_ids = self.model.generate(**inputs, max_new_tokens=max_new_tokens)
+        output_text = self.processor.batch_decode(generated_ids, skip_special_tokens=True)[0].strip()
         print(f"Model response: {output_text}")
         end = time.perf_counter()
         print("Inference End")
-
         # Free memory manually
         del inputs
         torch.cuda.empty_cache()
+        elapsed_time = end - start
+        return output_text, f"{elapsed_time:.4f}"
+
+
+### ======================= Gemini-2.5-Flash-Lite =======================
+class GoogleGemini:
+    def __init__ (self, model_path: str):
+        self.model_path = model_path
+        self.fps = 1.0
+        self.max_frames = 150
+        self.client = genai.Client()
+    
+
+    def generate_prompt_message(self, text_prompt, video_paths) -> str:
+        for video in video_paths:
+            video_file = self.client.files.upload(file=video)
+        content = [video_file, text_prompt]
+        return content
+
+
+    def run_inference(self, text_prompt: str, video_paths: list[str]):
+        ### Prepare for Inference
+        messages = self.generate_prompt_message(text_prompt, video_paths)
+        ### Run Generation of Inputs
+        print("Inference Start")
+        start = time.perf_counter()
+        response = self.client.models.generate_content(
+            model = self.model_path,
+            contents = messages
+        )
+        output_text = response.text
+        print(f"Model response: {output_text}")
+        end = time.perf_counter()
+        print("Inference End")
         elapsed_time = end - start
 
         return output_text, f"{elapsed_time:.4f}"
