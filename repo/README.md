@@ -21,7 +21,7 @@
 3. results are saved to ./results_vainlla/
 
 ##### Goldfish Inference
-1. ??
+1. Code and citation?
 
 ##### Run Evaluation
 1. Locate evaluation scripts?
