@@ -1,13 +1,15 @@
 ### Steps
 
+![alt text](project_code_guidelines.png)
+
 ##### Setting up of environment
 1. Detail setup - requirements.txt
 
 ##### Data Collection and Benchmark Creation
-1. Download all files using the first download.py and extract.py to get teh following:
+1. Download all files using the first download.py and extract.py to get the following:
     - HTML (./data/edersoncorbari_subtitles_html)
-    - video clips (./data/video) and .srt files (./data
-    - tvqa_subtitles_friends)
+    - video clips (./data/video)
+    - .srt files (./data/tvqa_subtitles_friends)
 2. Run parse_subtitles_annotate.py to get data/benchmark/annotated_tuples/
 3. Run event generation code? on data/benchmark/annotated_tuples/ -> data/benchmark/episodic_tuples/
 4. Run question-answer generation code? on data/benchmark/episodic_tuples/ -> data/benchmark/episodic_qa/
