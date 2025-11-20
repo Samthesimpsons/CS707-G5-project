@@ -20,7 +20,7 @@
 
 ### Vanilla Inference
 1. Download all the necessary models as specified in models/model.py
-2. ```python run_vanilla_inference.py --with_context True | False```
+2. run the command: ```python run_vanilla_inference.py --with_context True | False```
 3. results are saved to ./results_vainlla/
 
 ### Goldfish Inference
