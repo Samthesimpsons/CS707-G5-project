@@ -2,10 +2,11 @@
 
 ![alt text](project_code_guidelines.png)
 
-##### Setting up of environment
+### Setting up of environment
 1. Detail setup - requirements.txt
+2. One .sh script per section below?
 
-##### Data Collection and Benchmark Creation
+### Data Collection and Benchmark Creation
 1. Download all files using the first download.py and extract.py to get the following:
     - HTML (./data/edersoncorbari_subtitles_html)
     - video clips (./data/video)
@@ -17,12 +18,12 @@
     - annotated tuples from Step 3 in data/benchmark/episodic_tuples/
     - qa-pairs from Step 4 in data/benchmark/episodic_qa/
 
-##### Vanilla Inference
+### Vanilla Inference
 1. Download all the necessary models as specified in models/model.py
 2. run_vanilla_inference.py
 3. results are saved to ./results_vainlla/
 
-##### Goldfish Inference
+### Goldfish Inference
 1. Code and citation?
 **Citation**
 ```
@@ -43,7 +44,7 @@
 }
 ```
 
-##### Run Evaluation
+### Run Evaluation
 1. Locate evaluation scripts?
 2. Run evaluation scripts?
 3. Results saved to?
