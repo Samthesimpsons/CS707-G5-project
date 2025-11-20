@@ -37,11 +37,11 @@ class EpisodicInference:
         all_subs: bool,             # to extract subs for full episode (True) or event-specific
         with_context: bool,         # whether to include Friends context in the instruction prompt
         run_id: str,                # run_id
-        run_datetime: str           # datetime when run is initiated
+        run_datetime: str,          # datetime when run is initiated
+        checkpoint: str = None      # checkpoint to start running qa file from
     ):
         self.episodic_tuples_dir = episodic_tuples_dir
         self.qa_pairs_dir = qa_pairs_dir
-        self.qa_pairs = self.load_question_answer_pairs(qa_pairs_dir)
         self.video_dir = video_dir
         self.model = model
         self.output_path = output_path
@@ -52,11 +52,13 @@ class EpisodicInference:
         self.run_id = run_id
         self.run_datetime = run_datetime
 
+        ### Load question_answer pairs
+        self.qa_pairs = self.load_question_answer_pairs(qa_pairs_dir, checkpoint)
     
     ### ==========================================
     ### QUESTION ANSWER - JSON HANDLING AND SAVING
     ### ==========================================
-    def load_question_answer_pairs(self, qa_pairs_dir) -> List[Dict]:
+    def load_question_answer_pairs(self, qa_pairs_dir, checkpoint) -> List[Dict]:
         path = Path(qa_pairs_dir)
         entries = []
         if path.is_file():
@@ -70,6 +72,11 @@ class EpisodicInference:
                     entries += data if isinstance(data, list) else [data]
         else:
             raise FileNotFoundError(f"QA file/dir not found: {path}")
+
+        if checkpoint is not None:
+            # start_index = entries.index(str(checkpoint))
+            entries = entries[int(checkpoint):]
+            
         return entries
 
     ### ==========================================
@@ -226,10 +233,10 @@ class EpisodicInference:
         print(f"{'='*80}\n")
 
         # Begin the batch inference
-        results = []
         model_name = self.model.model_path.split("/")[-1]
         
         for idx, qa_json in enumerate(tqdm(self.qa_pairs, desc="Episodic Inference Batch Run")):
+            results = []
             episode_id = qa_json.get("episode")
             print(f"\n{'='*80}")
             print(f"Generating Batch Inference - Index: {idx} --- Episode: {episode_id}")
@@ -269,6 +276,9 @@ class EpisodicInference:
                     response["model_response"] = generated_result
                     response["execution_time"] = execution_time
                     response["video_clips"] = video_paths
+                except torch.cuda.OutOfMemoryError as e:
+                    response["error"] = f"{e}"
+                    continue
                 except Exception as e:
                     response["error"] = f"{e}"
                     raise

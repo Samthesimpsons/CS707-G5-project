@@ -4,25 +4,34 @@ import gc
 import huggingface_hub
 import random
 import numpy as np
+import argparse
 
 from pathlib import Path
 from models.inference import EpisodicInference
 from models.model import QwenVL, VideoLlava, VideoLLama3
 from datetime import datetime
 
+parser = argparse.ArgumentParser()
+parser.add_argument('--checkpoint', type=str, default="")
+parser.add_argument('--qa_dir', type=str, default=r"./data/episodic_qa/")
+parser.add_argument('--tuples_dir', type=str, default=r"./data/episodic_tuples/")
+parser.add_argument('--video_dir', type=str, default=r"./data/video/")
+parser.add_argument('--output_dir', type=str, default=r"./results_vanilla/")
+parser.add_argument('--with_context', type=bool, default=False)
+args = parser.parse_args()
 
 HF_CACHE_DIR = Path("/common/home/projectgrps/CS707/CS707G3/.cache/huggingface/hub")
-QA_PAIRS_DIR = r"./data/episodic_qa/"
-TUPLES_DIR = r"./data/episodic_tuples/"
-VIDEO_DIR = r"./data/video/"
-OUTPUT_SAVE_DIR = r"./results_vanilla/"
+# QA_PAIRS_DIR = args.qa_dir
+# TUPLES_DIR = args.tuples_dir
+# VIDEO_DIR = args.video_dir
+# OUTPUT_SAVE_DIR = args.output_dir
 
 
 MODEL_PATH = {
     # "qwen-vl-2": "/common/public/Qwen2-VL/Qwen2-VL-7B-Instruct",
     # "qwen-vl-25": "/common/public/Qwen2.5-VL/Qwen2.5-VL-7B-Instruct",
     "video-llama-3": "DAMO-NLP-SG/VideoLLaMA3-7B",
-    "video-llava": "LanguageBind/Video-LLaVA-7B-hf"
+    # "video-llava": "LanguageBind/Video-LLaVA-7B-hf"
 }
 
 
@@ -67,20 +76,21 @@ if __name__ == "__main__":
                 raise ValueError(f"No model class found for {model_name} - Available models {available_models}")
             model = model_class(model_path=model_path)
             print(f"Inference: Model Loaded from {model_path}")
-                
+
             ### Begin running the Inference
             print(f"Inference: Begin Run")
             inference = EpisodicInference(
                 model = model,
-                episodic_tuples_dir = TUPLES_DIR,
-                qa_pairs_dir = QA_PAIRS_DIR,
-                video_dir = VIDEO_DIR,
-                output_path = OUTPUT_SAVE_DIR,
+                episodic_tuples_dir = args.tuples_dir,
+                qa_pairs_dir = args.qa_dir,
+                video_dir = args.video_dir,
+                output_path = args.output_dir,
                 with_subs = False,
                 all_subs = False,
-                with_context = False,
+                with_context = args.with_context,
                 run_id = str(run_id),
-                run_datetime = run_datetime
+                run_datetime = run_datetime,
+                checkpoint = args.checkpoint
             )
             inference.generate_batch_run()
 

@@ -1,0 +1,37 @@
+# config.toml
+
+[qwen-vl-2]
+fps = 1.0
+num_frames = ""
+max_frames = ""
+max_channels = 64
+min_channels = 64
+width = 28
+height = 28
+
+[qwen-vl-25]
+fps = 1.0
+num_frames = ""
+max_frames = ""
+max_channels = 64
+min_channels = 64
+width = 28
+height = 28
+
+[video-llava]
+fps = 8.0
+num_frames = 8.0
+max_frames = ""
+max_channels = ""
+min_channels = ""
+width = ""
+height = ""
+
+[video-llama-3]
+fps = 1.0
+num_frames = ""
+max_frames = 128
+channels = 64
+width = 28
+height = 28
+target_short_side = 64
