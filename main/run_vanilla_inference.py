@@ -8,17 +8,19 @@ import argparse
 
 from pathlib import Path
 from models.inference import EpisodicInference
-from models.model import QwenVL, VideoLlava, VideoLLama3
+from models.model import QwenVL, VideoLlava, VideoLLama3, InternVL3
 from datetime import datetime
 
+
 parser = argparse.ArgumentParser()
-parser.add_argument('--checkpoint', type=str, default="")
-parser.add_argument('--qa_dir', type=str, default=r"./data/episodic_qa/")
+parser.add_argument('--checkpoint', type=str, default=None)
+parser.add_argument('--qa_dir', type=str, default=r"./data/episodic_qa_subset/")
 parser.add_argument('--tuples_dir', type=str, default=r"./data/episodic_tuples/")
 parser.add_argument('--video_dir', type=str, default=r"./data/video/")
 parser.add_argument('--output_dir', type=str, default=r"./results_vanilla/")
 parser.add_argument('--with_context', type=bool, default=False)
 args = parser.parse_args()
+
 
 HF_CACHE_DIR = Path("/common/home/projectgrps/CS707/CS707G3/.cache/huggingface/hub")
 # QA_PAIRS_DIR = args.qa_dir
@@ -30,8 +32,9 @@ HF_CACHE_DIR = Path("/common/home/projectgrps/CS707/CS707G3/.cache/huggingface/h
 MODEL_PATH = {
     # "qwen-vl-2": "/common/public/Qwen2-VL/Qwen2-VL-7B-Instruct",
     # "qwen-vl-25": "/common/public/Qwen2.5-VL/Qwen2.5-VL-7B-Instruct",
-    "video-llama-3": "DAMO-NLP-SG/VideoLLaMA3-7B",
-    # "video-llava": "LanguageBind/Video-LLaVA-7B-hf"
+    # "video-llama-3": "DAMO-NLP-SG/VideoLLaMA3-7B",
+    # "video-llava": "LanguageBind/Video-LLaVA-7B-hf",
+    "intern-vl-3": "/common/home/projectgrps/CS707/CS707G3/main/models/pretrained/InternVL3-8B"
 }
 
 
@@ -39,7 +42,8 @@ MODEL_CLASSES = {
     "qwen-vl-2": QwenVL,
     "qwen-vl-25": QwenVL,
     "video-llava": VideoLlava,
-    "video-llama-3": VideoLLama3
+    "video-llama-3": VideoLLama3,
+    "intern-vl-3": InternVL3
 }
 
 """
@@ -58,8 +62,7 @@ if __name__ == "__main__":
     # set_experiment_seed(seed)
     for model_name, model_path in MODEL_PATH.items():
         run_datetime = datetime.now().strftime("%Y%m%d_%H%M")
-        # for run_id in [1, 2, 3]:
-        for run_id in [1]:
+        for run_id in [1,2,3]:
             print(f"\n{'='*80}")
             print(f"Running Inference for model: {model_name}  -- {run_datetime} -- Run ID: {run_id}")
             print(f"Model path: {model_path}")

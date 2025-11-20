@@ -66,6 +66,7 @@ class EpisodicInference:
                 data = json.load(f)
             entries = data if isinstance(data, list) else [data]
         elif path.is_dir():
+            file_list = [str(f) for f in sorted(path.glob("*.json"))]
             for f in sorted(path.glob("*.json")):
                 with open(f, "r", encoding="utf-8") as fh:
                     data = json.load(fh)
@@ -74,14 +75,30 @@ class EpisodicInference:
             raise FileNotFoundError(f"QA file/dir not found: {path}")
 
         if checkpoint is not None:
-            # start_index = entries.index(str(checkpoint))
-            entries = entries[int(checkpoint):]
+            print(file_list)
+            indices = [i for i, s in enumerate(file_list) if checkpoint in s]
+            # start_index = file_list.index(str(checkpoint))
+            # entries = entries[int(indices[0]):]
+            if indices:
+                entries = entries[int(indices[0]):]
+                print(f"Running from checkpoint: {file_list[int(indices[0]):]}")
             
         return entries
 
     ### ==========================================
     ### PROMPT BUILDER
     ### ==========================================
+    def extract_episode_clip(self, episode_id: str) -> str:
+        """
+            Output is a episode string for a single episode
+        """
+        season_id = int(ep[:2])
+        clip_id = int(ep[2:])
+        clip_path = Path(self.video_dir) / f"season_{season_id}" / f"episode_{clip_id}.mp4"
+        print(f"------------- Fetching Video From: {clip_path} -------------")
+        return video_path
+
+        
     def extract_video_clips_paths(self, qa_json: dict) -> list:
         """
             Output is a list of video clip paths for the given QA JSON
@@ -167,7 +184,6 @@ class EpisodicInference:
         """
         prompt_parts = []
         model_name = self.model.model_path.split("/")[-1]
-        instruction = "Respond only with the number of the correct multiple-choice answer option (e.g., A)."
         
         if self.with_subs:
             subs = self.extract_subtitles(qa_json, episode_id)
@@ -182,21 +198,29 @@ class EpisodicInference:
             for opt in options:
                 # Remove any existing prefixes like 'A.', 'B.', '1.', '2.', etc.
                 cleaned = opt.strip()
-                cleaned = cleaned.lstrip("ABCD1234").lstrip(". ").strip()
                 cleaned_options.append(cleaned)
+
             # Add A, B, C, D prefixes
-            labels = ["A", "B", "C", "D"]
-            options_text = "\n".join(f"{labels[i]}. {opt}" for i, opt in enumerate(cleaned_options))
+            labels = ["A.", "B.", "C.", "D."]
+            options_text_lines = []
+            for i, opt in enumerate(cleaned_options):
+                if not opt.startswith(tuple(labels)):
+                    options_text_lines.append(f"{labels[i]} {opt}")
+                else:
+                    options_text_lines.append(opt)
+            options_text = "\n".join(options_text_lines)
+            # options_text = "\n".join(f"{labels[i]}. {opt}" for i, opt in enumerate(cleaned_options))
             return options_text
 
         question = qa_json.get("question", "")
         question_id = qa_json.get("question_id", "")
 
+        ### Add instruction prompt
+        instruction = "Respond only with the alphabet or number of the correct multiple-choice answer option (e.g., A)."
+        
         ### Add context that the video clip is from Friends
-        if self.with_context == True:
-            question = f"""
-                This is an episode from the American television sitcom Friends created by David Crane and Marta Kauffman. Answer the following questions regarding this episode of Friends. \n{question}
-            """
+        if self.with_context:
+            question = f"""This is an episode from the American television sitcom Friends created by David Crane and Marta Kauffman. Answer the following question regarding this episode of Friends. \n{question}"""
         # options_text = "\n".join(f"{i + 1}. {place}" for i, place in enumerate(qa_json.get("options", [])))
         options_text = clean_options_text(qa_json)
 
@@ -238,56 +262,64 @@ class EpisodicInference:
         for idx, qa_json in enumerate(tqdm(self.qa_pairs, desc="Episodic Inference Batch Run")):
             results = []
             episode_id = qa_json.get("episode")
-            print(f"\n{'='*80}")
-            print(f"Generating Batch Inference - Index: {idx} --- Episode: {episode_id}")
-            print(f"{'='*80}\n")
             qa_dataset = qa_json.get("qa_dataset", [])
+            print(f"\n{'='*80}")
+            print(f"Generating Batch Inference - Index: {idx} --- Episode: {episode_id} --- QA Length: {len(qa_dataset)}")
+            print(f"{'='*80}\n")
 
             for idx, qa_data in enumerate(tqdm(qa_dataset, desc=f"Running QA Dataset - {episode_id}")):
-                question_id = qa_data.get("question_id")
-                text_prompt, options_text = self.build_prompt_text(qa_data, episode_id)
-                video_paths = self.extract_video_clips_paths(qa_data)
-                
-                print(f"\n============{question_id}============")
-                print(f"\n{qa_data}\n")
-                response = {
-                    "model": model_name,
-                    "question": qa_data["question"],
-                    "question_id": qa_data["question_id"],
-                    "question_type": qa_data["question_type"],
-                    "ground_truth_answer": qa_data["answer"],
-                    "options_text": options_text,
-                    "model_response": "",
-                    "with_context": str(self.with_context),
-                    "with_subs": str(self.with_subs),
-                    "all_subs": str(self.all_subs),
-                    "execution_time": "",
-                    "video_clips": "",
-                    "error": "",
-                }
-                try:
-                    # video_paths = [r"./src/data/video_clip/0102_scene_000_central_perk.mp4"]
-                    print(f"Videos to run inference on: {video_paths}")
-                    generated_result, execution_time = self.model.run_inference(
-                        text_prompt = text_prompt,
-                        video_paths = video_paths,
-                        max_new_tokens = max_new_tokens
-                    )
-                    response["model_response"] = generated_result
-                    response["execution_time"] = execution_time
-                    response["video_clips"] = video_paths
-                except torch.cuda.OutOfMemoryError as e:
-                    response["error"] = f"{e}"
-                    continue
-                except Exception as e:
-                    response["error"] = f"{e}"
-                    raise
-                
-                qa_data["result"] = response
-                results.append(qa_data)
+                episode_span = qa_data.get("episode_span", [])
+                if len(episode_span) == 1:                  
+                    question_id = qa_data.get("question_id")
+                    text_prompt, options_text = self.build_prompt_text(qa_data, episode_id)
+                    video_paths = self.extract_video_clips_paths(qa_data)
+                    
+                    print(f"\n============{question_id}============")
+                    print(f"\n{qa_data}\n")
+                    print(f"Prompt Text:\n{text_prompt}")
+                    response = {
+                        "model": model_name,
+                        "question": qa_data["question"],
+                        "question_id": qa_data["question_id"],
+                        "question_type": qa_data["question_type"],
+                        "ground_truth_answer": qa_data["answer"],
+                        "prompt_text": text_prompt,
+                        "options_text": options_text,
+                        "model_response": "",
+                        "with_context": str(self.with_context),
+                        "with_subs": str(self.with_subs),
+                        "all_subs": str(self.all_subs),
+                        "inference_time": "",
+                        "video_clips": "",
+                        "error": "",
+                    }
+                    try:
+                        # video_paths = [r"./src/data/video_clip/0102_scene_000_central_perk.mp4"]
+                        print(f"Videos to run inference on: {video_paths}")
+                        generated_result, inference_time = self.model.run_inference(
+                            text_prompt = text_prompt,
+                            video_paths = video_paths,
+                            max_new_tokens = max_new_tokens
+                        )
+                        response["model_response"] = generated_result
+                        response["inference_time"] = inference_time
+                        response["video_clips"] = video_paths
+                    except torch.cuda.OutOfMemoryError as e:
+                        print(f"{e}")
+                        response["error"] = f"{e}"
+                        raise
+                    except Exception as e:
+                        response["error"] = f"{e}"
+                        raise
+                    
+                    qa_data["result"] = response
+                    results.append(qa_data)
 
             # Save the results
-            output_path = Path(self.output_path) / model_name / f"{self.run_datetime}" / f"run_{self.run_id}"
+            if self.with_context == True:
+                output_path = Path(self.output_path) / model_name / "with_context" / f"run_{self.run_id}" 
+            else:
+                output_path = Path(self.output_path) / model_name / "without_context" / f"run_{self.run_id}"
             output_path.mkdir(exist_ok=True, parents=True)
             save_path = output_path / f"results_{Path(self.qa_pairs_dir).name}_{episode_id}_{now_str}.json"
             

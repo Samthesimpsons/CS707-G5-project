@@ -1,0 +1,5126 @@
+{
+  "episode": "0106",
+  "title": "The One With The Butt",
+  "qa_dataset": [
+    {
+      "question_id": "Q_0106_1302",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did rachel points out joey's picture in the program with excitement. when RACHEL were present?",
+      "options": [
+        "Central Perk",
+        "A Theater",
+        "The Theater",
+        "A Film Set"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_000_event_001"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1303",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at A Theater when rachel points out joey's picture in the program with excitement.?",
+      "options": [
+        "CHANDLER",
+        "PHOEBE",
+        "ROSS",
+        "RACHEL"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_000_event_001"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1304",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at A Theater when RACHEL were together?",
+      "options": [
+        "Chandler comments on someone's lack of experience with Joey's plays.",
+        "Phoebe expresses concern about the exclamation point in the play's title, referencing Freud.",
+        "Ross shushes the group to maintain anticipation for the play's start.",
+        "Rachel points out Joey's picture in the program with excitement."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_000_event_001"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1305",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did chandler comments on someone's lack of experience with joey's plays. when CHANDLER were present?",
+      "options": [
+        "A Film Set",
+        "Monica and Rachel's",
+        "The Theater",
+        "A Theater"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_000_event_002"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1306",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at A Theater when chandler comments on someone's lack of experience with joey's plays.?",
+      "options": [
+        "CHANDLER",
+        "RACHEL",
+        "PHOEBE",
+        "ROSS"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_000_event_002"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1307",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at A Theater when CHANDLER were together?",
+      "options": [
+        "Rachel points out Joey's picture in the program with excitement.",
+        "Chandler comments on someone's lack of experience with Joey's plays.",
+        "Phoebe expresses concern about the exclamation point in the play's title, referencing Freud.",
+        "Ross shushes the group to maintain anticipation for the play's start."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_000_event_002"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1308",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did phoebe expresses concern about the exclamation point in the play's title, referencing freud. when PHOEBE were present?",
+      "options": [
+        "Central Perk",
+        "A Film Set",
+        "Monica and Rachel's",
+        "A Theater"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_000_event_003"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1309",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at A Theater when phoebe expresses concern about the exclamation point in the play's title, referencing freud.?",
+      "options": [
+        "RACHEL",
+        "CHANDLER",
+        "ROSS",
+        "PHOEBE"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_000_event_003"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1310",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at A Theater when PHOEBE were together?",
+      "options": [
+        "Phoebe expresses concern about the exclamation point in the play's title, referencing Freud.",
+        "Rachel points out Joey's picture in the program with excitement.",
+        "Chandler comments on someone's lack of experience with Joey's plays.",
+        "Ross shushes the group to maintain anticipation for the play's start."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_000_event_003"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1311",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did ross shushes the group to maintain anticipation for the play's start. when ROSS were present?",
+      "options": [
+        "Monica and Rachel's",
+        "A Film Set",
+        "A Theater",
+        "Central Perk"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_000_event_004"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1312",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at A Theater when ross shushes the group to maintain anticipation for the play's start.?",
+      "options": [
+        "RACHEL",
+        "ROSS",
+        "CHANDLER",
+        "PHOEBE"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_000_event_004"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1313",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at A Theater when ROSS were together?",
+      "options": [
+        "Ross shushes the group to maintain anticipation for the play's start.",
+        "Rachel points out Joey's picture in the program with excitement.",
+        "Chandler comments on someone's lack of experience with Joey's plays.",
+        "Phoebe expresses concern about the exclamation point in the play's title, referencing Freud."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_000_event_004"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1314",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did joey performs a song and dance number as part of his play. when JOEY were present?",
+      "options": [
+        "The Theater",
+        "Central Perk",
+        "A Theater",
+        "A Film Set"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_000_event_005"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1315",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at A Theater when joey performs a song and dance number as part of his play.?",
+      "options": [
+        "RACHEL",
+        "JOEY",
+        "CHANDLER",
+        "PHOEBE"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_000_event_005"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1316",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at A Theater when JOEY were together?",
+      "options": [
+        "Rachel points out Joey's picture in the program with excitement.",
+        "Chandler comments on someone's lack of experience with Joey's plays.",
+        "Phoebe expresses concern about the exclamation point in the play's title, referencing Freud.",
+        "Joey performs a song and dance number as part of his play."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_000_event_005"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1317",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did rachel expresses discomfort about the play. when RACHEL were present?",
+      "options": [
+        "Monica and Rachel's",
+        "A Film Set",
+        "The Theater",
+        "A Theater"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_001_event_001"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1318",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at The Theater when rachel expresses discomfort about the play.?",
+      "options": [
+        "MONICA",
+        "RACHEL",
+        "CHANDLER, ROSS",
+        "ROSS"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_001_event_001"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1319",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at The Theater when RACHEL were together?",
+      "options": [
+        "Rachel expresses discomfort about the play.",
+        "Monica shares her negative reaction to the play.",
+        "Chandler points out a woman across the room to Ross.",
+        "Ross responds to Chandler's comment about the woman."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_001_event_001"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1320",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did monica shares her negative reaction to the play. when MONICA were present?",
+      "options": [
+        "The Theater",
+        "A Theater",
+        "Monica and Rachel's",
+        "A Film Set"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_001_event_002"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1321",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at The Theater when monica shares her negative reaction to the play.?",
+      "options": [
+        "RACHEL",
+        "CHANDLER, ROSS",
+        "MONICA",
+        "ROSS"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_001_event_002"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1322",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at The Theater when MONICA were together?",
+      "options": [
+        "Rachel expresses discomfort about the play.",
+        "Monica shares her negative reaction to the play.",
+        "Chandler points out a woman across the room to Ross.",
+        "Ross responds to Chandler's comment about the woman."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_001_event_002"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1323",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did chandler points out a woman across the room to ross. when CHANDLER and ROSS were present?",
+      "options": [
+        "The Theater",
+        "A Theater",
+        "Central Perk",
+        "A Film Set"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_001_event_003"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1324",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at The Theater when chandler points out a woman across the room to ross.?",
+      "options": [
+        "RACHEL",
+        "CHANDLER, ROSS",
+        "MONICA",
+        "ROSS"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_001_event_003"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1325",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at The Theater when CHANDLER and ROSS were together?",
+      "options": [
+        "Rachel expresses discomfort about the play.",
+        "Monica shares her negative reaction to the play.",
+        "Chandler points out a woman across the room to Ross.",
+        "Ross responds to Chandler's comment about the woman."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_001_event_003"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1326",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did ross responds to chandler's comment about the woman. when ROSS were present?",
+      "options": [
+        "Monica and Rachel's",
+        "A Theater",
+        "The Theater",
+        "Central Perk"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_001_event_004"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1327",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at The Theater when ross responds to chandler's comment about the woman.?",
+      "options": [
+        "RACHEL",
+        "MONICA",
+        "ROSS",
+        "CHANDLER, ROSS"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_001_event_004"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1328",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at The Theater when ROSS were together?",
+      "options": [
+        "Rachel expresses discomfort about the play.",
+        "Ross responds to Chandler's comment about the woman.",
+        "Monica shares her negative reaction to the play.",
+        "Chandler points out a woman across the room to Ross."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_001_event_004"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1329",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did chandler expresses frustration about approaching the woman. when CHANDLER were present?",
+      "options": [
+        "A Film Set",
+        "Central Perk",
+        "Monica and Rachel's",
+        "The Theater"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_001_event_005"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1330",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at The Theater when chandler expresses frustration about approaching the woman.?",
+      "options": [
+        "RACHEL",
+        "CHANDLER",
+        "MONICA",
+        "CHANDLER, ROSS"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_001_event_005"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1331",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at The Theater when CHANDLER were together?",
+      "options": [
+        "Rachel expresses discomfort about the play.",
+        "Monica shares her negative reaction to the play.",
+        "Chandler expresses frustration about approaching the woman.",
+        "Chandler points out a woman across the room to Ross."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_001_event_005"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1332",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did phoebe suggests chandler could approach the woman. when PHOEBE were present?",
+      "options": [
+        "The Theater",
+        "Central Perk",
+        "A Film Set",
+        "A Theater"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_001_event_006"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1333",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at The Theater when phoebe suggests chandler could approach the woman.?",
+      "options": [
+        "PHOEBE",
+        "RACHEL",
+        "MONICA",
+        "CHANDLER, ROSS"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_001_event_006"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1334",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at The Theater when PHOEBE were together?",
+      "options": [
+        "Phoebe suggests Chandler could approach the woman.",
+        "Rachel expresses discomfort about the play.",
+        "Monica shares her negative reaction to the play.",
+        "Chandler points out a woman across the room to Ross."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_001_event_006"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1335",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did monica encourages chandler to approach the woman. when MONICA were present?",
+      "options": [
+        "Central Perk",
+        "The Theater",
+        "A Film Set",
+        "Monica and Rachel's"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_001_event_007"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1336",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at The Theater when monica encourages chandler to approach the woman.?",
+      "options": [
+        "MONICA",
+        "RACHEL",
+        "CHANDLER, ROSS",
+        "Unknown subjects 3"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_001_event_007"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1337",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at The Theater when MONICA were together?",
+      "options": [
+        "Monica encourages Chandler to approach the woman.",
+        "Rachel expresses discomfort about the play.",
+        "Monica shares her negative reaction to the play.",
+        "Chandler points out a woman across the room to Ross."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_001_event_007"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1338",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did chandler decides to approach the woman. when CHANDLER were present?",
+      "options": [
+        "A Film Set",
+        "Monica and Rachel's",
+        "The Theater",
+        "Central Perk"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_001_event_008"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1339",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at The Theater when chandler decides to approach the woman.?",
+      "options": [
+        "RACHEL",
+        "CHANDLER",
+        "MONICA",
+        "CHANDLER, ROSS"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_001_event_008"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1340",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at The Theater when CHANDLER were together?",
+      "options": [
+        "Rachel expresses discomfort about the play.",
+        "Monica shares her negative reaction to the play.",
+        "Chandler decides to approach the woman.",
+        "Chandler points out a woman across the room to Ross."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_001_event_008"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1341",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did chandler successfully asks aurora out. when CHANDLER and AURORA were present?",
+      "options": [
+        "The Theater",
+        "A Theater",
+        "A Film Set",
+        "Central Perk"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_001_event_009"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1342",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at The Theater when chandler successfully asks aurora out.?",
+      "options": [
+        "RACHEL",
+        "MONICA",
+        "CHANDLER, ROSS",
+        "AURORA, CHANDLER"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_001_event_009"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1343",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at The Theater when CHANDLER and AURORA were together?",
+      "options": [
+        "Rachel expresses discomfort about the play.",
+        "Chandler successfully asks Aurora out.",
+        "Monica shares her negative reaction to the play.",
+        "Chandler points out a woman across the room to Ross."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_001_event_009"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1344",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did joey comments on the play's quality. when JOEY were present?",
+      "options": [
+        "The Theater",
+        "A Theater",
+        "Monica and Rachel's",
+        "Central Perk"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_001_event_010"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1345",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at The Theater when joey comments on the play's quality.?",
+      "options": [
+        "JOEY",
+        "RACHEL",
+        "MONICA",
+        "CHANDLER, ROSS"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_001_event_010"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1346",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at The Theater when JOEY were together?",
+      "options": [
+        "Joey comments on the play's quality.",
+        "Rachel expresses discomfort about the play.",
+        "Monica shares her negative reaction to the play.",
+        "Chandler points out a woman across the room to Ross."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_001_event_010"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1347",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did chandler enters central perk and is greeted by everyone. when CHANDLER were present?",
+      "options": [
+        "Monica and Rachel's",
+        "The Theater",
+        "A Theater",
+        "Central Perk"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_002_event_001"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1348",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Perk when chandler enters central perk and is greeted by everyone.?",
+      "options": [
+        "CHANDLER",
+        "MONICA, PHOEBE",
+        "AURORA",
+        "Unknown subjects 3"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_002_event_001"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1349",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Perk when CHANDLER were together?",
+      "options": [
+        "Phoebe reads Monica's palm, interpreting the lines as passion and a regular line.",
+        "Chandler enters Central Perk and is greeted by everyone.",
+        "Chandler shares details about his date with a woman who was in the Israeli army, mentioning a near-death experience.",
+        "Aurora reveals she is married but also has a boyfriend, explaining her unique relationship situation."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_002_event_001"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1350",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did phoebe reads monica's palm, interpreting the lines as passion and a regular line. when PHOEBE and MONICA were present?",
+      "options": [
+        "Monica and Rachel's",
+        "The Theater",
+        "Central Perk",
+        "A Film Set"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_002_event_002"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1351",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Perk when phoebe reads monica's palm, interpreting the lines as passion and a regular line.?",
+      "options": [
+        "CHANDLER",
+        "CHANDLER",
+        "AURORA",
+        "MONICA, PHOEBE"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_002_event_002"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1352",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Perk when PHOEBE and MONICA were together?",
+      "options": [
+        "Chandler enters Central Perk and is greeted by everyone.",
+        "Chandler shares details about his date with a woman who was in the Israeli army, mentioning a near-death experience.",
+        "Aurora reveals she is married but also has a boyfriend, explaining her unique relationship situation.",
+        "Phoebe reads Monica's palm, interpreting the lines as passion and a regular line."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_002_event_002"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1353",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did chandler shares details about his date with a woman who was in the israeli army, mentioning a near-death experience. when CHANDLER were present?",
+      "options": [
+        "Central Perk",
+        "Monica and Rachel's",
+        "A Film Set",
+        "A Theater"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_002_event_003"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1354",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Perk when chandler shares details about his date with a woman who was in the israeli army, mentioning a near-death experience.?",
+      "options": [
+        "MONICA, PHOEBE",
+        "AURORA",
+        "CHANDLER",
+        "Unknown subjects 3"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_002_event_003"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1355",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Perk when CHANDLER were together?",
+      "options": [
+        "Chandler enters Central Perk and is greeted by everyone.",
+        "Phoebe reads Monica's palm, interpreting the lines as passion and a regular line.",
+        "Chandler shares details about his date with a woman who was in the Israeli army, mentioning a near-death experience.",
+        "Aurora reveals she is married but also has a boyfriend, explaining her unique relationship situation."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_002_event_003"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1356",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did aurora reveals she is married but also has a boyfriend, explaining her unique relationship situation. when AURORA were present?",
+      "options": [
+        "Monica and Rachel's",
+        "Central Perk",
+        "A Film Set",
+        "A Theater"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_002_event_004"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1357",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Perk when aurora reveals she is married but also has a boyfriend, explaining her unique relationship situation.?",
+      "options": [
+        "CHANDLER",
+        "AURORA",
+        "MONICA, PHOEBE",
+        "CHANDLER"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_002_event_004"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1358",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Perk when AURORA were together?",
+      "options": [
+        "Chandler enters Central Perk and is greeted by everyone.",
+        "Aurora reveals she is married but also has a boyfriend, explaining her unique relationship situation.",
+        "Phoebe reads Monica's palm, interpreting the lines as passion and a regular line.",
+        "Chandler shares details about his date with a woman who was in the Israeli army, mentioning a near-death experience."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_002_event_004"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1359",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did chandler questions aurora about her relationship dynamics, expressing confusion and interest. when CHANDLER and AURORA were present?",
+      "options": [
+        "Central Perk",
+        "Monica and Rachel's",
+        "A Theater",
+        "A Film Set"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_002_event_005"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1360",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Perk when chandler questions aurora about her relationship dynamics, expressing confusion and interest.?",
+      "options": [
+        "AURORA, CHANDLER",
+        "CHANDLER",
+        "MONICA, PHOEBE",
+        "CHANDLER"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_002_event_005"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1361",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Perk when CHANDLER and AURORA were together?",
+      "options": [
+        "Chandler enters Central Perk and is greeted by everyone.",
+        "Phoebe reads Monica's palm, interpreting the lines as passion and a regular line.",
+        "Chandler questions Aurora about her relationship dynamics, expressing confusion and interest.",
+        "Chandler shares details about his date with a woman who was in the Israeli army, mentioning a near-death experience."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_002_event_005"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1362",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did chandler admits he is seeing aurora again on thursday, despite her existing relationships. when CHANDLER were present?",
+      "options": [
+        "The Theater",
+        "Monica and Rachel's",
+        "Central Perk",
+        "A Film Set"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_002_event_006"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1363",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Perk when chandler admits he is seeing aurora again on thursday, despite her existing relationships.?",
+      "options": [
+        "MONICA, PHOEBE",
+        "CHANDLER",
+        "Unknown subjects 2",
+        "Unknown subjects 3"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_002_event_006"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1364",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Perk when CHANDLER were together?",
+      "options": [
+        "Chandler enters Central Perk and is greeted by everyone.",
+        "Phoebe reads Monica's palm, interpreting the lines as passion and a regular line.",
+        "Chandler shares details about his date with a woman who was in the Israeli army, mentioning a near-death experience.",
+        "Chandler admits he is seeing Aurora again on Thursday, despite her existing relationships."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_002_event_006"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1365",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did monica expresses shock and disapproval of chandler's involvement with aurora. when MONICA were present?",
+      "options": [
+        "Monica and Rachel's",
+        "A Theater",
+        "Central Perk",
+        "A Film Set"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_002_event_007"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1366",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Perk when monica expresses shock and disapproval of chandler's involvement with aurora.?",
+      "options": [
+        "MONICA",
+        "CHANDLER",
+        "MONICA, PHOEBE",
+        "CHANDLER"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_002_event_007"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1367",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Perk when MONICA were together?",
+      "options": [
+        "Chandler enters Central Perk and is greeted by everyone.",
+        "Phoebe reads Monica's palm, interpreting the lines as passion and a regular line.",
+        "Monica expresses shock and disapproval of Chandler's involvement with Aurora.",
+        "Chandler shares details about his date with a woman who was in the Israeli army, mentioning a near-death experience."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_002_event_007"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1368",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did chandler defends his choice, stating he enjoys the fun and sexual aspects without responsibility. when CHANDLER were present?",
+      "options": [
+        "Monica and Rachel's",
+        "The Theater",
+        "Central Perk",
+        "A Theater"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_002_event_008"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1369",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Perk when chandler defends his choice, stating he enjoys the fun and sexual aspects without responsibility.?",
+      "options": [
+        "MONICA, PHOEBE",
+        "CHANDLER",
+        "Unknown subjects 2",
+        "Unknown subjects 3"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_002_event_008"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1370",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Perk when CHANDLER were together?",
+      "options": [
+        "Chandler defends his choice, stating he enjoys the fun and sexual aspects without responsibility.",
+        "Chandler enters Central Perk and is greeted by everyone.",
+        "Phoebe reads Monica's palm, interpreting the lines as passion and a regular line.",
+        "Chandler shares details about his date with a woman who was in the Israeli army, mentioning a near-death experience."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_002_event_008"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1371",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did ross humorously admits that monogamy is his fantasy, but he quickly retracts it. when ROSS were present?",
+      "options": [
+        "A Theater",
+        "The Theater",
+        "Monica and Rachel's",
+        "Central Perk"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_002_event_009"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1372",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Perk when ross humorously admits that monogamy is his fantasy, but he quickly retracts it.?",
+      "options": [
+        "CHANDLER",
+        "ROSS",
+        "MONICA, PHOEBE",
+        "CHANDLER"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_002_event_009"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1373",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Perk when ROSS were together?",
+      "options": [
+        "Chandler enters Central Perk and is greeted by everyone.",
+        "Ross humorously admits that monogamy is his fantasy, but he quickly retracts it.",
+        "Phoebe reads Monica's palm, interpreting the lines as passion and a regular line.",
+        "Chandler shares details about his date with a woman who was in the Israeli army, mentioning a near-death experience."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_002_event_009"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1374",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did joey expresses discomfort with the idea of being with a woman who has multiple partners, valuing exclusivity. when JOEY were present?",
+      "options": [
+        "A Film Set",
+        "Monica and Rachel's",
+        "The Theater",
+        "Central Perk"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_002_event_010"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1375",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Central Perk when joey expresses discomfort with the idea of being with a woman who has multiple partners, valuing exclusivity.?",
+      "options": [
+        "CHANDLER",
+        "JOEY",
+        "MONICA, PHOEBE",
+        "CHANDLER"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_002_event_010"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1376",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Central Perk when JOEY were together?",
+      "options": [
+        "Chandler enters Central Perk and is greeted by everyone.",
+        "Phoebe reads Monica's palm, interpreting the lines as passion and a regular line.",
+        "Joey expresses discomfort with the idea of being with a woman who has multiple partners, valuing exclusivity.",
+        "Chandler shares details about his date with a woman who was in the Israeli army, mentioning a near-death experience."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_002_event_010"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1377",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did rachel proudly shows off her cleaning work in the apartment. when RACHEL were present?",
+      "options": [
+        "The Theater",
+        "Central Perk",
+        "Monica and Rachel's",
+        "A Film Set"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_003_event_001"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1378",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's when rachel proudly shows off her cleaning work in the apartment.?",
+      "options": [
+        "RACHEL",
+        "MONICA",
+        "MONICA, PHOEBE",
+        "JOEY"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_003_event_001"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1379",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's when RACHEL were together?",
+      "options": [
+        "Monica moves the green ottoman back to its original spot after questioning its placement.",
+        "Phoebe teases Monica about her past behavior, calling her a 'kook'.",
+        "Joey receives an exciting phone call about a job in a new Al Pacino movie.",
+        "Rachel proudly shows off her cleaning work in the apartment."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_003_event_001"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1380",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did monica moves the green ottoman back to its original spot after questioning its placement. when MONICA were present?",
+      "options": [
+        "A Film Set",
+        "Central Perk",
+        "Monica and Rachel's",
+        "A Theater"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_003_event_002"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1381",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's when monica moves the green ottoman back to its original spot after questioning its placement.?",
+      "options": [
+        "RACHEL",
+        "MONICA, PHOEBE",
+        "JOEY",
+        "MONICA"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_003_event_002"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1382",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's when MONICA were together?",
+      "options": [
+        "Rachel proudly shows off her cleaning work in the apartment.",
+        "Phoebe teases Monica about her past behavior, calling her a 'kook'.",
+        "Joey receives an exciting phone call about a job in a new Al Pacino movie.",
+        "Monica moves the green ottoman back to its original spot after questioning its placement."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_003_event_002"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1383",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did phoebe teases monica about her past behavior, calling her a 'kook'. when PHOEBE and MONICA were present?",
+      "options": [
+        "A Film Set",
+        "The Theater",
+        "Monica and Rachel's",
+        "A Theater"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_003_event_003"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1384",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's when phoebe teases monica about her past behavior, calling her a 'kook'.?",
+      "options": [
+        "RACHEL",
+        "MONICA",
+        "MONICA, PHOEBE",
+        "JOEY"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_003_event_003"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1385",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's when PHOEBE and MONICA were together?",
+      "options": [
+        "Rachel proudly shows off her cleaning work in the apartment.",
+        "Phoebe teases Monica about her past behavior, calling her a 'kook'.",
+        "Monica moves the green ottoman back to its original spot after questioning its placement.",
+        "Joey receives an exciting phone call about a job in a new Al Pacino movie."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_003_event_003"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1386",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did joey receives an exciting phone call about a job in a new al pacino movie. when JOEY were present?",
+      "options": [
+        "Central Perk",
+        "The Theater",
+        "Monica and Rachel's",
+        "A Theater"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_003_event_004"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1387",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's when joey receives an exciting phone call about a job in a new al pacino movie.?",
+      "options": [
+        "RACHEL",
+        "MONICA",
+        "JOEY",
+        "MONICA, PHOEBE"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_003_event_004"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1388",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's when JOEY were together?",
+      "options": [
+        "Rachel proudly shows off her cleaning work in the apartment.",
+        "Monica moves the green ottoman back to its original spot after questioning its placement.",
+        "Joey receives an exciting phone call about a job in a new Al Pacino movie.",
+        "Phoebe teases Monica about her past behavior, calling her a 'kook'."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_003_event_004"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1389",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did joey reveals to the group that he will be al pacino's butt double in the movie. when JOEY were present?",
+      "options": [
+        "A Theater",
+        "Monica and Rachel's",
+        "A Film Set",
+        "The Theater"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_003_event_005"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1390",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's when joey reveals to the group that he will be al pacino's butt double in the movie.?",
+      "options": [
+        "RACHEL",
+        "MONICA",
+        "MONICA, PHOEBE",
+        "JOEY"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_003_event_005"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1391",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's when JOEY were together?",
+      "options": [
+        "Rachel proudly shows off her cleaning work in the apartment.",
+        "Monica moves the green ottoman back to its original spot after questioning its placement.",
+        "Joey reveals to the group that he will be Al Pacino's butt double in the movie.",
+        "Phoebe teases Monica about her past behavior, calling her a 'kook'."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_003_event_005"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1392",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did monica tries to hide her laughter upon hearing joey's role as a butt double. when MONICA were present?",
+      "options": [
+        "A Film Set",
+        "Monica and Rachel's",
+        "Central Perk",
+        "A Theater"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_003_event_006"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1393",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's when monica tries to hide her laughter upon hearing joey's role as a butt double.?",
+      "options": [
+        "MONICA",
+        "RACHEL",
+        "MONICA, PHOEBE",
+        "Unknown subjects 3"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_003_event_006"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1394",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's when MONICA were together?",
+      "options": [
+        "Rachel proudly shows off her cleaning work in the apartment.",
+        "Monica moves the green ottoman back to its original spot after questioning its placement.",
+        "Phoebe teases Monica about her past behavior, calling her a 'kook'.",
+        "Monica tries to hide her laughter upon hearing Joey's role as a butt double."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_003_event_006"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1395",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did chandler compliments joey on his big break in the movie. when CHANDLER and JOEY were present?",
+      "options": [
+        "Central Perk",
+        "A Theater",
+        "Monica and Rachel's",
+        "A Film Set"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_003_event_007"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1396",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's when chandler compliments joey on his big break in the movie.?",
+      "options": [
+        "RACHEL",
+        "CHANDLER, JOEY",
+        "MONICA",
+        "MONICA, PHOEBE"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_003_event_007"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1397",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's when CHANDLER and JOEY were together?",
+      "options": [
+        "Rachel proudly shows off her cleaning work in the apartment.",
+        "Chandler compliments Joey on his big break in the movie.",
+        "Monica moves the green ottoman back to its original spot after questioning its placement.",
+        "Phoebe teases Monica about her past behavior, calling her a 'kook'."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_003_event_007"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1398",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did joey insists that his role is a significant break in his acting career. when JOEY were present?",
+      "options": [
+        "The Theater",
+        "A Film Set",
+        "A Theater",
+        "Monica and Rachel's"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_003_event_008"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1399",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's when joey insists that his role is a significant break in his acting career.?",
+      "options": [
+        "RACHEL",
+        "MONICA",
+        "MONICA, PHOEBE",
+        "JOEY"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_003_event_008"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1400",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's when JOEY were together?",
+      "options": [
+        "Joey insists that his role is a significant break in his acting career.",
+        "Rachel proudly shows off her cleaning work in the apartment.",
+        "Monica moves the green ottoman back to its original spot after questioning its placement.",
+        "Phoebe teases Monica about her past behavior, calling her a 'kook'."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_003_event_008"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1401",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did ross asks joey if he will invite the group to the movie's opening. when ROSS and JOEY were present?",
+      "options": [
+        "A Theater",
+        "Monica and Rachel's",
+        "The Theater",
+        "A Film Set"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_003_event_009"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1402",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's when ross asks joey if he will invite the group to the movie's opening.?",
+      "options": [
+        "RACHEL",
+        "MONICA",
+        "MONICA, PHOEBE",
+        "JOEY, ROSS"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_003_event_009"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1403",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's when ROSS and JOEY were together?",
+      "options": [
+        "Rachel proudly shows off her cleaning work in the apartment.",
+        "Ross asks Joey if he will invite the group to the movie's opening.",
+        "Monica moves the green ottoman back to its original spot after questioning its placement.",
+        "Phoebe teases Monica about her past behavior, calling her a 'kook'."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_003_event_009"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1404",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did joey agrees to invite everyone to the movie's opening, showing excitement about the opportunity. when JOEY were present?",
+      "options": [
+        "Monica and Rachel's",
+        "A Film Set",
+        "A Theater",
+        "The Theater"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_003_event_010"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1405",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's when joey agrees to invite everyone to the movie's opening, showing excitement about the opportunity.?",
+      "options": [
+        "RACHEL",
+        "MONICA",
+        "JOEY",
+        "MONICA, PHOEBE"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_003_event_010"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1406",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's when JOEY were together?",
+      "options": [
+        "Rachel proudly shows off her cleaning work in the apartment.",
+        "Joey agrees to invite everyone to the movie's opening, showing excitement about the opportunity.",
+        "Monica moves the green ottoman back to its original spot after questioning its placement.",
+        "Phoebe teases Monica about her past behavior, calling her a 'kook'."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_003_event_010"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1407",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did monica opens the door. when MONICA were present?",
+      "options": [
+        "Monica and Rachel's",
+        "A Theater",
+        "Central Perk",
+        "A Film Set"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_004_event_001"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1408",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's when monica opens the door.?",
+      "options": [
+        "RACHEL",
+        "MONICA, PHOEBE",
+        "MONICA",
+        "Unknown subjects 3"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_004_event_001"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1409",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's when MONICA were together?",
+      "options": [
+        "Monica opens the door.",
+        "Rachel proudly shows off her cleaning work in the apartment.",
+        "Monica moves the green ottoman back to its original spot after questioning its placement.",
+        "Phoebe teases Monica about her past behavior, calling her a 'kook'."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_004_event_001"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1410",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did joey borrows moisturizer from monica. when JOEY and MONICA were present?",
+      "options": [
+        "A Film Set",
+        "Monica and Rachel's",
+        "A Theater",
+        "Central Perk"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_004_event_002"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1411",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's when joey borrows moisturizer from monica.?",
+      "options": [
+        "RACHEL",
+        "MONICA",
+        "JOEY, MONICA",
+        "MONICA, PHOEBE"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_004_event_002"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1412",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's when JOEY and MONICA were together?",
+      "options": [
+        "Joey borrows moisturizer from Monica.",
+        "Rachel proudly shows off her cleaning work in the apartment.",
+        "Monica moves the green ottoman back to its original spot after questioning its placement.",
+        "Phoebe teases Monica about her past behavior, calling her a 'kook'."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_004_event_002"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1413",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did chandler asks where joey is. when CHANDLER and MONICA were present?",
+      "options": [
+        "A Film Set",
+        "The Theater",
+        "Central Perk",
+        "Monica and Rachel's"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_004_event_003"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1414",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's when chandler asks where joey is.?",
+      "options": [
+        "RACHEL",
+        "CHANDLER, MONICA",
+        "MONICA",
+        "MONICA, PHOEBE"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_004_event_003"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1415",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's when CHANDLER and MONICA were together?",
+      "options": [
+        "Chandler asks where Joey is.",
+        "Rachel proudly shows off her cleaning work in the apartment.",
+        "Monica moves the green ottoman back to its original spot after questioning its placement.",
+        "Phoebe teases Monica about her past behavior, calling her a 'kook'."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_004_event_003"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1416",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did monica warns chandler about the bathroom. when MONICA and CHANDLER were present?",
+      "options": [
+        "A Film Set",
+        "A Theater",
+        "Monica and Rachel's",
+        "Central Perk"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_004_event_004"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1417",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's when monica warns chandler about the bathroom.?",
+      "options": [
+        "RACHEL",
+        "MONICA",
+        "MONICA, PHOEBE",
+        "CHANDLER, MONICA"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_004_event_004"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1418",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's when MONICA and CHANDLER were together?",
+      "options": [
+        "Rachel proudly shows off her cleaning work in the apartment.",
+        "Monica moves the green ottoman back to its original spot after questioning its placement.",
+        "Monica warns Chandler about the bathroom.",
+        "Phoebe teases Monica about her past behavior, calling her a 'kook'."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_004_event_004"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1419",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did chandler enters the bathroom and screams upon seeing joey. when CHANDLER and JOEY were present?",
+      "options": [
+        "Central Perk",
+        "Monica and Rachel's",
+        "A Film Set",
+        "The Theater"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_004_event_005"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1420",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's when chandler enters the bathroom and screams upon seeing joey.?",
+      "options": [
+        "RACHEL",
+        "MONICA",
+        "MONICA, PHOEBE",
+        "CHANDLER, JOEY"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_004_event_005"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1421",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's when CHANDLER and JOEY were together?",
+      "options": [
+        "Rachel proudly shows off her cleaning work in the apartment.",
+        "Chandler enters the bathroom and screams upon seeing Joey.",
+        "Monica moves the green ottoman back to its original spot after questioning its placement.",
+        "Phoebe teases Monica about her past behavior, calling her a 'kook'."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_004_event_005"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1422",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did rachel asks who was loud. when RACHEL and CHANDLER were present?",
+      "options": [
+        "Monica and Rachel's",
+        "A Film Set",
+        "The Theater",
+        "A Theater"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_004_event_006"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1423",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's when rachel asks who was loud.?",
+      "options": [
+        "CHANDLER, RACHEL",
+        "RACHEL",
+        "MONICA",
+        "MONICA, PHOEBE"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_004_event_006"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1424",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's when RACHEL and CHANDLER were together?",
+      "options": [
+        "Rachel asks who was loud.",
+        "Rachel proudly shows off her cleaning work in the apartment.",
+        "Monica moves the green ottoman back to its original spot after questioning its placement.",
+        "Phoebe teases Monica about her past behavior, calling her a 'kook'."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_004_event_006"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1425",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did chandler explains he spent the night with aurora and needs to make breakfast. when CHANDLER and RACHEL were present?",
+      "options": [
+        "The Theater",
+        "A Film Set",
+        "Central Perk",
+        "Monica and Rachel's"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_004_event_007"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1426",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's when chandler explains he spent the night with aurora and needs to make breakfast.?",
+      "options": [
+        "CHANDLER, RACHEL",
+        "RACHEL",
+        "MONICA",
+        "MONICA, PHOEBE"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_004_event_007"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1427",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's when CHANDLER and RACHEL were together?",
+      "options": [
+        "Rachel proudly shows off her cleaning work in the apartment.",
+        "Monica moves the green ottoman back to its original spot after questioning its placement.",
+        "Chandler explains he spent the night with Aurora and needs to make breakfast.",
+        "Phoebe teases Monica about her past behavior, calling her a 'kook'."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_004_event_007"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1428",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did monica teases chandler about having the whole night. when MONICA and CHANDLER were present?",
+      "options": [
+        "Central Perk",
+        "A Theater",
+        "Monica and Rachel's",
+        "The Theater"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_004_event_008"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1429",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's when monica teases chandler about having the whole night.?",
+      "options": [
+        "RACHEL",
+        "MONICA",
+        "CHANDLER, MONICA",
+        "MONICA, PHOEBE"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_004_event_008"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1430",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's when MONICA and CHANDLER were together?",
+      "options": [
+        "Monica teases Chandler about having the whole night.",
+        "Rachel proudly shows off her cleaning work in the apartment.",
+        "Monica moves the green ottoman back to its original spot after questioning its placement.",
+        "Phoebe teases Monica about her past behavior, calling her a 'kook'."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_004_event_008"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1431",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did chandler mentions he only has 20 minutes until ethan and starts raiding the fridge. when CHANDLER were present?",
+      "options": [
+        "A Film Set",
+        "Monica and Rachel's",
+        "The Theater",
+        "Central Perk"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_004_event_009"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1432",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's when chandler mentions he only has 20 minutes until ethan and starts raiding the fridge.?",
+      "options": [
+        "CHANDLER",
+        "RACHEL",
+        "MONICA",
+        "MONICA, PHOEBE"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_004_event_009"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1433",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's when CHANDLER were together?",
+      "options": [
+        "Rachel proudly shows off her cleaning work in the apartment.",
+        "Chandler mentions he only has 20 minutes until Ethan and starts raiding the fridge.",
+        "Monica moves the green ottoman back to its original spot after questioning its placement.",
+        "Phoebe teases Monica about her past behavior, calling her a 'kook'."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_004_event_009"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1434",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did chandler denies resentment and talks about his relationship with aurora. when CHANDLER and RACHEL were present?",
+      "options": [
+        "The Theater",
+        "A Film Set",
+        "A Theater",
+        "Monica and Rachel's"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_004_event_010"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1435",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at Monica and Rachel's when chandler denies resentment and talks about his relationship with aurora.?",
+      "options": [
+        "RACHEL",
+        "CHANDLER, RACHEL",
+        "MONICA",
+        "MONICA, PHOEBE"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_004_event_010"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1436",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at Monica and Rachel's when CHANDLER and RACHEL were together?",
+      "options": [
+        "Rachel proudly shows off her cleaning work in the apartment.",
+        "Monica moves the green ottoman back to its original spot after questioning its placement.",
+        "Chandler denies resentment and talks about his relationship with Aurora.",
+        "Phoebe teases Monica about her past behavior, calling her a 'kook'."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_004_event_010"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1437",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did director ends a phone call and addresses the crew. when DIRECTOR were present?",
+      "options": [
+        "Monica and Rachel's",
+        "A Theater",
+        "A Film Set",
+        "Central Perk"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_005_event_001"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1438",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at A Film Set when director ends a phone call and addresses the crew.?",
+      "options": [
+        "DIRECTOR",
+        "JOEY",
+        "DIRECTOR, JOEY",
+        "JOEY"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_005_event_001"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1439",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at A Film Set when DIRECTOR were together?",
+      "options": [
+        "Joey thanks the Director for the opportunity.",
+        "Director ends a phone call and addresses the crew.",
+        "Director instructs Joey to remove the robe.",
+        "Joey removes the robe."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_005_event_001"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1440",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did joey thanks the director for the opportunity. when JOEY were present?",
+      "options": [
+        "The Theater",
+        "Monica and Rachel's",
+        "A Theater",
+        "A Film Set"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_005_event_002"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1441",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at A Film Set when joey thanks the director for the opportunity.?",
+      "options": [
+        "DIRECTOR",
+        "DIRECTOR, JOEY",
+        "JOEY",
+        "Unknown subjects 3"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_005_event_002"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1442",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at A Film Set when JOEY were together?",
+      "options": [
+        "Joey thanks the Director for the opportunity.",
+        "Director ends a phone call and addresses the crew.",
+        "Director instructs Joey to remove the robe.",
+        "Joey removes the robe."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_005_event_002"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1443",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did director instructs joey to remove the robe. when DIRECTOR and JOEY were present?",
+      "options": [
+        "Central Perk",
+        "The Theater",
+        "Monica and Rachel's",
+        "A Film Set"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_005_event_003"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1444",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at A Film Set when director instructs joey to remove the robe.?",
+      "options": [
+        "DIRECTOR, JOEY",
+        "DIRECTOR",
+        "JOEY",
+        "JOEY"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_005_event_003"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1445",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at A Film Set when DIRECTOR and JOEY were together?",
+      "options": [
+        "Director ends a phone call and addresses the crew.",
+        "Joey thanks the Director for the opportunity.",
+        "Joey removes the robe.",
+        "Director instructs Joey to remove the robe."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_005_event_003"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1446",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did joey removes the robe. when JOEY were present?",
+      "options": [
+        "Central Perk",
+        "A Film Set",
+        "The Theater",
+        "Monica and Rachel's"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_005_event_004"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1447",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at A Film Set when joey removes the robe.?",
+      "options": [
+        "DIRECTOR",
+        "DIRECTOR, JOEY",
+        "JOEY",
+        "Unknown subjects 3"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_005_event_004"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1448",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at A Film Set when JOEY were together?",
+      "options": [
+        "Joey removes the robe.",
+        "Director ends a phone call and addresses the crew.",
+        "Joey thanks the Director for the opportunity.",
+        "Director instructs Joey to remove the robe."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_005_event_004"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1449",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did director starts filming, mentioning the shower. when DIRECTOR were present?",
+      "options": [
+        "A Theater",
+        "The Theater",
+        "Central Perk",
+        "A Film Set"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_005_event_005"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1450",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at A Film Set when director starts filming, mentioning the shower.?",
+      "options": [
+        "DIRECTOR",
+        "JOEY",
+        "DIRECTOR, JOEY",
+        "Unknown subjects 3"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_005_event_005"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1451",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at A Film Set when DIRECTOR were together?",
+      "options": [
+        "Director ends a phone call and addresses the crew.",
+        "Director starts filming, mentioning the shower.",
+        "Joey thanks the Director for the opportunity.",
+        "Director instructs Joey to remove the robe."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_005_event_005"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1452",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did director stops filming and scolds joey. when DIRECTOR and JOEY were present?",
+      "options": [
+        "A Theater",
+        "The Theater",
+        "A Film Set",
+        "Central Perk"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_005_event_006"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1453",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at A Film Set when director stops filming and scolds joey.?",
+      "options": [
+        "DIRECTOR",
+        "JOEY",
+        "DIRECTOR, JOEY",
+        "DIRECTOR"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_005_event_006"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1454",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at A Film Set when DIRECTOR and JOEY were together?",
+      "options": [
+        "Director ends a phone call and addresses the crew.",
+        "Director stops filming and scolds Joey.",
+        "Joey thanks the Director for the opportunity.",
+        "Director instructs Joey to remove the robe."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_005_event_006"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1455",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did joey explains his acting choice to the director. when JOEY were present?",
+      "options": [
+        "Central Perk",
+        "The Theater",
+        "A Film Set",
+        "A Theater"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_005_event_007"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1456",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at A Film Set when joey explains his acting choice to the director.?",
+      "options": [
+        "JOEY",
+        "DIRECTOR",
+        "DIRECTOR, JOEY",
+        "Unknown subjects 3"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_005_event_007"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1457",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at A Film Set when JOEY were together?",
+      "options": [
+        "Director ends a phone call and addresses the crew.",
+        "Joey thanks the Director for the opportunity.",
+        "Director instructs Joey to remove the robe.",
+        "Joey explains his acting choice to the Director."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_005_event_007"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1458",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did director orders a re-shoot of the scene. when DIRECTOR were present?",
+      "options": [
+        "Monica and Rachel's",
+        "Central Perk",
+        "A Film Set",
+        "The Theater"
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_005_event_008"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1459",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at A Film Set when director orders a re-shoot of the scene.?",
+      "options": [
+        "DIRECTOR",
+        "JOEY",
+        "DIRECTOR, JOEY",
+        "Unknown subjects 3"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_005_event_008"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1460",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at A Film Set when DIRECTOR were together?",
+      "options": [
+        "Director orders a re-shoot of the scene.",
+        "Director ends a phone call and addresses the crew.",
+        "Joey thanks the Director for the opportunity.",
+        "Director instructs Joey to remove the robe."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_005_event_008"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1461",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did joey attempts a different acting approach during the re-shoot. when JOEY were present?",
+      "options": [
+        "A Theater",
+        "Central Perk",
+        "Monica and Rachel's",
+        "A Film Set"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_005_event_009"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1462",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at A Film Set when joey attempts a different acting approach during the re-shoot.?",
+      "options": [
+        "DIRECTOR",
+        "DIRECTOR, JOEY",
+        "Unknown subjects 3",
+        "JOEY"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_005_event_009"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1463",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at A Film Set when JOEY were together?",
+      "options": [
+        "Director ends a phone call and addresses the crew.",
+        "Joey attempts a different acting approach during the re-shoot.",
+        "Joey thanks the Director for the opportunity.",
+        "Director instructs Joey to remove the robe."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_005_event_009"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1464",
+      "question_type": "single target recall",
+      "subcategory": "location recall (event + subject)",
+      "cues": "E+S",
+      "target": "L",
+      "question": "Where did director stops filming again, expressing dissatisfaction. when DIRECTOR were present?",
+      "options": [
+        "The Theater",
+        "A Film Set",
+        "A Theater",
+        "Monica and Rachel's"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_005_event_010"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1465",
+      "question_type": "single target recall",
+      "subcategory": "subject recall (location + event)",
+      "cues": "L+E",
+      "target": "S",
+      "question": "Who was present at A Film Set when director stops filming again, expressing dissatisfaction.?",
+      "options": [
+        "JOEY",
+        "DIRECTOR, JOEY",
+        "Unknown subjects 3",
+        "DIRECTOR"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_005_event_010"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1466",
+      "question_type": "single target recall",
+      "subcategory": "event recall (location + subject)",
+      "cues": "L+S",
+      "target": "E",
+      "question": "What happened at A Film Set when DIRECTOR were together?",
+      "options": [
+        "Director ends a phone call and addresses the crew.",
+        "Joey thanks the Director for the opportunity.",
+        "Director instructs Joey to remove the robe.",
+        "Director stops filming again, expressing dissatisfaction."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_005_event_010"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1467",
+      "question_type": "boolean",
+      "subcategory": "location verification",
+      "cues": "",
+      "target": "",
+      "question": "Did phoebe teases monica about her past behavior, calling her a 'kook'. at A Film Set?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "Phoebe teases Monica about her past behavior, calling her a 'kook'. occurred at Monica and Rachel's, not A Film Set.",
+      "related_events": [
+        "0106_scene_003_event_003"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1468",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was AURORA present when phoebe teases monica about her past behavior, calling her a 'kook'.?",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "AURORA was not present during this event.",
+      "related_events": [
+        "0106_scene_003_event_003"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1469",
+      "question_type": "boolean",
+      "subcategory": "location verification",
+      "cues": "",
+      "target": "",
+      "question": "Did monica opens the door. at Central Perk?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "Monica opens the door. occurred at Monica and Rachel's, not Central Perk.",
+      "related_events": [
+        "0106_scene_004_event_001"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1470",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was DIRECTOR present when monica opens the door.?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "DIRECTOR was not present during this event.",
+      "related_events": [
+        "0106_scene_004_event_001"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1471",
+      "question_type": "boolean",
+      "subcategory": "location verification",
+      "cues": "",
+      "target": "",
+      "question": "Did joey receives an exciting phone call about a job in a new al pacino movie. at The Theater?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "Joey receives an exciting phone call about a job in a new Al Pacino movie. occurred at Monica and Rachel's, not The Theater.",
+      "related_events": [
+        "0106_scene_003_event_004"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1472",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was RACHEL present when joey receives an exciting phone call about a job in a new al pacino movie.?",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "RACHEL was not present during this event.",
+      "related_events": [
+        "0106_scene_003_event_004"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_003"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1473",
+      "question_type": "boolean",
+      "subcategory": "location verification",
+      "cues": "",
+      "target": "",
+      "question": "Did chandler questions aurora about her relationship dynamics, expressing confusion and interest. at Monica and Rachel's?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "Chandler questions Aurora about her relationship dynamics, expressing confusion and interest. occurred at Central Perk, not Monica and Rachel's.",
+      "related_events": [
+        "0106_scene_002_event_005"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1474",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was JOEY present when chandler questions aurora about her relationship dynamics, expressing confusion and interest.?",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "JOEY was not present during this event.",
+      "related_events": [
+        "0106_scene_002_event_005"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1475",
+      "question_type": "boolean",
+      "subcategory": "location verification",
+      "cues": "",
+      "target": "",
+      "question": "Did rachel asks who was loud. at Central Perk?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "Rachel asks who was loud. occurred at Monica and Rachel's, not Central Perk.",
+      "related_events": [
+        "0106_scene_004_event_006"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1476",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was DIRECTOR present when rachel asks who was loud.?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "DIRECTOR was not present during this event.",
+      "related_events": [
+        "0106_scene_004_event_006"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1477",
+      "question_type": "boolean",
+      "subcategory": "location verification",
+      "cues": "",
+      "target": "",
+      "question": "Did joey expresses discomfort with the idea of being with a woman who has multiple partners, valuing exclusivity. at A Theater?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "Joey expresses discomfort with the idea of being with a woman who has multiple partners, valuing exclusivity. occurred at Central Perk, not A Theater.",
+      "related_events": [
+        "0106_scene_002_event_010"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1478",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was PHOEBE present when joey expresses discomfort with the idea of being with a woman who has multiple partners, valuing exclusivity.?",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "PHOEBE was not present during this event.",
+      "related_events": [
+        "0106_scene_002_event_010"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1479",
+      "question_type": "boolean",
+      "subcategory": "location verification",
+      "cues": "",
+      "target": "",
+      "question": "Did director stops filming and scolds joey. at Central Perk?",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "Director stops filming and scolds Joey. occurred at A Film Set, not Central Perk.",
+      "related_events": [
+        "0106_scene_005_event_006"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1480",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was PHOEBE present when director stops filming and scolds joey.?",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "PHOEBE was not present during this event.",
+      "related_events": [
+        "0106_scene_005_event_006"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1481",
+      "question_type": "boolean",
+      "subcategory": "location verification",
+      "cues": "",
+      "target": "",
+      "question": "Did phoebe expresses concern about the exclamation point in the play's title, referencing freud. at Monica and Rachel's?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "Phoebe expresses concern about the exclamation point in the play's title, referencing Freud. occurred at A Theater, not Monica and Rachel's.",
+      "related_events": [
+        "0106_scene_000_event_003"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1482",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was DIRECTOR present when phoebe expresses concern about the exclamation point in the play's title, referencing freud.?",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "DIRECTOR was not present during this event.",
+      "related_events": [
+        "0106_scene_000_event_003"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1483",
+      "question_type": "boolean",
+      "subcategory": "location verification",
+      "cues": "",
+      "target": "",
+      "question": "Did chandler successfully asks aurora out. at A Film Set?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "Chandler successfully asks Aurora out. occurred at The Theater, not A Film Set.",
+      "related_events": [
+        "0106_scene_001_event_009"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1484",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was ROSS present when chandler successfully asks aurora out.?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "ROSS was not present during this event.",
+      "related_events": [
+        "0106_scene_001_event_009"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_001"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1485",
+      "question_type": "boolean",
+      "subcategory": "location verification",
+      "cues": "",
+      "target": "",
+      "question": "Did joey borrows moisturizer from monica. at Central Perk?",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "Joey borrows moisturizer from Monica. occurred at Monica and Rachel's, not Central Perk.",
+      "related_events": [
+        "0106_scene_004_event_002"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1486",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was DIRECTOR present when joey borrows moisturizer from monica.?",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "DIRECTOR was not present during this event.",
+      "related_events": [
+        "0106_scene_004_event_002"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1487",
+      "question_type": "boolean",
+      "subcategory": "location verification",
+      "cues": "",
+      "target": "",
+      "question": "Did chandler shares details about his date with a woman who was in the israeli army, mentioning a near-death experience. at A Film Set?",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "Chandler shares details about his date with a woman who was in the Israeli army, mentioning a near-death experience. occurred at Central Perk, not A Film Set.",
+      "related_events": [
+        "0106_scene_002_event_003"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1488",
+      "question_type": "boolean",
+      "subcategory": "subject verification",
+      "cues": "",
+      "target": "",
+      "question": "Was RACHEL present when chandler shares details about his date with a woman who was in the israeli army, mentioning a near-death experience.?",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "RACHEL was not present during this event.",
+      "related_events": [
+        "0106_scene_002_event_003"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1489",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (1-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before aurora reveals she is married but also has a boyfriend, explaining her unique relationship situation.?",
+      "options": [
+        "Chandler comments on someone's lack of experience with Joey's plays.",
+        "Phoebe expresses concern about the exclamation point in the play's title, referencing Freud.",
+        "Ross shushes the group to maintain anticipation for the play's start.",
+        "Rachel points out Joey's picture in the program with excitement."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_000_event_001",
+        "0106_scene_002_event_004"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_000",
+        "0106_scene_002"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1490",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (1-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before chandler asks where joey is.?",
+      "options": [
+        "Rachel points out Joey's picture in the program with excitement.",
+        "Aurora reveals she is married but also has a boyfriend, explaining her unique relationship situation.",
+        "Chandler comments on someone's lack of experience with Joey's plays.",
+        "Phoebe expresses concern about the exclamation point in the play's title, referencing Freud."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_002_event_004",
+        "0106_scene_004_event_003"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_002",
+        "0106_scene_004"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1491",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (2-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before ross educates rachel on separating laundry into whites, colors, and delicates.?",
+      "options": [
+        "Monica dismisses Ross's claim as not a big deal.",
+        "Rachel comments on men's ability to pee standing up.",
+        "Ross expresses amazement at a maneuver that results in a bra appearing.",
+        "Chandler expresses interest in trying to pee standing up."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0105_scene_000_event_001",
+        "0105_scene_006_event_010"
+      ],
+      "episode_span": [
+        "0105"
+      ],
+      "clip_span": [
+        "0105_scene_000",
+        "0105_scene_006"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1492",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (2-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before ross shushes the group to maintain anticipation for the play's start.?",
+      "options": [
+        "Ross educates Rachel on separating laundry into whites, colors, and delicates.",
+        "Ross expresses amazement at a maneuver that results in a bra appearing.",
+        "Monica dismisses Ross's claim as not a big deal.",
+        "Rachel comments on men's ability to pee standing up."
+      ],
+      "answer": "A",
+      "answer_index": 0,
+      "explanation": "",
+      "related_events": [
+        "0105_scene_006_event_010",
+        "0106_scene_000_event_004"
+      ],
+      "episode_span": [
+        "0106",
+        "0105"
+      ],
+      "clip_span": [
+        "0105_scene_006",
+        "0106_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1493",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (3-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before monica jokes about vegetarian pate, leading phoebe to laugh.?",
+      "options": [
+        "Monica offers Phoebe a place to stay for the night.",
+        "Joey mentions counting 97 steps from their place to Central Perk.",
+        "Chandler teases Joey about having too much free time.",
+        "Phoebe wakes up and explains she couldn't sleep due to her grandmother's noisy new boyfriend."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0104_scene_000_event_001",
+        "0104_scene_012_event_001"
+      ],
+      "episode_span": [
+        "0104"
+      ],
+      "clip_span": [
+        "0104_scene_000",
+        "0104_scene_012"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1494",
+      "question_type": "temporal: chronological ordering",
+      "subcategory": "event sequence (3-episode span)",
+      "cues": "",
+      "target": "",
+      "question": "What happened before bob changes the subject to monica, praising her.?",
+      "options": [
+        "Phoebe wakes up and explains she couldn't sleep due to her grandmother's noisy new boyfriend.",
+        "Monica offers Phoebe a place to stay for the night.",
+        "Joey mentions counting 97 steps from their place to Central Perk.",
+        "Monica jokes about vegetarian pate, leading Phoebe to laugh."
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0104_scene_012_event_001",
+        "0105_scene_008_event_006"
+      ],
+      "episode_span": [
+        "0104",
+        "0105"
+      ],
+      "clip_span": [
+        "0104_scene_012",
+        "0105_scene_008"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1495",
+      "question_type": "temporal: latest event retrieval",
+      "subcategory": "location-based latest event",
+      "cues": "",
+      "target": "",
+      "question": "What was the last event that happened at A Theater in this episode?",
+      "options": [
+        "Chandler comments on someone's lack of experience with Joey's plays.",
+        "Phoebe expresses concern about the exclamation point in the play's title, referencing Freud.",
+        "Joey performs a song and dance number as part of his play.",
+        "Ross shushes the group to maintain anticipation for the play's start."
+      ],
+      "answer": "C",
+      "answer_index": 2,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_000_event_005"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_000"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1496",
+      "question_type": "temporal: latest event retrieval",
+      "subcategory": "episode-wide latest event",
+      "cues": "",
+      "target": "",
+      "question": "What was the most recent event that occurred in the episode?",
+      "options": [
+        "Joey explains his acting choice to the Director.",
+        "Director stops filming again, expressing dissatisfaction.",
+        "Director orders a re-shoot of the scene.",
+        "Joey attempts a different acting approach during the re-shoot."
+      ],
+      "answer": "B",
+      "answer_index": 1,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_005_event_010"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "0106_scene_005"
+      ]
+    },
+    {
+      "question_id": "Q_0106_1497",
+      "question_type": "temporal: single cue retrieval",
+      "subcategory": "event sequence (location-based)",
+      "cues": "L",
+      "target": "Temporal",
+      "question": "Here are a series of 4 events. Arrange them in the correct temporal order in which they occurred at **Monica and Rachel's**.\n\n\"event_1\": Ross asks Joey if he will invite the group to the movie's opening.\n\"event_2\": Monica warns Chandler about the bathroom.\n\"event_3\": Joey agrees to invite everyone to the movie's opening, showing excitement about the opportunity.\n\"event_4\": Chandler compliments Joey on his big break in the movie.",
+      "options": [
+        "A. event_1, event_3, event_2, event_4",
+        "B. event_4, event_2, event_1, event_3",
+        "C. event_2, event_3, event_1, event_4",
+        "D. event_4, event_1, event_3, event_2"
+      ],
+      "answer": "D",
+      "answer_index": 3,
+      "explanation": "",
+      "related_events": [
+        "0106_scene_003_event_009",
+        "0106_scene_004_event_004",
+        "0106_scene_003_event_010",
+        "0106_scene_003_event_007"
+      ],
+      "episode_span": [
+        "0106"
+      ],
+      "clip_span": [
+        "scene_004",
+        "scene_003"
+      ]
+    }
+  ],
+  "statistics": {
+    "total_questions": 196,
+    "question_type_distribution": {
+      "single target recall": 165,
+      "boolean": 22,
+      "temporal: chronological ordering": 6,
+      "temporal: latest event retrieval": 2,
+      "temporal: single cue retrieval": 1
+    },
+    "subcategory_distribution": {
+      "location recall (event + subject)": 55,
+      "subject recall (location + event)": 55,
+      "event recall (location + subject)": 55,
+      "location verification": 11,
+      "subject verification": 11,
+      "event sequence (1-episode span)": 2,
+      "event sequence (2-episode span)": 2,
+      "event sequence (3-episode span)": 2,
+      "location-based latest event": 1,
+      "episode-wide latest event": 1,
+      "event sequence (location-based)": 1
+    },
+    "cue_distribution": {
+      "E+S → L": 55,
+      "L+E → S": 55,
+      "L+S → E": 55,
+      "L → Temporal": 1
+    },
+    "target_distribution": {
+      "L": 55,
+      "S": 55,
+      "E": 55,
+      "Boolean": 22,
+      "Temporal": 9
+    },
+    "episode_span_distribution": {
+      "1 episode(s)": 194,
+      "2 episode(s)": 2
+    },
+    "clip_span_distribution": {
+      "1 clip(s)": 189,
+      "2 clip(s)": 7
+    },
+    "answer_distribution": {
+      "B": 55,
+      "D": 40,
+      "A": 55,
+      "C": 46
+    }
+  }
+}
