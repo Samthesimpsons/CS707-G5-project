@@ -22,6 +22,24 @@
 
 ##### Goldfish Inference
 1. Code and citation?
+**Citation**
+```
+@misc{ataallah2024goldfishvisionlanguageunderstandingarbitrarily,
+      title={Goldfish: Vision-Language Understanding of Arbitrarily Long Videos}, 
+      author={Kirolos Ataallah and Xiaoqian Shen and Eslam Abdelrahman and Essam Sleiman and Mingchen Zhuge and Jian Ding and Deyao Zhu and Jürgen Schmidhuber and Mohamed Elhoseiny},
+      year={2024},
+      eprint={2407.12679},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2407.12679}, 
+}
+@article{ataallah2024minigpt4,
+  title={MiniGPT4-Video: Advancing Multimodal LLMs for Video Understanding with Interleaved Visual-Textual Tokens},
+  author={Ataallah, Kirolos and Shen, Xiaoqian and Abdelrahman, Eslam and Sleiman, Essam and Zhu, Deyao and Ding, Jian and Elhoseiny, Mohamed},
+  journal={arXiv preprint arXiv:2404.03413},
+  year={2024}
+}
+```
 
 ##### Run Evaluation
 1. Locate evaluation scripts?
