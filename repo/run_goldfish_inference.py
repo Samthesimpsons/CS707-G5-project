@@ -8,10 +8,10 @@ from goldfish.model import VideoLlava, VideoLLama3, QwenVL, InternVL3
 
 #HF_CACHE_DIR = Path("/common/home/users/d/divyam.2023/.cache/huggingface/hub")
 
-QA_PAIRS_DIR = r"../main/data/episodic_qa/"
+QA_PAIRS_DIR = r"./data/episodic_qa/"
 #QA_PAIRS_DIR = r"../main/data/Archive/episodic_qa/"
 #TUPLES_DIR = r"../main/data/episodic_tuples/"
-VIDEO_DIR = r"../main/data/video/"
+VIDEO_DIR = r"./data/video/"
 
 MODEL_PATH = {
     # "qwen-vl-2": "/common/public/Qwen2.5-VL/Qwen2-VL-7B-Instruct",
