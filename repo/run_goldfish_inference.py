@@ -59,6 +59,6 @@ for model_name, model_path in MODEL_PATH.items():
     for r in range(1,2): 
         for c in captions:
             for n in neighbours:
-                generate_batch(model, qa_pairs, QA_PAIRS_DIR, VIDEO_DIR,  output_path=f'./results/{model_name}_final/run_{str(r)}/caption_{c}/nn_{str(n)}',max_new_tokens = 128, 
+                generate_batch(model, qa_pairs, QA_PAIRS_DIR, VIDEO_DIR,  output_path=f'./results_goldfish/{model_name}_final/run_{str(r)}/caption_{c}/nn_{str(n)}',max_new_tokens = 128, 
                             neighbours= n, use_openai_embedding= use_openai_embedding, caption_type=c)
     
