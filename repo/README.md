@@ -24,6 +24,17 @@
 3. results are saved to ./results_vainlla/
 
 ### Goldfish Inference
+To create the caption and summary documents and .pkl files from scratch:
+1. Download Llama checkpoint. [Download checkpoint](https://huggingface.co/Vision-CAIR/MiniGPT4-Video/blob/main/checkpoints/video_mistral_checkpoint_last.pth)
+2. Put it in goldfish/checkpoints directory
+3. Run: ```python goldfish_get_json.py```
+4. It saves the pkl files under goldfish/new_workspace
+
+We have uploaded the .pkl files. Directly run inference using the following steps: 
+1. Download all the necessary models as specified in models/model.py
+2. run the command: ```python run_goldfish_inference.py```
+3. results are saved to ./results_goldfish/
+   
 1. Code and citation?
 **Citation**
 ```
