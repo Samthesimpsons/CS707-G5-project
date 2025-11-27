@@ -73,8 +73,7 @@ exclude = '''
 
 [tool.ty]
 src.exclude = [
-    "scripts/goldfish",
-    "archive",
+    "scripts/goldfish"
 ]
 
 [dependency-groups]
