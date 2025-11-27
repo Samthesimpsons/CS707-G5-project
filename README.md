@@ -105,9 +105,9 @@ The repository includes sample data from various stages of the pipeline in the `
 
 - **`edersoncorbari_subtitles_json/`**: JSON-formatted subtitles after `run-preprocess` converts HTML to structured JSON. Contains Season 1, Episode 1 only as a sample.
 
-- **`annotated_tuples/`**: Scene metadata with manually annotated timing information produced by `run-preprocess`. Contains the complete Season 1.
+- **`annotated_tuples/`**: Scene metadata with manually annotated timing information produced by `run-preprocess`. Contains the Season 1.
 
-- **`output_with_events/`**: Annotated tuples with extracted atomic events added by the `run-process` pipeline. Contains the complete Season 1.
+- **`output_with_events/`**: Annotated tuples with extracted atomic events added by the `run-process` pipeline. Contains the Season 1.
 
 - **`qa_output/`**: Generated question-answer pairs from `run-process`. Includes `finalised_qa.json`, which is the combined QA dataset used in our studies.
 
