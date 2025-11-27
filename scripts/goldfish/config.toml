@@ -1,0 +1,41 @@
+# qwenvl2.5.toml
+
+[qwen-vl-2]
+fps = 1.0
+num_frames = ""
+max_frames = ""
+max_channels = 64
+min_channels = 64
+width = 64
+height = 64
+
+[qwen-vl-25]
+fps = 1.0
+num_frames = ""
+max_frames = ""
+max_channels = 64
+min_channels = 64
+width = 64
+height = 64
+
+[video-llava]
+fps = 1.0
+num_frames = 8.0
+max_frames = ""
+max_channels = ""
+min_channels = ""
+width = ""
+height = ""
+
+[video-llama-3]
+fps = 1.0
+num_frames = ""
+max_frames = 128
+channels = ""
+width = ""
+height = ""
+target_short_side = 64
+
+[intern-vl-3]
+fps = 1.0
+num_segments = 32

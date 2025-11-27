@@ -5,33 +5,83 @@ description = "CS707 Group 5 Project Codes"
 readme = "README.md"
 requires-python = ">=3.9,<3.14"
 dependencies = [
+    "av>=15.1.0",
+    "bitsandbytes>=0.48.2",
+    "bs4>=0.0.2",
     "cmake>=4.1.0",
+    "decord>=0.6.0",
     "ffmpeg-python>=0.2.0",
-    "numpy>=1.24.0",
-    "openai>=1.0.0",
-    "poethepoet>=0.34.0",
+    "huggingface-hub>=0.36.0",
+    "iopath>=0.1.10",
+    "litellm>=1.80.5",
+    "moviepy>=2.2.1",
+    "nltk>=3.9.2",
+    "omegaconf>=2.3.0",
+    "openai>=2.8.1",
+    "openai-whisper>=20250625",
+    "opencv-python>=4.12.0.88",
+    "peft>=0.17.1",
+    "pillow>=11.3.0",
+    "pycocoevalcap>=1.2",
+    "pycocotools>=2.0.10",
+    "pysrt>=1.1.2",
     "python-dotenv>=1.1.1",
-    "moviepy >= 2.0.0",
-    "litellm>=1.79.1",
-    "tqdm>=4.66.0",
-    "asyncio>=4.0.0",
-    "tenacity>=9.1.2",
+    "pytubefix>=10.3.5",
+    "pyyaml>=6.0.3",
+    "qwen-vl-utils>=0.0.14",
+    "requests>=2.32.5",
+    "scikit-image>=0.24.0",
+    "scikit-learn>=1.6.1",
+    "sentence-transformers>=5.1.2",
+    "soundfile>=0.13.1",
+    "spaces>=0.42.1",
+    "timm>=1.0.22",
+    "torch>=2.8.0",
+    "torchvision>=0.23.0",
+    "transformers>=4.57.3",
+    "visual-genome>=1.1.1",
+    "wandb>=0.23.0",
+    "webdataset>=0.2.100",
+    "webvtt-py>=0.5.1",
 ]
 
 [tool.poe.tasks]
-run-events-generation = { script = "src.pipelines:events_generation", help = "Stage 1: Submit OpenAI Batch API jobs for event extraction from subtitles" }
-run-qa-generation = { script = "src.pipelines:qa_generation", help = "Stage 2: Download batch results and generate QA datasets. Usage: poe run-qa-generation [batch_id]" }
-
+run-download = { script = "scripts.download:download_pipeline", help = "Download scripts, TVQA-Long video parts, combine/extract Friends videos, and pull required models/checkpoints." }
+run-preprocess = { script = "scripts.preprocess:preprocess_pipeline", help = "Convert HTML scripts to JSON and produce annotated tuples (requires downloaded scripts/videos)." }
+run-process = { script = "scripts.process:process_pipeline", help = "Extract events with LLMs and generate QA pairs from annotated tuples." }
+run-vanilla-inference = { script = "scripts.vanilla_inference:vanilla_pipeline", help = "Run baseline video-QA inference over QA pairs and videos, saving to results_vanilla." }
+run-goldfish-inference = { script = "scripts.goldfish_inference:goldfish_pipeline", help = "Run goldfish nearest-neighbor captioned inference over QA pairs and videos, saving to results_goldfish." }
+run-evaluation = { script = "scripts.evaluation:evaluation_pipeline", help = "Aggregate results_vanilla or results_goldfish into summary reports." }
 
 [tool.poe.tasks.run-check]
 sequence = [
-  { cmd = "uvx ruff check src --fix" },
-  { cmd = "uvx black src" },
-  { cmd = "uvx ty check src" }
+  { cmd = "uv run ruff check scripts --fix" },
+  { cmd = "uv run black scripts" },
+  { cmd = "uv run ty check" }
 ]
-help = "Run linting, formatting, and static type checking"
+help = "Run linting, formatting, and static type checking."
+
+[tool.ruff]
+exclude = ["scripts/goldfish"]
+
+[tool.black]
+exclude = '''
+(
+    scripts/goldfish
+)
+'''
+
+[tool.ty]
+src.exclude = [
+    "scripts/goldfish",
+    "archive",
+]
 
 [dependency-groups]
 dev = [
+    "black>=25.11.0",
+    "poethepoet>=0.37.0",
+    "ruff>=0.14.6",
+    "ty>=0.0.1a28",
     "types-requests>=2.32.4.20250913",
 ]
