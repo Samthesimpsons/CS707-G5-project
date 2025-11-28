@@ -905,7 +905,7 @@ class EpisodicInference:
         subtitles_output.append(collected_dialogues)
         return subtitles_output
 
-    def build_prompt_text(self, qa_json: dict, episode_id: int) -> tuple[str, str]:
+    def build_prompt_text(self, qa_json: dict, episode_id: int = None) -> tuple[str, str]:
         """Assemble the text prompt and options for a QA item.
 
         Args:
@@ -984,7 +984,7 @@ class EpisodicInference:
             tqdm(self.qa_pairs, desc="Episodic Inference Batch Run")
         ):
             results = []
-            episode_id = qa_json.get("episode")
+            episode_id = "finalised_qa"
             print(f"\n{'='*80}")
             print(
                 f"Generating Batch Inference - Index: {idx} --- Episode: {episode_id}"
@@ -996,7 +996,7 @@ class EpisodicInference:
                 tqdm(qa_dataset, desc=f"Running QA Dataset - {episode_id}")
             ):
                 question_id = qa_data.get("question_id")
-                text_prompt, options_text = self.build_prompt_text(qa_data, episode_id)
+                text_prompt, options_text = self.build_prompt_text(qa_data)
                 video_paths = self.extract_video_clips_paths(qa_data)
 
                 print(f"\n============{question_id}============")
